@@ -34,3 +34,4 @@ Because entity count carries more contextual information than raw question lengt
 ## Script
 `run.py`: Script to generate GRASP SPARQL output.
 
+The model used is `Qwen/Qwen3-4B-Instruct-2507 --reasoning-parser qwen3 --tool-call-parser hermes --enable-auto-tool-choice --max-model-len 225136`.
