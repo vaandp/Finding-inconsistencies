@@ -1,0 +1,210 @@
+What was Johann Morgenstern's profession?
+
+SELECT ?profession ?professionLabel
+WHERE {
+  wd:Q67149 wdt:P106 ?profession.  # P106 = profession (occupation)
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+Philologist
+	
+Who was the voice actor for Meg Griffin in Family Guy?
+
+SELECT ?item ?itemLabel
+WHERE {
+  wd:Q908772 wdt:P725 ?item.  
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+Mila Kunis
+
+What is the complete name of the player Bebé?
+
+SELECT ?item ?itemLabel
+WHERE {
+  wd:Q299450 wdt:P1477 ?item.  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+Tiago Manuel Dias Correia
+	
+What is the original title of the novel The Alchemist?
+
+
+SELECT ?item ?itemLabel
+WHERE {
+  wd:Q179021 wdt:P1476 ?item.  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+O Alquimista
+
+What show did Tanner Buchanan make his first TV appearance on?
+
+SELECT ?item ?itemLabel 
+WHERE {
+        
+  ?item wdt:P31/wdt:P279* wd:Q5398426.
+  ?item wdt:P161 wd:Q16745199. 
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+Modern Family
+	
+How many band members are in U2?
+
+SELECT (Count(?item) as ?member)
+WHERE {
+  ?item wdt:P463 wd:Q396. 
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+4
+
+Genre of the series Mad Men?
+
+SELECT ?item ?itemLabel
+WHERE {
+  wd:Q223977 wdt:P136 ?item. 
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE". }
+}
+
+drama
+
+How high did Waiting for a Star to Fall get on the US Hot 100 chart?
+
+SELECT ?position
+WHERE {
+  wd:Q679545 p:P1352 ?statement.        
+  ?statement ps:P1352 ?position.
+  ?statement pq:P361 wd:Q180072.          # Billboard Hot 100
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+5
+
+In which city was Roberto Bolaño born?
+
+SELECT ?position ?positionLabel
+WHERE {
+  wd:Q297532 wdt:P19 ?position.       
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+Santiago
+
+Who was the creator of the TV series "The Walking Dead"?
+
+SELECT ?position ?positionLabel
+WHERE {
+  wd:Q232737 wdt:P170 ?position.       
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+Frank Darabont
+
+Which country's citizenship does Charlie Brooker hold?
+
+SELECT ?position ?positionLabel
+WHERE {
+  wd:Q2960837 wdt:P27 ?position.       
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+United Kingdom
+
+What is the Big star music genre?
+
+SELECT ?position ?positionLabel
+WHERE {
+  wd:Q72608 wdt:P136 ?position.       
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+Hard rock, power pop
+
+How many seasons of the TV series Love?
+
+SELECT ?position
+WHERE {
+  wd:Q18643718 wdt:P2437 ?position.       
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+3
+
+Which actor played Anakin in Phantom Menace?
+
+SELECT ?actor ?actorLabel 
+WHERE {
+  wd:Q165713 p:P161 ?statement . 
+  ?statement ps:P161 ?actor .
+  ?statement pq:P453 wd:Q51752 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr, en". }
+}
+
+Jake Lloyd
+
+Who is the actor playing the role of Raymond in the movie Rain Man?
+
+SELECT ?actor ?actorLabel 
+WHERE {
+  wd:Q188845 p:P161 ?statement . 
+  ?statement ps:P161 ?actor .
+  ?statement pq:P453 wd:Q110742883 .
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr, en". }
+}
+
+Dustin Hoffman
+
+What is the country of the orign of the Big star band?
+
+SELECT ?item ?itemLabel
+WHERE {
+  wd:Q72608 wdt:P495 ?item.
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+United States 
+	
+Which book was followed by the book the holes?
+
+SELECT ?book ?bookLabel WHERE {
+  wd:Q175421 wdt:P156 ?book . 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr, en". }
+}
+	
+Stanley Yelnats' Survival Guide to Camp Green Lake
+
+What team got second in the 2014 FIFA Club World Cup?
+
+SELECT ?team ?teamLabel
+WHERE {
+  wd:Q846236 wdt:P1346 ?team.
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr, en". }
+}
+
+San Lorenzo de Almagro
+
+What is the first book published in the Loyal League series by Alyssa Cole?
+
+SELECT ?livre ?livreLabel ?datePublication
+WHERE {
+  ?livre wdt:P50 wd:Q62894817.
+  ?livre wdt:P577 ?datePublication.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr, en". }
+}
+ORDER BY ?datePublication
+	
+An Extraordinary Union
+
+Who is the composer of the movie Dora and the Lost City of Gold?
+
+SELECT ?item ?itemLabel
+WHERE {
+  wd:Q56064745 wdt:P86 ?item.
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE]". }
+}
+
+John Debney
