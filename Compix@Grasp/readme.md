@@ -22,12 +22,12 @@ Because entity count carries more contextual information than raw question lengt
 ## Files and Directories
 
 ### CSV Files
-- **top1000.csv**： 1,000 questions with the **highest** Question Context Scores  
-- **bottom1000.csv**： 1,000 questions with the **lowest** Question Context Scores
+- **top1000.csv**: 1,000 questions with the **highest** Question Context Scores  
+- **bottom1000.csv**: 1,000 questions with the **lowest** Question Context Scores
 
 ### GRASP Outputs
-- **top1000/**： GRASP output for each question in `top1000.csv`  
-- **bottom1000/**： GRASP output for each question in `bottom1000.csv`
+- **top1000/**: GRASP output for each question in `top1000.csv`  
+- **bottom1000/**: GRASP output for each question in `bottom1000.csv`
 
 ---
 
