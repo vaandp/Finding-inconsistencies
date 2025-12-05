@@ -1,2 +1,1 @@
-In
-
+This directory contains the execution results of GRASP-generated SPARQL queries run on the Wikidata Query Service: https://query.wikidata.org/.

@@ -1,0 +1,1 @@
+This directory contains the extracted GRASP-generated SPARQL queries, converted into a clean, human-readable format suitable for execution on the Wikidata Query Service.
