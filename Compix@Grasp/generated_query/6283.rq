@@ -1,0 +1,3 @@
+SELECT ?elevation WHERE {
+  wd:Q3718 wdt:P2044 ?elevation .
+}
