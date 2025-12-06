@@ -1,0 +1,2 @@
+question_id,question,CompMix_answer_id,CompMix_answer_label,Grasp_query_answer,consistentcy_ socre,Label
+6283,What is the elevation of Dakar?,22 m,22 m,10.0 (xsd:decimal), To be filled, knowledge conflict
