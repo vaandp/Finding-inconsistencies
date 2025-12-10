@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?car WHERE {
   wd:Q83359 wdt:P509 ?cause .
   ?cause wdt:P31 wd:Q61037771

@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?member WHERE {
   wd:Q768621 wdt:P527 ?member .
   ?member wdt:P31 wd:Q6286

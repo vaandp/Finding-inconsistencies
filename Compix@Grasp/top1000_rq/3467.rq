@@ -1,5 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?actor ( STR( ?actor ) AS ?actor_label ) WHERE {
   wd:Q16867394 wdt:P161 ?actor
 }

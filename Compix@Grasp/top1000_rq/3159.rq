@@ -1,1 +1,1 @@
-SELECT ?child WHERE { wd:Q83338 wdt:P288 ?child . } UNION SELECT ?child WHERE { wd:Q47739341 wdt:P288 ?child . }
+SELECT ?child WHERE { wd:Q83338 wdt:P288 ?child . }

@@ -1,5 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?matches WHERE {
   wd:Q13865408 wdt:P1532 wd:Q43310 .
   wd:Q43310 wdt:P1129 ?matches

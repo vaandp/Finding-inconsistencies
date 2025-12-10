@@ -1,8 +1,4 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?player ?caps WHERE {
   ?player wdt:P108 ?caps .
   ?player wdt:P39 wd:Q142 .
 }
-ORDER BY DESC ( ?caps )
-LIMIT 1

@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?matchCount WHERE {
   wd:Q315831 wdt:P1532 wd:Q155 .
   wd:Q315831 wdt:P1350 ?matchCount

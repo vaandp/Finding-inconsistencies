@@ -1,4 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?match ?player WHERE {
   ?match ?scoredBy ?player .
   ?match ?opponent wd:Q181903 .

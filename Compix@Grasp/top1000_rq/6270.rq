@@ -1,9 +1,6 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?ranking ?source ?date WHERE {
   wd:Q220726 wdt:P1352 ?ranking .
   ?ranking wdt:P577 ?date .
   ?ranking wdt:P1433 ?source .
   FILTER ( LANG( ?source ) = 'en' )
 }
-LIMIT 10

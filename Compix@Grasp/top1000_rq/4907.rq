@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?book ?publicationDate WHERE {
   wd:Q477994 wdt:P577 ?publicationDate
 }

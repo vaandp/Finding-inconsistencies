@@ -1,5 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?coach ?year WHERE {
   wd:Q58755430 wdt:P286 ?coach .
   ?coach wdt:P1923 ?team .

@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?event WHERE {
   wd:Q131261 wdt:P1344 ?event .
   ?event wdt:P31 wd:Q19317 .

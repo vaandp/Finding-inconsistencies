@@ -1,11 +1,5 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wikibase: <http://wikiba.se/ontology#>
-PREFIX bd: <http://www.bigdata.com/rdf#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 SELECT ?writer ?writerLabel WHERE {
   wd:Q957323 wdt:P686 ?writer .
   SERVICE wikibase:label {
     bd:serviceParam wikibase:language [ rdf:langString "en" ]
   }
-}

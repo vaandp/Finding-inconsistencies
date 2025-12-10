@@ -1,1 +1,1 @@
-SELECT ?album ?date WHERE { ?album wdt:P175 wd:Q1299 . ?album wdt:P577 ?date } ORDER BY ?date DESC LIMIT 1
+SELECT ?album ?date WHERE { ?album wdt:P175 wd:Q1299 . ?album wdt:P577 ?date }

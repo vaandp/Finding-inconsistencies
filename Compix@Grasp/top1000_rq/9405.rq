@@ -1,9 +1,4 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?player ( COUNT( ?goal ) AS ?goals ) WHERE {
   ?player wdt:P54 wd:Q166196 .
   ?goal wdt:P1363 ?player .
 }
-GROUP BY ?player
-ORDER BY DESC ( ?goals )
-LIMIT 10

@@ -1,6 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ( COUNT( ?match ) AS ?matchCount ) WHERE {
   wd:Q27049064 wdt:P1344 ?match .
   ?match wdt:P580 "2019" ^^ xsd:gYear .

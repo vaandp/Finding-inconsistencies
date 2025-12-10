@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT ?name WHERE {
   wd:Q5608 rdfs:label ?name .
   FILTER ( lang( ?name ) = "en" ) FILTER ( CONTAINS( STR( ?name ) , "Slim Shady" ) )

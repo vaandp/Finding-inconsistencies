@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?award ?awardLabel WHERE {
   wd:Q85520182 wdt:P1411 ?award .
   ?award wdt:P31 wd:Q40237 .

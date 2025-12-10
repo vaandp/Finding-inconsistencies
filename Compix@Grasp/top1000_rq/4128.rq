@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?opponent WHERE {
   wd:Q109944339 wdt:P106 ?opponent
 }

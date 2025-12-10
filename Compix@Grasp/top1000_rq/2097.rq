@@ -1,6 +1,3 @@
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?year WHERE {
   wd:Q631 wdt:P2522 ?worldCup .
   ?worldCup wdt:P1346 wd:Q631 .

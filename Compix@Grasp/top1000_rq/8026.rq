@@ -1,10 +1,6 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT ?book ?bookLabel ?publicationDate WHERE {
   ?book wdt:P800 wd:Q79904 .
   ?book wdt:P571 ?publicationDate .
   ?book rdfs:label ?bookLabel .
   FILTER ( lang( ?bookLabel ) = 'en' )
 }
-ORDER BY ?publicationDate

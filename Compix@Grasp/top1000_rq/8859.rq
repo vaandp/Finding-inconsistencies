@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?match ?opposingTeam WHERE {
   ?match wdt:P118 wd:Q15200080 .
   ?match wdt:P1923 wd:Q9617 .

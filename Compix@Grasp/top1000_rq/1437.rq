@@ -1,8 +1,4 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?team ?goals WHERE {
   ?team wdt:P1923 wd:Q69622172 .
   ?team wdt:P1351 ?goals .
 }
-ORDER BY DESC ( ?goals )
-LIMIT 1

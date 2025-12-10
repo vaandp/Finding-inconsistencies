@@ -1,4 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?series ?seasons WHERE {
   ?series wdt:P2437 ?seasons .
   FILTER ( STR( ?series ) = 'Millennium' || STR( ?series ) = 'The Lone Gunmen' )

@@ -1,1 +1,1 @@
-SELECT ?album ?releaseDate WHERE { ?album wdt:P1474 ?year . ?album rdfs:label "Surfin' Safari"@en . FILTER(xsd:integer(?year) = 1962) } UNION SELECT ?album ?releaseDate WHERE { ?album wdt:P1474 ?year . ?album rdfs:label "Little Deuce Coupe"@en . FILTER(xsd:integer(?year) = 1963) }
+SELECT ?album ?releaseDate WHERE { ?album wdt:P1474 ?year . ?album rdfs:label "Surfin' Safari"@en . FILTER(xsd:integer(?year) = 1962) }

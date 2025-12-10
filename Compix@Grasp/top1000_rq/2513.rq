@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ( COUNT( * ) AS ?count ) WHERE {
   wd:Q42267 wdt:P1344 ?event .
 }

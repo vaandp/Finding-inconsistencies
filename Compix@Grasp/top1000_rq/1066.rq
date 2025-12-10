@@ -1,1 +1,1 @@
-SELECT ?songLabel ?singerLabel WHERE { ?song wdt:P31 wd:Q108822278 . ?song wdt:P166 ?singer . SERVICE wikibase:label { bd:serviceParam wikibase:language [ 'en' ] } }
+SELECT ?songLabel ?singerLabel WHERE { ?song wdt:P31 wd:Q108822278 . ?song wdt:P166 ?singer . SERVICE wikibase:label { bd:serviceParam wikibase:language [ 'en' ] }

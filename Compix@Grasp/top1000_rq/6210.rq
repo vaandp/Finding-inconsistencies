@@ -1,5 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?year WHERE {
   ?chart wdt:P1389 ?year .
   ?chart wdt:P1389 wd:Q1849077849077

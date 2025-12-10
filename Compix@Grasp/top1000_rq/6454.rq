@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?series WHERE {
   ?series wdt:P31 wd:Q116675 .
   ?series wdt:P144 wd:Q213411 .

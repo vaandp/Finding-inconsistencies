@@ -1,7 +1,4 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?match ?year WHERE {
   ?match wdt:P13284 ?year .
   ?match wdt:P1923 wd:Q142
 }
-LIMIT 10

@@ -1,6 +1,3 @@
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?performer ?label WHERE {
   wd:Q6586283 wdt:P175 ?performer .
   ?performer rdfs:label ?label .

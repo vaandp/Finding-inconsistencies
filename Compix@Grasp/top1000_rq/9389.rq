@@ -1,5 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?actor WHERE {
   wd:Q16513600 wdt:P161 ?actor .
   ?actor wdt:P453 "Carrie Mathison"

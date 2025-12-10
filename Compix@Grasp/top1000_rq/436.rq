@@ -1,1 +1,1 @@
-SELECT ?childLabel (STR(?child) AS ?childID) WHERE { wd:Q40715 wdt:P40 ?child . ?child rdfs:label ?childLabel . FILTER(LANG(?childLabel) = 'en') } UNION SELECT ?childLabel (STR(?child) AS ?childID) WHERE { wd:Q26625 wdt:P40 ?child . ?child rdfs:label ?childLabel . FILTER(LANG(?childLabel) = 'en') }
+SELECT ?childLabel (STR(?child) AS ?childID) WHERE { wd:Q40715 wdt:P40 ?child . ?child rdfs:label ?childLabel . FILTER(LANG(?childLabel) = 'en') }

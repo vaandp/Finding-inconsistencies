@@ -1,5 +1,3 @@
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?novel WHERE {
   wd:Q150827 rdfs:label ?novel .
   FILTER ( lang( ?novel ) = 'en' )

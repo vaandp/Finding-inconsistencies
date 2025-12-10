@@ -1,4 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?album ?releaseDate WHERE {
   ?album wdt:P577 ?releaseDate .
   ?album wdt:P136 "Lemon Parade"

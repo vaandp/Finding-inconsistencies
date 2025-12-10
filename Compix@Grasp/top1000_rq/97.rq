@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?movie WHERE {
   wd:Q177922 wdt:P138 ?novel .
   ?novel wdt:P138 wd:Q212340 .

@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?birthDate WHERE {
   wd:Q311179 wdt:P569 ?birthDate
 }

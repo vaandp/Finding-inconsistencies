@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?careerStart WHERE {
   wd:Q151231 wdt:P2031 ?careerStart
 }

@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?film ?director WHERE {
   ?film wdt:P57 ?director .
   FILTER ( ?film = wd:Q372514 || ?film = wd:Q834021 || ?film = wd:Q841233 )

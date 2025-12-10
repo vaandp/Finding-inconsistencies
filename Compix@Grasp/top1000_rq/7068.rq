@@ -1,4 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?independent ?whiteTiger WHERE {
   ?independent wd:Q2301826 ?whiteTiger .
 }

@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?pseudonym WHERE {
   wd:Q172140 wdt:P742 ?pseudonym
 }

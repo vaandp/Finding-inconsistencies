@@ -1,5 +1,3 @@
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?film ?actor WHERE {
   ?film wdt:P161 ?actor .
   ?film rdfs:label "T.S. Garp" @en

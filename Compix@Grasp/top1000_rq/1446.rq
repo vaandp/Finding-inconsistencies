@@ -1,7 +1,4 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?film WHERE {
   ?film wdt:P1476 ?title .
   ?film wdt:P31 wd:Q462
 }
-LIMIT 1

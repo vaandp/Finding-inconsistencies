@@ -1,7 +1,4 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?series ( COUNT( ?episode ) AS ?totalEpisodes ) WHERE {
   ?series wdt:P31 wd:Q728443 .
   ?series wdt:P1113 ?totalEpisodes .
 }
-GROUP BY ?series

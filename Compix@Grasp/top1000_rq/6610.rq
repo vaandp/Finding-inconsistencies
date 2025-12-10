@@ -1,6 +1,3 @@
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?competition WHERE {
   wd:Q334526 wdt:P2522 ?competition .
   ?competition rdfs:label "2019 FIFA Women's World Cup" @en .

@@ -1,4 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?entity WHERE {
   ?entity wdt:P1911 ?penalty
 }

@@ -1,6 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?actor ?actorLabel WHERE {
   wd:Q474093 wdt:P161 ?actor .
   ?actor wdt:P453 wd:Q1191282 .

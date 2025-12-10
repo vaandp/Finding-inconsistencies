@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?novel ?inspiredBy WHERE {
   wd:Q1213715 wdt:P941 ?inspiredBy
 }

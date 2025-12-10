@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?endTime WHERE {
   wd:Q133151 wdt:P463 wd:Q47670 .
   wd:Q133151 wdt:P2032 ?endTime

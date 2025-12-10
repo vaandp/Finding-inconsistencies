@@ -1,4 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?goals WHERE {
   wd:Q155290 wd:P6509 ?goals
 }

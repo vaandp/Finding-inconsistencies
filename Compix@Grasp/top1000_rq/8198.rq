@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?publisher ?inception WHERE {
   wd:Q2482106 wdt:P123 ?publisher .
   ?publisher wdt:P571 ?inception .

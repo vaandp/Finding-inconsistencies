@@ -1,5 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
 SELECT ?seasons WHERE {
   wd:Q895723 wdt:P54 wd:Q104770
 }

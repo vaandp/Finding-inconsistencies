@@ -1,6 +1,3 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 SELECT ( COUNT( * ) AS ?count ) WHERE {
   ?film wdt:P179 wd:Q2716420 .
   ?film wdtf:inception ?releaseDate .

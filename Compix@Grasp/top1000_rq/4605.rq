@@ -1,6 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ?club WHERE {
   wd:Q129027 wdt:P54 ?club .
   ?club rdfs:label ?label .

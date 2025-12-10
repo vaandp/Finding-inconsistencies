@@ -1,5 +1,3 @@
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 SELECT ( COUNT( * ) AS ?total_awards ) WHERE {
   wd:Q147235 wdt:P166 ?award
 }
