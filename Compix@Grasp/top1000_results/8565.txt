@@ -1,0 +1,4 @@
+Got 1 row and 2 columns:
+| song | releaseDate                         |
+| ---- | ----------------------------------- |
+|      | 1999-10-04T00:00:00Z (xsd:dateTime) |

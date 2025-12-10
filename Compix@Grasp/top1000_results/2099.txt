@@ -1,0 +1,4 @@
+Got 1 row and 2 columns:
+| book | publicationDate                     |
+| ---- | ----------------------------------- |
+|      | 2009-05-05T00:00:00Z (xsd:dateTime) |

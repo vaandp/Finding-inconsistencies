@@ -1,0 +1,7 @@
+Got 4 rows and 2 columns:
+| movie | date                                |
+| ----- | ----------------------------------- |
+|       | 2001-01-01T00:00:00Z (xsd:dateTime) |
+|       | 2001-12-19T00:00:00Z (xsd:dateTime) |
+|       | 2002-01-10T00:00:00Z (xsd:dateTime) |
+|       | 2002-01-18T00:00:00Z (xsd:dateTime) |

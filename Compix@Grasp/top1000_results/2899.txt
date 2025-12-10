@@ -1,0 +1,4 @@
+Got 1 row and 2 columns:
+| episode | date                                |
+| ------- | ----------------------------------- |
+|         | 1975-10-11T00:00:00Z (xsd:dateTime) |

@@ -1,0 +1,2 @@
+Error executing SPARQL query over wikidata:
+failed to parse input: parse error at position 66 for token PNAME_LN with content 'wd:Q19873404' (the input most likely does not follow the grammar)

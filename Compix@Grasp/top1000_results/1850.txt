@@ -1,0 +1,4 @@
+Got 1 row and 3 columns:
+| show | originalBroadcaster | startTime                           |
+| ---- | ------------------- | ----------------------------------- |
+|      | NBC (wd:Q13974)     | 1998-09-21T00:00:00Z (xsd:dateTime) |

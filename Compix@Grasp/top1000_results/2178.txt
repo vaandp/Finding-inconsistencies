@@ -1,0 +1,2 @@
+Error executing SPARQL query over wikidata:
+failed to parse input: no matching token found from position 61: 'OR ?p = wd:P2525 ) }'

@@ -1,0 +1,2 @@
+SPARQL execution failed:
+Invalid SPARQL query: Prefix wdtf was not registered using a PREFIX declaration

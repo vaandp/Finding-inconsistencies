@@ -1,0 +1,14 @@
+Got 33 rows and 2 columns, showing the first 5 and last 5 rows below:
+| team | competition                                                              |
+| ---- | ------------------------------------------------------------------------ |
+|      | 1991 CONCACAF Women's Championship (wd:Q1024083)                         |
+|      | 1993 CONCACAF Women's Championship (wd:Q1024084)                         |
+|      | 2002 CONCACAF Women's Gold Cup (wd:Q1024090)                             |
+|      | 2006 CONCACAF Women's Gold Cup (wd:Q1024092)                             |
+|      | 2000 Algarve Cup (wd:Q10405137)                                          |
+| ...  | ...                                                                      |
+|      | 1994 CONCACAF Women's Championship (wd:Q737119)                          |
+|      | football at the 2024 Summer Olympics – women's tournament (wd:Q77732190) |
+|      | football at the 2008 Summer Olympics – women's tournament (wd:Q795011)   |
+|      | 2020 SheBelieves Cup (wd:Q82068741)                                      |
+|      | 2015 FIFA Women's World Cup (wd:Q911847)                                 |

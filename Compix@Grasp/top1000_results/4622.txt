@@ -1,0 +1,2 @@
+Error executing SPARQL query over wikidata:
+failed to parse input: no matching token found from position 134: 'OR CONTAINS(STR(?label), 'ranking') OR CONTAINS(STR(?label), 'chart')) }'
