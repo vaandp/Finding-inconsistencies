@@ -1,0 +1,8 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?series WHERE {
+  ?series wdt:P31 wd:Q5398426 .
+  ?series wdt:P1476 ?title .
+  ?series wdt:P577 ?airDate .
+  ?series wdt:P686 wd:Q642878
+}

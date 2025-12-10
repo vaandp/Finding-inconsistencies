@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?pogba ?franceU18Team ( COUNT( ?match ) AS ?matchCount ) WHERE {
+  wd:Q129027 wd:P1129 ?match .
+  wd:Q1450557 wd:P1129 ?match .
+}
+GROUP BY ?pogba ?franceU18Team

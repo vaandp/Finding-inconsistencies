@@ -1,0 +1,1 @@
+SELECT COUNT(*) WHERE { ?episode wdt:P179 wd:Q742103 . ?episode wdt:P161 wd:Q16297 . }

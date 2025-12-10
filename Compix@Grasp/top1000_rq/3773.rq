@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?case ?novel WHERE {
+  wd:Q833926 wdt:P941 ?novel .
+}

@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?inceptionDate WHERE {
+  wd:Q222131 wdt:P571 ?inceptionDate
+}

@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?team WHERE {
+  ?event wdt:P3967 ?finalEvent .
+  ?finalEvent wdt:P1082 ?team .
+  ?event wdt:P361 wd:Q181278
+}

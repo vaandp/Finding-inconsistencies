@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?pseudonym WHERE {
+  wd:Q127332 wdt:P742 ?pseudonym
+}

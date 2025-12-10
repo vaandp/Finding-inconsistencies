@@ -1,0 +1,8 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?book WHERE {
+  wd:Q5400672 wdt:P527 ?book .
+  ?book wdt:P1476 ?title .
+  ?book wdt:P577 ?pubDate .
+  FILTER ( ?pubDate < '1938-01-01' )
+}

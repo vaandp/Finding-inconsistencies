@@ -1,0 +1,7 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wdtn: <http://www.wikidata.org/prop/direct-normalized/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?actor WHERE {
+  wd:Q29647346 wdt:P161 ?actor .
+  ?actor wdtn:P1476 "Sergio Marquina"
+}

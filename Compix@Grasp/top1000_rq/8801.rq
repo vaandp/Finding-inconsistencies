@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?year WHERE {
+  wd:Q268776 wdt:P2522 wd:Q308822 ; wdt:P571 ?year .
+  FILTER ( ?year < 2021 )
+}

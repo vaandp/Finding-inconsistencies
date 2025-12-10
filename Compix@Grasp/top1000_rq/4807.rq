@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?film WHERE {
+  wd:Q7744577 wdt:P57 wd:Q19947205
+}

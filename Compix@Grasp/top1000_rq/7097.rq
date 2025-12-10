@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?novel WHERE {
+  wd:Q39829 wdt:P800 ?novel .
+  ?novel wdt:P571 ?year .
+  FILTER ( ?year = '1985' )
+}

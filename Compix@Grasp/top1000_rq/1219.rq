@@ -1,0 +1,7 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?father WHERE {
+  wd:Q28465 wdt:P8345 ?franchise .
+  ?franchise rdfs:label "Family Guy" @en
+}

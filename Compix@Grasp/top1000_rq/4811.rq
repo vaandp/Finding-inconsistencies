@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?pele ?goals WHERE {
+  wd:Q12897 wdt:P54 wd:Q3875485 .
+  wd:Q3875485 wdt:P1351 ?goals
+}

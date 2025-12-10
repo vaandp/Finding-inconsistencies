@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?show ?lineup WHERE {
+  wd:Q212135 wdt:P449 ?lineup .
+  ?lineup wdt:P449 wd:Q4044675 .
+}

@@ -1,0 +1,1 @@
+SELECT ?song ?person WHERE { wd:Q56071967 wdt:P825 ?person . ?person wd:Q9685 . }

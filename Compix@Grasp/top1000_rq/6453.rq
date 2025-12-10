@@ -1,0 +1,5 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?band WHERE {
+  ?band wdt:P106 wd:Q527055
+}

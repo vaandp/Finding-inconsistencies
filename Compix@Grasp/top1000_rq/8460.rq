@@ -1,0 +1,9 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?character ?characterLabel WHERE {
+  wd:Q129978 wdt:P161 wd:Q55604025 .
+  wd:Q129978 wdt:P453 ?character .
+  ?character rdfs:label ?characterLabel .
+  FILTER ( LANG( ?characterLabel ) = 'en' )
+}

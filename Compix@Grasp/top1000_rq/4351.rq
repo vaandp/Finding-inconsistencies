@@ -1,0 +1,1 @@
+SELECT (YEAR(?sequelRelease) - YEAR(?originalRelease)) AS ?yearsLater WHERE { ?originalFilm wdt:P156 ?sequelFilm . ?originalFilm wdt:P577 ?originalRelease . ?sequelFilm wdt:P577 ?sequelRelease . FILTER (STRSTARTS(STR(?originalFilm), "The Bourne Identity")). FILTER (STRSTARTS(STR(?sequelFilm), "The Bourne Ultimatum")). }

@@ -1,0 +1,10 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?goalkeeper ?match WHERE {
+  ?match wdt:P1923 wd:Q164134 .
+  ?match wdt:P1923 wd:Q166776 .
+  ?goalkeeper wdt:P413 wd:Q10789 .
+  ?goalkeeper wdt:P1082 ?match .
+  ?goalkeeper wdt:P5700 ?saveCount .
+  FILTER ( ?saveCount = 15 )
+}

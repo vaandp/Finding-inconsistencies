@@ -1,0 +1,1 @@
+SELECT ?title WHERE { ?team wdt:P1082 ?title . ?team wd:Q676899 }

@@ -1,0 +1,1 @@
+SELECT COUNT(?game) WHERE { wd:Q2458826 wdt:P1344 ?game . ?game wdt:P585 ?date .FILTER (?date >= "2011-01-01"^^xsd:date && ?date < "2012-01-01"^^xsd:date) . }

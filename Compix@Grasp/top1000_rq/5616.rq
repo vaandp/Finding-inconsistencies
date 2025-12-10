@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?startYear WHERE {
+  wd:Q655817 wdt:P580 ?startDate .
+  BIND( YEAR( ?startDate ) AS ?startYear )
+}

@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?channel WHERE {
+  wd:Q4653736 wdt:P3301 ?channel
+}

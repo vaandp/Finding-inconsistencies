@@ -1,0 +1,1 @@
+SELECT ?person WHERE { ?person wdt:P31 wd:Q5 "human" ; wdtd:P703 wd:Q192474 }

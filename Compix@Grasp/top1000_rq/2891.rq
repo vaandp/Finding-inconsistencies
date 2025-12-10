@@ -1,0 +1,1 @@
+SELECT ?film WHERE { ?film wdt:P57 wd:Q104266 . ?film wdt:P577 ?releaseYear . ?releaseYear >= '1974-01-01' . ?releaseYear <= '1974-12-31' }

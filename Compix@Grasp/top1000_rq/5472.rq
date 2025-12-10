@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS ?matchCount WHERE { wd:Q27049064 wdt:P1350 ?matches . }

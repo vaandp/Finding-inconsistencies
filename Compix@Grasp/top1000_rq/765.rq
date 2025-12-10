@@ -1,0 +1,4 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?song WHERE {
+  wd:Q180072 ?p ?song
+}

@@ -1,0 +1,8 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?performance ?label WHERE {
+  ?performance wdt:P31 wd:Q106807719 .
+  ?performance rdfs:label ?label .
+  FILTER ( LCASE( SUBSTR( ?label , STRLEN( ?label ) - 34 ) ) = "candle in the wind goodbye england's rose" )
+}

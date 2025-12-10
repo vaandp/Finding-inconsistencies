@@ -1,0 +1,8 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?tournament ?award WHERE {
+  wd:Q334526 wdt:P1344 ?tournament .
+  ?tournament wdt:P166 ?award .
+  ?award rdfs:label "gold medal" @en .
+}

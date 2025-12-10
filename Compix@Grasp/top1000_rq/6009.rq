@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?actor ?label WHERE {
+  wd:Q16199509 wdt:P175 ?series .
+  ?series wdt:P1476 'Fate: The Winx Saga' .
+}

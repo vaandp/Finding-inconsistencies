@@ -1,0 +1,7 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?country WHERE {
+  wd:Q149552 wdt:P123 ?publisher .
+  ?publisher wdt:P31 wd:Q30 .
+  BIND( "United States" AS ?country )
+}

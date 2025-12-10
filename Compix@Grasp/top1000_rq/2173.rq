@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?song ?album WHERE {
+  wd:Q1752956 wdt:P361 ?album .
+  FILTER ( ?album = wd:Q190989 )
+}

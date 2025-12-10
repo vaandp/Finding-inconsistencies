@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ( COUNT( ?work ) AS ?count ) WHERE {
+  wd:Q2316684 wdt:P527 ?work
+}

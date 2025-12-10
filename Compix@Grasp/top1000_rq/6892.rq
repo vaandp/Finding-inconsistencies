@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?person WHERE {
+  wd:Q160060 wdt:P175 ?person .
+  ?person wdt:P166 wd:Q103916
+}

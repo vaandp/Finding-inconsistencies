@@ -1,0 +1,1 @@
+SELECT ?album WHERE { wd:Q178095 wdt:P175 ?album . ?album wdt:P166 ?award . ?award (wdt:P166) ?awardType . ?awardType rdfs:label "Grammy"@en || ?awardType rdfs:label "Juno"@en }

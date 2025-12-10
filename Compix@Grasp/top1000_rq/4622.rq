@@ -1,0 +1,1 @@
+SELECT ?property ?value WHERE { wd:Q848739 ?property ?value . ?property rdfs:label ?label . FILTER (CONTAINS(STR(?label), 'position') OR CONTAINS(STR(?label), 'ranking') OR CONTAINS(STR(?label), 'chart')) }

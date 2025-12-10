@@ -1,0 +1,7 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?season ?show WHERE {
+  ?show wdt:P162 ?producer .
+  ?show wdt:P151 wd:Q836393 .
+  ?season wdt:P151 ?show .
+}

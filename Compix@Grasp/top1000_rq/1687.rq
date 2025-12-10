@@ -1,0 +1,1 @@
+SELECT ?movie ?actor WHERE { ?movie wdt:P166 ?actor . ?actor wd:Q353049 }

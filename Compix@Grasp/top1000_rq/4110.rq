@@ -1,0 +1,8 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?character ?actor WHERE {
+  ?character wdt:P175 ?actor .
+  ?actor rdfs:label ?actorLabel .
+  FILTER ( LANG( ?actorLabel ) = 'en' ) .
+  FILTER ( CONTAINS( STR( ?actorLabel ) , 'Sigourney Weaver' ) )
+}

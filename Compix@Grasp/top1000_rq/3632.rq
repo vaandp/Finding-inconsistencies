@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?voiceActor ( STR( ?voiceActor ) AS ?voiceActorLabel ) WHERE {
+  wd:Q98537283 wdt:P725 ?voiceActor .
+}
+LIMIT 10

@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?album ?review WHERE {
+  wd:Q9343810 wdt:P6977 ?review
+}

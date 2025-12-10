@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?releaseDate ?genre WHERE {
+  wd:Q24026109 wdt:P577 ?releaseDate .
+  wd:Q24026109 wdt:P136 ?genre .
+}

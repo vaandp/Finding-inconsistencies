@@ -1,0 +1,8 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?producer ?producerLabel WHERE {
+  wd:Q615944 wdt:P162 ?producer .
+  ?producer rdfs:label ?producerLabel .
+  FILTER ( LANG( ?producerLabel ) = 'en' )
+}

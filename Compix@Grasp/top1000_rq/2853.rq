@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?work WHERE {
+  wd:Q713701 wdt:P1441 ?work .
+  ?work rdfs:label "Harry Potter and the Prisoner of Azkaban" @en
+}

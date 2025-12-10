@@ -1,0 +1,1 @@
+SELECT ?movie ?novel ?author WHERE { ?movie wdt:P144 ?novel . ?novel wdt:P50 ?author . ?movie wdtn:P56881140 . ?novel wdtn:P523076 . ?author wdtn:P185696 }

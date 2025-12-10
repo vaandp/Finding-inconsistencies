@@ -1,0 +1,1 @@
+SELECT ?song ?album WHERE { ?song wdt:P361 ?album . ?album wdte:Q974045 }

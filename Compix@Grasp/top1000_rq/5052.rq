@@ -1,0 +1,8 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?team ?wins WHERE {
+  wd:Q104770 wdt:P118 ?league .
+  ?league wdt:P118 wd:Q53388424 .
+  ?team wdt:P1355 ?wins .
+  ?team wdt:P118 ?league .
+}

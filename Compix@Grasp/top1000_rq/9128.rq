@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?organization WHERE {
+  ?organization wdt:P740 wd:Q1489 .
+  ?organization wdt:P571 '1904-05-21' .
+}

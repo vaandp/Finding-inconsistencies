@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?actor WHERE {
+  ?actor wdt:P108 ?film .
+  ?film wdt:P166 'Matilda' .
+  ?film wdt:P577 '1996'
+}

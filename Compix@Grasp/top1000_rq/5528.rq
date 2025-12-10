@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?broadcaster WHERE {
+  wd:Q15104549 wdt:P449 ?broadcaster
+}

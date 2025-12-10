@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?worldCup ( STR( ?worldCup ) AS ?year ) WHERE {
+  wd:Q164134 wdt:P1344 ?worldCup .
+  ?worldCup wdt:P571 ?year .
+}

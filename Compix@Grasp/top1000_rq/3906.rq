@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?album ?releaseDate WHERE {
+  ?album wdt:P1476 "The Rolling Stones No. 2" @en .
+  ?album wdt:P577 ?releaseDate
+}

@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?song WHERE {
+  ?song wdt:P31 wd:Q485907 .
+  ?song wdt:P106 wd:Q11649 .
+}

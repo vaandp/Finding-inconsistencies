@@ -1,0 +1,8 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?date ?dateLabel WHERE {
+  wd:Q615 wdt:P10673 ?date .
+  VALUES ?dateLabel {
+    "Debut Date" "Work Period Start"
+  }
+}

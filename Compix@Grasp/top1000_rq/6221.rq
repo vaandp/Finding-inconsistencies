@@ -1,0 +1,5 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?endDate WHERE {
+  wd:Q11571 wd:P54 wd:Q18656 .
+  wd:Q11571 wd:P582 ?endDate
+}

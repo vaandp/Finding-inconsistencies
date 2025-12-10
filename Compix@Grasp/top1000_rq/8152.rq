@@ -1,0 +1,1 @@
+SELECT ?episode ?director WHERE { wd:Q19873404 wdt:P1476 ?episode wd:Q19873404 wdt:P57 ?director }

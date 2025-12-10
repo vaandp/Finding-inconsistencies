@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?distributor WHERE {
+  wd:Q3023357 wdt:P750 ?distributor
+}

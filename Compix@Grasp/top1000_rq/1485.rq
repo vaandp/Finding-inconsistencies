@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?awardYear WHERE {
+  wd:Q359552 wdt:P166 wd:Q3362498 .
+  wd:Q3362498 wdt:P571 ?awardYear
+}

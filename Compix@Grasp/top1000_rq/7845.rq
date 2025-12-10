@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?book WHERE {
+  wd:Q15228 wdt:P1476 ?book
+}
+LIMIT 1

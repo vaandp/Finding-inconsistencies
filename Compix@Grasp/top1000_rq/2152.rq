@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?person ?show WHERE {
+  ?person wd:P106 ?occupation .
+  ?person wd:Q615944 ?show .
+  FILTER ( ?person = wd:Q41342 )
+}

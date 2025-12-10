@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?character WHERE {
+  wd:Q21534241 wdt:P161 wd:Q698173 .
+  wd:Q698173 wdt:P453 ?character
+}

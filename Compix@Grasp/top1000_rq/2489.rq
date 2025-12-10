@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?work WHERE {
+  wd:Q36322 wdt:P800 ?work .
+  ?work wdt:P577 ?pubDate .
+  FILTER ( ?pubDate >= '1813-01-28' && ?pubDate < '1814-05-01' )
+}

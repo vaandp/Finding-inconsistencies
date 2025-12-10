@@ -1,0 +1,5 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?voiceActor WHERE {
+  wd:Q908772 wdt:P725 ?voiceActor .
+}

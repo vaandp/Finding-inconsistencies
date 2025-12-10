@@ -1,0 +1,4 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?team WHERE {
+  wd:Q1039981 wd:P1923 ?team
+}

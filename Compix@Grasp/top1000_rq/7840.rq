@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?match ?date WHERE {
+  ?match wdt:P1344 wd:Q266613 .
+  ?match wdt:P580 ?date .
+}

@@ -1,0 +1,4 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?work WHERE {
+  ?work wdt:P1476 'If Beale Street Could Talk'
+}

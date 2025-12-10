@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ( COUNT( ?wins ) as ?numWins ) WHERE {
+  wd:Q47774 wdt:P1355 ?wins .
+}

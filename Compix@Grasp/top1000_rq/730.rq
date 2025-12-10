@@ -1,0 +1,7 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?producerLabel WHERE {
+  wd:Q223316 wdt:P162 ?producer .
+  ?producer rdfs:label ?producerLabel .
+}

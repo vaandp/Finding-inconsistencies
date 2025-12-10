@@ -1,0 +1,5 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?brother WHERE {
+  wd:Q2352983 wdt:P3373 ?brother
+}

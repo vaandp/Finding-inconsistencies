@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?matchCount WHERE {
+  wd:Q615 wdt:P54 wd:Q483020 .
+  wd:Q615 wdt:P1350 ?matchCount
+}

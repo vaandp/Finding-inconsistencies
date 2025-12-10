@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?bomber WHERE {
+  wd:Q4022919 wdt:P106 ?occupation .
+  ?occupation wdt:P31 wd:Q1105083 .
+  ?bomber wdt:P31 wd:Q836438 .
+}

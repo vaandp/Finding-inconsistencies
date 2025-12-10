@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?techCEO WHERE {
+  ?techCEO wdt:P31 wd:Q19837 .
+}

@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?tvSeries WHERE {
+  wd:Q277978 wdt:P1441 ?tvSeries .
+  ?tvSeries wdt:P31 wd:Q11426 .
+}

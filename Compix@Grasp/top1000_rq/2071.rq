@@ -1,0 +1,1 @@
+SELECT COUNT(*) WHERE { wd:Q81447 wdt:P1411 ?nomination }

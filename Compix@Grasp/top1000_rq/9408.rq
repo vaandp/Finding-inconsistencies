@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?homeGround WHERE {
+  wd:Q221940 wdt:P115 ?homeGround
+}

@@ -1,0 +1,5 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?appearanceCount WHERE {
+  wd:Q43926 wdt:P1350 ?appearanceCount
+}

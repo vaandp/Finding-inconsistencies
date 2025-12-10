@@ -1,0 +1,10 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?year WHERE {
+  wd:Q329812 wdt:P1344 ?event .
+  ?event rdfs:label ?label .
+  FILTER ( CONTAINS( STR( ?label ) , "MLS Cup " ) && CONTAINS( STR( ?label ) , "20" ) )
+}
+ORDER BY ?year
+LIMIT 1

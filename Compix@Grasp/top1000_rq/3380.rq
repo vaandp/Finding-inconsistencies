@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?opponent WHERE {
+  wd:Q1039981 wdt:P1923 ?opponent
+}

@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?performer WHERE {
+  wd:Q2071301 wdt:P1441 ?work .
+  ?work wdt:P175 ?performer .
+}

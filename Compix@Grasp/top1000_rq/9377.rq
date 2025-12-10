@@ -1,0 +1,1 @@
+SELECT ?band WHERE { ?band wdt:P31 wd:Q239074 . ?band wdt:P463 ?member . ?member wd:Q2088127 }

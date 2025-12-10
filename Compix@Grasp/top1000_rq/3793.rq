@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?endDate WHERE {
+  wd:Q16538 wdt:P580 ?startDate .
+  wd:Q16538 wdt:P2047 ?duration .
+}

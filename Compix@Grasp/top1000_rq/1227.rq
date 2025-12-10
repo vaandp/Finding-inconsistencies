@@ -1,0 +1,1 @@
+SELECT ?stadium ?club WHERE { ?stadium wdt:P115 ?club . ?stadium wd:Q1592109 }

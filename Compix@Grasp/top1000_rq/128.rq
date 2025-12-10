@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ( SUM( ?duration ) AS ?combined_runtime ) WHERE {
+  ?movie wdt:P179 wd:Q216930 .
+  ?movie wdt:P2047 ?duration
+}

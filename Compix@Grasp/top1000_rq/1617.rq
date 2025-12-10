@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?club WHERE {
+  wd:Q1543 wdt:P115 ?stadium .
+  ?stadium wdt:P466 ?club .
+}

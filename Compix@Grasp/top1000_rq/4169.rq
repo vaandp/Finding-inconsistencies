@@ -1,0 +1,7 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?film ?filmLabel ?releaseDate WHERE {
+  ?film wdt:P31 wd:Q844 .
+  ?film wdt:P166 wd:Q4547 .
+  ?film wdt:P580 ?releaseDate
+}

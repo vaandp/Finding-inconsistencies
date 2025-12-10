@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?player ?startDate WHERE {
+  ?player wdt:P54 wd:Q8682 .
+  ?player wdt:P10673 ?startDate .
+}

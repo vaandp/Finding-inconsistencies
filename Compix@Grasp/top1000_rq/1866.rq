@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?person ?label WHERE {
+  wd:Q213053 wdt:P161 ?person .
+  ?person wdt:P31 wd:Q6439708 .
+  FILTER ( LANG( ?label ) = 'en' )
+}

@@ -1,0 +1,7 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?book ?title WHERE {
+  wd:Q19610143 wdt:P527 ?book .
+  ?book wdt:P1476 ?title .
+  FILTER ( lang( ?title ) = 'en' )
+}

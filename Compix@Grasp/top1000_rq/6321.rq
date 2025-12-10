@@ -1,0 +1,4 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?book WHERE {
+  ?book wdt:P1476 "The Great Gatsby"
+}

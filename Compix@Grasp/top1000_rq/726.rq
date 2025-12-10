@@ -1,0 +1,7 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wdtn: <http://www.wikidata.org/prop/direct-normalized/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?role WHERE {
+  wd:Q873 wdtn:P161 wd:Q223316 .
+  wd:Q873 wdt:P453 ?role
+}

@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?marriageDate WHERE {
+  wd:Q12897 wdt:P26 wd:Q26155745 ; wdt:P585 ?marriageDate
+}

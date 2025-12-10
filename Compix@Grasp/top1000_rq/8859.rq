@@ -1,0 +1,9 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?match ?opposingTeam WHERE {
+  ?match wdt:P118 wd:Q15200080 .
+  ?match wdt:P1923 wd:Q9617 .
+  ?match wdt:P5004 ?opposingTeam .
+  ?match wdt:P5138 ?season .
+  BIND( str( ?season ) AS ?seasonString ) FILTER ( CONTAINS( ?seasonString , '2000' ) || CONTAINS( ?seasonString , '2001' ) )
+}

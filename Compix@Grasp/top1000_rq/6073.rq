@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?chairman WHERE {
+  wd:Q50602 wdt:P488 ?chairman
+}

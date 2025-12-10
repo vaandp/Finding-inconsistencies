@@ -1,0 +1,5 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?ranking WHERE {
+  wd:Q11895 wdt:P1352 ?ranking
+}

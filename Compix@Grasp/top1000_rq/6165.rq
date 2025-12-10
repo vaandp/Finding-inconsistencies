@@ -1,0 +1,4 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?statement WHERE {
+  wd:Q620722 ?statement wd:Q27192
+}

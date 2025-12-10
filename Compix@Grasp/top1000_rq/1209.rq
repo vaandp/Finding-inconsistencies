@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?person WHERE {
+  ?person wdt:P161 ?film .
+  ?film wdt:P31 wd:Q11424 .
+  ?person wdt:P861 wd:Q44437 .
+}

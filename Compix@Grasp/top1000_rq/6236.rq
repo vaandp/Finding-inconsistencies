@@ -1,0 +1,4 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?film ?actor WHERE {
+  wd:Q372299 wd:wdt:P166 ?actor .
+}

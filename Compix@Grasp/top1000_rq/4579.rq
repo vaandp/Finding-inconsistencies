@@ -1,0 +1,6 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?book ?publicationDate WHERE {
+  ?book wdt:P577 ?publicationDate .
+  ?book rdfs:label "Little House on the Prairie" @en .
+}

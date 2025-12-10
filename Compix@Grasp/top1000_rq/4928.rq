@@ -1,0 +1,1 @@
+SELECT ?character WHERE { wd:Q17379228 wdt:P175 ?actor . ?actor wd:Q209662 }

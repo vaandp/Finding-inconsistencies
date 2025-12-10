@@ -1,0 +1,1 @@
+SELECT ?song WHERE { wd:Q16685323 ?p ?song . ( ?p = wd:P1476 OR ?p = wd:P2525 ) }

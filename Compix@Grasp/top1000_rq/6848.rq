@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wdtn: <http://www.wikidata.org/prop/direct-normalized/>
+SELECT ?entity WHERE {
+  ?entity wdt:P1431 wd:Q23567 .
+  ?entity wdtn:P188137 wd:Q188137
+}

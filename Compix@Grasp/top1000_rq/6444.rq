@@ -1,0 +1,7 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?character WHERE {
+  wd:Q36479 wdt:P674 ?character .
+  ?character rdfs:label "Simba" @en .
+}

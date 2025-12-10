@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?competition WHERE {
+  wd:Q7156 wdt:P1344 ?competition .
+  ?competition wdt:P1344 wd:Q267245
+}

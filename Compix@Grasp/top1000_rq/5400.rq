@@ -1,0 +1,1 @@
+SELECT ?album ?date WHERE { ?album wdt:P577 ?date . FILTER(CONTAINS(STR(?album), "Kiss & Tell")) } UNION SELECT ?album ?date WHERE { ?album wdt:P577 ?date . FILTER(CONTAINS(STR(?album), "When the Sun Goes Down")) } ORDER BY ?date

@@ -1,0 +1,5 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?person ?occupation WHERE {
+  wd:Q1118020 wdt:P106 ?occupation
+}

@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?work ?narrativePlace WHERE {
+  ?work wdt:P840 ?narrativePlace .
+  FILTER ( ?work = wd:Q26505 )
+}

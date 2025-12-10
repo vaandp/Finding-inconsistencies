@@ -1,0 +1,4 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?season WHERE {
+  wd:Q97576729 wd:Q3234943 ?season
+}

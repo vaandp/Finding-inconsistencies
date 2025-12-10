@@ -1,0 +1,4 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?entity WHERE {
+  ?entity wdt:P2362626 ?x .
+}

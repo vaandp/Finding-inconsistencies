@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?author WHERE {
+  wd:Q326914 wdt:P125 ?author .
+  wd:Q215410 wdt:P125 ?author .
+}

@@ -1,0 +1,6 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?statement WHERE {
+  wd:Q233510 wdt:P1344 wd:Q4630361 .
+  ?statement ?p ?o .
+}

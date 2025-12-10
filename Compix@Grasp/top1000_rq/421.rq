@@ -1,0 +1,7 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?award WHERE {
+  wd:Q26505 wdt:P166 ?award .
+  ?award rdfs:label "Pulitzer Prize for Fiction" @en .
+}

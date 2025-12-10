@@ -1,0 +1,7 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?year WHERE {
+  wd:Q334526 wdt:P1346 ?worldCup .
+  ?worldCup wdt:P585 ?year .
+  FILTER ( ?year = 2019 )
+}

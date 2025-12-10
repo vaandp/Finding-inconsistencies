@@ -1,0 +1,1 @@
+SELECT COUNT(*) WHERE { wd:Q334526 wdt:P2522 ?tournament. ?tournament wdt:P118 wd:Q19323 }

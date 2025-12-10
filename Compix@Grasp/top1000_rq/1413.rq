@@ -1,0 +1,5 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?officer WHERE {
+  wd:Q1156620 wdt:P7047 ?officer
+}

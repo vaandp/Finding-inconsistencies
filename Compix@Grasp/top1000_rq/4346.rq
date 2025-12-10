@@ -1,0 +1,1 @@
+SELECT (YEAR(?sequelReleaseYear) - YEAR(?originalReleaseYear)) AS ?yearsAfter WHERE { wd:Q105624 wdt:P577 ?originalReleaseDate . wd:Q107226 wdt:P577 ?sequelReleaseDate . ?originalReleaseDate wdt:P577 ?originalReleaseYear . ?sequelReleaseDate wdt:P577 ?sequelReleaseYear . }

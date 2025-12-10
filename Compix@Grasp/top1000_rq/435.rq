@@ -1,0 +1,1 @@
+SELECT (COUNT(?child) AS ?numberOfChildren) WHERE { wd:Q40715 wdt:P1971 ?child . } UNION SELECT (COUNT(?child) AS ?numberOfChildren) WHERE { wd:Q26625 wdt:P1971 ?child . }

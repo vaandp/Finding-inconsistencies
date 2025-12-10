@@ -1,0 +1,7 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT ?award WHERE {
+  wd:Q15228 wdt:P166 ?award .
+  ?award wdt:P577 "2009" ^^ xsd:gYear
+}

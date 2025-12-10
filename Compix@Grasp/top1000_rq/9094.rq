@@ -1,0 +1,6 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+SELECT ?movie WHERE {
+  wd:Q190214 wdt:P527 ?movie .
+  ?movie wdt:P1476 'The Lord of the Rings: The Fellowship of the Ring'
+}
