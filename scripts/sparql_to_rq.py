@@ -9,7 +9,8 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent.parent
 CSV_PATH = BASE / "Compix@Grasp/top1000.csv"
 JSON_DIR = BASE / "Compix@Grasp/top1000"
-OUT_DIR = BASE / "Compix@Grasp/top1000_rq"
+# Dossier de sortie : utiliser le dossier existant "generated_query"
+OUT_DIR = BASE / "Compix@Grasp/generated_query"
 
 
 def extract_select_block(sparql: str) -> str | None:
