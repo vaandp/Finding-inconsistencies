@@ -1,2 +1,1001 @@
-Question_id,Question,CompMix_answer_id,CompMix_answer_label,GRASP_SPARQL_answer,Consistentcy_ socre,Label
-6283,What is the elevation of Dakar?,22 m,22 m,10.0 (xsd:decimal), , knowledge conflict
+Question_id,Question,CompMix_answer_label,GRASP_SPARQL_answer
+97,What is the name of the movie in which Gregory Peck played the character of a lawyer which is based on the novel written by author Harper Lee?,To Kill a Mockingbird,
+8573,"What was the name of The X-Files spin-off that started that featured the X-Files characters Melvin Frohike, John Fitzgerald Byers, and Richard Langly?",The Lone Gunmen,Millennium (wd:Q1477859)
+9400,What is the name of the team that was played against in which Rafael Pereira da Silva committed a foul and Fábio Pereira da Silva was booked?,Barnsley F.C.,
+8812,Which novel introduced the character George Smiley who also appeared in The Spy Who Came in from the Cold and A Murder of Quality?,Call for the Dead,Call for the Dead (wd:Q652350)
+741,Who is the actress playing the character of one of the broke girls other than the role played by Kat Dennings in 2 Broke Girls?,Beth Behrs,Jeff Garlin (wd:Q983082)
+8810,What was the name of a main character that appears in both The Spy Who Came in from the Cold and A Murder of Quality?,George Smiley,John le Carré (wd:Q209641)
+6614,"How many goals did Ellen White, Alex Morgan, and Megan Rapinoe each score at the 2019 FIFA Women's World Cup?",6,
+1837,Is the actor who played the FBI agent Carl Hanratty in Catch Me If You Can younger or older than Leonardo DiCaprio?,Older,
+734,What is the name of the album by The Police that won a Grammy award as well as a Juno award?,Synchronicity,
+2150,What is the name of the actor who portrayed the bumbling anchorman on the situation comedy The Mary Tyler Moore Show?,Ted Knight,Alex Rocco (wd:Q975161)
+8811,For which organization did George Smiley work in The Spy Who Came in from the Cold and A Murder of Quality?,Secret Intelligence Service,Secret Intelligence Service (wd:Q184560)
+2288,What is the name of the actress that played Lisbeth Salander in 2011 film The Girl with the Dragon Tattoo?,Rooney Mara,
+8565,When was the song I Saved the World Today from the album Peace by the Eurythmics released as a single?,4 October 1999,
+8815,How many John le Carré novels featured the character George Smiley after The Spy Who Came in from the Cold?,6,
+8572,"What was the name of the song by Moby that was featured in the episode ""all things"" on The X-Files?",The Sky Is Broken,
+1448,What is the name of the actor who plays the character of Luke Skywalker in the film Star Wars: The Last Jedi?,Mark Hamill,
+3534,In 2006 which team did the former San Jose Earthquakes head coach Dominic Kinnear joined after the team went on a hiatus?,Houston Dynamo FC,San Jose Earthquakes (wd:Q575370)
+2780,What is the actor's name from the TV series The Big Bang Theory who also starred in the movie School for Scoundrels?,Jim Parsons,
+6320,What is the title of the short story that F. Scott Fitzgerald considered to be the first draft for The Great Gatsby?,Winter Dreams,Tender Is the Night (wd:Q247372)
+6897,What is the name of the actor who won the Academy Award for Best Actor for his performance in The King's Speech?,Colin Firth,
+2897,Name the Los Angeles rock and roll band known for hits like November Rain and Sweet Child o' Mine which came together in 1985.,Guns N\u2019 Roses,
+2147,What beloved TV character was played by Mary Tyler Moore after she starred in The Dick Van Dyke Show?,Mary Richards,
+7722,How many goals did Pat Healey make in the 2008 season when he was playing for Crystal Palace Baltimore?,8,
+1209,What is the name of the actor in the movie Jumanji: Welcome to the Jungle who is also a WWE star?,Dwayne Johnson,
+3798,What was Bob Bradley's previous job before he took the job as the head coach of the United States men's national soccer team?,C.D. Chivas USA,
+738,What is the name of the actress playing the role of Max Black in the TV series 2 Broke Girls?,Kat Dennings,
+1353,"Which empire did Miguel de Cervantes, the author of Don Quixote, lived in at the time of the book's publication?",Habsburg Spain,Crown of Castile (wd:Q217196)
+4908,What is the name of the author of The Eye of the World from the Wheel of Time book series?,Robert Jordan,Robert Jordan (wd:Q166351)
+1828,Which player was awarded the most number of Man of the match titles in the FIFA world cup of 2006?,Andrea Pirlo,
+5046,What was the name of the actor who played the role of Silvio Dante on the TV series The Sopranos?,Steven Van Zandt,Steven Van Zandt (wd:Q354181)
+5368,What is the name of the actress who featured in both the movies The Breakfast Club and Pretty in Pink?,Molly Ringwald,Paul Gleason (wd:Q537252)
+8561,What was the title of the seventh track on the album Sweet Dreams (Are Made of This) by the Eurythmics?,Love Is a Stranger,
+199,What is the name of the actress who plays the role of Jay Pritchett's second wife in the TV series Modern Family?,Sof\u00EDa Vergara,Julie Bowen (wd:Q40248)
+2892,What LA-based hard rock band formed in 1985 and is known for songs such as Sweet Child o' Mine and November Rain?,Guns N\u2019 Roses,
+6328,Which girl band formed in 1980 had 30 singles reach the Top 50 of the UK Singles Chart between 1982 and 2009?,Bananarama,
+9109,"Where is the location of the photo on the album cover, where the 4 members of the Beatles walk across the road?",Abbey Road,United States (wd:Q30)
+6427,What was the first movie that Mila Kunis who played Jackie on That '70s Show act in?,Santa with Muscles,
+9313,What film did James L. Brooks direct that starred Jack Nicholson besides As Good as It Gets?,Terms of Endearment,How Do You Know (wd:Q523197)
+1835,Who is the author of the semi-autobiographical book that the movie Catch Me If You Can is based on?,Frank Abagnale,Frank Abagnale (wd:Q116774)
+202,What is the name of the TV series played by Joe Manganiello where his character was called Alcide Herveaux?,True Blood,The Southern Vampire Mysteries (wd:Q666121)
+3706,What is the name of the actor playing the character of Bill Compton in the TV series True Blood?,Stephen Moyer,
+2525,What is the character's name that was the love interest of the character Jack Dawson in the film Titanic?,Rose DeWitt Bukater,Rose DeWitt Bukater (wd:Q4892194)
+2138,"Who was the author of the novel Airport, the source material for the 1970 film of the same name?",Arthur Hailey,Arthur Hailey (wd:Q249544)
+948,What is the name of the actor playing the character role of Harvey Specter in the TV series Suits?,Gabriel Macht,
+1853,How many appearance did the American goalkeeper Sean Johnson make with the US men's national soccer team in 2011?,1,
+3799,Did the United States men's national team coached by Bob Bradley made it to the World Cup knockout stage?,Yes,
+3703,What is the name of the role played by Michael C. Hall in the TV show Six Feet Under?,David Fisher,
+1598,What is the name of the film in the Bridget Jones series that was not directed by Sharon Maguire?,Bridget Jones: The Edge of Reason,
+4643,What is the running time of the first movie of The Hobbit series - The Hobbit: An Unexpected Journey?,169 minutes,
+6440,"What is the name of the ghostwriter of the first book in the Hardy Boys series, The Tower Treasure?",Leslie McFarlane,Leslie McFarlane (wd:Q14767574)
+6343,What is the total number of appearances made by Marco Reus as of 2021 for the club Borussia Dortmund?,332,Vladimir But (wd:Q941320)
+5778,What is the name of the book that comes after the book Killing Floor in the Jack Reacher series?,Die Trying,
+5618,Does the show Would I Lie To You have the comedian Lee Mack as a captain of a team?,Yes,
+6065,What is the name of the actress who plays the role of Blair Waldorf in the show Gossip girl?,Leighton Meester,Leighton Meester (wd:Q199931)
+6611,As of 2020 how many FIFA Women's World Cup wins does the United States women's national soccer team have?,4,
+6168,"What year was it on Earth in the last novel of The Chronicles of Narnia series, The Last Battle?",1949,
+6837,Is the 2019 movie Little Women an adaptation of novel of the same name written by Louisa May Alcott?,Yes,
+8844,Which actor returned in the 1980s TV version of Mission: Impossible who was also in the original Mission: Impossible?,Peter Graves,
+7924,What is the name of the actress playing the role of Hugh Bonneville's character's eldest daughter in Downton Abbey?,Michelle Dockery,
+7116,Which 2009 first person shooter game did Lance Henriksen who was Frank Black in Millennium did voice work for?,Call of Duty: Modern Warfare 2,
+6893,What is the name of the actress who played the role of Colin Firth's wife in The King's Speech?,Helena Bonham Carter,
+575,Who is the director of the first part The Curse of the Black Pearl  in the flim Pirates of the Caribbean?,Gore Verbinski,Gore Verbinski (wd:Q295463)
+9402,What is the name of the football player who won the player of the season title in 2021 for Barnsley F.C?,Micha\u0142 Helik,
+2148,In what city did the character of Mary Richards reside on The Mary Tyler Moore Show?,Minneapolis,
+8576,"Besides The X-Files, what other show by Chris Carter did Mark Snow compose the music for?",Millennium,X (wd:Q8042689)
+4744,What is the name of the character played by actress Anna Paquin in the TV series True Blood?,Sookie Stackhouse,
+314,Who Was the Oops!... I Did It Again song on the Britney Spears album Baby One More Time?,Yes,
+4579,What is the Publication date of the second book of the novel series Little House on the Prairie?,1 October 1993,Little House on the Prairie (wd:Q687432)
+729,What is the name of the 2012 movie that fetched Meryl Streep an Oscar for the best actress?,The Iron Lady,
+1228,What is the name of the person who replaced Tony Waddington as the manager of Stoke City F.C.?,George Eastham,Mark Robins (wd:Q1900410)
+3380,What team did the United States men's national soccer team faced in the 2009 FIFA Confederations Cup final?,Brazil national football team,Brazil men's national football team (wd:Q83459)
+2338,"What is the publication date of the second book ""The Subtle Knife"" of the series His Dark Materials?",22 July 1997,
+112,What Emmy award did the actress Anna Gunn get for her role in the TV show Breaking Bad?,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series,Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series (wd:Q1285504)
+187,What was the name of the character played by the actress Lindsay Lohan in the movie Mean Girls?,Cady Heron,
+3178,What is the name of the captain for the football club Chelsea in the 2012 Champions League final?,Frank Lampard,
+2782,What is the name of the character Jim Parsons plays in the TV series The Big Bang Theory?,Sheldon Cooper,John F. Kennedy (wd:Q9696)
+2930,What is the name of the actor playing the character of Professor in the TV series Money Heist?,\u00C1lvaro Morte,
+4682,What is the name of the renowned singer who was part of the bands Aerosmith and Chain Reaction?,Steven Tyler,
+94,"What pseudonym did Charlotte Brontë use for her book The Green Dwarf, A Tale of the Perfect Tense?",Lord Charles Albert Florian Wellesley,
+1858,The American goalkeeper Sean Johnson played how many game for the US men's national soccer team in 2011?,1,
+6194,Did Olympique Lyonnais retained their league title when Megan Rapinoe was on their roster from 2013 to 2014?,Yes,
+6192,Who took the penalty kick that Alex Morgan won in the 2019 Women's World Cup final against Netherland?,Megan Rapinoe,N-Terminal Propeptide of Type III Collagen (wd:Q65948452)
+7120,What year did Tim Howard play his first game for the senior United Stated men's national soccer team?,2002,
+9397,What are the names of the other writers who won the Emmy Award with Gideon Raff in 2012?,Howard Gordon,
+8571,What is the name of the episode of The X-Files that was written and directed by Gillian Anderson?,all things,
+8580,What was the name of the musical group that David Beckham's wife Victoria Beckham was in from 1994-2000?,Spice Girls,Spice Girls (wd:Q55641)
+6905,What was the name of the dog that played the character of Lassie in the TV series Lassie?,Pal,
+6832,Is the 2019 movie Little Women based on the 1868 Louisa May Alcott novel of the same name?,Yes,
+726,What is the name of the role played by the actress Meryl streep in the movie The Devil Wears Prada?,Miranda Priestly,
+1847,In which year did the American sitcom series Will & Grace return for another three seasons after ending in 2006?,2017,
+1852,What year did the American sitcom series Will & Grace return for three more seasons after the original run ended?,2017,
+6190,Which American soccer player became the first female to appear on the cover of a FIFA video game in 2015?,Alex Morgan,
+6459,Name of the TV series that was an adaptation of the movie Cast Away and was co-created by Jeffrey Lieber?,Lost,
+6412,How many movies were in the Die Hard series before A Good Day to Die Hard came out in 2013?,4,
+8037,What was the name of the 1994 Warren G hip-hop single that reached No. 2 on the Billboard Hot 100?,Regulate,
+6852,"Out of the 86 appearance for the Germany national association football team, how many time was Kahn the team captain?",49,
+2149,Who were the creators of the situation comedy known as The Mary Tyler Moore Show?,James L. Brooks,James L. Brooks (wd:Q95125)
+2152,Who did Mary Tyler Moore play following her stint on The Dick Van Dyke Show?,Mary Richards,
+6186,What is the birthday of the actress who portrayed the housekeeper of the Frasier household?,18 April 1961,Moose (wd:Q492396)
+8726,Did The Cranberries release their last album after the death of lead singer Dolores O'Riordan?,yes,
+2151,What was the year of the final season of the situation comedy The Mary Tyler Moore Show?,1977,
+2154,What is the name of the set of rules under which the sport of soccer is played?,Laws of the Game,Laws of the Game (wd:Q506630)
+1840,The 2002 movie Catch Me If You Can is based on the semi-autobiographical book written by who?,Frank Abagnale,
+4130,Have the Portland Timbers won the MLS Cup before they lost to New York FC in 2021?,Yes,MLS Cup 2015 (wd:Q21590651)
+1597,What is the name of the role played by actor Hugh Grant in the Bridget Jones series?,Daniel Cleaver,
+4637,What is the Publication date of the first book of the novel series The Chronicles of Narnia?,16 October 1950,
+4173,What is the name of the first James Bond movie with Daniel Craig in the lead role?,Casino Royale,
+2072,Who was the winner of the Nobel Prize in Literature the year Brave New World was published?,John Galsworthy,
+4932,Which player scored the most goals for the D.C. United during the 1996 Major League Soccer season?,Ra\u00FAl D\u00EDaz Arce,
+2888,Who is the actor who starred in Blazing Saddles and also appeared in Mel Brooks' Young Frankenstein?,Gene Wilder,
+2768,What is the name of the character played by Macaulay Culkin in the first Home Alone film?,Kevin McCallister,
+98,What is the name of the character Gregory Peck played in the movie To Kill a Mockingbird?,Atticus Finch,
+6612,When did the United States women's national soccer team get their 4th FIFA Women's World Cup win?,2019,
+5787,What is the name of the actress who stars in the films Freaky Friday and True Lies?,Jamie Lee Curtis,Jamie Lee Curtis (wd:Q106997)
+6321,What book set in Jazz Age considered to be a Great American Novel was written in 1925?,The Great Gatsby,
+9157,What was the name of the actor who played Charlie in Willy Wonka and the Chocolate Factory?,Peter Ostrum,Günter Meisner (wd:Q92128)
+8744,Who was the captain of the Women's National Soccer Team during their 2015 Women's World Cup win?,Christie Pearce,Denise Bender (wd:Q5257622)
+8745,Which players were co-captains for the US Women's National Soccer Team during their 2019 World Cup victory?,Megan Rapinoe,Denise Bender (wd:Q5257622)
+6854,How many World Cup titles the Italy national football team has before winning it again in 2006?,3,
+7488,"In which year was the author of the Book ""The Power of Habit"" Charles Duhigg was born?",1974,
+6836,Which 1985 science fiction novel series written by Orson Scott Card is a good example of bildungsroman?,Ender's Game,
+1057,"Who won the Best Actor award in the Los Angeles Film Critics Association Awards for the movie ""Taxi Driver""?",Robert De Niro,
+3183,What was the name of the last novel that Hercule Poirot appeared in that was authored by Agatha Christie?,Curtain,
+722,Which book is the sequel to the second book The Wicked King in The Folk of the Air series?,The Queen of Nothing,
+2707,"Who won the Best Film Music award in the 26th British Academy Film Awards for the movie ""The Godfather""?",Nino Rota,
+1468,What is the name of the player who had captained Arsenal and was named its head coach in 2019?,Mikel Arteta,
+1064,"When was the original version of the song ""I am not a woman, I’m a god"" released in USA?",31 August 2021,
+3366,Who were the main actors in The Sting that won an Academy Award for Best Picture over American Graffiti?,Paul Newman,Harold Gould (wd:Q954950)
+1135,According to the 11 Nov 2021 result who called the most capped player in Brazil Nation Football Team ?,Cafu,
+2284,What is the name of the actor that play the killer in the The Girl with the Dragon Tattoo?,Stellan Skarsg\u00E5rd,David Dencik (wd:Q768899)
+6417,"Before A Good Day to Die Hard's release in 2013, how many movies were in the Die Hard series?",4,Live Free or Die Hard (wd:Q50861)
+5400,Which album by Selena Gomez & The Scene was released first:Kiss & Tell or when the sun goes down?,Kiss & Tell,
+6063,Name of the band from Dublin has a lead vocalist who got the Time Person of the Year award?,U2,
+7626,Who was the director of the episode called Welcome to the Hellmouth in the Buffy the Vampire Slayer series?,Charles Martin Smith,
+8581,What was the name of the football club David Beckham made his first team debut with at age 17?,Manchester United F.C.,Real Madrid CF (wd:Q8682)
+9118,Who is the character that Robin ends up marrying in the last season of How I Met Your Mother?,Barney Stinson,Barney Stinson (wd:Q838512)
+7625,"What is the name of the first episode of the first season of the series, Buffy the Vampire Slayer?",Welcome to the Hellmouth,
+8172,What was the name of the author of the book on which the movie The Notebook was based on?,Nicholas Sparks,Nicholas Sparks (wd:Q219377)
+2564,Was the song Legend in Your Own Time on the Carly Simon album Anticipation?,Yes,
+2172,Which album by Metallica was released first: Ride the Lightning or Master of Puppets?,Ride the Lightning,Ride the Lightning (wd:Q190989)
+6461,In which year did the player Luís Figo transfer from Barcelona to Real Madrid?,2000,
+5143,Who provided a loan for Álvaro Morata to play for Serie A club Juventus?,La Liga,
+1826,What number of appearances has Andrea Pirlo made for the football club New York City FC?,62,
+3856,What is the name of the actress who played Lorelai's daughter in the show Gilmore Girls?,Alexis Bledel,Alexis Bledel (wd:Q192887)
+2763,What is the genre of the book The Importance of Being Earnest written by Oscar Wilde?,comedy,comedy (wd:Q5151421)
+3145,What year did the El Salvador national football team make their first FIFA World Cup appearance?,1970,
+1165,After their 2018 FIFA World Cup win how many wins did France national football team have?,2,
+2894,On what date was Guns N' Roses inducted into the Rock and Roll Hall of Fame?,14 April 2012,
+3598,What was the other book to get the Newbery Honor in 2019 besides The Night Diary?,Q65119016,
+1458,What was the name of the role played by the actor Stephen Amell in Arrow series?,Oliver Queen,
+368,What award did Ellen DeGeneres receive for playing Dory with the category Favorite Animated Movie Voice?,People's Choice Awards,
+205,What is the number of goals scored by Kylian Mbappé for France in the year 2018?,9,
+3774,Which actor played Carl Lee Hailey in the 1996 movie adaptation of A Time to Kill?,Samuel L. Jackson,
+1855,Sean Johnson was the second choice goalkeeper behind which player during the 2013 CONCACAF Gold Cup?,Nick Rimando,
+1833,What type of bomber did the main character Captain John Yossarian fly in the novel Catch-22?,B-25 Mitchell,
+3692,What was the name of the character played by Brad Pitt in the movie Fight Club?,Tyler Durden,
+1301,What actor plays the leading role of Randle McMurphy in One Flew Over the Cuckoo's Nest?,Jack Nicholson,Tom McCall (wd:Q966031)
+4639,What is the date of birth of the The Chronicles of Narnia writer C. S. Lewis?,29 November 1898,
+1687,Did Robin Shou reprised his role as Kiu Kang in the rebooted 2021 Mortal Kombat movie?,No,
+6589,What book did  George R. R. Martin write that was a New York Times best seller?,A Feast for Crows,Dying of the Light (wd:Q135165)
+6453,What is the name of the band which had Darren Hayes and Daniel Jones as members?,Savage Garden,
+6170,Which actor portrayed Peter Pevensie in the 1988 BBC tv adaptation of The Chronicles of Narnia?,Richard Dempsey,Richard Dempsey (wd:Q730353)
+6415,Which movie did Samuel L. Jackson win a BAFTA award for best supporting actor in 1994?,Pulp Fiction,
+6608,What ship do they use to escape at the end of Space Pilot 3000 in Futurama?,Planet Express Ship,
+6602,"What year did the Diana, Princess of Wales version of Candle in the Wind come out?",1997,
+6139,What was the Kazuo Ishiguro's next novel to be released after The Remains of the Day?,The Unconsoled,Never Let Me Go (wd:Q951587)
+5149,What is the date of birth of the Diary of a Wimpy Kid's creator Jeff Kinney?,19 February 1971,
+9395,What is the total number of years served by Gideon Raff in the Israel Defense Forces?,3,
+6667,Which Master Chef Australia season did the chef Emelia Jackson appear before winning in season 12?,"MasterChef Australia, series 6",
+7531,What is the date of birth of lead drummer Tico Torres of the Band Bon Jovi?,7 October 1953,
+7669,"Which country awarded the author Najib Mahfouz by ""Grand Cordon of the Order of the Nile""?",Egypt,Egypt (wd:Q79)
+9349,Who managed Norwich City F.C. when they were promoted to the English Premier League in 2021?,Daniel Farke,Philippe Clement (wd:Q1338480)
+9345,Which team promoted to the English Premier League for 2021-22 won the EFL Championship in 2021?,Norwich City F.C.,
+7489,"The author of the Book ""The Power of Habit"" Charles Duhigg is residing in which city?",Santa Cruz,
+4572,what is Kylian Mbappé age when he became the youngest French player to score at a World Cup?,18,
+1822,What is the name of the presenter who hosted most of the TV show America's Next Top Model?,BanX,Tyra Banks (wd:Q172303)
+2893,Who is the lead singer and front man of the iconic rock and roll band Guns N' Roses?,Axl Rose lml,
+3092,What were the demographics of black people in Memphis Tennessee when If Beale Street Could Talk was written?,Memphis,
+111,What is the name of the actress who plays the character Skyler White in the series Breaking Bad?,Anna Gunn,Anna Gunn (wd:Q271050)
+1685,Which fighting video game franchise developed by Midway Games was adapted into a live action movie in 1995?,Mortal Kombat,
+3312,"When was released the song ""I'm Your Angel"" in United States in the format of Contemporary hit radio?",13 October 1998,
+2210,What is the name of the actor who played the character Steve Taylor in the TV series Coupling?,Jack Davenport,Kate Isitt (wd:Q6375556)
+2919,What is the name of the political party that Clint Eastwood was affiliated to in the year 1970?,Republican Party,Libertarian Party (wd:Q558334)
+2047,What is the name of the actress who won the Academy Award in 2014 instead of Sandra Bullock?,Cate Blanchett,
+580,Director of the first part The Curse of the Black Pearl  in the flim Pirates of the Caribbean?,Gore Verbinski,
+3797,Who was the head coach of the United States men's national soccer team during the 2010 World Cup?,Bob Bradley,Mauricio Pochettino (wd:Q313000)
+2155,"In the sport of soccer, what the two most prestigious competitions?",UEFA Champions League,
+439,What is the name of the character played by the actor Cillian Murphy in the series Peaky Blinders?,Tommy Shelby,
+3906,Which album by The rolling stones was released first:The Rolling Stones No. 2 or you can't catch me?,The Rolling Stones No. 2,The Rolling Stones No. 2 (wd:Q930757)
+3179,Who was the author of the famed series of novels and short stories about the detective Hercule Poirot?,Hercule Poirot,Agatha Christie (wd:Q35064)
+576,"Who is the screenwriter  of the second part ""Dead Man's Chest"" in the flim Pirates of the Caribbean?",Terry Rossio,Ted Elliott (wd:Q943506)
+4487,What is the total number of players on each team in a game of soccer AKA association football?,11,
+5997,What was the name of the actor who played Willy Wonka in Willy Wonka and the Chocolate Factory?,Gene Wilder,
+5492,"When was the song ""Easy on Me"" released in United States in the format of Adult contemporary radio?",18 October 2021,
+5295,"Who was the head coach for CF Montréal soccer team from August 10, 2011 to November 3, 2012?",Jesse Marsch,
+6333,Which 1980 girl band had 30 Top 50 singles in the UK singles chart between 1982 and 2009?,Bananarama,
+9095,"When was the movie, The Lord of the Rings: The Fellowship of the Ring, directed by Peter Jackson?",2001,
+8729,What song did the band The Cranberries win a MTV Europe Music Award for Best Song in 1995?,Zombie,
+7204,Who wrote the novel A Song of Ice and Fire on which Game of Thrones was based on?,George R. R. Martin,George R. R. Martin (wd:Q181677)
+8492,What is the name of the street that the University of Television and Film Munich is found on?,Bernd-Eichinger-Platz,Bernd-Eichinger-Platz (wd:Q823225)
+9128,What is the FIFA organization that was founded in Mexico City and currently includes all of North America?,CONCACAF,
+4351,What number of years later was the sequel of The Bourne Identity released?,2,
+2283,Who played Lisbeth Salander in David Fincher's The Girl with the Dragon Tattoo?,Rooney Mara,
+2136,What costume designer received an Oscar nomination for working on the film Airport?,Edith Head,
+6462,What was the fee of Luís Figo's transfer from Barcelona to Real Madrid?,€62 million,Martina Kivač (wd:Q999982)
+3385,What country did the United States play against in the 2009 FIFA Confederations Cup final?,Brazil national football team,
+4580,Is the book Farmer boy based on the childhood of the Wilder's husband Almanzo Wilder?,Yes,Farmer Boy (wd:Q5435715)
+3156,Name the character played by the actor Robin Williams in the play Waiting for Godot.,Estragon,
+3858,Who was the captain of Manchester United F.C. when they won the 1999 FA cup?,Roy Keane,
+2048,What is the film which won Cate Blanchett the Oscar for best actress in 2014?,Blue Jasmine,
+1608,What is the name of the actress playing the role of Betty Cooper in Riverdale?,Lili Reinhart,Lili Reinhart (wd:Q28653501)
+1478,Who won the Los Angeles Film Critics Association Award for Best Actor in Ordinary People?,Timothy Hutton,
+1850,In the 1998-1999 NBC Must See TV lineup which show directly preceded Will & Grace?,Friends,
+1884,Did United States women's national soccer team also win the 2019 FIFA women's world cup?,Yes,
+2774,What is the name of the Queen band member who wrote the song Bohemian Rhapsody?,Freddie Mercury,Freddie Mercury (wd:Q15869)
+2133,"In what year was the movie adaptation of the book Carrie, by Stephen King, made?",1976,
+1823,Who won the most Man of the match awards in the 2006 FIFA World Cup?,Andrea Pirlo,
+2890,Which well-known '70s comedian played a key role in writing the screenplay for Blazing Saddles?,Richard Pryor,
+2146,What was the name of the boy band who released the single MMMBop in 1996?,MMMBop,
+2524,What is the name of the character played by Leonardo DiCaprio in the film Titanic?,Jack Dawson,
+1444,Which writer's mother was named Anne-Charlotte-Laure Sallambier and was also conferred upon with Légion d'honneur?,Honor\u00E9 de Balzac,Honoré de Balzac (wd:Q9711)
+2896,What was the name of the 28-month tour Guns N' Roses embarked upon in 1991?,Use Your Illusion Tour,
+1305,What year were Simon & Garfunkel inducted into the Rock and Roll Hall of Fame?,1990,
+4171,What is the name of the actor cast opposite Rachel Weisz in the film Constantine?,Keanu Reeves,
+1230,What year did the first feature film adaptation of the novel Nineteen Eighty-Four come out?,1956,
+1921,What book followed the Fellowship of the Ring in the Lord of the Rings series?,The Two Towers,The Two Towers (wd:Q332388)
+4543,What member of the San Jose Earthquakes won the Landon Donovan MVP Award in 201?,Chris Wondolowski,
+1839,Which movie did Steven Spielberg directed the same year as Catch Me If You Can?,Minority Report,
+4812,How many goals did Pele scored for Brazil national football team in the year 1971?,1,
+4907,When was The Eye of the World from the Wheel of Time book series published?,15 January 1990,
+1588,Which English football club made history by being the first to achieve the European treble?,Manchester United F.C.,
+758,What was the next starring role Mel Gibson had after the science fiction movie Signs?,Edge of Darkness,
+2144,"What is the name of the ""middle member"" of the popular teen pop band Hanson?",Taylor Hanson,
+1923,Who dies in Lord of the Rings trying to get the ring back at Mordor?,Gollum,Frodo Baggins (wd:Q177329)
+4622,"What position did ""If You Had My Love"" debut at on the Billboard Hot 100?",If You Had My Love,
+1821,Who won the America's Next Top Model in the season next to Adrianne Curry's cycle?,Yoanna House,
+6162,What other cup besides the US Open Cup did Chicago Fire FC win in 1998?,MLS Cup,MLS Cup 1998 (wd:Q2487787)
+6316,Which 1925 novel set in the Jazz age is hailed as a Great American Novel?,The Great Gatsby,1920 (wd:Q2155)
+5820,Who are the producers of the Coloratura song from the album Music of the Spheres?,"M. Martin, Holter, Rahko",Max Martin (wd:Q318223)
+6009,What is the name of the actress who played Bloom in Fate: The Winx Saga?,Abigail Cowen,
+6601,"Did Elton John rewrite Candle in the Wind to be about Diana, Princess of Wales?",Yes,
+6593,Which character did Mark Hamill play in Star Wars: Episode IV – A New Hope?,Luke Skywalker,
+6486,Did the main character Daredevil appear in other Marvel Cinematic Universe tv shows and movies?,Yes,She-Hulk: Attorney at Law (wd:Q84712806)
+5791,What is the name of the show in which Shakira and Adam Levine were judges?,"The Voice, U.S. season 4",Party in the Park (wd:Q7141046)
+7068,Has The Independent selected The White Tiger as one of the 12 best Indian novels?,Yes,
+7667,In which year was the first novel Palace Walk in the series Cairo Trilogy published?,1956,
+7277,What is the publication date of the second book of the series The Kane Chronicles?,9 May 2011,
+7342,What was the name of the character played by Mel Gibson in the film Braveheart?,William Wallace,William Wallace (wd:Q82457)
+7119,Which American goalkeeper made 15 saves in a World Cup match against Belgium in 2014?,Tim Howard,
+9094,"What is the name of the first movie in the series, Lord of the Rings?",The Lord of the Rings: The Fellowship of the Ring,
+8031,What's the name of the 1960 psychological horror film produced and directed by Alfred Hitchcock?,Psycho,
+9389,What is the name of the actress playing the role of Carrie Mathison in Homeland?,Claire Danes,
+7100,The 1997 science fiction movie Contact was based on a novel written by which author?,Carl Sagan,
+6648,Which other book than Rabbit Is Rich has won a Pulitzer Prize for John Updike?,Rabbit at Rest,
+8802,Who was the Manager of St Johnstone F.C. when they won the 2014 Scottish Cup?,Tommy Wright,
+8564,What was the title of the second track on the album Peace by the Eurythmics?,I Saved the World Today,
+8751,In what year was Megan Rapinoe named one of Time Magazine's 100 most influential people?,2020,
+8739,"What actor played Robert Crawley, 7th Earl of Grantham in the TV series Downton Abbey?",Hugh Bonneville,
+7673,Who is the publisher of the character Deadpool on which the movie Deadpool is based?,Marvel Comics,Deadpool XXX: An Axel Braun Parody (wd:Q66459548)
+9301,Which was the last year that Mary Robinette Kowal won a Hugo Award before 2019?,2014,
+7516,What is the Publication date of the first book of the series His Dark Materials?,9 July 1995,
+7518,What is the Publication date of the Second book of the series His Dark Materials?,22 July 1997,
+7165,Who played the role of the former boxer Charlie's son in the movie Real steel?,Dakota Goyo,James Rebhorn (wd:Q726140)
+7279,What is the publication date of the last book of the series The Kane Chronicles?,2 May 2012,
+8756,"Who was the publisher of Kingdom Come, the final book in the left behind series?",Tyndale House,Tyndale House (wd:Q5408143)
+8816,Which book by John le Carré was the last to feature the character George Smiley?,A Legacy of Spies,
+4113,The name of the writer who wrote the script for the 1979 science fiction horror film Alien.,Dan O'Bannon,Dan O'Bannon (wd:Q498430)
+2510,What team won the gold medal for soccer in the men's division in the 2020 Summer Olympics?,Brazil Olympic football team,
+4349,What is the name of the actor who played the lead character role in the Bourne series?,Matt Damon,Franka Potente (wd:Q65105)
+1862,When did Alexandre Dumas get the final part of The Vicomte of Bragelonne: Ten Years Later published?,1850,
+1252,Which tv show did Joel de la Fuente worked on before starring in Space: Above and Beyond?,Due South,
+938,What is the name of the actor who plays the leading role in the movie The Terminator?,Arnold Schwarzenegger,Brad Fiedel (wd:Q896786)
+1667,"What is the award received for the episodes ""The Woman in Limbo"" in the tv series bones?",Genesis Award,
+1820,What is the name of the model who won the first cycle of America's Next Top Model?,Adrianne Curry,Adrianne Curry (wd:Q234423)
+194,What is the name of the movie released in 2004 did the singer Chris Martin appear in?,Shaun of the Dead,
+4129,What position did Portland Timbers ended up in at the end of the 2021 MLS regular season?,5th,
+748,What is the name of the football club that Oliver Kahn played for in the year 2001?,FC Bayern Munich,
+3379,Who was the actor who had the central role as Jack Bauer in the tv show 24?,Kiefer Sutherland,
+1691,On which social media platform did the pop rock band OneRepublic got their start before being signed?,Myspace,
+191,What is the name of the actress who played the leading role in the film Mean Girls?,Lindsay Lohan,
+3038,"Who is the screen writer of The Chronicles of Narnia: The Lion, the Witch and the Wardrobe?",Christopher Markus,Stephen McFeely (wd:Q5933887)
+4127,Who was the head coach for New York FC when they won the MLS Cup in 2021?,Ronny Deila,
+1866,What was the name of the leader of the evil Kryptonian leader in the first Superman movie?,General Zod,
+4353,What is the name of the single from Train that won two Grammys in the year 2002?,Drops of Jupiter,
+6058,Which Dublin based band has a lead singer who was named as Time Person of the Year?,U2,
+6456,What is the name of the role that the actor Nestor Carbonell played in the Lost series?,Richard Alpert,
+5365,What is the name of the film directed and written by John Hughes in the year 1984?,Sixteen Candles,
+6195,The first female professional soccer player to appear on the cover of FIFA video game is who?,Alex Morgan,
+5619,Who is the captain other than Lee Mack in the TV show Would I Lie to You??,David Mitchell,Rob Brydon (wd:Q2322261)
+6180,"In Babyface's cover of ""This Is for the Lover in You"" it featured which rapper beside Shalamar?",LL Cool J,
+5615,Who is the host of the TV series Would I Lie to You in the year 2019?,Rob Brydon,Rob Brydon (wd:Q2322261)
+5376,What is the name of the actor who plays the leading role in the TV series Blackadder?,Rowan Atkinson,Tim McInnerny (wd:Q552162)
+6444,What is the name of the character that was the protagonist in the movie The Lion King?,Simba,Simba (wd:Q1649583)
+8682,What was the first show to win the Outstanding Multi-Camera Picture Editing for a Comedy Series award?,The Adams Chronicles,How I Met Your Mother (wd:Q147235)
+7627,What is the name of the character played by Anthony Head in Buffy the Vampire Slayer series?,Rupert Giles,
+6834,"In the 2019 movie Little Women, did Josephine ""Jo"" March get her novel, titled Little Women, printed?",Yes,
+8747,Which country did the US Women's National Team defeat to win the Women's World Cup in 2015?,Japan women's national football team,Japan women's national football team (wd:Q388232)
+8699,Who is the author of the Wolf Hall book series?,Hilary Mantel,Hilary Mantel (wd:Q465700)
+8746,Which country did the US Women's National Team defeat to win the Women's World Cup in 2019?,Netherlands women's national football team,Netherlands women's national football team (wd:Q841563)
+9369,What was the name of the film directed by Sam Wood for his first assignment as director?,Double Speed,
+9112,"What is the last album that was recorded by artist George Harrison, from the band the Beatles?",Brainwashed,
+9117,"What actress was revealed to have been the mother, How I Met Your Mother was based on?",Cristin Milioti,
+7133,What is the name of the character played by Ana de Armas in No Time to Die?,Paloma,
+7782,How many goals Cristiano Ronaldo scored in 2007-2008 season in which he got the FIFA World Player?,42,
+8212,What's the name of the American sitcom series created by Bonnie Turner and Terry Turner in 1996?,3rd Rock from the Sun,
+9123,How many total awards did How I Met Your Mother eventually win through its full time on?,21,
+7036,Who was responsible for authoring many of the Hardy Boy books under the pseudonym Franklin W. Dixon?,Leslie McFarlane,
+8342,What was the next single released by Kylie Minogue after Can't Get You Out of My Head?,In Your Eyes,
+3134,Is the song La Isla Bonita on the Madonna album True Blue?,Yes,
+1239,did David Callaham write the screenplay for the sequel The Expendables 2?,No,Sylvester Stallone (wd:Q40026)
+6242,What are the names of the members who founded the band Nirvana?,lead singer and guitarist Kurt Cobain and bassist Krist Novoselic,
+7439,"Which album did Blue Oyster Cult produce first, Spectres or Club Ninja?",Spectres,Club Ninja (wd:Q583011)
+8705,What year did Thomas Cromwell die in the Wolf Hall book series?,1540,
+177,How many matches did Freddy Adu played for United States men's national soccer team?,17,
+1701,"In the 2013 biographical drama movie Jobs, which tech CEO did Ashton Kutcher portrayed?",Steve Jobs,
+2625,Was the song Wait and Bleed by the band slipknot nominated for a grammy?,Yes,
+4810,How many goals did Pele scored for New York Cosmos in the year 1975?,17,
+3777,How old was John Grisham when his novel A Time to Kill was published?,34,
+1942,What was the actors name who played Zack Morris in Saved by the Bell?,Mark-Paul Gosselaar,Dustin Diamond (wd:Q973475)
+2130,Who starred as the title character in the movie adaptation of the book Carrie?,Sissy Spacek,John Travolta (wd:Q80938)
+1882,Who was the actor who portrayed Captain Kirk in the original Star Trek series?,William Shatner,Eddie Paskey (wd:Q5336388)
+3509,In Oliver Twist what city did young Oliver run away to after a fight?,London,London (wd:Q84)
+2530,What year was the book Angry Blonde written by the rapper Eminem get published?,2000,
+1749,"When was the final James Bond Movie, No Time to Die released in theaters?",2021,
+92,What is the name of Emily Brontë's sibling who authored the book Jane Eyre?,Charlotte Bront\u00EB,
+2071,How many time was Aldous Huxley was nominated for the Nobel Prize in Literature?,9,
+3800,Who scored a goal against Algeria during group stage at the 2010 World Cup?,Landon Donovan,
+3161,Who was the guitar player that replaced Tom Topham in the band The Yardbirds?,Eric Clapton,
+2281,What is the name of the summer camp where Percy goes in Long Island?,Camp Half-Blood,
+1416,What actor played the titular character in Star Trek II: The Wrath of Khan?,Ricardo Montalb\u00E1n,Ricardo Montalbán (wd:Q333595)
+2046,Did Sandra Bullock win an Academy Award for best actress for the movie Gravity?,No,Paul Sharma (wd:Q7153551)
+1447,What is the title of the second film in the Star Wars prequel trilogy?,Star Wars: The Last Jedi,Star Wars: The Skywalker Saga (wd:Q64729658)
+4481,"What was the first year in which Second City Television, or SCTV, was broadcast?",1976,
+4910,Who is Rand al'Thor from the Wheel of Time book series the reincarnation of?,Lews Therin Telamon,
+4122,"Was Gene Roddenberry the creator of the previous series, Star Trek: The Original Series?",Yes,
+2293,What is the name of the band where Pete Townshend played before The Who?,Pete Townshend,
+1441,Which book of Honoré de Balzac is third to feature the character called Rastignac?,Les Secrets de la princesse de Cadignan,
+4811,How many goals did Pele scored for New York Cosmos in the year 1976?,26,
+1413,What was the name of the police officer chasing Jean Valjean in Les Misérables?,Javert,Javert (wd:Q2585477)
+4128,What team did New York FC defeated to win the MLS Cup in 2021?,Portland Timbers,
+1755,What year was Michael Jackson inducted into the Rock and Roll Hall of Fame?,list of Rock and Roll Hall of Fame inductees,
+2884,Who starred as T.S. Garp in the 1982 motion picture adaptation of the novel?,Robin Williams,
+2158,What terminology is used as a more formalized name for the sport of soccer?,soccer,
+3357,"When was Angels & Demons, the first book in the Robert Landon series, published?",1 May 2000,
+3146,In what year did the El Salvador national football team win the CCCF Championship?,1943,
+1869,Who did Terence Stamp play in Star Wars: Episode I – The Phantom Menace?,list of Star Wars characters,
+2618,Who was the spouse of Roger Rabbit in the film Who Framed Roger Rabbit?,Jessica Rabbit,Jessica Rabbit (wd:Q1631670)
+4360,Who played the character of Bob Saget's youngest daughter in the series Full House?,Mary-Kate Olsen,
+4476,In what year did the syndicated comedy series Second City Television (SCTV) first appear?,1976,
+2065,Which was the team that Hugo Lloris debuted against after he joined Tottenham Hotspur?,S.S. Lazio,Los Angeles FC (wd:Q18380286)
+1329,How did WetaFX created apes for Rise of the Planet of the Apes movie?,motion capture,
+1236,"In which 1995 action thriller movie did Antonio Banderas play an assassin, Miguel Bain?",Assassins,
+3160,Which actor plays the part of John Keating in the movie Dead Poet's Society?,Robin Williams,
+5006,Who played the part of the character Aragorn in The Lord of the Rings?,Viggo Mortensen,
+5331,Who created the original language for the film or television series Sense and Sensibility?,English,Jane Austen (wd:Q36322)
+5582,Who was Tim Rice's composing partner for the 1994 version of The Lion King?,Elton John,Hans Zimmer (wd:Q76364)
+6057,name of the movie that won the 93rd Oscar Award for the Best Picture?,Nomadland,
+5155,What is the date of birth of the The Incredible Hulk's writer Zak Penn?,23 March 1968,
+5364,Who is the writer of the movies The Breakfast Club and Pretty in Pink?,John Hughes,John Hughes (wd:Q311263)
+5157,What is the date of birth of the The Incredible Hulk's director Louis Leterrier?,17 June 1973,
+5030,Does Aslan appear in all of the books in the Chronicles of Narnia series?,Yes,"The Lion, the Witch, and the Wardrobe (wd:Q485093)"
+5053,Who scored the most goals for 1. FC Köln during the first Bundesliga season?,Karl-Heinz Thielen,
+6222,After Cristiano Ronaldo left Manchester United the first time what team did he join?,Real Madrid C.F.,Al-Nassr (wd:Q482764)
+6418,"Which artist sang the theme song ""Skyfall"" for the 2012 James Bond movie Skyfall?",Adele,Adele (wd:Q23215)
+5048,Which actor played the role of Tony Soprano on the TV series The Sopranos?,James Gandolfini,
+6147,What actor played the character Agent K in the movie Men in Black 3?,Tommy Lee Jones,
+6006,What year was the actress who played Stella in Fate: The Winx Saga born?,1995,Hannah van der Westhuysen (wd:Q98406804)
+6554,How many matches has Franz Beckenbauer played for Germany national football team in 1965?,3,
+5996,How many children did the director of Willy Wonka and the Chocolate Factory have?,3,
+7668,Which award was won by the Naguib Mahfouz - author of the Cairo Trilogy?,Nobel Prize in Literature,Grand Collar of the Order of the Nile (wd:Q95919064)
+8855,Who managed Liverpool F.C. when the won the final of the FA Cup 2000-01?,G\u00E9rard Houllier,
+7786,What is the date of publication of the first book of the Outland series?,1 June 1991,
+9331,Who contributed to Twoism but did not remain a member of Boards of Canada?,christ.,
+8202,What's the US release date for the second film in the Mad Max series?,24 December 1981,
+9016,How many matches has Jan Oblak played for Slovenia national football team in 2014?,1,
+8213,Which actor played the role of Dick Solomon on 3rd Rock from the Sun?,John Lithgow,
+7124,In a 2014 Word Cup game which American goalkeeper made 15 saves against Belgium?,Tim Howard,
+7268,What is the name of the actor of Damon Salvatore in The Vampire Diaries?,Ian Somerhalder,Ian Somerhalder (wd:Q130447)
+8716,What is the name of Vito Corleone's youngest son in The Godfather film series?,Michael Corleone,Fredo Corleone (wd:Q931582)
+7529,What is the date of birth of lead singer of the Band Bon Jovi?,2 March 1962,
+7176,For which movie did Hansal Mehta won the National Film Award for Best Direction?,Shahid,
+9337,Which shows besides The 100 won the Saturn Award for Best Youth-Oriented Television Series?,Teen Wolf,
+6853,Who was the winner of the last World Cup that Oliver Kahn played in?,Italy national association football team,
+7925,What was the name of the role played by Michelle Dockery in Downton Abbey?,Lady Mary Crawley,
+8035,Which actor played the character who killed Marion Crane in the shower in Psycho?,Anthony Perkins,Janet Leigh (wd:Q205314)
+7095,who wrote the novel that the 1997 science fiction movie Contact was based on?,Carl Sagan,Carl Sagan (wd:Q410)
+6977,In the first edition of Charlie and the Chocolate Factory what were the Oompa-Loompas?,Pygmy people,
+8203,Did Mel Gibson reprised his role as Mad Max Rockatansky in Mad Max 2?,Yes,
+9379,What is the name of the Sepultura member who replaced Max Cavalera in 1998?,Derrick Green,
+7495,Which is the year in which the director Stephen Chow his very first movie?,1994,
+6847,"Does the star of Mission: Impossible III, Tom Cruise, have any television work experience?",Yes,
+9021,On which date did Enrique Cerezo joined office as president of Atlético de Madrid?,28 May 2003,
+3985,Who is the author of the book The Girl Who Takes an Eye for an Eye?,David Lagercrantz,
+2636,What player scored the lone goal for West Germany in the 1982 Men's World Cup Final?,Paul Breitner,
+937,What is the name of the film that was the sequel to The Terminator ( movie?,Terminator 2: Judgment Day,Terminator 2: Judgment Day (wd:Q170564)
+1065,"Who were the song writers of the song ""I am not a woman, I’m a god""?","Ashley Frangipane,Trent Reznor,Atticus Ross,Johnathan Cunningham",
+3172,What is the number of episodes in the TV show Only Connect until 26 July 2021?,375,
+1809,What is the movie starring Alicia Silverstone that won her a multi-million dollar Colombia Pictures deal?,Clueless,MTV Movie Award for Best Villain (wd:Q1062026)
+1808,Which actress played the role of The Princess of France in the film Love's Labour's Lost?,Alicia Silverstone,
+3167,How many episodes of the TV series Only Connect are there as of 26 July 2021?,375,
+2056,What is the name of the band that produced the single My Generation in year 1965?,The Who,
+2279,What is the name of the second book in the series Percy Jackson and the Olympians?,The Sea of Monsters,The Sea of Monsters (wd:Q901384)
+464,"When was released the song ""Shape of You"" in United Kingdom in the digital download format?",10 February 2017,
+1364,"Did Tom Tom Club's song ""Genius of Love"" reach No. 1 position on any Billboard charts?",Yes,
+2882,"What is the occupation of T.S. Garp, the main character in The World According to Garp?",Writer,
+1357,Which author wrote the novel of the the same name that the movie was based on?,Richard Bachman,
+283,"When was released the song ""Into You"" in United States in the format of rhythmic contemporary?",28 June 2016,
+421,What award did the book The Old Man and the Sea win in the year 1953?,Pulitzer Prize for Fiction,Pulitzer Prize for Fiction (wd:Q833633)
+864,What has the home venue of the Kansas City Wizards been from 2011 to the present?,Children's Mercy Park,Arrowhead Stadium (wd:Q544553)
+3037,"Who is the director of The Chronicles of Narnia: The Lion, the Witch and the Wardrobe?",Andrew Adamson,Andrew Adamson (wd:Q432845)
+1952,Totally how many book were there in the series of the book A Study in Scarlet?,Four,
+4475,"Name the ""grunge"" artist who revolutionized the music industry before ending his own life in 1994.",Kurt Cobain,
+4391,What year was the actor who played Gary in Are you Afraid of the Dark born?,1975,
+3139,How many daily views did the Rachael Ray Show get on average during its first season?,2.6 million,
+2079,The type of car driven by James Dean when he was killed in an automobile accident?,Porsche 550,
+1844,Which music channel bought the right to broadcast the ARIA Hall of Fame ceremony in 2006?,MTV Classic Australia,MTV Classic Australia (wd:Q6718671)
+3285,What is the award nominated for the tv series wizards of waverly place in year 2008?,Wizards of Waverly Place,Directors Guild of America Award for Outstanding Directing – Children's Programs (wd:Q5280671)
+4695,"What year was the first book of the series ""A Song of Ice and Fire' Published?",1996,
+4378,Who was the actor that played Freddy Kreuger in the 1984 A Nightmare on Elm Street?,Robert Englund,
+2298,What was the name of the charactr played by Matthew Morrison in American Horror Story: 1984?,American Horror Story: 1984,
+2921,Which film by Clint Eastwood has won the maximum number of Academy Awards and BAFTA Awards?,Unforgiven,
+4182,What is the name of the actor who played the lead role in the series Joey?,Matt LeBlanc,Matt LeBlanc (wd:Q186896)
+4694,What is the name of the manager in 2017 of the soccer club Manchester United F.C.?,Jos\u00E9 Mourinho,
+6570,How high did Waiting for a Star to Fall get on the US Hot 100 chart?,5,
+6610,As of 2020 how many gold medals has the United States women's national soccer team won?,4,2019 FIFA Women's World Cup (wd:Q4630361)
+5401,Was the falling down song on the Selena Gomez & The Scene album Kiss & tell?,Yes,
+6193,What was the name of Megan Rapinoe's youth soccer team when she was in high school?,Sacramento Pride,Seattle Sounders Women (wd:Q3491781)
+6184,What is the name of the American sitcom that was created as a spin-off of Cheers?,Frasier,The Tortellis (wd:Q7769641)
+6413,John McClane in Die Hard series was based on a detective from which Roderick Torp novel?,Nothing Lasts Forever,
+6012,What year did André Jardine become head coach of the mens olympic soccer team for Brazil?,2019,
+5264,"When the soccer ""United States men's national soccer team"" has appeared in ten FIFA World Cups?",1930,
+6615,How many gold medals has the United States women's national soccer team won as of 2020?,4,
+6003,What is the name of the band that made the song A Horse with no Name?,America,America (wd:Q126852)
+5151,What is the date of publication of the novel Diary of a Wimpy Kid: Big Shot?,26 October 2021,
+6179,"Which R&B singer made a cover of ""This Is for the Lover in You"" in 1996?",Babyface,Shalamar (wd:Q1329167)
+5687,what year was the first book of the series To the Ends of the Earth Books?,1980,
+6183,"The 1980 single ""This Is for the Lover in You"" was recorded by which R&B act?",Shalamar,
+8222,Which country played the United States men's national soccer team on their first official international match?,Sweden national association football team,
+9082,"What year was the book ""And to Think That I Saw It on Mulberry Street"" published?",1937,
+8317,What is the name of the performer who played the role of Katniss Everdeen in film?,Jennifer Lawrence,
+9101,What was the name of the actor who played Bilbo Baggins in Lord of the Rings?,Elijah Wood,
+8702,What is the first name of the Cardinal that Thomas Cromwell advises Wolf Hall book series?,Thomas Wolsey,
+7097,In 1985 which Stephen King novel also made the Publishers Weekly list of best selling novels?,Skeleton Crew,
+8957,What was the original language of the All of Us Are Dead film or television show?,Q108699473,
+8736,"In what county is Highclere Castle, used in the TV Show Downton Abbey, actually located in?",Hampshire,Highclere (wd:Q5757909)
+9405,Which soccer player scored the second highest number of goals for the Poland national football team?,W\u0142odzimierz Luba\u0144ski,Ebi Smolarek (wd:Q245295)
+8755,"What year was the book Kingdom Come, the final book in the left behind series released?",2017,
+7978,Which album by The Beach Boys was released first: Surfin' Safari or Little Deuce Coupe ?,Surfin' Safari,
+3513,Did Dan Aykroyd and Harold Ramis play any roles in Ghostbusters?,Yes,Timothy Carhart (wd:Q941712)
+2302,When did Lionel Messi make his competitive debut in F.C. Barcelona?,Lionel Messi,
+4346,How many years after The Bourne Identity was its sequel released?,2,
+6215,Is Seth MacFarlane thhe voice of Steve Smith in American Dad!?,No,
+8542,What did Bella and Edward name their daughter in Breaking Dawn?,Renesmee Cullen,Renesmee Cullen (wd:Q2456444)
+1693,What is the title of the second single on OneRepublic's third album Native?,Counting Stars,
+3129,Who plays the role of Indiana Jones in Raiders of the Lost Ark?,Harrison Ford,
+2094,Which football club Kaka was playing for when he won the Ballon d'Or?,A.C. Milan,
+2526,Which actress played the part of Rose DeWitt Bukater in the film Titanic?,Kate Winslet,
+1617,What other club than Inter Milan has Stadio Giuseppe Meazza as home ground?,A.C. Milan,Inter Milan (wd:Q631)
+1299,How many Golden Globe Awards did One Flew Over the Cuckoo's Nest get?,6,
+1354,Who was the Spanish king when part 1 of Don Quixote was published?,Philip III of Spain,
+1440,In which year did Honoré de Balzac write the work La Comédie humaine?,1829,
+2060,Name of the director who directed the first episode of the show Vikings?,Johan Renck,Ken Girotti (wd:Q6387679)
+1706,What was New England Revolution's final position after the 2021 regular MLS season?,1st,
+2234,Has A. R. Rahman awarded by Padma Bhushan in 2010 by Indian Governement?,Yes,
+1495,Who did Chelsea Football Club lose to in the 1915 FA Cup Final?,Sheffield United F.C.,
+1485,What year did Gordon Lightfoot receive the Canadian Songwriters Hall of Fame award?,2003,
+3407,Who is the Rose Patten Preceded by Chancellor of the University of Toronto?,Michael Wilson,
+3786,What was Black Eyed Peas' debut album after being signed by Interscope Records?,Behind the Front,
+4483,The FIFA World Cup has taken place every four years since what year?,1930,
+4666,What book other than To Kill a Mockingbird of Harper Lee got published?,Go Set a Watchman,To Kill a Mockingbird (wd:Q212340)
+3155,Who plays the role of John Keating in the film Dead Poet's Society?,Robin Williams,
+2296,What is the name of the actor who played Will Schuester on Glee?,Glee,Matthew Morrison (wd:Q294812)
+2538,Which actor played the role of Eric Murphy in the TV series Entourage?,Kevin Connolly,Kevin Connolly (wd:Q359331)
+1878,How many episodes of the original Twilight Zone did William Shatner appear in?,2,
+4677,Which famous singer was a member of the bands Aerosmith and Chain Reaction?,Steven Tyler,
+4421,Did James Gandolfini win any awards for play Tony Soprano in The Sopranos?,Yes,Primetime Emmy Award for Outstanding Lead Actor in a Drama Series (wd:Q989439)
+1328,Which company did visual effects for Rise of the Planet of the Apes?,WetaFX,Ingenious Media (wd:Q646968)
+1436,How many goals did Harry Kane score in the 2020-2021 Premier league season?,23,
+4801,What is the date of birth of the Queen's lead guitarist Brian May?,19 July 1947,
+1854,Was Sean Johnson drafted in the first round of the 2010 MLS SuperDraft?,No,
+1947,In the Laws of the Game for soccer what is rule 3 about,football positions,
+3834,Who is the writer of the books State of Fear and Jurassic Park?,Michael Crichton,
+2497,Who was the actor who starred as Scott Calvin in The Santa Clause?,Tim Allen,Scott Wickware (wd:Q7437502)
+4805,Did Yeon Sang-ho wrote and directed the animated film The King of Pigs?,Yes,Yeon Sang-ho (wd:Q19947205)
+1680,Which author wrote The Adventures of Tom Sawyer and Adventures of Huckleberry Finn?,Mark Twain,
+2613,Who was the daughter of Alexandre Manette in A Tale of Two Cities?,Lucie Manette,
+4461,Who directed the 1981 motion picture adaptation of Peter Straub's novel Ghost Story?,John Irvin,John Irvin (wd:Q1700561)
+1241,"Antonio Banderas played an assassin, Miguel Bain, in which 1995 action thriller film?",Assassins,
+435,What is the number of children Jennifer Lopez and Marc Anthony together have?,2,
+4604,How many goals did Paul Pogba scored for France national under-18 football team?,1,Didier Domi (wd:Q927760)
+2624,What is the fourth track on the album Slipknot by the band Slipknot?,Wait and Bleed,
+633,What is the name of the Captain of the ship Pequod in Moby-Dick?,Captain Ahab,Ishmael (wd:Q6080485)
+4603,How many matches did Paul Pogba played for France national under-18 football team?,6,
+4596,Has developer Jason Rothenberg wrote any episodes of the TV series The 100?,Yes,
+1744,What was the name of the book that James Bond first appeared in?,Casino Royale,
+1814,What is the name of the co-founder of Megadeth along with Dave Mustaine?,David Ellefson,Kiko Loureiro (wd:Q601977)
+2137,"In the 1970 film Airport, from what city does the doomed plane depart?",Chicago,
+2131,What was the year of publication of the book Carrie by Stephen King?,1974,
+4586,What is the date of birth of the Cars movie director John Lasseter?,12 January 1957,
+2145,From what city and state do the members of the band Hanson originate?,Tulsa,
+1603,What is the name of the label that released the album Purple Rain?,Warner Records Inc.,Warner Bros. Records (wd:Q843402)
+1227,What year did the football club Stoke City F.C. own the Victoria Ground?,1919,
+2063,Who is the captain of both French football team and Tottenham Hotspur F.C.?,Hugo Lloris,
+1238,What year did Sylvester Stallone started the ensemble action movie franchise The Expendables?,2010,
+4560,Who was the lyricist of title song Maa Tujhe Salaam of Vande Mataram?,Mehboob Kotwal,
+1235,The novel Nineteen Eighty-Four's first feature film adaptation came out in what year?,1956,
+6191,Did Alex Morgan score any goal in the 2019 FIFA Women's World Cup?,Yes,
+5004,Who played the character of Frodo Baggins in The Lord of the Rings?,Elijah Wood,Elijah Wood (wd:Q483771)
+6223,In what year did Real Madrid CF win their first FIFA World Cup?,2014,
+5070,Which year Grammy Award for Best Rock Instrumental Performance awarded to Pink Floyd?,1994,
+5622,Who was the captain of Germany when they won the 2014 world cup?,Philipp Lahm,İlkay Gündoğan (wd:Q161089)
+5052,How many matches did 1. FC Köln win during the first Bundesliga season?,17,
+5782,Which actress plays a role in the movies Freaky Friday and True Lies?,Jamie Lee Curtis,Jamie Lee Curtis (wd:Q106997)
+5169,What is the release date of the Jeff Russo's first album Lemon Parade?,16 July 1996,
+5472,How many International matches played for Portugal national football team by João Félix?,20,
+6494,Which clubs in the Superclasico won the Primera Division league title in 2021?,list of Argentine football champions,
+6161,How many titles has Chicago Fire FC won in the US Open Cup?,4,
+6493,"In Bueno Aires, the Superclasico refers to the rivalry between which two clubs?",Boca Juniors,
+6182,What is LL Cool J's role on the 2009 police procedural tv series?,Sam Hanna,
+6165,Bethlehem Steel's won how many titles in the Lamar Hunt U.S. Open Cup?,5,
+6344,What is the total number of goals secured by Marco Reus for Germany?,15,
+5095,How many nominations for the Academy Award did The Wizard of Oz receive?,6,Academy Award for Best Original Score (wd:Q488651)
+6475,Michael B. Jordan played a character name Wallace in which HBO crime-drama series?,The Wire,
+9108,"What is the real name of the member of the Beatles, Ringo Starr?",Sir Richard Starkey,
+6892,Who won the Oscar for Best Actor for the film The King's Speech?,Colin Firth,
+8859,Who did Arsenal F.C. defeat in the semi-final of the FA Cup 2000-01?,Tottenham Hotspur F.C.,
+6672,What is the name of the Croatian national  team captain before Luka Modrić,Darijo Srna,
+7536,What is the date of birth of the Permanent Roommates' actor Sumeet Vyas?,27 July 1983,
+9099,In what countries were the movies of The Lord of the Rings filmed?,protected area of New Zealand,
+7804,What is the date of birth of the Special OPS's creator Neeraj Pandey?,17 December 1973,
+9317,Which lead actress appeared in both Terms of Endearment and The Evening Star?,Shirley MacLaine,
+6851,How many games did Oliver Kahn played with Die Mannschaft before his retirement?,86,
+6827,"What was the date of birth of Crime and Punishment's author, Fyodor Dostoevsky?",9 February 1881,
+7716,Did Milo Ventimiglia also act in The Art of Racing in the Rain?,Yes,Milo Ventimiglia (wd:Q83733)
+7792,Who is the director of the first movie of the The Expendables series?,Sylvester Stallone,Sylvester Stallone (wd:Q40026)
+6768,Did Robert Jordan author the last book in the Wheel of Time series?,No,
+8700,What is the name of the second book in the Wolf Hall trilogy?,Bring Up the Bodies,
+8956,Who from the cast of All of Us Is Dead is still alive?,Yoon Chan-yeong,
+9387,Name the band from Brazil whose members were Paulo Jr and Andreas Kisser.,Sepultura,
+9185,What was Croatia national football team placing in the 2018 FIFA world cup?,2,
+7794,Who is the director of the second movie of the The Expendables series?,Simon West,Simon West (wd:Q442740)
+2916,Which Clint Eastwood movie has won the most number of Academy Awards and BAFTA  Awards?,Unforgiven,
+1253,The science fiction tv series Space: Above and Beyond originally aired on which tv network?,Fox Broadcasting Company,Fox Broadcasting Company (wd:Q166419)
+476,Who was the shirt sponsor of the Chicago Fire Football Club in 2019 to present?,Motorola,Motorola (wd:Q259011)
+4482,"In the game of soccer (or association football), how many players are on each team?",11,
+3778,Did a real life court case inspired John Grisham to write A Time to Kill?,Yes,
+3632,Who played the voice actor for Batman in the movie Batman: Death in the Family?,Bruce Greenwood,Vincent Martella (wd:Q948952)
+1062,"What was the genre of the song ""I am not a woman, I’m a god""?","Rock,Pop",synth-pop (wd:Q1298934)
+945,What is the album from the band Def Leppard that follows On Through the Night?,High 'n' Dry,
+1893,What is the award received in 1981 by the book The Name of the Rose?,Strega Prize,Strega Prize (wd:Q731542)
+1690,In 1995 which Midway Games' fighting game franchise was turned into a live action movie?,Mortal Kombat,
+1371,Which science fiction tv series did Charles Shaughnessy appeared in for one episode in 2004?,Stargate SG-1,
+3522,"Which Coldplay song, ""Fix You"" or "" Viva la Vida"", has a longer album version?",Fix You,George Parker (wd:Q99674529)
+115,Which football club was represented by the soccer player Raúl González in the year 2002?,Real Madrid Castilla,
+819,"Who won the Best Film Editing award in Academy Awards for the movie ""The Matrix""?",Zach Staenberg,Zach Staenberg (wd:Q139384)
+1464,What was the name of the football club Mikel Arteta represented in the year 2003?,Rangers F.C.,Arsenal F.C. (wd:Q9617)
+3471,Which soccer player scored the most number of goals in the UEFA Euro 2004 tournament?,Milan Baro\u0161,
+4610,What was the date that Knickerbocker Building added to the National Register of Historic Places?,Knickerbocker Building,
+3563,Who was the kit manufacturer from 2015 to present for New York City Football club?,Adidas,
+3802,In 2010 who coached the United States men's national soccer team at the World Cup?,Bob Bradley,Mauricio Pochettino (wd:Q313000)
+1816,What is the name of the album that featured bass player Cliff Burton the last?,Master of Puppets,
+4732,Which actor plays the character of Daniel Kaffee in the movie A Few Good Men?,Tom Cruise,
+2891,What is the spoof of Western movies by Mel Brooks that was released in 1974?,Blazing Saddles,
+3206,When did The United States Soccer Federation become affiliated and a full member with FIFA?,1914,
+4320,"What award won the National Board of Review Awards in December 2, 2021 for ""Encanto""?",Best Animated Film,
+292,"Who was the Walter's cooking partner and former student in the series ""Breaking Bad"" ?",Jesse Pinkman,
+823,"When the song ""Cold Heart"" released in Italy in the format of Digital download streaming?",13 August 2021,Cold Heart (wd:Q4257233)
+3467,Name the actor playing the role of Ethan Burke in the TV series Wayward Pines?,Matt Dillon,Reed Diamond (wd:Q977086)
+845,Who is the author of the book the movie Kramer vs. Kramer is based on?,Avery Corman,Avery Corman (wd:Q352325)
+1067,"What was the genre of the song ""I am not a woman, I'm a god""?","Rock,Pop",synth-pop (wd:Q1298934)
+842,What is the name of the father of the narrator in To Kill a Mockingbird?,Atticus Finch,
+2533,What is the rap name of the rapper who also is famous as Slim Shady?,Eminem,
+3788,Which Black Eyed Peas member sang vocal on all the tracks for Behind the Front?,will.i.am,
+128,What's the run time for all the movies in the Harry Potter film series combined?,1179 minutes,
+2099,What year was the last book of the series Percy Jackson & the Olympians published?,2009,
+1066,"Who was the singer of the song ""I Am Not a Woman, I'm a God""?",Halsey,
+4841,Who was the top goal player as of 2021 in FIFA Beach Soccer World Cup?,Madjer,
+1534,What is the name of the author of the book Dream of the Red Chamber?,Cao Xueqin,Cao Xueqin (wd:Q182874)
+4120,Which actor portray Captain Jean-Luc Picard in the tv series Star Trek: The Next Generation?,Patrick Stewart,Patrick Stewart (wd:Q16296)
+4335,Who was the Kit manufacturer from 2012 to present for New England Revolution soccer club?,Adidas,
+1907,"Who directs season 1 episode ""Welcome to Matheson"" in the tv series locke & key?",Michael Morris,
+1063,"What was the label of the song ""I am not a woman, I’m a god""?",Capitol,
+445,What is the name of the club Wayne Rooney played for in the year 2003?,Everton F.C.,Everton F.C. (wd:Q5794)
+2216,What is the name of the football club Iker Casillas represented in the year 2002?,Real Madrid Castilla,
+1686,Which actor portrayed the Shaolin monk character Liu Kang in the 1995 movie Mortal Kombat?,Robin Shou,
+1953,What was the flat number of Sherlock Holmes in the novel A Study in Scarlet?,221B,221B Baker Street (wd:Q1992196)
+1061,"Who was the singer of the song ""I am not a woman, I’m a god""?",Halsey,
+2139,What was the name of the 1980 movie which spoofed the Airport series of films?,Airplane!,
+2066,What is the name of the footballer who captained the club S.S. Lazio in 2000?,Alessandro Nesta,
+2785,What is the football player Pelé's full given name in his native language Brazilian Portuguese?,Edson Arantes do Nascimento,Edson (wd:Q18697757)
+4507,What is the name of the actress playing the role of Vicki in Small Wonder?,Tiffany Brissette,Marla Pennington (wd:Q3849685)
+3290,What is the  Award recieved in 2008 by the tv series wizards of waverly place?,Wizards of Waverly Place,
+1362,"Which Tom Tom Club song is sampled by Mark Morrison's song ""Return of the Mack""?",Genius of Love,
+5616,In what year did Rob Brydon start hosting the show Would I Lie to You?,2009,
+5374,What is the name of the singer who sang the song Kiss from a Rose?,Seal,Seal (wd:Q218091)
+5005,Who was the creator of the character Frodo Baggins in The Lord of the Rings?,J. R. R. Tolkien,J. R. R. Tolkien (wd:Q892)
+5965,Which is the production company of the movie Dora and the Lost City of Gold?,Walden Media,MRC (wd:Q2856187)
+5963,Who is the screen writer of the movie Dora and the Lost City of Gold?,Nicholas Stoller,Nicholas Stoller (wd:Q2624066)
+5917,Which character in the TV series The Marvelous Mrs. Maisel was played by Michael Arden,The Marvelous Mrs. Maisel,
+5098,What was the name of the actress who played Dorothy in The Wizard of Oz?,Judy Garland,
+6178,"Which R&B group recorded the single ""This Is for the Lover in You"" in 1980?",Shalamar,Shalamar (wd:Q1329167)
+6437,What is the name of the creator of the characters of The Hardy Boys series?,Edward Stratemeyer,Franklin W. Dixon (wd:Q369206)
+9307,Mary Robinette Kowal was president of which organization for professional writers between 2019 and 2021?,Science Fiction and Fantasy Writers of America,
+9119,"What country did Robin Scherbatsky come from in the show, How I Met Your Mother?",Canada,United States (wd:Q30)
+7007,What is the name of the composer in the The Old Man and the Sea?,Bruce Broughton,
+8042,Which Warren G hip-hop single reached No. 2 on the Billboard Hot 100 in 1994?,Regulate,
+7509,What is the date of birth of the soccer player Neymar da Silva Santos Júnior?,5 February 1992,
+8367,When was the next World Cup after the 2010 FIFA World Cup in South Africa?,2014,
+6891,What was the name of the novel written in 1818 by Percy Bysshe Shelley's spouse?,"Frankenstein; or, The Modern Prometheus",
+6666,What is the name of the chef that won the Master Chef Australia season twelve?,Emelia Jackson,Emelia Jackson (wd:Q97576729)
+8221,When did the United States men's national soccer team play their first official international match?,20 August 1916,
+7326,Who played as mother character of the Maitreyi Ramakrishnan in Never have i ever series?,Poorna Jagannathan,
+8809,Which novel is the closest prequel to The Spy Who Came in from the Cold?,A Murder of Quality,
+9083,"What year did the book The Cat in the Hat, by Dr Seuss come out?",1957,
+8157,Director name of the first season “somebody’s dead” in the tv series Big Little Lies?,Big Little Lies,Jean-Marc Vallée (wd:Q500611)
+8735,What castle was used for exterior shots to represent Downton Abbey in the TV series?,Highclere Castle,"St. Anne's Priory, Coventry (wd:Q7587016)"
+9368,What is the name of the director of the film A Night at the Opera?,Sam Wood,Sam Wood (wd:Q457269)
+7325,"Who played the lead role as teen Indian girl in ""Never have i ever"" series?",Maitreyi Ramakrishnan,
+7009,What is the name of the company that distributes The Old Man and the Sea?,Netflix,Netflix (wd:Q907311)
+2501,Did John Prine win a Grammy for Fair & Square?,Yes,
+2541,What number of World Cups has Brazil won in total?,5,
+2750,Who played the character of Krishna of Goloka in RadhaKrishn?,Himanshu Soni,Sumedh Mudgalkar (wd:Q55634195)
+2881,In what year was The World According to Garp published?,1978,
+2493,Who played Scott Calvin's son Charlie in The Santa Clause?,Eric Lloyd,
+8583,When was David & Victoria Beckham's son Brooklyn Beckham born?,4 March 1999,
+3263,How many matches have Eden Hazard played for Belgium national football team?,116,
+3059,What year the first book of the series The Dark Tower released?,1982,Did C. S. Lewis write The Dark Tower?: An Examination of the Small-Sample Properties of the Thisted-Efron Tests of Authorship (wd:Q125916626)
+2075,Did Paul Verhoeven direct all three RoboCop movies from the original trilogy?,No,
+1843,When was Men at Work inducted into the ARIA Hall of Fame?,1994,
+1756,"Which American singer, songwriter and dancer was dubbed the ""King of Pop""?",Michael Jackson,Steven Paul Whitsitt (wd:Q66960604)
+2757,How many matches have Zinedine Zidane played for France national football team?,108,
+1602,In which year was the singer Prince's sixth album Purple Rain released?,1984,
+3173,Who captained the football club Chelsea in the 2012 Champions League final?,Frank Lampard,
+4348,Who is the director of the third film in the Bourne series?,Paul Greengrass,
+520,Who was the distributor of the picture 12 Years as a Slave?,Netflix,Netflix (wd:Q907311)
+897,How many number of national matches did Cristiano Ronaldo played for Portugal?,Six,
+2153,"By what other, more formal name is the sport of soccer known?",soccer,
+3164,What song did Eric Clapton write following his son Conor Clapton's death?,Tears in Heaven,
+2889,What famous American jazz musician makes an anachronistic cameo in Blazing Saddles?,Count Basie,John Morris (wd:Q203188)
+2050,What science fiction thriller movie featuring Sandra Bullock came out in 2013?,Gravity,
+135,Which of the Black Eyed Peas albums did Fergie first appear on?,Elephunk,
+1647,How many matches has Roque Júnior played for Brazil national football team?,48,
+2345,What is the date of birth of the Sooryavanshi director Rohit Shetty?,14 March 1974,
+1879,What was the first episode William Shatner appeared in in Twilight Zone?,Nick of Time,
+4799,Is John Deacon an active member of the Queen band right now?,No,Mike Grose (wd:Q6847086)
+4920,What's the name of the label that released Garlands by Cocteau Twins?,4AD,4AD (wd:Q238095)
+3840,Which actor played the character of Ivan Vanko in Iron Man 2?,Mickey Rourke,Olivia Munn (wd:Q236475)
+1580,What profession did Caleb have on the show Buffy the Vampire Slayer?,Priest,
+2179,"Who played Detective Rustin ""Rust"" Cohle in season one of True Detective?",Matthew McConaughey,Matthew McConaughey (wd:Q188955)
+4846,Name of the book published in 2002 in Dragonriders of Pern series?,A Gift of Dragons,
+3695,Name the actor who had Angelina Jolie and Jennifer Aniston as spouses?,Brad Pitt,Brad Pitt (wd:Q35332)
+493,What is the rating given by Entertainment Weekly to the album Confident?,B+,
+1868,Was Terence Stamp in Star Wars: Episode I – The Phantom Menace?,Yes,Terence Stamp (wd:Q77298)
+2965,How many matches did Eden Hazard played for Belgium national football team?,116,
+2899,On what date did the first episode of Saturday Night Live air?,11 October 1975,
+690,What is the release year of Leviathan Wakes of The Expanse series?,2011,
+2631,"In what war did Frank Costanza from the sitcom Seinfeld, serve in?",Korean War,
+434,Was Jennifer Lopez in a married relationship with the singer Mark Anthony?,Yes,Cris Judd (wd:Q744785)
+2630,What actor played the father of George Costanza in the sitcom Seinfeld?,Frank Costanza,I'm Telling You for the Last Time (wd:Q5966849)
+2097,What year did Inter Milan win their first FIFA Club World Cup?,2010,
+2853,Is Sirius Black a member of Prisoner of Azkaban in harry potter?,Yes,
+389,Which country was the winner of the FIFA World Cup in 2010?,Spain national association football team,Spain men's national football team (wd:Q42267)
+4928,What was the name of Lucille Ball's character on I Love Lucy?,Lucy,
+566,How many matches has Joshua Kimmich played for Germany national football team?,64,
+2966,How many goals did Eden Hazard scored for Belgium national football team?,33,
+942,Is Joe Elliot the singer a member of the band Def Leppard?,Yes,Joe Elliott (wd:Q541573)
+2513,How many times has Spain's Olympic football team played in the Olympics?,5,
+4479,"During its run on NBC, how many Emmy nominations did SCTV earn?",15,Canada's Walk of Fame (wd:Q857933)
+1482,What year was Gordon Lightfoot inducted into the Songwriters Hall of Fame?,2012,
+1583,What English football club was the first to achieve the European treble?,Manchester United F.C.,
+1296,Who stars in One Flew Over the Cuckoo's Nest as Randle McMurphy?,Jack Nicholson,
+1439,Which novelist's mother was Anne-Charlotte-Laure Sallambier and also won the Légion d'honneur?,Honor\u00E9 de Balzac,
+1143,Who first named the zeroth law of Robotics in Robots and Empire?,R. Daneel Olivaw,
+2093,In which year did the Brazilian footballer Kaka win the Ballon d'Or?,2007,
+1567,What was the first movie Mike Myers won an MTV award for?,Austin Powers: International Man of Mystery,
+1159,Was Sean Maguire in Kröd Mändoon and the Flaming Sword of Fire?,Yes,Sean Maguire (wd:Q2094185)
+3609,What TV show used Sweet and Low by Augustana in an episode?,Kyle XY,
+1376,Which club was Gareth Bale loaned to from Real Madrid in 2020?,Tottenham Hotspur F.C.,
+4005,Has Kevin Alejandro played a role in the web series Gemini Division?,Yes,
+1758,Who were the main three stars of the show when it premiered?,Three's Company,
+6445,Who is the voice actor for adult Simba in The Lion King?,Matthew Broderick,
+5576,What's Queen Elizabeth's relation to the main character in The King's speech?,Wife,Elizabeth II (wd:Q9682)
+4968,What is the date of birth of the Divergent's author Veronica Roth?,19 August 1988,
+6160,How many titles has Bethlehem Steel won in the US Open Cup?,5,
+6152,Which island was Billy Joel living on when he wrote Captain Jack?,Long Island,
+5577,Which Beethoven symphony was part of the soundtrack for The King's Speech?,Symphony No. 7,
+5144,In what year did Álvaro Morata begin playing with Real Madrid CF?,2010,
+6420,Who named Adele the Artist of the Year twice in the 2010s?,Billboard,Grammy Award for Best Female Pop Vocal Performance (wd:Q935283)
+5167,What is the genre of the TV series Cursed composer Jeff Russo?,rock music,fantasy television series (wd:Q98526245)
+5942,What is the Metacritic rating of the album Here We Go Again?,65/100,
+6429,Which American period sitcom did Topher Grace and Ashton Kutcher starred in?,That '70s Show,
+6588,Has George R. R. Martin write a New York Times best seller?,Yes,The Armageddon Rag (wd:Q7714277)
+5843,Which movie got Vivien Liegh the Oscar for best actress in 1952?,A Streetcar Named Desire,
+5086,What is the year pele received the award honorary citizen of Baltimore?,1973,
+6474,"Which actor played Apollo's son, Adonis in the Rocky franchise spin-offs, Creed?",Michael B. Jordan,Michael B. Jordan (wd:Q3308007)
+6221,In what year did Cristiano Ronaldo leave Manchester United the first time?,2009,
+5363,Which actress starred in both The Breakfast Club and Pretty in Pink?,Molly Ringwald,Molly Ringwald (wd:Q231460)
+5421,Was Charles Dickens granted the Fellow of the Royal Society of Arts?,Yes,
+6339,Which TV series with actor Charlie Sheen was created by Chuck Lorre?,Two and a Half Men,
+6270,What is the ranking of Kid A on rolling stone in 2009?,1,
+5383,How many years did John Terry play for the club Chelsea F.C.?,19,
+7159,When was first novel in the The Hunger Games Trilogy series released?,14 September 2008,
+8792,Who plays the Red Blood Cell in English for Cells at Work!?,Cherami Leigh,Yui Ishikawa (wd:Q8973140)
+7246,In which country was the novel The Stand by Stephen King published?,United States of America,
+9377,Which Brazilian band had Paulo Jr. and Andreas Kisser as band members?,Sepultura,
+9188,What year did France national football win the FIFA world cup first?,1998,
+8198,When was the publisher of The Demon-Haunted World by Carl Sagan founded?,1927,Random House (wd:Q744182)
+8209,Was Do You Wanna Ride? on Billboard's US Top R&B/Hip-Hop Album chart?,Yes,Do You Wanna Ride? (wd:Q5286394)
+8772,Which actress played Christine Daaé in The Phantom of the Opera film?,Emmy Rossum,Victor McGuire (wd:Q7926149)
+8036,Which 1960 psychological horror film was produced and directed by Alfred Hitchcock?,Psycho,
+7123,Was the White Star Lines ocean liner RMS Titanic build in Liverpool?,Yes,
+8999,Is Jason white active member of the band Green day or not?,No,Jason Freese (wd:Q946528)
+9147,Who played Charline in the movie Willy Wonka and the Chocolate Factory?,Peter Ostrum,
+6842,Which country does the company that bought out Columbia Records come from?,Japan,United States (wd:Q30)
+8574,"Who did Melvin Frohike call ""hot"" on the tv series The X-Files?",Dana Scully,
+9017,How many goals has Jan Oblak scored for Slovenia national football team?,0,
+8048,Ray Romano was the main star in which 1996 CBS sitcom series?,Everybody Loves Raymond,
+7787,Who is the author of the first book of the Outland series?,Diana Gabaldon,Diana Gabaldon (wd:Q272492)
+7534,What is date of birth of the Permanent Roommates' creator Arunabh Kumar?,26 November 1982,
+8801,What year did St Johnstone F.C. win the Scottish Cup before 2021?,2014,
+6840,"Which record label released Shakira's second English album, Oral Fixation, Vol. 2?",Epic Records,Epic Records (wd:Q216364)
+8550,What was the name of John Travolta's character in the movie Carrie?,Billy Nolan,Billy Nolan (wd:Q63884029)
+7057,How many total episodes were produced in 10 seasons of Hawaii Five-O?,Hawaii Five-0,
+8043,What's the name of the 1996 CBS sitcom series starring Ray Romano?,Everybody Loves Raymond,
+8562,When was the single Love Is a Stranger by the Eurythmics released?,8 November 1982,
+7121,What is the founding year of Tim Howard's last Premier League club?,1878,
+7493,What is the birth date of the Shaolin Soccer's director Stephen Chow?,22 June 1962,
+7354,What is the character played by Andrew Lincoln in The Walking Dead?,Rick Grimes,
+8045,Which real newspaper did Ray Barone on Everybody Loves Raymond work for?,Newsday,
+8277,Who was the voice of Hank Hill in King of the Hill?,Mike Judge,
+8559,When was the song Never Gonna Cry Again by the Eurythmics released?,May 1981,
+8822,Oliver Stone received his first Academy Award by working on which film?,Midnight Express,
+9111,"What is the album that contains the song, Help by the Beatles?",Help!,
+7003,Manchester United F.C. last won the FIFA world cup in what year?,2008,
+1158,In which year did Kröd Mändoon and the Flaming Sword of Fire come out?,2009,
+954,What is the name of the club he played for in the year 2000?,Juventus F.C.,
+4110,Did Sigourney Weaver reprise her role as Ripley in any of the Alien sequels?,Yes,Ellen Ripley (wd:Q988925)
+3363,Who did Michael Bay worked for when he was an intern at age 15?,George Lucas,
+1248,Which tv network originally aired the science fiction tv series Space: Above and Beyond?,Fox Broadcasting Company,Fox Broadcasting Company (wd:Q166419)
+1664,What is the award received in 1990 for Most Promising Actress by Vanessa Paradis?,Vanessa Paradis,César Award (wd:Q174389)
+666,who won the best visual effects award in 2021 satellite award for Tenet movie?,Andrew Jackson,
+3195,What place did G N' R Lies get to on the Billboard 200 charts?,Guns N\u2019 Roses,
+765,What was the first ever number one song on the US Billboard Hot 100?,Poor Little Fool,
+2043,Which novel of the author Colson Whitehead won him another Pulitzer Prize for fiction?,The Nickel Boys,The Nickel Boys (wd:Q85808003)
+1098,who is the actor played as Sheldon Sampson/The Utopian in Tv series Jupiter's Legacy?,Josh Duhamel,Ben Daniels (wd:Q609458)
+4577,Which is the first book of the novel series Little House on the Prairie?,Little House in the Big Woods,
+3995,What is the release date of the album Made in India in CD form?,8 May 1995,
+865,What is the first year the Kansas City Wizards competed in the MLS Cup?,2004,
+4407,What was the next feature film Robert Zemeckis directed after Back to the Future?,Who Framed Roger Rabbit,
+1699,Who played the character of Lieutenant Commander JoAnne Galloway in A Few Good Men?,Demi Moore,Ron Ostrow (wd:Q7364230)
+1683,Which government official nominated Orion Clemens to the position of Secretary of Nevada Territory?,Abraham Lincoln,
+1369,"Which character played the main love interest of Francine ""Fran"" Fine on The Nanny?",list of The Nanny characters,Christopher Rich (wd:Q983486)
+332,which is the country of orgin of the book the Tale of peter Rabbit?,England,England (wd:Q21)
+3776,Was Carl Lee Hailey acquitted at the end of A Time to Kill novel?,Yes,
+1698,Which 1992 legal drama movie starring Tom Cruise that was written by Aaron Sorkin?,A Few Good Men,
+1565,Who played the Cat  in the 2003 adaptation of The Cat in the Hat?,Mike Myers,David Newman (wd:Q952428)
+4686,Who was the first winner of the first season of the TV series Survivor?,Richard Hatch,
+730,What is the name of the producer of the movie The Devil Wears Prada?,Wendy Finerman,
+298,"How many players in the Columbus Crew Soccer Club as of December 1, 2021?",31,
+4367,What is the name of the head coach of the club Hellas Verona F.C.?,Ivan Juri\u0107,Ivan Jurić (wd:Q556688)
+3914,Which character in the TV series The Conners was played by Johnny Galecki ?,The Conners,
+2178,What's the name of the theme song for the first season of True Detective?,Far From Any Road,
+4609,What building did the publishing company's printing and manufacturing office move into in 1889?,Knickerbocker Building,
+3240,What is the publication date of the book The Monk Who Sold His Ferrari?,21 April 1999,
+4464,For which 1979 movie did Dustin Hoffman win an Academy Award for Best Actor?,Kramer vs. Kramer,
+4913,What is the name of the first feature length film directed by Alfred Hitchcock?,The Pleasure Garden,
+4608,What was the original name of the G. P. Putnam's Sons and publishing company?,G. P. Putnam's Sons,
+1891,What is the language of work of the book The Name of the Rose?,The Name of the Rose,Italian (wd:Q652)
+2278,What is the name of the first novel of Percy Jackson and the Olympians?,The Lightning Thief,
+1232,What is the name of the ruthless dictator who rules Oceania in Nineteen Eighty-Four?,Big Brother,
+4023,who is win the favorite Bad Boys for Life of people choice awards win?,Will Smith,People's Choice Awards (wd:Q501058)
+4000,What is the launch date of the album Made in India in CD form?,8 May 1995,
+3322,"Who was the owner of the soccer club ""New York Red Bulls"" soccer team?",Red Bull GmbH,Red Bull GmbH (wd:Q698639)
+1848,Which two actors portrayed the titular protagonists in the tv sitcom Will & Grace?,Eric McCormack,
+4845,What year is the first year of the book series Dragonriders of Pern published?,1968,
+1313,What was the first year the prime time soap opera Dallas was on TV?,1978,
+1446,What is the title of the fourth film in the Star Wars film series?,Star Wars: Episode I \u2013 The Phantom Menace,
+673,in which award won the best song of MTV Europe music awards in 2021?,Bad Habits,
+4607,"What company originally published the 1973 novel ""The Taking of Pelham One Two Three?""",G. P. Putnam's Sons,G. P. Putnam's Sons (wd:Q3093062)
+231,Which character in the TV series Better call saul was played by Maximino Arciniega?,Better Call Saul,
+3841,What is the title of the movie that is sequel to Iron Man 2?,Iron Man 3,
+2528,What is the professional name of the popular rapper also known as Slim Shady?,Eminem,
+4936,What year was the first book of Discworld the comic fantasy book series released?,1983,
+3374,Who played the central character Jack Bauer in the action drama tv series 24?,Kiefer Sutherland,
+2635,In what city was the Final Match of the 1982 Men's World Cup played?,Madrid,Madrid (wd:Q2807)
+2550,What magazine was Oliver Twist published in before it was published as a book?,Bentley's Miscellany,Bentley's Miscellany (wd:Q2896754)
+1374,What year did Gareth Bale get his first cap with the Wales national team?,2006,
+2511,What team won the silver medal for men's soccer in the 2020 Summer Olympics?,Spain national under-23 football team,
+1233,"Who honored George Orwell as one of ""The 50 greatest British writers since 1945""?",The Times,
+1244,How many tracks were on side two of The Police's debut album Outlandos d'Amour?,5,So Lonely (wd:Q95644400)
+3358,"Who directed the first Dan Brown novel adaptation, The da Vinci Code in 2006?",Ron Howard,Ron Howard (wd:Q103646)
+1437,How many goals did the second place score in the 2020-2021 Premier league season?,22,
+793,What was the name of the next album released by Alexandra Stan after Saxobeats?,Clich\u00E9 (Hush Hush),
+2515,What team won the gold medal for men's soccer during the 2020 Summer Olympics?,Brazil Olympic football team,
+4345,in what year was the first appearance of the character Jeeves in a book?,1915,
+210,what year was the first book published of the series The Kent Family Chronicles?,1974,
+1675,What is the sports team played in 2012 to 2014 by Alessandro Del Piero?,Sydney FC,
+4473,What was the song that catapulted Kurt Cobain and his Nirvana bandmates to fame?,Smells Like Teen Spirit,
+1836,Which actor portrayed Frank Abagnale in the 2002 film Catch Me If You Can?,Leonardo DiCaprio,
+4336,Who was the head coach of the soccer club New England Revolution soccer club?,Brad Friedel,Tom Soehn (wd:Q7817645)
+3469,Who were the directors of the episode named MADMAX of the series Stranger Things?,Duffer Brothers,Ross Duffer (wd:Q28830397)
+3907,Was the down home girl on Rolling stones album The Rolling Stones 2 ?,Yes,Frédérique Arguello (wd:Q95746504)
+4256,Who played the Venom character role in the movie Venom: Let There Be Carnage?,Tom Hardy,Stephen Graham (wd:Q442547)
+3773,Is John Grisham's novel A Time to Kill based on a real life case?,Yes,
+1570,Who played the Cat in the film adaptation of The Cat in the Hat?,Mike Myers,
+4072,What is the name of the first book of the series The Farseer Trilogy?,Assassin's Apprentice,Royal Assassin (wd:Q926345)
+1219,What is the name of the father character in the TV series Family Guy?,Peter Griffin,
+422,What is the narrative place in the work The Old Man and the Sea?,Peru,The Old Man and the Sea (wd:Q26505)
+2771,What is the number of movies in the Home Alone series as of 2021?,6,Home Alone 4 (wd:Q946562)
+3321,"What was the nickname of the soccer club ""New York Red Bulls"" soccer team?",The Red Bulls Metro,
+1652,What is the form of creative work of the book Lord of the Flies?,novel,novel (wd:Q8261)
+4578,Which is the second book of the novel series Little House on the Prairie?,Farmer Boy,Little House in the Big Woods (wd:Q7173181)
+732,What is the name of the band Sting belonged to in the year 1977?,The Police,The Police (wd:Q178095)
+3782,What's the last movie Viggo Mortensen acted in before The Fellowship of the Ring?,28 Days,
+3712,What is the number of goals scored by Julio Salinas for Spain in football?,22,
+475,Who was the Who was the head coach of the Chicago Fire Football Club?,Ezra Hendrickson,Gregg Berhalter (wd:Q708694)
+5428,Who is the actor playing the role of Raymond in the movie Rain Man?,Dustin Hoffman,
+5567,What is the first book published in the Loyal League series by Alyssa Cole?,Q110363123,When No One Is Watching (wd:Q115682913)
+5964,Who is the composer of the movie Dora and the Lost City of Gold?,John Debney,
+5976,What is the original language of the tv series On the Wings of Love?,Filipino,Filipino (wd:Q33298)
+5700,Which album by The Beatles was released first:Please Please Me or Let It Be?,Please Please Me,
+5966,Who is the Distributor of the movie Dora and the Lost City of Gold?,Paramount Players,Paramount Players (wd:Q30644098)
+5847,Which actress won the Academy Awards for the best actress in the year 1952?,Vivien Leigh,
+5876,"What was the review score by Rotten Tomatoes for the movie ""The Night House""?",87%,
+6484,The superhero tv series Agents of S.H.I.E.L.D. was a part of which superhero franchise?,Marvel Cinematic Universe,
+5282,"When was the song ""Shivers"" released the format of Adult contemporary radio in USA?",13 September 2021,
+5528,Who is the Original Broadcaster of Season 1 of the tv series The Tunnel?,Sky Atlantic,Sky Atlantic (wd:Q3510971)
+5978,What is the narrative location of the tv series On the Wings of Love?,San Francisco,San Francisco (wd:Q62)
+6335,What is the number of seasons in the Two and a Half Men series?,12,
+5147,Which is the first novel of the book series Diary of a Wimpy Kid?,Diary of a Wimpy Kid,
+5152,Which is the initial novel of the book series Diary of a Wimpy Kid?,Diary of a Wimpy Kid,
+6073,What is the name of the chairman of the football club Manchester City F.C.?,Khaldoon Al Mubarak,Khaldoon Al Mubarak (wd:Q515133)
+5150,Which is the last novel of the book series Diary of a Wimpy Kid?,Diary of a Wimpy Kid: Big Shot,
+5408,Which character in the TV series Saturday night live was played by Norman Reedus?,Saturday Night Live,
+5714,In which competition did FC Barcelona play Portugal national association football team in 2012?,UEFA Euro 2012,
+6454,Which series co-created by Jeffrey Lieber was an adaptation of the film Cast Away?,Lost,
+6457,In which sitcom did the actor Nestor Carbonell play the role of Luis Rivera?,Suddenly Susan,
+6465,Which football player was the recipient of 2001 FIFA World Player of the Year?,Lu\u00EDs Figo,
+5480,"Who was the Huck's best friend in the book of ""Adventures of Huckleberry Finn""?",Tom Sawyer,
+6210,What year was number 1 in the 1993 year end chart for pop singles?,I Will Always Love You,
+5277,"Who won the best actor award in Empire Awards for the movie ""American Sniper""?",Bradley Cooper,
+5620,Who hosted the TV show Would I Lie to You in the year 2019?,Rob Brydon,
+5975,Who is the original broadcaster of the tv series On the Wings of Love?,ABS-CBN Corporation,ABS-CBN Corporation (wd:Q287617)
+9097,"Who in the movie The Lord of the Rings, was the music produced by?",Howard Shore,Howard Shore (wd:Q207773)
+8153,Who received the award golden globe in the tv series Big Little Lies ?,Nicole Kidman,
+6900,What is the name of the lead vocalist of the band Guns N' Roses?,Axl Rose lml,
+6771,What is the name of the first book in the Wheel of Time series?,The Eye of the World,The Dragon Reborn (wd:Q786522)
+7145,Who was the actress who played the second version of Xev Bellringer on Lexx?,Xenia Seeberg,Eva Habermann (wd:Q66742)
+7727,What is the name of the illustrator for A Tale of Two Cities ?,Hablot Knight Browne,Hablot Knight Browne (wd:Q2737410)
+9356,What is the name of the school that was the basis of Malory Towers?,Benenden School,book series (wd:Q277759)
+9127,"What country was Gianni Infantino originally from, who is the current president of FIFA?",Switzerland,Switzerland (wd:Q39)
+8092,What was the Main subject of the Once Upon a Time in Hollywood movie?,Manson Family,Manson Family (wd:Q1722708)
+9309,Who was the first president of the Science Fiction and Fantasy Writers of America?,Damon Knight,
+9408,What was the name of the home ground for the club K.S.C. Lokeren Oost-Vlaanderen?,Daknamstadion,Daknamstadion (wd:Q677582)
+8379,What is the name of first part of the book Lord of the Rings?,The Fellowship of the Ring,Appendices of The Lord of the Rings (wd:Q334335)
+8288,How many day did Piscine survive in sea in the book Life of Pi?,227 days,
+8028,"Who was the bookshop owner that Little, Brown and Company traces its roots to?",Ebenezer Battelle,James Brown (wd:Q6130342)
+8588,What is the name of the first book of the series The Mortal Instruments?,City of Bones,
+8575,Who composed the music for the opening theme of the tv series The X-Files?,Mark Snow,
+7567,Name of the actor who played the role Walter White in Breaking bad series?,Bryan Cranston,Bryan Cranston (wd:Q23547)
+7644,What is the name of the first part of the Harry Potter film series?,Harry Potter and the Philosopher's Stone,Harry Potter and the Philosopher's Stone (wd:Q719960)
+7840,Date of the first goal scored by wayne rooney in FIFA Club World Cup?,18 December 2008,
+9096,"What is the second movie in the film series, The Lord of the Rings?",The Lord of the Rings: The Two Towers,Peter Jackson's Middle-earth film series (wd:Q26214973)
+9076,When was the first time the US women's soccer team received a gold medal?,1996,
+8732,In what county was Downton Abbey be located in for the fictional TV Series?,Yorkshire,Yorkshire (wd:Q163)
+8851,In what year in the 1980s were new Mission: Impossible TV shows first released?,1988,
+6671,What is the name of the captain of the Croatia national association football team?,Luka Modri\u0107,Luka Modrić (wd:Q483837)
+8424,What is the name of the first book of the series The Dark Tower,The Dark Tower: The Gunslinger,The Dark Tower II: The Drawing of the Three (wd:Q1256948)
+8259,What is the name of the author who wrote A Tale of Two Cities?,Charles Dickens,Charles Dickens (wd:Q5686)
+9374,Who was the Chief Executive Officer of the company Paramount Pictures in August 2021?,Jim Gianopulos,Jim Gianopulos (wd:Q6195201)
+7845,What is the first book called in the The Lord of the Rings Trilogy?,The Fellowship of the Ring,
+7645,What is the name of the production company of the Harry Potter film series?,Warner Bros.,1492 Pictures (wd:Q678058)
+7010,In which year did the novel The Old Man and the Sea come out?,1990,
+9306,What other career does Mary Robinette Kowal have in addition to being an author?,puppeteer,novelist (wd:Q6625963)
+8958,What is the country of origin for the serial All of Us Are Dead?,Q108649473,South Korea (wd:Q884)
+8095,who was the film editor of the Once Upon a Time in Hollywood movie?,Fred Raskin,Fred Raskin (wd:Q3086942)
+6918,What is the name of the first part of the book series The Expanse?,Leviathan Wakes,Leviathan Wakes (wd:Q6535598)
+7637,What is the name of the publisher of the book The Origin of Species?,John Murray,
+8537,Who got a paper cut on their 18th birthday in the book New Moon?,Bella Swan,
+9075,When was the first time the US women's soccer team went to the Olympics?,1996,
+9406,What is the name of the Belgian club where Włodzimierz Lubański was a member?,K.S.C. Lokeren Oost-Vlaanderen,Valenciennes F.C. (wd:Q212269)
+8094,who was the director of the Once Upon a Time in Hollywood movie ?,Quentin Tarantino,Quentin Tarantino (wd:Q3772)
+7965,What year was the first book of the series Alfred A. Knopf Inc published?,1970,
+7108,Adam Levine is a member of which pop rock band that formed in 1994?,Maroon 5,
+8743,Did the US Women's National Soccer Team win the Women's World Cup in 2015?,yes,Japan women's national football team (wd:Q388232)
+7624,"Which actress played the lead role in the TV series, Buffy the Vampire Slayer?",Sarah Michelle Gellar,
+8752,"In 2019, did the US Women's National Soccer Team win the Women's World Cup?",yes,
+8152,Who directs the first season “somebody’s dead” in the tv series Big Little Lies?,Big Little Lies,
+9321,What movie starring Jack Nicholson was the last to be released in the 1990s?,As Good as It Gets,
+7871,What is the capacity of The City of Manchester stadium for domestic football games?,City of Manchester Stadium,
+8026,The name of the book J.D. Salinger released after The Catcher in the Rye?,Nine Stories,
+8375,What is the award received in 2009 by the book Lord of the Rings?,Prometheus Award,
+3739,Who is a part of Luis Suárez sports team?,Club Nacional de Football,Deportivo de La Coruña (wd:Q8760)
+5336,Who is responsible for the distribution of Seven Movies?,Netflix,
+3792,Did Trey Parker and Matt Stone voice any South Park characters?,Yes,Marc Shaiman (wd:Q979312)
+1575,Lin-Manuel Miranda played the role of who in the musical Hamilton?,Alexander Hamilton,
+2788,In which year did the soccer player Pelé marry Marcia Aoki?,2016,
+1168,Has the Japan national football team ever won a world cup?,No,
+2068,Who captains the French soccer team and the club Tottenham Hotspur?,Hugo Lloris,
+4925,Who played Ethel Mertz in the TV series I Love Lucy?,Vivian Vance,
+1849,Was Will & Grace in the NBC's Must See TV lineup?,Yes,
+196,What is the name of Chris Martin and Gwyneth Paltrow's daughter?,Apple Martin,
+1417,Did Ricardo Montalbán have a role in Spy Kids 3-D:game Over?,Yes,Bobby Edner (wd:Q888528)
+3596,What award did the American Library Association give The Night Diary?,Newbery Medal,
+3836,Pseudonym of Michael Crichton used while writing the novel Grave Descend?,John Lange,
+2181,When did Season 2 of True Detective first air on HBO?,21 June 2015,
+3793,What year did Isaac Hayes who voiced Chef quit South Park?,2006,
+2305,From which club did Lionel Messi come from before joining PSG?,Lionel Messi,Inter Miami CF (wd:Q16844931)
+4169,What Daniel Craig movie came after Casino Royale in the series?,Quantum of Solace,
+4284,Which is the next book after Coolie of Mulk Raj Anand?,Two Leaves and a Bud,
+1429,What actor portrayed Fargo in the Warehouse 13 and Eureka crossover?,Neil Grayston,
+2489,What Jane Austen book was published next after Pride and Prejudice?,Mansfield Park,
+4198,Who played the title role in the 1996 adaptation of Matilda?,Mara Wilson,
+3159,What is the name of Robin Williams and Valerie Velardi's child?,Zachary Williams,
+861,How many Daytime Emmy Awards did The Oprah Winfrey Show get?,47,
+4663,How many goals have Lionel Messi scored for Paris Saint-Germain F.C.?,1,
+1166,What was France national football team first FIFA World Cup win?,2001 FIFA Confederations Cup,2003 FIFA Confederations Cup (wd:Q647475)
+494,What is the rating given by Metacritic to the album Confident?,74/100,
+4402,How many of the Ryanverse books were written by Tom Clancy?,17,
+639,How many Academy Awards was won by the film The Matrix?,Four,
+1886,Did Netherlands women's national football team win UEFA Women's Euro 2017?,Yes,Netherlands women's national football team (wd:Q841563)
+4296,What is the length of the Brutal song of Sour album?,2:23,
+4585,Who is the spouse of the Cars movie director John Lasseter?,Nancy Lasseter,
+2304,In what date Lionel Messi score his first goal with PSG?,28 September 2021,
+1745,How many James Bond Films have been produced by Eon Productions?,production of the James Bond films,
+3400,What is the rating on Entertainment Weekly of the album Funeral?,B+,
+4563,What is the first Hollywood movie A. R. Rahman scored music?,Couples Retreat,
+3690,Which actor was once married to Angelina Jolie and Jennifer Aniston?,Brad Pitt,Brad Pitt (wd:Q35332)
+1378,Did Gareth Bale play for Tottenham Hotspur before joining Real Madrid?,Yes,Wales national under-21 football team (wd:Q946297)
+436,What are the names of Jennifer Lopez and Marc Anthony's children?,Maximilian David Anthony,
+134,Which year did Fergie start collaborating with the Black Eyed Peas?,2002,
+158,Who is the spouse of the The Body's director Jeethu Joseph?,Linta Jeethu,
+2637,In how many Men's World Cups did Paul Breitner play in?,Paul Breitner,
+4420,Which actor played the role of Tony Soprano in The Sopranos?,James Gandolfini,James Gandolfini (wd:Q308722)
+1434,Liverpool F.C. got what position in the 2020-2021 Premier league season?,3,
+2142,"What number of brothers comprise the ""boy band"" known as Hanson?",3,Taylor Hanson (wd:Q2610405)
+2135,What movie started the air disaster series of films in 1970?,Airport,
+2173,Was the song Fade to Black on Metallica's Ride the Lightning?,Yes,
+4191,Total number of goals scored by Franz Beckenbauer for Bayern Munich?,75,
+3845,Which boy band had Justin Timberlake and Lance Bass as members?,NSYNC,
+2078,In 1955 which James Dean movies did Leonard Rosenman worked on?,East of Eden,
+4168,Which was the first James Bond movie to feature Daniel Craig?,Casino Royale,
+4662,How many matches have Lionel Messi played for Paris Saint-Germain F.C.?,10,
+253,What is the gating on Entertainment Weekly of the album Demi?,C+,
+1831,Which streaming platform made the novel into a six parts miniseries?,Hulu,
+1370,Which actor portrayed Maxwell Sheffield on the US sitcom The Nanny?,Charles Shaughnessy,Charles Shaughnessy (wd:Q122473)
+2080,Where the original RoboCop trilogy movies all direct by Paul Verhoeven?,No,RoboCop 3 (wd:Q841233)
+4931,Which team won the first MLS Cup in Major League Soccer?,D.C. United,D.C. United (wd:Q238593)
+1880,Who wrote Nick of Time in the original Twilight Zone series?,Richard Matheson,Richard Matheson (wd:Q325130)
+4605,Has Paul Pogba played for Manchester United F.C. Reserves and Academy?,Yes,AS Monaco FC (wd:Q180305)
+4807,Is The King of Pigs debut movie of the Yeon Sang-ho?,Yes,
+3850,What band comprised of Justin Timberlake and Lance Bass in it?,NSYNC,NSYNC (wd:Q154454)
+5136,Who was the voice actor for Meg Griffin in Family Guy?,Mila Kunis,Mila Kunis (wd:Q37628)
+6487,"Who played the Marvel character, Daredevil, in a 2003 movie first?",Ben Affleck,Mark Margolis (wd:Q934506)
+5606,Did Charlize Theron have a relationship with the actor Sean Penn?,Yes,Sean Penn (wd:Q44221)
+5432,What is the name of Elvis Presley and Priscilla Presley's daughter?,Lisa Marie Presley,
+6414,Which actor played Zeus Carver in Die Hard with a Vengeance?,Samuel L. Jackson,
+6480,What year did Yo-Yo Ma receive the National Medal of Arts?,2001,Polar Music Prize (wd:Q754841)
+5091,What is the name of Paul's father in the novel Dune?,List of Dune secondary characters,Leto I Atreides (wd:Q1078956)
+6332,Which band was Jacquie O'Sullivan a member of before joining Bananarama?,Shillelagh Sisters,singer-songwriter (wd:Q488205)
+6236,What job does Veronica Vaughn have in the movie Billy Madison?,school teacher,
+5040,Did the album The Smiths include the song Hand in Glove?,Yes,
+5473,How many matches has João Félix played for Portugal in 2019?,5,
+6485,What was the first MCU tv series that aired on Netflix?,Daredevil,
+5042,"When did The Smiths release the album Strangeways, Here We Come?",28 September 1987,
+5449,What is the date of birth of 2666's writer Roberto Bolaño?,28 April 1953,
+5474,How many goals has João Félix scored for Portugal in 2020?,3,
+5145,How many years did Álvaro Morata play for Real Madrid CF?,\u00C1lvaro Morata,
+5054,How many seasons did Karl-Heinz Thielen play for 1. FC Köln?,10,
+6407,When did Ray Bradbury published his first novel The Martian Chronicles?,4 May 1950,
+6408,Who awarded Ray Bradbury a special citation for his distinguished career?,Pulitzer Prize,Damon Knight Memorial Grand Master Award (wd:Q901462)
+5034,Did Stephen Fry have a role in the movie Gosford Park?,Yes,
+6424,Topher Grace and Ashton Kutcher starred in what American period sitcom?,That '70s Show,
+6423,"Who sang the 2012 James Bond movie Skyfall's theme song ""Skyfall""?",Adele,
+5575,What character does Helena Bonham Carter play in The King's Speech?,Queen Elizabeth The Queen Mother,
+6143,In which movie does Tommy Lee Jones play the character Two-Face?,Batman Forever,
+8760,What did Rayford Steele from Left Behind do as a job?,Pilot,revolutionary (wd:Q3242115)
+7290,Who is the producer of the song Love Buzz by Nirvana?,Jack Endino,
+6769,Who authored the last book in the Wheel of Time Series?,Brandon Sanderson,
+8557,When did Annie Lennox from the Eurythmics begin her solo career?,1992,
+6863,Is 365 days nominated for worst picture in Golden Raspberry Awards?,Yes,
+9162,What year did Ozzy Osbourne leave Black Sabbath the first time?,1978,
+6911,Which club was Neymar transferred to from the football club Barcelona?,Paris Saint-Germain F.C.,Santos F.C. (wd:Q80955)
+6871,What is the length of Karma Police song in Ok Computer?,4:25,
+8052,Which soccer club won the U.S. Open Cup title in 2019?,Atlanta United FC,Atlanta United FC (wd:Q16836317)
+7351,Was Michael Jackson a member of the band The Jackson 5?,Yes,The Jackson 5 (wd:Q43267)
+8460,What was the character Justin Chatwin played in Another Life series?,a scientist employed by United States Interstellar Command,
+9396,Which Emmy Award did Gideon Raff win in the year 2012?,Primetime Emmy Award for Outstanding Writing for a Drama Series,Primetime Emmy Award for Outstanding Writing for a Drama Series (wd:Q3123491)
+8833,Which Tears for Fears member wrote the songs on The Hurting?,Roland Orzabal,Curt Smith (wd:Q924035)
+7699,What city is the company who published Maisie Dobbs based in?,New York City,London (wd:Q84)
+7288,In which year did Nirvana released its first song Love Buzz?,1988,
+7115,Did Millennium or The Lone Gunmen lasted more than one season?,Yes,
+9404,Number of goals by Michal Helik for Poland national football team?,0,
+6848,Did J.J. Abrams do any work on Lost after his departure?,Yes,
+7914,What role did Christoph Waltz play in the film Inglorious Basterds?,Hans Landa,
+8769,What movie did Rob Lowe win a Golden Raspberry Awards for?,St. Elmo's Fire,Golden Raspberry Award for Worst Supporting Actor (wd:Q641316)
+8781,Is The Murder of My Sweet under the label Frontiers Records?,Yes,
+8170,In which movie did Ryan Gosling and Rachel McAdams appear together?,The Notebook,
+7158,Katniss Everdeen belongs to which district in The Huger Games Trilogy?,District 12,
+9342,Which season of Teen Wolf did Tyler Posey become a co-producer?,5,
