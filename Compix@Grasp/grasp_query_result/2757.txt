@@ -1,1 +1,1 @@
-3.0 (xsd:decimal)
+2.0 (xsd:decimal)

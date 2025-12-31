@@ -11,15 +11,23 @@ JSON_DIR = BASE / "Compix@Grasp/top1000"
 OUT_DIR = BASE / "Compix@Grasp/grasp_query_result"
 
 
-def extract_answer(text):
+def extract_first_answer(text):
     lines = text.strip().split('\n')
+    found_separator = False
 
-    last_line = lines[-1]
-    
-    part = last_line.split('|')
-    
-    if len(part) > 1:
-        return part[1].strip()
+    for line in lines:
+        line = line.strip()
+        
+        # 1. identify the separator line (---)
+        if '---' in line and '|' in line:
+            found_separator = True
+            continue 
+
+        # 2. take ONLY the first line that follows
+        if found_separator and '|' in line:
+            parts = line.split('|')
+            if len(parts) > 1:
+                return parts[1].strip() # return and stop directly !
     return None
 
 def main():
@@ -65,7 +73,7 @@ def main():
                 missing_result.append(qid)
                 continue
             
-            select_block = extract_answer(result)
+            select_block = extract_first_answer(result)
             if select_block:
                 result = select_block
 

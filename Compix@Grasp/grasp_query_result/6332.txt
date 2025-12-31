@@ -1,1 +1,1 @@
-singer-songwriter (wd:Q488205)
+singer (wd:Q177220)
