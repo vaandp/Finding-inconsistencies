@@ -1,12 +1,13 @@
 import pandas as pd
 import numpy as np
 from sentence_transformers import SentenceTransformer
+from sentence_transformers.util import cos_sim
 
 # 1. Load a pretrained Sentence Transformer model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # 2. Load the CSV file
-csv_path = "Compix@Grasp/Finding_Inconsistency/sample_contrast.csv"
+csv_path = "Compix@Grasp/Finding_Inconsistency/sample_contrast_bottom.csv"
 df = pd.read_csv(csv_path)
 
 # 3. Prepare the data - handle NaN values
@@ -33,11 +34,11 @@ for idx, row in df.iterrows():
     # Calculate embeddings for both answers
     embeddings = model.encode([compmix_answer, grasp_answer])
     
-    # Calculate similarity between the two embeddings
-    similarity = model.similarity(embeddings[0:1], embeddings[1:2])
+    # Calculate cosine similarity between the two embeddings
+    similarity = cos_sim(embeddings[0], embeddings[1])
     
     # Extract the scalar value from the tensor
-    score = float(similarity[0][0])
+    score = float(similarity.item())
     consistency_scores.append(score)
 
 # 5. Add the Consistency_score column to the dataframe
