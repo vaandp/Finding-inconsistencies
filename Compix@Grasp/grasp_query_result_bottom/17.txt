@@ -1,0 +1,4 @@
+Got 1 row and 2 columns:
+| band | location        |
+| ---- | --------------- |
+|      | Canada (wd:Q16) |

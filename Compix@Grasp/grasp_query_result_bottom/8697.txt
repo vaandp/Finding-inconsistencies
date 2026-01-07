@@ -1,0 +1,2 @@
+SPARQL execution failed:
+Invalid SPARQL query: The target ?homeVenueLabel of an AS clause was already used in the query body.

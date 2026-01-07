@@ -1,0 +1,3 @@
+Error executing SPARQL query over wikidata:
+failed to parse input: no matching token found from position 20: 'www.w3.org/2001/XMLSchema#
+SELECT ?publicationYear WHERE { wd:Q1384109 wdt:P577 ?publicationDate . BIND(XSD:YEAR(?publicationDate) AS ?publicationYear) }'

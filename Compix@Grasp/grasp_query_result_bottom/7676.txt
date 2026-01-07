@@ -1,0 +1,2 @@
+Error executing SPARQL query over wikidata:
+failed to parse input: parse error at position 16 for token SUBSTR with content 'SUBSTR' (the input most likely does not follow the grammar)

@@ -71,13 +71,18 @@ def main() -> None:
             "CompMix_answer_label",
             "CompMix_answer_id",
             "GRASP_SPARQL_answer",
-            "GRASP_SPARQL_answer_id"
+            "GRASP_SPARQL_answer_id",
+            "ID_match"
         ]
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
         writer.writeheader()
 
         missing = 0
         written = 0
+        id_matches = 0
+        id_mismatches = 0
+        both_empty = 0
+        one_empty = 0
 
         for row in reader:
             qid = (row.get("question_id") or "").strip()
@@ -91,6 +96,25 @@ def main() -> None:
 
             grasp_answer, grasp_answer_id = extract_grasp_answer(qid)
 
+            # Compare the IDs
+            compmix_id = answer_id.strip() if answer_id else ""
+            grasp_id = (grasp_answer_id or "").strip() if grasp_answer_id else ""
+            
+            # Determine match status
+            if not compmix_id and not grasp_id:
+                id_match = "Both_empty"
+                both_empty += 1
+            elif not compmix_id or not grasp_id:
+                id_match = "False"
+                one_empty += 1
+                id_mismatches += 1
+            elif compmix_id == grasp_id:
+                id_match = "True"
+                id_matches += 1
+            else:
+                id_match = "False"
+                id_mismatches += 1
+
             writer.writerow(
                 {
                     "Question_id": qid,
@@ -99,13 +123,22 @@ def main() -> None:
                     "CompMix_answer_id": answer_id,
                     "GRASP_SPARQL_answer": grasp_answer or "",
                     "GRASP_SPARQL_answer_id": grasp_answer_id or "",
+                    "ID_match": id_match,
                 }
             )
             written += 1
 
-    print(f"Written lines : {written}")
+    print(f"\n{'='*60}")
+    print(f"Statistics of ID matching")
+    print(f"{'='*60}")
     if missing:
-        print(f"Ignored lines (missing field) : {missing}")
+        print(f"Lines ignored (missing field) : {missing}")
+    print(f"\nID matching :")
+    print(f"  - IDs identical : {id_matches} ({id_matches/written*100:.2f}%)")
+    print(f"  - IDs different : {id_mismatches} ({id_mismatches/written*100:.2f}%)")
+    print(f"  - Both empty : {both_empty} ({both_empty/written*100:.2f}%)")
+    print(f"  - One empty : {one_empty} ({one_empty/written*100:.2f}%)")
+    print(f"{'='*60}")
 
 
 if __name__ == "__main__":

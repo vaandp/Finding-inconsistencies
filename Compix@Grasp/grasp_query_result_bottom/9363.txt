@@ -1,0 +1,2 @@
+Error executing SPARQL query over wikidata:
+failed to parse input: parse error at position 48 for token VAR1 with content '?birthDate' (the input most likely does not follow the grammar)

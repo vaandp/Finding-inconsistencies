@@ -1,0 +1,4 @@
+Got 1 row and 2 columns:
+| series | episodes           |
+| ------ | ------------------ |
+|        | 19.0 (xsd:decimal) |

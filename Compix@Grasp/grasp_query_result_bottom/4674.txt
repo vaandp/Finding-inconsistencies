@@ -1,0 +1,1 @@
+POINT(139.529389 35.703103) (geo:wktLiteral)

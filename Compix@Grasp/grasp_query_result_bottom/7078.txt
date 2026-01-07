@@ -1,0 +1,14 @@
+Got 31 rows and 2 columns, showing the first 5 and last 5 rows below:
+| album | albumLabel          |
+| ----- | ------------------- |
+|       | Melodrama (lang:az) |
+|       | Melodrama (lang:bg) |
+|       | Melodrama (lang:de) |
+|       | Melodrama (lang:el) |
+|       | Melodrama (lang:en) |
+| ...   | ...                 |
+|       | ملودراما (lang:fa)  |
+|       | ميلودراما (lang:ar) |
+|       | เมโลดรามา (lang:th) |
+|       | メロドラマ (lang:ja)     |
+|       | 狂想曲 (lang:zh)       |
