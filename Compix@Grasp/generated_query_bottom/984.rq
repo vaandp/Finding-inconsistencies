@@ -1,0 +1,3 @@
+SELECT ?citizenship WHERE {
+  wd:Q455462 wdt:P27 ?citizenship .
+}

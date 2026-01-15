@@ -1,0 +1,1 @@
+SELECT ?actor ?actorLabel WHERE { wd:Q15732802 wdt:P453 ?character . ?character wdt:P1477 "John Wick" . ?actor wdt:P161 ?character . }

@@ -1,0 +1,3 @@
+SELECT ?causeOfDeath WHERE {
+  wd:Q520296 wdt:P509 ?causeOfDeath
+}

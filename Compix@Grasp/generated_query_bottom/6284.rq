@@ -1,0 +1,3 @@
+SELECT ?country WHERE {
+  wd:Q3718 wdt:P17 ?country
+}

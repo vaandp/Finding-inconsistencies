@@ -1,0 +1,4 @@
+SELECT ?film WHERE {
+  ?film wdt:P136 wd:Q1535153 .
+  ?film wdt:P577 wd:2008-05-02
+}

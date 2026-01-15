@@ -1,0 +1,3 @@
+SELECT ?date WHERE {
+  wd:Q131285 wdt:P569 ?date
+}

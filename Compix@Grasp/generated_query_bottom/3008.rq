@@ -1,0 +1,4 @@
+SELECT ?spouseLabel WHERE {
+  wd:Q363653 wdt:P26 ?spouse .
+  ?spouse rdfs:label ?spouseLabel
+}

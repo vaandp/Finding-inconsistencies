@@ -1,0 +1,5 @@
+SELECT ?network ?label WHERE {
+  wd:Q79784 wdt:P449 ?network .
+  ?network rdfs:label ?label .
+  FILTER ( lang( ?label ) = 'en' )
+}

@@ -1,0 +1,3 @@
+SELECT ?homeField WHERE {
+  wd:Q1031200 wdt:P115 ?homeField
+}

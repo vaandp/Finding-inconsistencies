@@ -1,0 +1,3 @@
+SELECT ?award WHERE {
+  wd:Q15862 wdt:P166 ?award
+}

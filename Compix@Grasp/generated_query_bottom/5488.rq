@@ -1,0 +1,4 @@
+SELECT ?director WHERE {
+  wd:Q184843 wdt:P800 ?director .
+  ?director rdfs:label "Ridley Scott" @en
+}

@@ -1,0 +1,3 @@
+SELECT ?band WHERE {
+  wd:Q5135443 wdt:P166 ?band .
+}

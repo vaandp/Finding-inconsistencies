@@ -1,0 +1,3 @@
+SELECT ?employer WHERE {
+  wd:Q210548 wdt:P108 ?employer
+}

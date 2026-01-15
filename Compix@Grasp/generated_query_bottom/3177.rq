@@ -1,0 +1,3 @@
+SELECT ?occupation WHERE {
+  wd:Q5110936 wdt:P106 ?occupation
+}

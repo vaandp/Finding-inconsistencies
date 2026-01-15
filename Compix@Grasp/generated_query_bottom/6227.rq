@@ -1,0 +1,5 @@
+SELECT ?entity ?label WHERE {
+  ?entity wdt:P577 ?date .
+  ?entity wdt:P1476 ?title .
+  ?entity wdt:P50 ?author .
+}

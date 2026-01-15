@@ -1,0 +1,4 @@
+SELECT ?stadium WHERE {
+  ?stadium wdt:P131 wd:Q18125 .
+  ?stadium wdt:P31 wd:Q87235880
+}

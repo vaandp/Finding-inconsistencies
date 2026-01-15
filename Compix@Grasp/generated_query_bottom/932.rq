@@ -1,0 +1,3 @@
+SELECT ?birthplace WHERE {
+  wd:Q173540 wdt:P19 ?birthplace
+}

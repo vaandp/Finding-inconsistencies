@@ -1,0 +1,4 @@
+SELECT ?author ?authorLabel WHERE {
+  wd:Q756866 wdt:P50 ?author .
+  ?author rdfs:label ?authorLabel
+}

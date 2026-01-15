@@ -1,0 +1,4 @@
+SELECT ?birthPlaceLabel WHERE {
+  wd:Q19880094 wdt:P19 ?birthPlace .
+  ?birthPlace rdfs:label ?birthPlaceLabel .
+}

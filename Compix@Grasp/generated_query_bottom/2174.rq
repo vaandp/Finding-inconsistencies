@@ -1,0 +1,6 @@
+SELECT ?member ?memberLabel WHERE {
+  wd:Q15920 wdt:P527 ?member .
+  ?member wdt:P1303 wd:Q11404 .
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en"
+  }

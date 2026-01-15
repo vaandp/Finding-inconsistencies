@@ -1,0 +1,4 @@
+SELECT ?cinematographer ?label WHERE {
+  wd:Q432526 wdt:P344 ?cinematographer .
+  ?cinematographer rdfs:label ?label .
+}

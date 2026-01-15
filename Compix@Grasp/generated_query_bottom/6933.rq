@@ -1,0 +1,3 @@
+SELECT ?field WHERE {
+  wd:Q536185 wdt:P101 ?field
+}

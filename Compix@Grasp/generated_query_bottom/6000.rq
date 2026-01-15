@@ -1,0 +1,4 @@
+SELECT ?album WHERE {
+  wd:Q126852 wdt:P457 ?album .
+  ?album wdt:P31 wd:Q134810
+}

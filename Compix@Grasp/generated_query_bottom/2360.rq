@@ -1,0 +1,4 @@
+SELECT ?series ?director WHERE {
+  ?series wdt:P57 ?director .
+  ?series rdfs:label "Breathe" @en .
+}

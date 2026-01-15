@@ -1,0 +1,3 @@
+SELECT ?endDate WHERE {
+  wd:Q657308 wdt:P571 ?endDate
+}

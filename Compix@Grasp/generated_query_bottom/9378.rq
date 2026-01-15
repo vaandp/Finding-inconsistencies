@@ -1,0 +1,3 @@
+SELECT ?inception WHERE {
+  wd:Q239074 wdt:P571 ?inception
+}

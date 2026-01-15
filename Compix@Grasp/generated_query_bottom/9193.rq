@@ -1,0 +1,5 @@
+SELECT ?actress ?actressLabel WHERE {
+  wd:Q223757 wdt:P175 ?actress .
+  ?actress rdfs:label ?actressLabel .
+  FILTER ( lang( ?actressLabel ) = 'en' )
+}

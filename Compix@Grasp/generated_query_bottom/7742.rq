@@ -1,0 +1,5 @@
+SELECT ?event ?eventLabel WHERE {
+  wd:Q18233 wdt:P793 ?event .
+  ?event rdfs:label ?eventLabel .
+  FILTER ( LANG( ?eventLabel ) = 'en' )
+}

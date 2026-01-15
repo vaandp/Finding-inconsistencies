@@ -1,0 +1,3 @@
+SELECT ?show ?endYear WHERE {
+  ?show wdt:P31 wd:Q868835 ; wdt:P582 ?endYear .
+}

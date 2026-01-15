@@ -1,0 +1,1 @@
+SELECT ?locationLabel WHERE { wd:Q18656 wdt:P159 ?location . ?location rdfs:label ?locationLabel . FILTER LANGUAGE(?locationLabel) = "en" }

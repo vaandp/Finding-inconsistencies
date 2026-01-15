@@ -1,0 +1,3 @@
+SELECT ?establishmentDate WHERE {
+  wd:Q1572584 wdt:P571 ?establishmentDate
+}

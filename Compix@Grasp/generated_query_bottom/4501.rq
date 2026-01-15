@@ -1,0 +1,3 @@
+SELECT ?spouse WHERE {
+  wd:Q11901 wdt:P26 ?spouse
+}

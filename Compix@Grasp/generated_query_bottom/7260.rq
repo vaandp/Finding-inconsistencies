@@ -1,0 +1,4 @@
+SELECT ?country WHERE {
+  wd:Q36844 wdt:P19 ?birthPlace .
+  ?birthPlace wdt:P17 ?country
+}

@@ -1,0 +1,5 @@
+SELECT ?work WHERE {
+  wd:Q185696 wdt:P800 ?work .
+  ?work rdfs:label ?label .
+  FILTER ( lang( ?label ) = 'en' )
+}

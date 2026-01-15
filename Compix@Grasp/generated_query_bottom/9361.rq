@@ -1,0 +1,3 @@
+SELECT ?label WHERE {
+  wd:Q192069 rdfs:label ?label .
+}

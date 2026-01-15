@@ -1,0 +1,4 @@
+SELECT ?episode ?location WHERE {
+  ?episode wdt:P31 wd:Q653916 .
+  ?episode wdt:P915 ?location
+}

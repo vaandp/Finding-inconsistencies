@@ -1,0 +1,6 @@
+SELECT ?publisher WHERE {
+  wd:Q12448539 wdt:P577 ?publicationDate .
+  wd:Q12448539 wdt:P50 ?author .
+  wd:Q12448539 wdt:P31 ?workType .
+  wd:Q12448539 wdt:P407 ?language .
+}

@@ -1,0 +1,3 @@
+SELECT ?workStart WHERE {
+  wd:Q223455 wdt:P2031 ?workStart
+}

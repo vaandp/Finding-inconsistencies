@@ -1,0 +1,4 @@
+SELECT ?author ?work WHERE {
+  ?author wdt:P800 ?work .
+  ?work rdfs:label "It" @en .
+}

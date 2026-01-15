@@ -1,0 +1,3 @@
+SELECT ?releaseYear WHERE {
+  wd:Q661833 wdt:P577 ?releaseYear
+}

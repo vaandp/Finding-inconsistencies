@@ -1,0 +1,3 @@
+SELECT ?language WHERE {
+  wd:Q979312 wdt:P103 ?language
+}

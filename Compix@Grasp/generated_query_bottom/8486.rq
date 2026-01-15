@@ -1,0 +1,3 @@
+SELECT ?company WHERE {
+  wd:Q1741628 wdt:P137 ?company
+}

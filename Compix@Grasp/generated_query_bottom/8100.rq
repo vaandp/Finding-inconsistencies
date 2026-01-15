@@ -1,0 +1,3 @@
+SELECT ?entity WHERE {
+  ?entity rdfs:label "OYO 79192 The Doors" @en .
+}

@@ -1,0 +1,3 @@
+SELECT ?platform WHERE {
+  wd:Q25340152 wdt:P449 ?platform
+}

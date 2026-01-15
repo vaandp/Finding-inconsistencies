@@ -1,0 +1,3 @@
+SELECT ?publisher WHERE {
+  wd:Q189811 wdt:P123 ?publisher
+}

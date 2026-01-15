@@ -1,0 +1,3 @@
+SELECT ?residence WHERE {
+  wd:Q2314503 wdt:P551 ?residence
+}

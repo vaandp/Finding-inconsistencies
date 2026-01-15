@@ -1,0 +1,3 @@
+SELECT ?capital WHERE {
+  wd:Q21 wdt:P36 ?capital
+}

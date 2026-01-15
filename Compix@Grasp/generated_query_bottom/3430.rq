@@ -1,0 +1,3 @@
+SELECT ?producer WHERE {
+  ?song wdt:P162 ?producer
+}

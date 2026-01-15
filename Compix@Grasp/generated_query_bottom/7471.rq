@@ -1,0 +1,4 @@
+SELECT ?group WHERE {
+  wd:Q11649 wdt:P31 ?group .
+  FILTER ( ?group = wd:Q5741069 || ?group = wd:Q215380 )
+}

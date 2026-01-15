@@ -1,0 +1,5 @@
+SELECT ?label WHERE {
+  wd:Q10520 rdfs:label ?label .
+  ?label rdfs:lang ?lang .
+  FILTER ( CONTAINS( ?lang , 'en' ) )
+}

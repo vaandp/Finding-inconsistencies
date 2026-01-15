@@ -1,0 +1,3 @@
+SELECT ?premiereDate WHERE {
+  wd:Q162672 wdt:P577 ?premiereDate
+}

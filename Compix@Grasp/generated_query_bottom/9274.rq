@@ -1,0 +1,4 @@
+SELECT ?spouse ( rdfs:label AS ?spouseLabel ) WHERE {
+  wd:Q23215 wdt:P26 ?spouse .
+  ?spouse rdfs:label ?spouseLabel .
+}

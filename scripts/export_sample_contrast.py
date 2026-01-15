@@ -3,59 +3,72 @@ from __future__ import annotations
 import csv
 import re
 from pathlib import Path
+import pandas as pd
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from sentence_transformers.util import cos_sim
+from datetime import datetime
 
 
 BASE = Path(__file__).resolve().parent.parent
-SOURCE_CSV = BASE / "Compix@Grasp/top1000.csv"
-GRASP_DIR = BASE / "Compix@Grasp/grasp_query_result"
-OUT_CSV = BASE / "Compix@Grasp/Finding_Inconsistency/sample_contrast.csv"
+SOURCE_CSV = BASE / "Compix@Grasp/bottom1000.csv"
+GRASP_DIR = BASE / "Compix@Grasp/wikidata_query_result_bottom"
+OUT_CSV = BASE / "Compix@Grasp/Finding_Inconsistency/sample_contrast_bottom.csv"
 
-#lines of the form "Label (wd:Qxxxx)" or "Label (xsd:xxxx)" only
-ENTITY_LINE_PATTERN1 = re.compile(r"(.+?)\s*\(wd:([^)]+)\)")
-ENTITY_LINE_PATTERN2 = re.compile(r"(.+?)\s*\(xsd:([^)]+)\)")
-ENTITY_LINE_PATTERN3 = re.compile(r"(.+?)\s*\(lang:([^)]+)\)")
+# 1. Load a pretrained Sentence Transformer model
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
+def is_valid_iso_date(date_str: str) -> bool:
+    try:
+        # Le format correspond à : Année-Mois-Jour T Heure:Minute:Seconde Z
+        datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
+        return True
+    except ValueError:
+        return False
 
 
-def extract_grasp_answer(qid):
-    #return tuple (answer, answer_id) if it is of the form 'XXX (wd:Qxxxx)' or 'XXX (xsd:xxxx)'
-    txt_path = GRASP_DIR / f"{qid}.txt"
+def extract_grasp_answer(qid, real_answer):
+    txt_path = GRASP_DIR / f"{qid}.csv"
     if not txt_path.exists():
+        return (None,None)
+
+    # --- MODIFICATION ICI ---
+    # On lit le fichier ligne par ligne comme un CSV à une colonne
+    # pour récupérer TOUS les éléments dans une liste (items)
+    items = []
+    with txt_path.open(encoding="utf-8") as f:
+        reader = csv.reader(f)
+        # On prend la 1ère colonne de chaque ligne non vide
+        items = [row[0] for row in reader if row]
+
+    if not items:
+        return (None,None)
+
+    #take off the name of the column
+    items=items[1:]
+
+    if not items:
         return (None, None)
 
-    content = txt_path.read_text(encoding="utf-8").strip()
-    if not content:
-        return (None, None)
+    similarity_score=[]
 
-    for line in content.splitlines():
-        line = line.strip()
-        if not line:
-            continue
+    for i in range (len(items)):
+        # Calculate embeddings for both answers
+        embeddings = model.encode([items[i], real_answer])
+        #print ("HERE IS THE CODE")
+        #print (items[i]+""+real_answer)
         
-        # Try to match pattern with wd: prefix
-        match = ENTITY_LINE_PATTERN1.fullmatch(line)
-        if match:
-            answer = match.group(1).strip()
-            answer_id = match.group(2).strip()
-            return (answer, answer_id)
-        
-        # Try to match pattern with xsd: prefix
-        match = ENTITY_LINE_PATTERN2.fullmatch(line)
-        if match:
-            answer = match.group(1).strip()
-            answer_id = match.group(2).strip()
-            return (answer, answer_id)
-        
-        # Try to match pattern with lang: prefix
-        match = ENTITY_LINE_PATTERN3.fullmatch(line)
-        if match:
-            answer = match.group(1).strip()
-            answer_id = match.group(2).strip()
-            return (answer, answer_id)
+        # Calculate cosine similarity between the two embeddings
+        similarity = cos_sim(embeddings[0], embeddings[1])
 
-        # If no pattern matches, return the line as answer with no ID
-        break
-
-    return (None, None)
+        # Extract the scalar value from the tensor
+        score = float(similarity.item())
+        similarity_score.append(score)
+    
+    max_value = max(similarity_score)
+    index_max = similarity_score.index(max_value)
+    
+    return (items[index_max], max_value)
 
 
 def main() -> None:
@@ -71,8 +84,7 @@ def main() -> None:
             "CompMix_answer_label",
             "CompMix_answer_id",
             "GRASP_SPARQL_answer",
-            "GRASP_SPARQL_answer_id",
-            "ID_match"
+            "Consistency_score"
         ]
         writer = csv.DictWriter(outfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -94,26 +106,10 @@ def main() -> None:
                 missing += 1
                 continue
 
-            grasp_answer, grasp_answer_id = extract_grasp_answer(qid)
-
-            # Compare the IDs
-            compmix_id = answer_id.strip() if answer_id else ""
-            grasp_id = (grasp_answer_id or "").strip() if grasp_answer_id else ""
-            
-            # Determine match status
-            if not compmix_id and not grasp_id:
-                id_match = "Both_empty"
-                both_empty += 1
-            elif not compmix_id or not grasp_id:
-                id_match = "False"
-                one_empty += 1
-                id_mismatches += 1
-            elif compmix_id == grasp_id:
-                id_match = "True"
-                id_matches += 1
+            if is_valid_iso_date(answer_id):
+                grasp_answer, consistency_score = extract_grasp_answer(qid, answer_id)
             else:
-                id_match = "False"
-                id_mismatches += 1
+                grasp_answer, consistency_score = extract_grasp_answer(qid, answer_label)
 
             writer.writerow(
                 {
@@ -122,24 +118,10 @@ def main() -> None:
                     "CompMix_answer_label": answer_label,
                     "CompMix_answer_id": answer_id,
                     "GRASP_SPARQL_answer": grasp_answer or "",
-                    "GRASP_SPARQL_answer_id": grasp_answer_id or "",
-                    "ID_match": id_match,
+                    "Consistency_score":consistency_score or "",
                 }
             )
             written += 1
-
-    print(f"\n{'='*60}")
-    print(f"Statistics of ID matching")
-    print(f"{'='*60}")
-    if missing:
-        print(f"Lines ignored (missing field) : {missing}")
-    print(f"\nID matching :")
-    print(f"  - IDs identical : {id_matches} ({id_matches/written*100:.2f}%)")
-    print(f"  - IDs different : {id_mismatches} ({id_mismatches/written*100:.2f}%)")
-    print(f"  - Both empty : {both_empty} ({both_empty/written*100:.2f}%)")
-    print(f"  - One empty : {one_empty} ({one_empty/written*100:.2f}%)")
-    print(f"{'='*60}")
-
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,4 @@
+SELECT DISTINCT ?year WHERE {
+  wd:Q291170 wdt:P577 ?date .
+  BIND( SUBSTR( STR( ?date ) , 1 , 4 ) AS ?year )
+}

@@ -1,0 +1,3 @@
+SELECT ?guitarist WHERE {
+  wd:Q47670 wdt:P527 ?guitarist .
+}

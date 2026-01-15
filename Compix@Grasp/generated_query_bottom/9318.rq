@@ -1,0 +1,4 @@
+SELECT ?brother WHERE {
+  wd:Q95026 wdt:P3373 ?brother .
+  ?brother wdt:P21 wd:Q6581097 .
+}

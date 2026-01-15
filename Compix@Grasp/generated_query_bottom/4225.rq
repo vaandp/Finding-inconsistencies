@@ -1,0 +1,3 @@
+SELECT ?illustrator WHERE {
+  wd:Q837140 wdt:P110 ?illustrator
+}

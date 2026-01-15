@@ -1,0 +1,5 @@
+SELECT ?producer ?label WHERE {
+  wd:Q106582931 wdt:P120 ?producer .
+  ?producer rdfs:label ?label .
+  FILTER ( LANG( ?label ) = 'en' )
+}

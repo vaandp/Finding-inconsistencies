@@ -1,0 +1,4 @@
+SELECT ?homeVenue ( rdfs:label AS ?homeVenueLabel ) WHERE {
+  wd:Q18711 wdt:P115 ?homeVenue .
+  ?homeVenue rdfs:label ?homeVenueLabel .
+}

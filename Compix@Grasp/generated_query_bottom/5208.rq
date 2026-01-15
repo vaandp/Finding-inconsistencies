@@ -1,0 +1,3 @@
+SELECT ?placeOfDeath WHERE {
+  wd:Q991 wdt:P20 ?placeOfDeath
+}

@@ -1,0 +1,3 @@
+SELECT ?composer WHERE {
+  wd:Q83495 wdt:P86 ?composer
+}

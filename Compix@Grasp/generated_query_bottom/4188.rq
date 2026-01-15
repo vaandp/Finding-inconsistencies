@@ -1,0 +1,3 @@
+SELECT ?alias WHERE {
+  wd:Q4457 wdt:P646 ?alias .
+}

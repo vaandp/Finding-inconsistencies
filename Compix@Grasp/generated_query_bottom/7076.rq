@@ -1,0 +1,5 @@
+SELECT ?director ?directorLabel WHERE {
+  wd:Q38685497 wdt:P57 ?director .
+  ?director rdfs:label ?directorLabel .
+  FILTER ( LANG( ?directorLabel ) = 'en' )
+}

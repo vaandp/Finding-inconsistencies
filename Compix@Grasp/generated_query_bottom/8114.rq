@@ -1,0 +1,3 @@
+SELECT ?inceptionYear WHERE {
+  wd:Q60643348 wdt:P571 ?inceptionYear
+}

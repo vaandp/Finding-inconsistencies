@@ -1,0 +1,3 @@
+SELECT ?producer ( rdfs:label AS ?producerLabel ) WHERE {
+  wd:Q23781155 wdt:P162 ?producer .
+}

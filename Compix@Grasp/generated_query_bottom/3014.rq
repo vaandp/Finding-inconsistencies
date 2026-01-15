@@ -1,0 +1,3 @@
+SELECT ?drummer WHERE {
+  wd:Q16845701 wdt:P171 ?drummer
+}

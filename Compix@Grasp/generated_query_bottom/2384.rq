@@ -1,0 +1,5 @@
+SELECT ?series ( STR( ?label ) AS ?name ) WHERE {
+  ?series wdt:P31 wd:Q5398426 .
+  ?series rdfs:label ?label .
+  FILTER ( contains( ?label , 'Dark' ) )
+}

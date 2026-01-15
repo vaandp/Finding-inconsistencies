@@ -1,0 +1,3 @@
+SELECT ?architect WHERE {
+  wd:Q4811100 wdt:P84 ?architect .
+}

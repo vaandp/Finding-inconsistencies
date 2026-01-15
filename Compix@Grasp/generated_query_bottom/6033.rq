@@ -1,0 +1,3 @@
+SELECT ?genre WHERE {
+  wd:Q152043 wdt:P136 ?genre
+}

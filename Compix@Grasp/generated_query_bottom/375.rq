@@ -1,0 +1,5 @@
+SELECT ?member ?label WHERE {
+  wd:Q58608 wdt:P527 ?member .
+  ?member rdfs:label ?label .
+  FILTER ( LANG( ?label ) = 'en' )
+}

@@ -1,0 +1,3 @@
+SELECT ?successor WHERE {
+  wd:Q575373 wdt:P156 ?successor
+}

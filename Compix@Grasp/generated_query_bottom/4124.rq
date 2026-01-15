@@ -1,0 +1,3 @@
+SELECT ?deathDate WHERE {
+  wd:Q16345 wdt:P570 ?deathDate
+}

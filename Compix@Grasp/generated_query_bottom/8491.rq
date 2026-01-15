@@ -1,0 +1,3 @@
+SELECT ?institution WHERE {
+  wd:Q60100 wdt:P69 ?institution
+}

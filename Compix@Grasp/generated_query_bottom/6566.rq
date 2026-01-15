@@ -1,0 +1,3 @@
+SELECT ?costumeDesigner WHERE {
+  wd:Q382307 wdt:P2515 ?costumeDesigner
+}

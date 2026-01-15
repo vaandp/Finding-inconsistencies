@@ -1,0 +1,4 @@
+SELECT ?fifaCode WHERE {
+  wd:Q20756 wdt:P17 ?country .
+  ?country wdt:P619 ?fifaCode .
+}

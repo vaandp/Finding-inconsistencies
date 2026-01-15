@@ -1,0 +1,3 @@
+SELECT ?religion WHERE {
+  wd:Q16665941 wdt:P140 ?religion
+}

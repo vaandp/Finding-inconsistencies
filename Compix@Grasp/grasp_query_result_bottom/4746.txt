@@ -1,4 +1,0 @@
-Got 1 row and 2 columns:
-| person | birthPlace                          |
-| ------ | ----------------------------------- |
-|        | Vällingby församling (wd:Q18334835) |

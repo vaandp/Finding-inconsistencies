@@ -1,0 +1,1 @@
+SELECT ?creator ?label WHERE { wd:Q550581 wdt:P120 ?creator . SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en" . }

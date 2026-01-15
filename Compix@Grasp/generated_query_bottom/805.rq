@@ -1,0 +1,3 @@
+SELECT ?winner WHERE {
+  ?event wdt:P151 ?winner
+}

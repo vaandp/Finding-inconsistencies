@@ -1,0 +1,4 @@
+SELECT ?item ?label WHERE {
+  ?item wdt:P31 wd:Q163038 .
+  ?item rdfs:label ?label .
+}

@@ -1,0 +1,3 @@
+SELECT ?publicationDate WHERE {
+  wd:Q589106 wdt:P571 ?publicationDate
+}

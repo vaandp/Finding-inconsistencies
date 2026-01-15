@@ -1,0 +1,3 @@
+SELECT ?album WHERE {
+  wd:Q58608 wdt:P86 ?album
+}

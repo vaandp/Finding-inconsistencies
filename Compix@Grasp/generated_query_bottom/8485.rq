@@ -1,0 +1,3 @@
+SELECT ?railway_line WHERE {
+  wd:Q3055063 wdt:P81 ?railway_line
+}

@@ -1,0 +1,3 @@
+SELECT ?film ?date WHERE {
+  wd:Q192724 wdt:P577 ?date
+}

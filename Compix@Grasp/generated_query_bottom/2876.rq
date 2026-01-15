@@ -1,0 +1,3 @@
+SELECT ?league WHERE {
+  wd:Q7156 wdt:P118 ?league .
+}

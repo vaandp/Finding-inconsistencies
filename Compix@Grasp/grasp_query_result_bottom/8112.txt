@@ -1,2 +1,0 @@
-SPARQL execution failed:
-503 Server Error: Service Unavailable for url: https://qlever.dev/api/wikidata

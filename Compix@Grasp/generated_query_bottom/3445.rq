@@ -1,0 +1,3 @@
+SELECT ?team WHERE {
+  wd:Q7007552 wdt:P466 ?team
+}

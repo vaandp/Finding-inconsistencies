@@ -1,0 +1,3 @@
+SELECT ?writer WHERE {
+  wd:Q48672560 wdt:P58 ?writer
+}

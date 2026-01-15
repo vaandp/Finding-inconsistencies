@@ -1,0 +1,3 @@
+SELECT ?work WHERE {
+  ?work rdfs:label "Blood Price" @en
+}

@@ -1,0 +1,4 @@
+SELECT ?person ?date WHERE {
+  ?person wdt:P569 ?date .
+  FILTER ( ?person = wd:Q11885 )
+}

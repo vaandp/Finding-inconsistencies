@@ -1,0 +1,3 @@
+SELECT ?influence WHERE {
+  wd:Q275900 wdt:P737 ?influence
+}

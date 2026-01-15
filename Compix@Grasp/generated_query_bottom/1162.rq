@@ -1,0 +1,3 @@
+SELECT ?end_time WHERE {
+  wd:Q5595658 wdt:P582 ?end_time
+}

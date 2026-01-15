@@ -1,0 +1,3 @@
+SELECT ?givenName WHERE {
+  wd:Q1744 wdt:P735 ?givenName
+}

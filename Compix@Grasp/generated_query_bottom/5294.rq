@@ -1,0 +1,3 @@
+SELECT ?item ( rdfs:label AS ?label ) WHERE {
+  wd:Q167615 rdfs:label ?label
+}

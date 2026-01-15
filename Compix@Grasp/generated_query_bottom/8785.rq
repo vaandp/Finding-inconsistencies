@@ -1,0 +1,3 @@
+SELECT ?artist WHERE {
+  wd:Q473274 wdt:P175 ?artist .
+}

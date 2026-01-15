@@ -1,0 +1,3 @@
+SELECT ?location WHERE {
+  wd:Q1572584 wdt:P740 ?location
+}

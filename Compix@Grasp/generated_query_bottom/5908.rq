@@ -1,0 +1,3 @@
+SELECT ?member WHERE {
+  wd:Q189635 wdt:P527 ?member
+}

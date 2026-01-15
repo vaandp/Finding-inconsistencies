@@ -1,0 +1,3 @@
+SELECT ?translator WHERE {
+  wd:Q219437 wdt:P655 ?translator
+}

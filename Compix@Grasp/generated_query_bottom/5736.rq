@@ -1,0 +1,3 @@
+SELECT ?distributor WHERE {
+  wd:Q35085291 wdt:P750 ?distributor
+}

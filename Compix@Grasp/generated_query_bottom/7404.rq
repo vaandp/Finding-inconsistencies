@@ -1,0 +1,3 @@
+SELECT ?budget WHERE {
+  wd:Q24871 wdt:P2130 ?budget
+}

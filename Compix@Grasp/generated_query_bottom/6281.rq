@@ -1,0 +1,4 @@
+SELECT ?person ( str( ?height ) AS ?heightValue ) WHERE {
+  ?person wdt:P2048 ?height .
+  FILTER ( ?person = wd:Q742136 )
+}

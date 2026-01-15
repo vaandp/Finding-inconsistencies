@@ -1,0 +1,3 @@
+SELECT ?height WHERE {
+  wd:Q11571 wdt:P2048 ?height
+}

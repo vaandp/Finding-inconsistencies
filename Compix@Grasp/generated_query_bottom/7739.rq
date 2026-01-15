@@ -1,0 +1,5 @@
+SELECT ?nomination ?nominationLabel WHERE {
+  wd:Q18233 wdt:P1411 ?nomination .
+  ?nomination rdfs:label ?nominationLabel .
+  FILTER ( LANG( ?nominationLabel ) = "en" )
+}

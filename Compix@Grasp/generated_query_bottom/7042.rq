@@ -1,0 +1,3 @@
+SELECT ?director WHERE {
+  wd:Q462447 wdt:P57 ?director
+}

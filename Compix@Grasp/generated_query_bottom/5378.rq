@@ -1,0 +1,4 @@
+SELECT ?influencer WHERE {
+  wd:Q23760 wdt:P737 ?influencer .
+  ?influencer wdt:P17 wd:Q142
+}

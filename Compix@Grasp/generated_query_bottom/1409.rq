@@ -1,0 +1,7 @@
+SELECT ?entity ?title ?author ?publicationDate WHERE {
+  ?entity wdt:P1476 ?title .
+  ?entity wdt:P50 ?author .
+  ?entity wdt:P577 ?publicationDate .
+  ?entity wdt:P31 wd:Q7725634 .
+  FILTER ( ?entity = wd:Q191380 )
+}

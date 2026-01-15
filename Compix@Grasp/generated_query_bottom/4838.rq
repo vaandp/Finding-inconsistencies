@@ -1,0 +1,3 @@
+SELECT ?seasons WHERE {
+  wd:Q232737 wdt:P2437 ?seasons
+}

@@ -1,0 +1,3 @@
+SELECT ?childCount WHERE {
+  wd:Q1744 wdt:P1971 ?childCount
+}

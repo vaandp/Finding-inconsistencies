@@ -1,1002 +1,1002 @@
-Question_id,Question,CompMix_answer_label,CompMix_answer_id,GRASP_SPARQL_answer,GRASP_SPARQL_answer_id,ID_match,Consistency_score
-6283,What is the elevation of Dakar?,22 m,22 m,10.0,decimal,False,0.16584065556526184
-5595,What country are the Varteks from?,Croatia,Q224,A' Chròthais,gd,False,0.19454920291900635
-5138,Where does Family Guy take place?,Quahog,Q2254022,Quahog,Q2254022,True,1.0
-5854,Who created the series Fawlty Towers?,John Cleese,Q25014,John Cleese,Q25014,True,1.0
-5671,Where did Johnny Cash born on?,Kingsland,Q79417,Kingsland,Q79417,True,1.0
-6267,Who is the director of Ant-Man?,Peyton Reed,Q944763,Peyton Reed,Q944763,True,1.0
-6492,Which city was Argentinos Juniors founded?,Buenos Aires,Q1486,Buenos Aires,Q1486,True,1.0
-6540,What is the rating on Pitchfork?,10/10,Q3596794,,,False,0.0
-5937,Who directed the movie section 375?,Ajay Bahl,Q88572808,,,False,0.0
-6044,Which languages spoken by Daniel Passarella?,Spanish,Q1321,Spanish,Q1321,True,1.0
-6469,Who coined the literary term bildungsroman?,Johann Karl Simon Morgenstern,Q67149,Johann Karl Simon Morgenstern,Q67149,True,1.0
-6567,Actress who was Gilda in Gilda?,Rita Hayworth,Q42745,,,False,0.0
-5898,Who wrote the Francisco de Robles?,Miguel de Cervantes,Q5682,,,False,0.0
-5584,What is Hans Zimmer's birth date?,12 September 1957,1957-09-12T00:00:00Z,1957-09-12T00:00:00Z,dateTime,False,0.6810300350189209
-5279,"When was the song ""Shivers"" released?",10 September 2021,2021-09-10T00:00:00Z,2021-09-10T00:00:00Z,dateTime,False,0.6295225620269775
-6370,Which Postion played by Marcel Desailly?,Marcel Desailly,Q193625,,,False,0.0
-6248,Where was the pilot episode produced?,Toronto,Q172,Red Shoe Diaries,Q20064857,False,0.10873083770275116
-6298,Pearl Jam number of band members?,5,5,Josh Klinghoffer,Q219638,False,0.1262291669845581
-6338,Who was Emilio Estevez married to?,Paula Abdul,Q185465,Paula Abdul,Q185465,True,1.0000001192092896
-5360,Which place was Emma Orczy born?,Tarna\u00F6rs,Q1072281,Tarnaörs,Q1072281,True,0.6661214828491211
-5123,Who starred in the movie Rocky?,Sylvester Stallone,Q40026,Joe Frazier,Q102301,False,0.3737635016441345
-5302,Author of the book  the holes?,Louis Sachar,Q553137,Louis Sachar,Q553137,True,1.0
-6232,What actor starred in Billy Madison?,Adam Sandler,Q132952,Steve Buscemi,Q104061,False,0.4359844923019409
-6227,What was the second book released?,New Moon,Q191540,FACE facts: ¡Dos mecánicos fueron electrocutados cuando el brazo de una grúa tocó un cable de alto voltaje!,Q100000055,False,-0.019787834957242012
-6196,Who wrote the Dresden Files novels?,Jim Butcher,Q1367995,Jim Butcher,Q1367995,True,1.0000001192092896
-6566,Who designed the costumes in Gilda?,Jean Louis,Q1685654,Jean Louis,Q1685654,True,1.0
-5790,Where was the singer Shakira born?,Barranquilla,Q62823,Barranquilla,Q62823,True,1.0
-5871,Writer of the book The Outsiders?,Susan Eloise Hinton,Q117425,S. E. Hinton,Q117425,True,0.6026849150657654
-5736,Who distributes the tv series Kakegurui?,Netflix,Q907311,Netflix,Q907311,True,1.0
-6292,creator of music in The Matrix?,Don Davis,Q207859,Don Davis,Q207859,True,1.0
-5120,Who published Catcher in the Rye?,"Little, Brown and Company",Q552959,"Little, Brown and Company",Q552959,True,1.0
-5908,Eagles had how many band members?,14,14,Bernie Leadon,Q127495,False,0.2338566929101944
-6312,who owned the LA Galaxy team?,Philip Anschutz,Q1133456,Philip Anschutz,Q1133456,True,1.0
-5949,Who created the TV series Loki?,Michael Waldron,Q104741807,Michael Waldron,Q104741807,True,1.0
-5691,When was William Golding was born?,19 September 1911,1911-09-19T00:00:00Z,1911-09-19T00:00:00Z,dateTime,False,0.6480462551116943
-5913,how many members did Eagles have?,14,14,,,False,0.0
-6124,Who is the creator of Decoupled?,Manu Joseph,Q6752277,,,False,0.0
-5339,Shakira has how many band members?,90,90,,,False,0.0
-5646,Who composed the TV series Love?,Lyle Workman,Q1796374,,,False,0.0
-5476,João Félix born on which date?,10 November 1999,1999-11-10T00:00:00Z,1999-11-10T00:00:00Z,dateTime,False,0.6460651159286499
-5500,Genre of the series True Detective?,drama film,Q130232,police television drama,en,False,0.5502409934997559
-6261,Who authored the novel Little Women?,Louisa May Alcott,Q185696,Louisa May Alcott,Q185696,True,1.0
-6284,In which country Dakar is located?,Senegal,Q1041,Senegal,Q1041,True,1.0
-5061,Genre of the book Treasure Island?,nautical fiction,Q7440128,pirate fiction,Q111143082,False,0.6854801774024963
-5469,How many children Manoj Bajpayee has?,1,1,,,False,0.0
-5436,Who created the TV series Seinfeld?,Larry David,Q23728,Jerry Seinfeld,Q215506,False,0.5834813117980957
-5206,Which year FC Barcelona club founded?,1899,1899-01-01T00:00:00Z,1899-11-29T00:00:00Z,dateTime,False,0.6766393184661865
-6374,Where did Marcel Desailly born ?,Accra,Q3761,Accra,Q3761,True,1.0
-5488,Director of the Blade Runner movie?,Ridley Scott,Q56005,,,False,0.0
-6381,Publisher of novel To the Lighthouse?,Hogarth Press,Q1623362,,,False,0.0
-5180,Who wrote the Outlander novel series?,Diana Gabaldon,Q272492,Diana Gabaldon,Q272492,True,1.0000001192092896
-5663,Who directs the movie Black Widow?,Cate Shortland,Q441510,Cate Shortland,Q441510,True,1.0000001192092896
-5848,What was Britney Spears' debut album?,\u2026Baby One More Time,Q190911,,,False,0.0
-5242,Author of book The Color Purple?,Alice Walker,Q215868,Alice Walker,Q215868,True,1.0
-6598,What instrument does Elton John play?,piano,Q5994,voice,Q17172850,False,0.39961522817611694
-5571,Which country does Martinique belong to?,France,Q142,France,Q142,True,1.000000238418579
-6479,Where did Yo-Yo Ma attend college?,Harvard College,Q49123,,,False,0.0
-5561,From which country is Paris Saint-Germain?,France,Q142,France,Q142,True,1.000000238418579
-5077,What is the award received by,Zilveren Televizier-Tulp,Q20890445,Zilveren Televizier-Tulp,Q20890445,True,1.000000238418579
-5141,Who does Álvaro Morata play for?,Juventus F.C.,Q1422,Como 1907,Q1120838,False,0.25547289848327637
-5003,What year was Peter Jackson born?,1961,1961-01-01T00:00:00Z,1961-10-31T00:00:00Z,dateTime,False,0.7446478605270386
-6125,Who directed the Tv series Decoupled?,Hardik Mehta,Q35488479,,,False,0.0
-5900,When was Miguel de Cervantes born?,29 September 1547,1547-09-29T00:00:00Z,1547-10-09T00:00:00Z,dateTime,False,0.5212079882621765
-5224,Which country did ABBA originate in?,Sweden,Q34,Sweden,Q34,True,1.0
-5911,who was the guitarist of Eagles?,Timothy B. Schmit,Q944128,Bernie Leadon,Q127495,False,0.38500162959098816
-6604,Who created the show The Simpsons?,Matt Groening,Q43994,Matt Groening,Q43994,True,1.0
-5931,Second novel of the Outlander series?,Dragonfly in Amber,Q2587072,Go Tell the Bees That I Am Gone,Q132066216,False,0.24459272623062134
-5668,Director of the flim Black Widow?,Cate Shortland,Q441510,Cate Shortland,Q441510,True,1.0000001192092896
-6113,Who acted as Tushar in Darling?,Prathamesh Parab,Q15637693,Roland Curram,Q11891139,False,0.148495614528656
-5378,Which French Filmmaker influenced Rowan Atkinson?,Jacques Tati,Q51549,,,False,0.0
-5354,What is Sergio Busquets sport number?,5,5,,,False,0.0
-6231,name of the first Twilight book?,Twilight,Q44523,,,False,0.0
-6144,Who directed the movie Batman Forever?,Joel Schumacher,Q295207,Joel Schumacher,Q295207,True,1.0000001192092896
-5765,how many seasons of dark series?,3,3,,,False,0.0
-5425,What is Dustin Hoffman's son's name?,Jake Hoffman,Q720777,Jake Hoffman,Q720777,True,1.000000238418579
-6291,Number of pages in book Emma?,1036,1036,,,False,0.0
-5221,In what year did ABBA form?,1972,1972-01-01T00:00:00Z,1970-01-01T00:00:00Z,dateTime,False,0.43995511531829834
-6140,What year was The Unconsoled published?,1995,1995-01-01T00:00:00Z,,,False,0.0
-5851,What is Britney Spears' father's name?,El hpt de James Parnell Spears,Q96816262,James Parnell Spears,Q96816262,True,0.747830867767334
-5994,What year did Gene Wilder die?,2016,2016-01-01T00:00:00Z,2016-08-29T00:00:00Z,dateTime,False,0.501895546913147
-5239,"When published the book""The Color Purple""?",1982,1982-01-01T00:00:00Z,1982-01-01T00:00:00Z,dateTime,False,0.6235387325286865
-6336,What is Charlie Sheen's father's name?,Martin Sheen,Q184572,Martin Sheen,Q184572,True,1.0
-6558,What country is William Golding from?,United Kingdom,Q145,United Kingdom,Q145,True,1.0000001192092896
-5207,Who wrote the book The Idiot?,Fyodor Dostoyevsky,Q991,Fyodor Dostoyevsky,Q991,True,1.0
-6286,Page count of the book Emma?,1036,1036,,,False,0.0
-5776,Who wrote the series Jack Reacher?,Lee Child,Q333719,Lee Child,Q333719,True,1.0
-5122,Author of Catcher in the Rye?,J. D. Salinger,Q79904,J. D. Salinger,Q79904,True,1.0
-5610,What genre does Black Sabbath play?,Heavy metal music,Q38848,traditional heavy metal,Q1133657,False,0.7181462049484253
-6241,Who was the bassist for Nirvana?,Krist Novoselic,Q428798,,,False,0.0
-6361,Where did singer Laura Pausini born?,Faenza,Q52981,Faenza,Q52981,True,1.0
-5596,Who captains Croatia's national football team?,Luka Modri\u0107,Q483837,Luka Modrić,Q483837,True,0.7002065777778625
-5534,Where did Zinedine Zidane born on?,Marseille,Q23482,16th arrondissement of Marseille,Q194401,False,0.6520176529884338
-7674,The character Deadpool first appeared at?,New Mutants,Q1047918,,,False,0.0
-9138,What year did Carrie come out?,1974,1974-01-01T00:00:00Z,1974-04-05T00:00:00Z,dateTime,False,0.6276777982711792
-7422,Date of birth of Mathew Ryan?,8 April 1992,1992-04-08T00:00:00Z,1992-04-08T00:00:00Z,dateTime,False,0.6257591843605042
-9378,In what year did Sepultura begin?,1984,1984-01-01T00:00:00Z,1984-01-01T00:00:00Z,dateTime,False,0.6495897173881531
-9177,What was Alan Alda TV debut?,The Phil Silvers Show,Q7756888,1958-01-01T00:00:00Z,dateTime,False,0.16725197434425354
-8793,What was Cherami Leigh's debut role?,Shiki,Q1193200,,,False,0.0
-8884,Who directs the movie Pulp Fiction?,Quentin Tarantino,Q3772,Quentin Tarantino,Q3772,True,1.0000001192092896
-8934,how long is the movie troy?,Yes,Yes,155.0,decimal,False,0.1515924483537674
-7215,Who wrote The Chronicles of Narnia?,C. S. Lewis,Q9204,C. S. Lewis,Q9204,True,1.0
-7259,From who is the song Umbrella?,Rihanna,Q36844,Rihanna,Q36844,True,1.0
-7561,Date of birth of Justin Bieber?,1 March 1994,1994-03-01T00:00:00Z,1994-03-01T00:00:00Z,dateTime,False,0.6005505323410034
-8014,Who directs the tv series Barbarians?,Barbara Eder,Q27690237,,,False,0.0
-7162,Who directed the movie Real Steel?,Shawn Levy,Q323076,Shawn Levy,Q323076,True,1.0000001192092896
-7479,Which country did Francesco Totti represent?,Italy,Q38,Italy,Q38,True,1.0
-8408,Who distributed the tv series Sherlock?,Netflix,Q907311,Netflix,Q907311,True,1.0
-7189,What was Edward Cullen's birth year?,1901,1901-01-01T00:00:00Z,1901-01-01T00:00:00Z,dateTime,False,0.6281431317329407
-8074,Who wrote the TV series Decoupled?,Manu Joseph,Q6752277,,,False,0.0
-8649,What book did he regularly publish?,Poor Richard's Almanack,Q3142253,,,False,0.0
-8290,Who created the movie Spy Kids?,Robert Rodriguez,Q47284,,,False,0.0
-8077,Who is spouse of R. Madhavan?,Sarita Birje,Sarita Birje,,,False,0.0
-8433,How many children's for Stephen King?,Joe Hill,Q370377,36,int,False,0.21087704598903656
-9039,What actress played Rose in Titanic?,Kate Winslet,Q202765,,,False,0.0
-7241,When was Manchester United F.C. founded?,1878,1878-01-01T00:00:00Z,1878-01-01T00:00:00Z,dateTime,False,0.7391230463981628
-7472,Name the lead singer of Nirvana.,Kurt Cobain,Q8446,Dave Grohl,Q12006,False,0.47079896926879883
-7868,"In Breaking Bad, who played Walter?",Bryan Cranston,Q23547,Bryan Cranston,Q23547,True,1.0
-6820,Which country played by Paolo Maldini?,Italy,Q38,Italy,Q38,True,1.0
-9225,What year was Matt Groening born?,1954,1954-01-01T00:00:00Z,1954-02-15T00:00:00Z,dateTime,False,0.7009334564208984
-8962,Is Paolo Maldini a professional athlete?,2002 FIFA World Cup,Q47735,tennis player,Q10833314,False,0.16791141033172607
-7371,Who is the performer in Avatar?,James Horner,Q106221,Sigourney Weaver,Q102124,False,0.2965959906578064
-7072,Where did Shawn Levy was born?,Montreal,Q340,Montreal,Q340,True,0.9999999403953552
-8413,Which country did Robert Lewandowski played?,Poland,Q36,Poland,Q36,True,1.0000001192092896
-8920,"Emma, where is the storey set?",England,Q21,Southern England,Q1134643,False,0.722251296043396
-7866,Who is actor Aaron Paul's wife?,Lauren Parsekian,Q40459846,,,False,0.0
-8784,What year was Angelica Rylin born?,1981,1981-01-01T00:00:00Z,1981-12-27T00:00:00Z,dateTime,False,0.6607590913772583
-7073,In which province Montreal is located?,Quebec,Q176,Urban agglomeration of Montreal,Q2826806,False,0.508338212966919
-7370,Author of book The great gatsby?,F. Scott Fitzgerald,Q93354,F. Scott Fitzgerald,Q93354,True,1.000000238418579
-6650,When did John Updike pass away?,27 January 2009,2009-01-27T00:00:00Z,2009-01-27T00:00:00Z,dateTime,False,0.6227387189865112
-8577,Original air date for The X-Files?,"September 10, 1993",1993-09-10T00:00:00Z,1993-09-10T00:00:00Z,dateTime,False,0.6123594045639038
-8333,What type of location is Arrakis?,desert planet,Q1037127,fictional desert planet,Q108060255,False,0.8821444511413574
-8063,How Rites Shah started his career?,playwright,Q214917,1997-01-01T00:00:00Z,dateTime,False,0.07347410172224045
-9274,Who was the spouse of Adele?,Simon Konecki,Q30348038,,,False,0.0
-8631,Original broadcaster of The 100 series?,The CW,Q212252,The CW,Q212252,True,1.0000001192092896
-8268,Where did the band Eagles form?,Los Angeles,Q65,Los Angeles,Q65,True,1.0
-6933,Which genre did Teodor Currentzis played?,western classical music,Q9730,acting,Q222749,False,0.11428844183683395
-7338,What was Leo Tolstoy's native language?,Russian,Q7737,Russian,Q7737,True,1.000000238418579
-9357,Where is the Benenden School located?,Kent,Q21694674,,,False,0.0
-8629,Which place did Eliza Taylor born?,Melbourne,Q3141,Melbourne,Q3141,True,1.0000001192092896
-7228,When was the album Thriller released?,30 November 1982,1982-11-30T00:00:00Z,1982-11-30T00:00:00Z,dateTime,False,0.6091381311416626
-7851,Who directed the movie Licorice Pizza?,Paul Thomas Anderson,Q25132,Paul Thomas Anderson,Q25132,True,1.0
-9145,What year was The Minpins published?,1991,1991-01-01T00:00:00Z,,,False,0.0
-8773,What year was Emmy Rossum born?,1986,1986-01-01T00:00:00Z,1986-09-12T00:00:00Z,dateTime,False,0.6405277848243713
-7188,What is Bella Swan's husband's name?,Edward Cullen,Q191527,Edward Cullen,Q191527,True,1.0
-7130,Author of first published Dune book?,Dune,Q190192,Frank Herbert,Q7934,False,0.4684688448905945
-7217,when was The Last Battle released?,4 September 1956,1956-09-04T00:00:00Z,1956-09-04T00:00:00Z,dateTime,False,0.6306180953979492
-7373,Who is the Director of Avatar?,James Cameron,Q42574,James Cameron,Q42574,True,1.0
-6733,who is the owned by team,John R. Ingram,Q6253887,,,False,0.0
-8767,Who played the lead in Youngblood?,Rob Lowe,Q296505,Eric Nesterenko,Q1229567,False,0.316231369972229
-7754,2018 winner of FIFA World Cup?,2018 FIFA World Cup,Q170645,France men's national association football team,Q47774,False,0.29360535740852356
-7954,From which institution Bruno Heller graduated?,University of Sussex,Q1161297,University of Sussex,Q1161297,True,1.0000001192092896
-7132,When was Ana de Armas born?,30 April 1988,1988-04-30T00:00:00Z,1988-04-30T00:00:00Z,dateTime,False,0.5880038738250732
-7076,Who directed the movie Free Guy?,Shawn Levy,Q323076,Shawn Levy,Q323076,True,1.0000001192092896
-8648,Who was Franklin Street named after?,Benjamin Franklin,Q34969,,,False,0.0
-7604,In what place was Neymar born?,Mogi das Cruzes,Q194332,Mogi das Cruzes,Q194332,True,0.9999999403953552
-7802,Formation year of the band Aerosmith?,1970,1970-01-01T00:00:00Z,1969-01-01T00:00:00Z,dateTime,False,0.5056449770927429
-7544,Mohamed Salah born on which date?,15 June 1992,1992-06-15T00:00:00Z,1992-06-15T00:00:00Z,dateTime,False,0.5946092009544373
-7808,TV series Special OPS created by?,Neeraj Pandey,Q6986928,,,False,0.0
-8880,Who produces the movie Pulp Fiction?,Lawrence Bender,Q514913,Lawrence Bender,Q514913,True,1.0000001192092896
-7553,Which novel the story is based?,Rita Hayworth and Shawshank Redemption,Q968314,Rita Hayworth and Shawshank Redemption,Q968314,True,1.0
-8308,What is David Beckham birth name?,David Robert Joseph Beckham,David Robert Joseph Beckham,David Robert Joseph Beckham,en,False,1.0
-7209,Which country does Zinedine Zidane represent?,France,Q142,France,Q142,True,1.000000238418579
-8324,Release date of The Hunger Games?,14 September 2008,2008-09-14T00:00:00Z,2012-03-21T00:00:00Z,dateTime,False,0.4785122573375702
-7853,What year was Boogie Nights released?,1997,1997-01-01T00:00:00Z,,,False,0.0
-8173,Who directed the movie The Notebook?,Nick Cassavetes,Q431191,Nick Cassavetes,Q431191,True,1.0
-6988,What city did Metallica form in?,Los Angeles,Q65,Los Angeles,Q65,True,1.0
-9203,What year was Jim Carrey born?,1962,1962-01-01T00:00:00Z,1962-01-17T00:00:00Z,dateTime,False,0.6491445899009705
-7191,"Who directed the film, The wolverine?",James Mangold,Q433893,James Mangold,Q433893,True,1.0
-8357,When did The Expanse first air?,14 December 2015,2015-12-14T00:00:00Z,2015-12-14T00:00:00Z,dateTime,False,0.576901912689209
-8790,Was Khoi Dao in Kuroko's Basketball?,Yes,Yes,,,False,0.0
-8273,What university did Mike Judge attend?,"University of California, San Diego",Q622664,"University of California, San Diego",Q622664,True,1.0
-7348,Who composed the song Billie Jean?,Michael Jackson,Q2831,,,False,0.0
-7538,TV series Permanent Roommates created by?,Arunabh Kumar,Q19666417,,,False,0.0
-6940,Which country did Andrey Arshavin played?,Russia,Q159,Russia,Q159,True,1.0
-7160,author of The Hunger Games trilogy?,Suzanne Collins,Q228624,Suzanne Collins,Q228624,True,1.0
-8295,Creator of the movie Spy Kids?,Robert Rodriguez,Q47284,Robert Rodriguez,Q47284,True,1.0
-7460,Who wrote the book Black Beauty?,Anna Sewell,Q258741,Anna Sewell,Q258741,True,1.0000001192092896
-8488,Who was the founder of Hanoi?,An D\u01B0\u01A1ng V\u01B0\u01A1ng,Q1274690,Ly Thai To,Q716945,False,0.1114671379327774
-9209,How long is The Truman Show?,99 minute,99 minute,99.0,decimal,False,0.4942862391471863
-8496,Where does the river start from?,Wasserkuppe,Q247726,,,False,0.0
-7329,Which European team did Neymar represent?,FC Barcelona,Q7156,,,False,0.0
-7416,When did Mars tv series released?,14 November 2016,2016-11-14T00:00:00Z,,,False,0.0
-8103,creator of the TV series Threshold?,Bragi F. Schut,Q64029560,,,False,0.0
-7404,What is the budget of Avatar?,$237 million,$237 million,237000000.0,decimal,False,0.5765500068664551
-8313,What is David Beckham full name?,David Robert Joseph Beckham,David Robert Joseph Beckham,,,False,0.0
-9205,Where does Peter Weir hold citizenship?,Australia,Q408,Australia,Q408,True,0.9999999403953552
-8049,"Who invented the term ""soccer-specific stadium""?",Lamar Hunt,Q187912,,,False,0.0
-9089,Who was Dr. Seuss's first spouse?,Helen Palmer Geisel,Q5702956,Helen Palmer Geisel,Q5702956,True,1.0
-7605,"Who wrote the book, David Copperfield?",Charles Dickens,Q5686,Charles Dickens,Q5686,True,1.0
-8016,Who distributes the tv series Barbarians?,Netflix,Q907311,,,False,0.0
-7484,Francesco Totti played for which country?,Italy,Q38,,,False,0.0
-9155,Did Rodney Dangerfield die in 2004?,Yes,Yes,2004-10-05T00:00:00Z,dateTime,False,0.169185608625412
-8108,who created the TV series Threshold?,Bragi F. Schut,Q64029560,,,False,0.0
-7958,Who developed the TV series Gotham?,Bruno Heller,Q965484,Bruno Heller,Q965484,True,1.0000001192092896
-8261,When did Iron Man come out?,2008,2008-01-01T00:00:00Z,,,False,0.0
-7566,production company of Breaking bad series?,Sony Pictures Television,Q652390,Sony Pictures Television,Q652390,True,1.000000238418579
-8389,Who distributed the movie The Ring?,UIP-Dunafilm,Q1329615,UIP-Dunafilm,Q1329615,True,1.0000001192092896
-7936,Who is the publisher of Rangbhoomi?,Darul Ishat,Darul Ishat,,,False,0.0
-7313,Which place did Matthew McConaughey born?,Uvalde,Q868860,Uvalde,Q868860,True,1.000000238418579
-7042,Who directed the movie Lethal Weapon?,Richard Donner,Q262130,Richard Donner,Q262130,True,1.0
-7983,Number of episodes in The Sopranos?,86,86,86.0,decimal,False,0.7351495027542114
-8335,Release date of original Dune film?,14 December 1984,1984-12-14T00:00:00Z,1984-12-14T00:00:00Z,dateTime,False,0.6879262924194336
-8590,When was City of Bones published?,27 March 2007,2007-03-27T00:00:00Z,,,False,0.0
-9067,What was Josh Radnor's acting debut?,Happythankyoumoreplease,Q1050720,2000-01-01T00:00:00Z,dateTime,False,0.09227697551250458
-8390,Who directs the movie The Ring?,Gore Verbinski,Q295463,Gore Verbinski,Q295463,True,1.0
-8881,Who distributed the movie Pulp Fiction?,Mok\u00E9p,Q17126013,Microsoft Store,Q135288,False,0.155575230717659
-7695,Who wrote the book Maisie Dobbs?,Jacqueline Winspear,Q3157819,Jacqueline Winspear,Q3157819,True,1.000000238418579
-7030,Date of birth of Mohamed Salah?,15 June 1992,1992-06-15T00:00:00Z,1992-06-15T00:00:00Z,dateTime,False,0.5946092009544373
-7593,Who created the series True Detective?,Nic Pizzolatto,Q7024302,Nic Pizzolatto,Q7024302,True,1.0
-8678,"Who created ""Buffy the Vampire Slayer?""",Joss Whedon,Q298025,Joss Whedon,Q298025,True,1.0
-6881,What is Elevation of Škofja Loka?,351.8 m,351.8 m,400.0,decimal,False,0.4700283408164978
-6742,Who plays Guy in Free Guy?,Ryan Reynolds,Q192682,Lin Hultgren,Q100593577,False,0.3959575295448303
-8693,What soccer stadium is in Manchester?,City of Manchester Stadium,Q48159,,,False,0.0
-8979,Who founded the city Saint Petersburg?,Peter the Great,Q8479,Peter the Great,Q8479,True,0.9999999403953552
-8491,Where did Roland Emmerich attend college?,University of Television and Film Munich,Q569350,University of Television and Film Munich,Q569350,True,1.0
-9040,When was actress Kate Winslet born?,"October 5, 1975",1975-10-05T00:00:00Z,1975-10-05T00:00:00Z,dateTime,False,0.5807676315307617
-8100,What was named after The Doors?,The Doors of Perception,Q1215450,OYO 79192 The Doors,Q111051894,False,0.44100403785705566
-8264,Who produced the movie Avengers: Endgame?,Kevin Feige,Q515161,Kevin Feige,Q515161,True,1.0
-9364,Who was Enid Blyton's second husband?,Kenneth Fraser Darrell Waters,Q59268638,Hugh Alexander Pollock,Q16749773,False,0.35448235273361206
-8692,What city is Umbro headquartered in?,Manchester,Q18125,Manchester,Q18125,True,1.0000001192092896
-6882,What is position of Jan Oblak?,goalkeeper,Q201330,goalkeeper,Q172964,False,0.9999998807907104
-9172,What was Chi McBride tv debut?,The Fresh Prince of Bel-Air,Q309063,,,False,0.0
-8283,What was Pelé name at birth?,Edson,Q18697757,Edson,Q18697757,True,1.0
-7401,Who is the cinematographer of Avatar?,Mauro Fiore,Q926054,Mauro Fiore,Q926054,True,1.0
-8753,Who wrote the Left Behind series?,Tim LaHaye,Q558416,Eliška Hladilová,Q10000101,False,0.3212953209877014
-7823,The publication date of Free guy?,13 August 2021,2021-08-13T00:00:00Z,Brīvais,lv,False,0.12783458828926086
-7078,In which studio album Melodrama recorded?,Electric Lady Studios,Q1325913,,,False,0.0
-7548,In which city Carl Sagan born?,Brooklyn,Q18419,Brooklyn,Q18419,True,1.0
-6794,What position did Stefano Pioli play?,defender,Q336286,defender,Q336286,True,1.0000001192092896
-7738,Which award received by ABBA Band?,ABBA,Q18233,First prize of the Eurovision Song Contest,Q101421673,False,0.10716816782951355
-7650,Where was The Beatles works archives?,University of Maryland Libraries,Q7895690,University of Maryland Libraries,Q7895690,True,1.0
-6867,Who directed the film 365 days?,Barbara Białowąs,Barbara Białowąs,Barbara Białowąs,Q85519919,False,1.0000001192092896
-8260,What was the first MCU movie?,Iron Man,Q192724,,,False,0.0
-9305,Where was Mary Robinette Kowal born?,Raleigh,Q41087,Raleigh,Q41087,True,1.0
-7937,Who is the author of Rangbhoomi?,Premchand,Q174152,Premchand,Q174152,True,1.0
-8354,Who wrote The Expanse book series?,James S. A. Corey,Q6142591,James S. A. Corey,Q6142591,True,1.0
-7602,Who was Neymar's partner in 2017?,Bruna Marquezine,Q4281880,Santos F.C.,Q80955,False,0.43286874890327454
-7244,Location of Manchester United football club?,Manchester United F.C.,Q18656,Manchester,Q18125,False,0.6906272172927856
-7877,who write the Great Expectations book?,Charles Dickens,Q75100717,Charles Dickens,Q5686,False,1.0
-7777,When was Squid Game released worldwide?,17 September 2021,2021-09-17T00:00:00Z,2021-09-17T00:00:00Z,dateTime,False,0.5939589738845825
-9363,Who was Enid Blyton's first husband?,Hugh Alexander Pollock,Q16749773,,,False,0.0
-9154,What year did Carl Anderson die?,2004,2004-01-01T00:00:00Z,2004-02-23T00:00:00Z,dateTime,False,0.5687171220779419
-7359,What country does Lionel Messi represent?,Argentina,Q414,Spain,Q29,False,0.6513354182243347
-8309,Where is David Beckham is from?,London,Q84,Leytonstone,Q1368969,False,0.36830297112464905
-7377,A R Rahman from which country?,India,Q668,India,Q668,True,1.0
-9066,When was actor Josh Radnor born?,"July 29, 1974",1974-07-29T00:00:00Z,1974-07-29T00:00:00Z,dateTime,False,0.6381452083587646
-8823,Who directed the film Midnight Express?,Alan Parker,Q271284,Alan Parker,Q271284,True,1.0000001192092896
-7271,in which country is the Fritz-Walter-Stadion?,Germany,Q183,Germany,Q183,True,1.0
-8545,When was the movie Carrie released?,"November 3, 1976",1976-11-03T00:00:00Z,1976-11-03T00:00:00Z,dateTime,False,0.6057122945785522
-8078,Who created the TV series Decoupled?,Manu Joseph,Q6752277,,,False,0.0
-7428,Where does The Shining take place?,Southern Rocky Mountains,Q7570444,Overlook Hotel,Q16585589,False,0.12557253241539001
-9041,What actor played Jack in Titanic?,Leonardo DiCaprio,Q38111,Leonardo DiCaprio,Q38111,True,1.0000001192092896
-9198,What is the setting of Twilight?,Forks,Q226013,,,False,0.0
-7575,Who wrote the book The Firm?,John Grisham,Q106465,John Grisham,Q106465,True,1.0000001192092896
-8469,Which is Sergio Agüero national team?,Argentina national football team,Q79800,Argentina,Q414,False,0.7545462846755981
-9055,Where did the band Semisonic start?,Minneapolis,Q36091,Minneapolis,Q36091,True,1.0000001192092896
-9208,Where was The Truman Show filmed?,Los Angeles,Q65,Seaside,Q612989,False,0.33769094944000244
-7206,Who was the founder of HBO?,Charles Dolan,Q11963448,Charles Dolan,Q11963448,True,1.0000001192092896
-7908,Who wrote the book Little Men?,Louisa May Alcott,Q185696,Louisa May Alcott,Q185696,True,1.0
-6879,Who narrated TV series Young Sheldon?,Jim Parsons,Q30605776,Jim Parsons,Q190972,False,1.0000001192092896
-7990,which country of the team USMNT?,United States of America,Q19971019,United States,Q30,False,0.9037065505981445
-8205,Who directed the post-apocalyptic movie Waterworld?,Kevin Reynolds,Q464903,Kevin Reynolds,Q464903,True,1.0000001192092896
-7074,In which year was Montreal founded?,17 May 1642,1642-05-17T00:00:00Z,1642-05-17T00:00:00Z,dateTime,False,0.5884665250778198
-7300,At which position did Xavi played?,midfielder,Q193592,midfielder,Q193592,True,1.0
-8232,when did the venom movie released?,4 October 2018,2018-10-04T00:00:00Z,2018-10-04T00:00:00Z,dateTime,False,0.40750858187675476
-7142,Jewel's first album was called what?,Pieces of You,Q1814801,,,False,0.0
-7964,On which day was Marta born?,19 February 1986,1986-02-19T00:00:00Z,1986-02-19T00:00:00Z,dateTime,False,0.6894521117210388
-7601,What position does Neymar play in?,winger,Q8025128,,,False,0.0
-9140,What year was the Hobbit released?,1937,1937-01-01T00:00:00Z,,,False,0.0
-8199,What's the publication year of Cosmos?,1980,1980-01-01T00:00:00Z,1980-01-01T00:00:00Z,dateTime,False,0.6242608428001404
-7134,Where was Ana de Armas born?,Santa Cruz del Norte,Q270302,Havana,Q1563,False,0.44183576107025146
-8643,"Who wrote the original ""Frankenstein"" book?",Mary Shelley,Q47152,Mary Shelley,Q47152,True,1.0
-7585,What is Tim Robbins' native language?,English,Q1860,,,False,0.0
-9384,Who founded the Warner Music Group?,Warner Bros.,Q126399,Warner Bros.,Q126399,True,1.0
-6776,What year was Michael Fassbender born?,1977,1977-01-01T00:00:00Z,1977-04-02T00:00:00Z,dateTime,False,0.6501092314720154
-9054,When was the band Semisonic established?,1995,1995-01-01T00:00:00Z,1995-01-01T00:00:00Z,dateTime,False,0.5890482664108276
-8829,Who wrote the crime drama Scarface?,Oliver Stone,Q179497,Oliver Stone,Q179497,True,1.0000001192092896
-6819,Creator of the tv series medici?,Frank Spotnitz,Q2558191,,,False,0.0
-7609,"Who published the book, David Copperfield?",Bradbury and Evans,Q2923456,Bradbury and Evans,Q2923456,True,1.0
-8873,Who writes the novel Jane Eyre?,Charlotte Bront\u00EB,Q127332,Charlotte Brontë,Q127332,True,0.8134791851043701
-8437,who played Olivia in Boyhood movie?,Patricia Arquette,Q215976,,,False,0.0
-6801,Who writes the book Nineteen Eighty-Four?,George Orwell,Q3335,George Orwell,Q3335,True,1.0
-9135,"When was the organization, FIFA founded?",21 May 1904,1904-05-21T00:00:00Z,1904-05-21T00:00:00Z,dateTime,False,0.6778925061225891
-8404,Who broadcasts the tv series Sherlock?,BBC One,Q191472,BBC One,Q191472,True,1.0
-7615,"Who directed the movie, The Matrix?",The Wachowskis,Q195719,Lilly Wachowski,Q9544977,False,0.6781591176986694
-9065,Where was actor Josh Radnor born?,Columbus,Q16567,Columbus,Q16567,True,1.0
-9195,What year was New Moon published?,2006,2006-01-01T00:00:00Z,2006-09-06T00:00:00Z,dateTime,False,0.5703194737434387
-7912,Who directed the film Pulp Fiction?,Quentin Tarantino,Q3772,Quentin Tarantino,Q3772,True,1.0000001192092896
-8168,What is Virginia Woolf's spouse's name?,Leonard Woolf,Q703935,Leonard Woolf,Q703935,True,1.0
-7437,Where was Blue Oyster Cult formed?,Stony Brook,Q1376559,Long Island,Q18438,False,0.3625190556049347
-7617,Where was the band Tool formed?,Los Angeles,Q65,Los Angeles,Q65,True,1.0
-7483,What is Francesco Totti's native language?,Italian,Q652,Italian,Q652,True,1.000000238418579
-7220,author of The Chronicles of Narnia?,C. S. Lewis,Q9204,C. S. Lewis,Q9204,True,1.0
-8615,Where did Foo Fighters band formed?,Seattle,Q5083,Seattle,Q5083,True,1.0
-7596,What is Matthew McConaughey's spouse's name?,Camila Alves,Q458809,Camila Alves,Q458809,True,1.0000001192092896
-8215,Who was Great Performances' first host?,Walter Cronkite,Q31073,Angela Lansbury,Q206856,False,0.16900219023227692
-8567,When did The X-Files first air?,"September 10, 1993",1993-09-10T00:00:00Z,1993-09-10T00:00:00Z,dateTime,False,0.6123594045639038
-6782,What year did After Forever disband?,2009,2009-01-01T00:00:00Z,2009-02-05T00:00:00Z,dateTime,False,0.5579253435134888
-7239,where was Manchester United F.C. located?,Manchester United F.C.,Q18656,,,False,0.0
-7783,What was Cristiano Ronaldo's last award?,UEFA Men's Player of the Year Award,Q260117,La Liga Player of the Month,Q15474655,False,0.633618950843811
-8697,Home field for Aston Villa F.C.?,Villa Park,Q175339,,,False,0.0
-7703,Who is Steven Spielberg's first wife?,Amy Irving,Q235020,,,False,0.0
-6979,What year was Roald Dahl born?,1916,1916-01-01T00:00:00Z,1916-09-13T00:00:00Z,dateTime,False,0.6733750104904175
-6985,What year did Awakenings come out?,1990,1990-01-01T00:00:00Z,1990-01-01T00:00:00Z,dateTime,False,0.585995078086853
-7229,How much songs in the album?,9 audio track,9 audio track,Sundome,Q1000500,False,0.22053048014640808
-8740,What is actor Hugh Bonneville's birthdate?,10 November 1963,1963-11-10T00:00:00Z,1963-11-10T00:00:00Z,dateTime,False,0.6824184060096741
-8444,Who is the director of Boyhood?,Richard Linklater,Q40035,Richard Linklater,Q40035,True,1.0
-8887,Which genre did Taylor Swift played?,country music,Q83440,synth-pop,Q1298934,False,0.39477646350860596
-7141,When was Spirit by Jewel released?,1998,1998-01-01T00:00:00Z,1998-01-01T00:00:00Z,dateTime,False,0.6071682572364807
-8112,Who owned the Austin FC ?,Major League Soccer,Q18543,,,False,0.0
-7454,Where is the Philadelphia Union based?,Philadelphia,Q1345,Chester,Q368045,False,0.40719443559646606
-6735,official name of Nashville SC ?,Nashville Soccer Club,Nashville Soccer Club,Nashville SC,cs,False,0.6770995855331421
-6990,What year was Lars Ulrich born,1963,1963-01-01T00:00:00Z,1963-12-26T00:00:00Z,dateTime,False,0.7064025402069092
-9091,The first Dr Suess book publisher,Vanguard Press,Q7914837,,,False,0.0
-2335,Barcelona football team was from?,Barcelona,Q1492,Barcelona,Q1492,True,0.9999998211860657
-525,Selena Gomez plays what instrument?,piano,Q5994,drum,Q11404,False,0.47524523735046387
-1780,Who wrote the movie Karwaan?,Hussain Dalal,Q16728338,,,False,0.0
-3014,Who performed as the drummer?,Norman Sheffield,Q7052784,,,False,0.0
-2313,who directed the Mank movie?,Mank,Q73093591,David Fincher,Q184903,False,0.21115675568580627
-1268,Who wrote the film Yahaan?,Piyush Mishra,Q3534654,Piyush Mishra,Q3534654,True,1.0
-851,Where did Pink Floyd form?,London,Q84,London,Q84,True,1.0
-3237,Deportivo Alavés team belongs to?,Spain,Q29,Vitoria-Gasteiz,Q14318,False,0.40814220905303955
-4272,Who distributes the series Hanna?,Amazon Studios,Q4740868,Amazon Prime Video,Q4740856,False,0.5278884172439575
-2447,"Who directed Caretaker, Part I?",Winrich Kolbe,Q178387,Winrich Kolbe,Q178387,True,1.0000001192092896
-3238,Atlético Madrid team was from?,Spain,Q29,Madrid,Q2807,False,0.7406048774719238
-772,Which channel airs Aerial America?,Smithsonian Channel,Q7545619,Smithsonian Channel,Q7545619,True,0.9999998807907104
-2559,Who wrote The Turning Point?,Arthur Laurents,Q710334,,,False,0.0
-3815,Where is Louis Armstrong from?,New Orleans,Q34404,New Orleans,Q34404,True,1.0
-4940,When was Terry Pratchett died?,12 March 2015,2015-03-12T00:00:00Z,2015-03-12T00:00:00Z,dateTime,False,0.5248829126358032
-895,When was Cristiano Ronaldo born?,5 February 1985,1985-02-05T00:00:00Z,1985-02-05T00:00:00Z,dateTime,False,0.6330934762954712
-2326,Stranger Things was released in?,"Stranger Things, season 1",Q28678769,2010-01-01T00:00:00Z,dateTime,False,0.164242684841156
-2190,Where was Dante Alighieri born?,Florence,Q2044,Florence,Q2044,True,1.0
-4281,Who wrote the book Untouchable?,Mulk Raj Anand,Q732434,Mulk Raj Anand,Q732434,True,1.0
-2426,Who published The Bluest Eye?,"Holt, Rinehart, and Winston",Q21809817,,,False,0.0
-2951,Who wrote the movie Shershaah?,Sandeep Shrivastava,Sandeep Shrivastava,Vishnuvardhan,Q7936007,False,0.45435237884521484
-303,Who director of Shawshank Redemption?,Frank Darabont,Q295445,Frank Darabont,Q295445,True,1.0
-3744,"Who wrote ""Jane Eyre"" novel?",Charlotte Bront\u00EB,Q127332,Charlotte Brontë,Q127332,True,0.8134791851043701
-4755,Who wrote the novel Exodus?,Leon Uris,Q269129,Leon Uris,Q269129,True,1.0
-1469,Who wrote The Hunger Games?,Suzanne Collins,Q228624,Suzanne Collins,Q228624,True,1.0
-4530,Where was Michael Jackson born?,Gary,Q184116,Gary,Q184116,True,1.0000001192092896
-328,What is Neymar's sport number?,10,10,,,False,0.0
-1481,Where is Gordon Lightfoot from?,Ontario,Q1904,Orillia,Q2373358,False,0.2769606113433838
-407,"Performer of ""Best Song Ever?""",One Direction,Q146027,,,False,0.0
-3897,When was Joseph Heller born?,1 May 1923,1923-05-01T00:00:00Z,1923-05-01T00:00:00Z,dateTime,False,0.6641415357589722
-1107,What is N'Golo Kanté's religion?,Islam,Q432,Islam,Q432,True,1.0
-3525,Which tv network aired Friends?,NBC,Q13974,NBC,Q13974,True,1.0000001192092896
-2741,Who directed the movie Chehre?,Rumy Jafry,Rumy Jafry,Rumi Jaffery,Q113493996,False,0.815044641494751
-2861,Madonna has how many children?,6,6,6.0,decimal,False,0.5323809385299683
-2384,Creator of the dark series?,Jantje Friese,Q47021487,Dark Hole,Q105883276,False,0.14652039110660553
-4506,When did Howard Leeds die?,11 February 2017,2017-02-11T00:00:00Z,2017-02-11T00:00:00Z,dateTime,False,0.6082415580749512
-627,where is Harry Kane ​born?,Walthamstow,Q2321784,Walthamstow,Q2321784,True,1.0
-2443,Who recorded the album Graduation?,Kanye West,Q15935,Kanye West,Q15935,True,1.0000001192092896
-4944,Where is Matt Damon's residence?,Los Angeles,Q65,Los Angeles,Q65,True,1.0
-2197,Where was Hans Zimmer born?,Frankfurt,Q1794,Frankfurt,Q1794,True,0.9999999403953552
-3900,When did Whitney Houston die?,11 February 2012,2012-02-11T00:00:00Z,2012-02-11T00:00:00Z,dateTime,False,0.6084084510803223
-396,"Who directed the movie ""Jaws?""",Steven Spielberg,Q8877,Steven Spielberg,Q8877,True,1.0
-325,What is Neymar's National Team?,Brazil national under-20 football team,Q2308235,Brazil,Q155,False,0.5647526979446411
-1974,Where is Neymar originally from?,Brazil,Q155,Mogi das Cruzes,Q194332,False,0.19538575410842896
-3119,Who wrote The Thorn Birds?,Colleen McCullough,Q228801,Colleen McCullough,Q228801,True,1.0
-4956,When was Yoo Ah-in born?,6 October 1986,1986-10-06T00:00:00Z,1986-10-06T00:00:00Z,dateTime,False,0.6640306115150452
-4396,What is Lionel Messi's ethnicity?,Italian Argentines,Q1056744,Italian Argentines,Q1056744,True,1.000000238418579
-2452,Where was Eden Hazard born?,Belgium,Q31,La Louvière,Q211572,False,0.44517335295677185
-4043,"Who wrote ""Wuthering Heights"" novel?",Emily Bront\u00EB,Q80137,Emily Brontë,Q80137,True,0.8411823511123657
-4300,Who is Radhika Apte's spouse?,Benedict Taylor,Q4887320,Benedict Taylor,Q4887320,True,1.0
-624,which citizenship Harry Kane have?,United Kingdom,Q145,United Kingdom,Q145,True,1.0000001192092896
-4404,Where was Mark Greaney born?,Memphis,Q16563,Mąʼiitsoh Bitooh Yílį́,nv,False,0.07528971135616302
-3468,When was Matt Dillon born?,18 February 1964,1964-02-18T00:00:00Z,1964-02-18T00:00:00Z,dateTime,False,0.6529513597488403
-217,when did Chadwick Boseman die?,28 August 2020,2020-08-28T00:00:00Z,2020-08-28T00:00:00Z,dateTime,False,0.6554811000823975
-3772,What is Mohamed Salahs height?,176 centimetre,176 centimetre,175.0,decimal,False,0.5399221181869507
-3546,Jurassic Park movie release date?,9 June 1993,1993-06-09T00:00:00Z,1993-06-11T00:00:00Z,dateTime,False,0.651764988899231
-4861,When did Hans Zimmer born?,12 September 1957,1957-09-12T00:00:00Z,1957-09-12T00:00:00Z,dateTime,False,0.6810300350189209
-3716,Who director of Enola Holmes?,Harry Bradbeer,Q97455101,,,False,0.0
-3001,What company published the book?,Scholastic Corporation,Q1155729,Scholastic Corporation,Q1155729,True,1.0
-527,What voice type Selena Gomez?,Mezzo-soprano,Q186506,,,False,0.0
-1148,Who wrote the movie Hackers?,Rafael Moreu,Q7282227,Rafael Moreu,Q7282227,True,1.0
-1186,The Aerosmith music influenced by?,Led Zeppelin,Q2331,The Rolling Stones,Q11036,False,0.5579832196235657
-3066,When did Michael Fassbender born?,2 April 1977,1977-04-02T00:00:00Z,1977-04-02T00:00:00Z,dateTime,False,0.6634637117385864
-3132,Who was Madonna's first husband?,Sean Penn,Q44221,Guy Ritchie,Q192990,False,0.3651134669780731
-3698,Where was Aretha Franklin born?,Memphis,Q16563,Memphis,Q16563,True,0.9999999403953552
-999,Where is Hans Zimmer from?,Germany,Q183,Frankfurt,Q1794,False,0.6896370649337769
-4554,When did Keanu Reeves born?,2 September 1964,1964-09-02T00:00:00Z,1964-09-02T00:00:00Z,dateTime,False,0.6728494167327881
-4158,Which position played by Xavi?,midfielder,Q193592,midfielder,Q193592,True,1.0
-2879,Country Of Sport Lionel Messi?,Argentina,Q414,Argentina,Q414,True,1.000000238418579
-2360,TV series Breathe directed by?,Mayank Sharma,Q89273107,Breathe,Q107479407,False,0.18798470497131348
-4521,Where does Emma take place?,England,Q21,Southern England,Q1134643,False,0.722251296043396
-4703,When did Bong Joon-ho born?,14 September 1969,1969-09-14T00:00:00Z,1969-09-14T00:00:00Z,dateTime,False,0.7388424873352051
-3474,When was Liverpool F.C. formed?,3 June 1892,1892-06-03T00:00:00Z,1892-06-03T00:00:00Z,dateTime,False,0.6576449275016785
-3629,Who writes the book Maus?,Art Spiegelman,Q325945,Art Spiegelman,Q325945,True,1.0000001192092896
-4079,When did Anamaria Marinca born?,1 April 1978,1978-04-01T00:00:00Z,Tatyana Kolotilshchikova,Q10000001,False,0.09254822880029678
-4234,Who was the album's producer?,Tom Wilson,Q2007168,Tom Wilson,Q2007168,True,1.0
-4957,Birth place of Yoo Ah-in?,Daegu,Q20927,Daegu,Q20927,True,1.0000001192092896
-2377,Name the avatar movie screenwritter?,James Cameron,Q42574,James Cameron,Q42574,True,1.0
-988,What is Antoine Griezmann's age?,30,30,,,False,0.0
-4225,Who illustrated the book's cover?,Tim O'Brien,Q7804054,Tim O'Brien,Q1289151,False,1.0000001192092896
-3162,What was Eric Clapton's pseudonym?,Slowhand,Q17592351,,,False,0.0
-3075,Who is John Williams spouse?,Barbara Ruick,Q527841,,,False,0.0
-890,When was The Mentalist telecasted?,23 September 2008,2008-09-23T00:00:00Z,2008-09-23T00:00:00Z,dateTime,False,0.6285590529441833
-2584,Author of the book Dune?,Frank Herbert,Q7934,Frank Herbert,Q7934,True,1.0
-4188,What was Franz Beckenbauer's pseudonym?,Der Kaiser,Q18414067,,,False,0.0
-3000,Who originally illustrated the cover?,Tim Jacobus,Q3991361,Marker,Q1000802,False,0.21700012683868408
-1467,When was Alex Curran born?,23 September 1982,1982-09-23T00:00:00Z,1982-09-23T00:00:00Z,dateTime,False,0.6711675524711609
-3934,Who produces the flim Ratatouille?,Walt Disney Pictures,Q191224,Brad Lewis,Q681740,False,0.08576011657714844
-3152,When was Marcel Proust born?,10 July 1871,1871-07-10T00:00:00Z,1871-07-10T00:00:00Z,dateTime,False,0.6854245066642761
-657,Where is Lionel Messi from?,Argentina,Q414,Rosario,Q52535,False,0.4982006549835205
-2106,When did Tom Hanks born?,9 July 1956,1956-07-09T00:00:00Z,1956-07-09T00:00:00Z,dateTime,False,0.6634796857833862
-2499,What disease killed John Prine?,COVID-19,Q84263196,COVID-19,Q84263196,True,1.0000001192092896
-932,Where was Margaret Mitchell born?,Atlanta,Q23556,Atlanta,Q23556,True,0.9999999403953552
-2875,Against whom did club match,Paris,Q90,FC Bayern Munich,Q15789,False,0.3271000385284424
-67,When did Jesse Eisenberg born?,5 October 1983,1983-10-05T00:00:00Z,1983-10-05T00:00:00Z,dateTime,False,0.6152122616767883
-2705,Author of the book Moby-Dick?,Herman Melville,Q4985,Herman Melville,Q4985,True,1.0000001192092896
-3626,Who published the book Maus?,Pantheon Books,Q520387,,,False,0.0
-881,Full name of Michael Jackson?,Michael Jackson,Q2831,Jacksoni Michael,vro,False,0.914454460144043
-3388,Who wrote the novel Gaban?,Premchand,Q174152,Premchand,Q174152,True,1.0
-1455,What album followed Red Medicine?,End Hits,Q2278289,Repeater,Q1040789,False,0.18512853980064392
-4667,Who was Harper  Lee's influence?,William Faulkner,Q38392,William Faulkner,Q38392,True,1.0
-4091,when did Lorenzo Richelmy born?,25 March 1990,1990-03-25T00:00:00Z,1990-03-25T00:00:00Z,dateTime,False,0.5571951866149902
-651,Where was the Friends plotted?,Central Perk,Q2944467,,,False,0.0
-3729,What is Beyoncé's vocal type?,Mezzo-soprano,Q186506,mezzo-soprano,Q186506,True,1.0000001192092896
-4428,What year was Adidas founded?,1924,1924-01-01T00:00:00Z,1924-07-01T00:00:00Z,dateTime,False,0.6790934205055237
-3326,"Who wrote ""Don Quixote"" novel?",Miguel de Cervantes,Q5682,Miguel de Cervantes,Q5682,True,1.0
-2626,What year was Slipknot formed?,1995,1995-01-01T00:00:00Z,1994-01-01T00:00:00Z,dateTime,False,0.4888007938861847
-423,When was Ernest Hemingway born?,21 July 1899,1899-07-21T00:00:00Z,1899-07-21T00:00:00Z,dateTime,False,0.6280790567398071
-48,How many seasons in Mindhunter?,2,2,2.0,decimal,False,0.45310845971107483
-4527,Who distributed The Goodbye Girl?,Warner Bros. Television Studios,Q1156642,Warner Bros.,Q126399,False,0.8783575296401978
-3514,When did Harold Ramis die?,24 February 2014,2014-02-24T00:00:00Z,2014-02-24T00:00:00Z,dateTime,False,0.5744398832321167
-3582,"Riverdale series, what is genre?",teen drama,Q775344,drama television series,Q1366112,False,0.6371752023696899
-984,which citizenship Antoine Griezmann have?,France,Q142,France,Q142,True,1.000000238418579
-3008,Who did he first marry?,Naomi Chance,Q6964624,Kerima,af,False,0.2570306658744812
-1904,Where did André Previn born?,Berlin,Q64,Berlin,Q64,True,1.0000001192092896
-3614,What genre is Boston Legal?,comedy-drama,Q859369,satire,Q128758,False,0.4338497519493103
-4287,Who directed the film Dil?,Indra Kumar,Q3150542,Indra Kumar,Q3150542,True,1.0000001192092896
-79,What is Kelly Overton occupation?,Kelly Overton,Q461131,television actor,Q10798782,False,0.23545366525650024
-916,Ennio Morricone plays which instrument?,trumpet,Q8338,piano,Q5994,False,0.5071130394935608
-2026,When did the Promises released?,26 March 2021,2021-03-26T00:00:00Z,2021-03-26T00:00:00Z,dateTime,False,0.6488590240478516
-441,Who is Cillian Murphy's spouse?,Yvonne McGuinness,Q521990,Yvonne McGuinness,Q521990,True,1.0000001192092896
-3420,What company published this book?,Reilly & Britton,Q7310162,Reilly & Britton,Q7310162,True,1.0
-894,Where was Cristiano Ronaldo born?,Portugal,Q45,Funchal,Q25444,False,0.20933830738067627
-4124,When did Leonard Nimoy die?,27 February 2015,2015-02-27T00:00:00Z,2015-02-27T00:00:00Z,dateTime,False,0.6009864211082458
-2103,When was Rick Riordan born?,5 June 1964,1964-06-05T00:00:00Z,1964-06-05T00:00:00Z,dateTime,False,0.6594679355621338
-976,What is Justin Bieber's birthday?,1 March 1994,1994-03-01T00:00:00Z,1994-03-01T00:00:00Z,dateTime,False,0.6005505323410034
-2529,What is Eminem's birth name?,Marshall Mathers,Q19927199,Marshall Bruce Mathers III,en,False,0.8104842901229858
-413,Lark Voorhies' first television appearance?,"Good Morning, Miss Bliss",Q639023,television actor,Q10798782,False,0.09321001917123795
-4626,"What company distributed ""Full House?""",Warner Bros. Television Studios,Q1156642,Warner Bros. Television Studios,Q1156642,True,0.9999998807907104
-2102,What is Rick Riordan's nationality?,United States of America,Q30,United States,Q30,True,0.9037065505981445
-1514,Who owns the RCA records?,Sony Music,Q56760250,Sony Music,Q56760250,True,1.0
-4509,Where was Tiffany Brissette born?,Paradise,Q387183,Paradise,Q387183,True,1.0
-2020,Who edited the film Shazam!?,Michel Aller,Q62015683,Michel Aller,Q62015683,True,1.0
-2413,Instrument played by Olivier Messiaen?,organ,Q1444,organ,Q1444,True,1.0
-2401,Genre of the book Hamlet?,tragedy,Q80930,tragedy,Q80930,True,1.0
-1316,Who owns Paris Saint-Germain F.C.?,Qatar Investment Authority,Q1571175,Qatar Sports Investments,Q28221762,False,0.7385867834091187
-4726,Who influenced Arthur Conan Doyle?,Robert Louis Stevenson,Q1512,Robert Louis Stevenson,Q1512,True,1.0000001192092896
-3931,Who directs the flim Ratatouille?,Brad Bird,Q310960,Jan Pinkava,Q1455793,False,0.2869071662425995
-2481,which citizenship Cristiano Ronaldo have?,Portugal,Q45,Portugal,Q45,True,1.0
-3523,What year did Coldplay formed?,1996,1996-01-01T00:00:00Z,1999-01-01T00:00:00Z,dateTime,False,0.352831095457077
-1593,Who is George Orwell's influence?,Charles Dickens,Q5686,Charles Dickens,Q5686,True,1.0
-3749,"Author of ""Jane Eyre"" novel?",Charlotte Bront\u00EB,Q127332,,,False,0.0
-3135,What is Madonna's middle name?,Louise,Q3215140,Veronica,Q20020,False,0.4729772210121155
-3250,Who directed the movie Sherni?,Amit Masurkar,Q28914756,,,False,0.0
-246,Who directed the movie Panga?,Ashwiny Iyer Tiwari,Q28012317,Ashwiny Iyer Tiwari,Q28012317,True,1.0
-787,When was Virginia Madsen born?,11 September 1961,1961-09-11T00:00:00Z,1961-09-11T00:00:00Z,dateTime,False,0.7405647039413452
-3295,Position played by Robert Lewandowski?,Robert Lewandowski,Q151269,forward,Q280658,False,0.21817025542259216
-3073,When was John Williams born?,8 February 1932,1932-02-08T00:00:00Z,1932-02-08T00:00:00Z,dateTime,False,0.7535455822944641
-4570,No. of episodes in Mindhunter?,19,19,,,False,0.0
-4148,Where did Britney Spears born?,McComb,Q846178,McComb,Q846178,True,1.0
-4492,Which university employs Robert Langdon?,Harvard University,Q13371,,,False,0.0
-2174,Who played drums in Metallica?,Lars Ulrich,Q106193,,,False,0.0
-3436,What network broadcast this show?,Nickelodeon,Q154958,,,False,0.0
-4618,Director of Above the Law?,Andrew Davis,Q504461,,,False,0.0
-3575,what genre of Dolittle movie?,adventure film,Q319221,family film,Q1361932,False,0.5590773224830627
-4756,What year was Exodus published?,1958,1958-01-01T00:00:00Z,,,False,0.0
-3158,When did Robin Williams die?,11 August 2014,2014-08-11T00:00:00Z,2014-08-11T00:00:00Z,dateTime,False,0.5289913415908813
-4291,Who produced the film Dil?,Indra Kumar,Q3150542,,,False,0.0
-3011,What was Queen's first single?,Keep Yourself Alive,Q597273,,,False,0.0
-4149,What instrument Britney Spears played?,piano,Q5994,voice,Q17172850,False,0.39961522817611694
-512,Who director of Little Women?,Greta Gerwig,Q271967,Greta Gerwig,Q271967,True,1.0
-1917,Where did Aleksandr Kerzhakov born?,Kingisepp,Q15270,Kingisepp,Q15270,True,1.0
-2803,who performed without me song?,Without Me,Q57393247,,,False,0.0
-3684,Who wrote Romeo and Juliet?,William Shakespeare,Q692,William Shakespeare,Q692,True,1.0000001192092896
-2918,When was Clint Eastwood born?,31 May 1930,1930-05-31T00:00:00Z,1930-05-31T00:00:00Z,dateTime,False,0.6566442251205444
-2869,Who Played of Royal Mint?,Spain,Q29,Spain,Q29,True,0.9999998807907104
-3375,Who is Kiefer Sutherland's father?,Donald Sutherland,Q103784,,,False,0.0
-3177,What is Christine Bleakley's occupation?,television presenter,Q947873,television presenter,Q947873,True,1.0
-4838,"Seasons of ""The Walking Dead""?",11,11,11.0,decimal,False,0.6053987741470337
-416,What team won that game?,New York Cosmos,Q646135,construction,Q3875186,False,0.22053095698356628
-4071,What is Bruno Fernandes height?,185 centimetre,185 centimetre,183.0,decimal,False,0.491205096244812
-784,Year of Mirrorshades first publication?,1986,1986-01-01T00:00:00Z,1986-01-01T00:00:00Z,dateTime,False,0.6493624448776245
-1897,Who distributes the film Smallfoot?,Warner Bros.,Q126399,,,False,0.0
-4709,Drummer of Fleetwood Mac band?,Mick Fleetwood,Q508439,,,False,0.0
-3352,which citizenship Bruno Fernandes have?,Portugal,Q45,Portugal,Q45,True,1.0
-3090,Where is James Baldwin from?,If Beale Street Could Talk,Q60388749,Harlem,Q189074,False,0.2781091332435608
-2865,Names of married partner madonna?,Guy Ritchie,Q192990,Guy Ritchie,Q192990,True,1.0000001192092896
-4573,What is Kylian Mbappé position?,forward,Q280658,forward,Q280658,True,1.0
-17,Location of the Queen Band?,London,Q84,,,False,0.0
-3291,Which position did Robert Lewandowski?,Robert Lewandowski,Q151269,forward,Q280658,False,0.21817025542259216
-3054,Where did Harry Kane born?,Walthamstow,Q2321784,Walthamstow,Q2321784,True,1.0
-4674,Where was Studio Ghibli formed?,Tokyo,Q1490,,,False,0.0
-1009,When was Peter Chung born?,19 April 1961,1961-04-19T00:00:00Z,1961-04-19T00:00:00Z,dateTime,False,0.7483471035957336
-4746,Where was Alexander Skarsgård born?,V\u00E4llingby,Q2559389,,,False,0.0
-2186,How tall is Cristiano Ronaldo?,6 ft 2 in,6 ft 2 in,185.0,decimal,False,0.24473433196544647
-3232,which platform released Mindhunter web-series?,Netflix,Q907311,Netflix,Q907311,True,1.0
-2336,Neymar belongs to which country?,Neymar,Q142794,Brazil,Q155,False,0.4259951114654541
-4137,genre of the book Thumbelina?,Thumbelina,Q11870,fairy tale,Q699,False,0.17217519879341125
-4943,When did Matt Damon born?,8 October 1970,1970-10-08T00:00:00Z,1970-10-08T00:00:00Z,dateTime,False,0.6834959983825684
-3638,Where did Zhou Long born?,Beijing,Q956,Beijing,Q956,True,1.0
-3331,"Author of ""Don Quixote"" novel?",Miguel de Cervantes,Q5682,Miguel de Cervantes,Q5682,True,1.0
-2632,What year did Seinfeld debut?,1989,1989-01-01T00:00:00Z,1989-07-05T00:00:00Z,dateTime,False,0.6132063865661621
-3393,Who directed the movie Lagaan?,Ashutosh Gowariker,Q281249,Ashutosh Gowariker,Q281249,True,0.9999998807907104
-2113,What influenced Joe Hisaishi's career?,watched 300 movies a year with his father at age of four,watched 300 movies a year with his father at age of four,Quincy Jones,Q193645,False,0.13213717937469482
-2520,What is Mark Twain's religion?,atheism,Q7066,skepticism,Q1395219,False,0.5016211271286011
-4243,What actor portrayed Sam Malone?,Ted Danson,Q381203,Ted Danson,Q381203,True,1.0000001192092896
-327,Who is Neymar's official sponsor?,Red Bull,Q51482,Red Bull GmbH,Q698639,False,0.759265661239624
-1496,Who founded Chelsea Football Club?,Gus Mears,Q955255,Joseph Mears,Q1627507,False,0.6446788907051086
-3319,"Director of ""Mare of Easttown""",Craig Zobel,Q5181627,Craig Zobel,Q5181627,True,1.0000001192092896
-3930,Who distributes the flim Ratatouille?,Ratatouille,Q170035,Fórum Hungary,Q1005887,False,0.15333379805088043
-3827,What is Ronaldinho full name?,Ronaldo,Q19819804,Ronaldinho,af,False,0.8164204359054565
-4852,Where did Ellar Coltrane born?,Austin,Q16559,Austin,Q16559,True,1.000000238418579
-1327,When did James Franco born?,19 April 1978,1978-04-19T00:00:00Z,1978-04-19T00:00:00Z,dateTime,False,0.6741198897361755
-2969,Author of The Scarlet Letter?,Nathaniel Hawthorne,Q69339,Nathaniel Hawthorne,Q69339,True,1.0000001192092896
-803,When was the Maracanazo played?,16 July 1950,1950-07-16T00:00:00Z,,,False,0.0
-3086,Where did Robert Lewandowski born?,Warsaw,Q270,Warsaw,Q270,True,1.0
-597,Where did Thomas Müller born?,Weilheim in Oberbayern,Q535674,,,False,0.0
-2548,which citizenship  Cristiano Ronaldo have?,Portugal,Q45,Portugal,Q45,True,1.0
-4524,Who wrote The Goodbye Girl?,Neil Simon,Q315808,,,False,0.0
-4902,Which award nominated for Neymer?,Laureus World Sports Award for Breakthrough of the Year,Q680221,Laureus World Sports Award for Breakthrough of the Year,Q680221,True,0.9999999403953552
-25,Where was Paul Pogba born?,Lagny-sur-Marne,Q9155,Lagny-sur-Marne,Q9155,True,1.0
-206,Where was Kylian Mbappé born?,19th arrondissement of Paris,Q204622,Paris,Q90,False,0.5921856164932251
-3442,What college did he attend?,Babson College,Q650167,Stuyvesant High School,Q3098911,False,0.3880866765975952
-3355,What is Bruno Fernandes' height?,179 centimetre,179 centimetre,183.0,decimal,False,0.49910345673561096
-419,Home field of Portland Timbers?,Providence Park,Q262291,Providence Park,Q262291,True,1.0000001192092896
-4526,Who directed The Goodbye Girl?,Richard Benjamin,Q495813,Robert Kerman,Q1291283,False,0.2582741975784302
-2205,How tall is Harry Styles?,1.83 metre,1.83 metre,1.83,decimal,False,0.4885651469230652
-1973,What is Neymar full name?,Neymar,Q142794,Neymar,Q61901279,False,1.0
-1604,Where is Warner Records headquartered?,Los Angeles,Q65,Burbank,Q39561,False,0.41558903455734253
-3768,which citizenship Mohamed Salah have?,Egypt,Q79,Egypt,Q79,True,1.0000001192092896
-2561,Where was Carly Simon born?,The Bronx,Q18426,The Bronx,Q18426,True,1.0
-3437,What company owns the network?,ViacomCBS,Q76846862,Paramount Media Networks,Q1156334,False,0.26033109426498413
-927,Where did Josep Guardiola born?,Santpedor,Q16736,Santpedor,Q16736,True,0.9999998807907104
-1162,When did Grange Hill end?,2008,2008-01-01T00:00:00Z,2008-09-15T00:00:00Z,dateTime,False,0.5184425115585327
-4278,Where did Luka Modrić born?,Zadar,Q3370,Zadar,Q3370,True,1.0000001192092896
-2769,When was Macaulay Culkin born?,26 August 1980,1980-08-26T00:00:00Z,1980-08-26T00:00:00Z,dateTime,False,0.6558071970939636
-4082,Notable work of Sebastián Cordero?,"Ratas, Ratones, Rateros",Q3420034,University of Southern California,Q4614,False,0.041530296206474304
-11,director of the film Encanto?,Jared Bush,Q20995253,Byron Howard,Q1018606,False,0.35297587513923645
-4457,What is Antoine Griezmann height?,176 centimetre,176 centimetre,176.0,decimal,False,0.7525151968002319
-615,which award received queen band?,Rock and Roll Hall of Fame,Q179191,,,False,0.0
-1666,Where was Vanessa Paradis born?,Saint-Maur-des-Foss\u00E9s,Q193313,Saint-Maur-des-Fossés,Q193313,True,0.8596678972244263
-2374,when did avatar movie released?,18 December 2009,2009-12-18T00:00:00Z,2009-12-16T00:00:00Z,dateTime,False,0.5123035907745361
-990,When was Watership Down published?,November 1972,Q7064669,1972-11-01T00:00:00Z,dateTime,False,0.5884347558021545
-3816,When was Louis Armstrong born?,4 August 1901,1901-08-04T00:00:00Z,1901-08-04T00:00:00Z,dateTime,False,0.6003652811050415
-4759,Where did Exodus take place?,Cyprus internment camps,Q5200532,United States,Q30,False,0.17053863406181335
-697,Who directed the movie Oblivion?,Joseph Kosinski,Q2444076,Joseph Kosinski,Q2444076,True,1.0000001192092896
-358,Where did Landon Donovan born?,Ontario,Q488134,Ontario,Q488134,True,1.0
-4048,"Author of ""Wuthering Heights"" novel?",Emily Bront\u00EB,Q80137,Emily Brontë,Q80137,True,0.8411823511123657
-3227,what Network released Mindhunter TV-Series?,Netflix,Q907311,,,False,0.0
-2164,Creator of Millennium crime novels?,Stieg Larsson,Q186317,Stieg Larsson,Q186317,True,0.9999998807907104
-3652,Where did Franz Beckenbauer born?,Munich,Q1726,Richard-Wagner-Straße 19 (München),Q2111134,False,0.6280931234359741
-2375,who directed the avatar movie?,James Cameron,Q42574,James Cameron,Q42574,True,1.0
-2498,Where was John Prine born?,Maywood,Q165247,Maywood,Q165247,True,1.0
-2555,Who directed The Turning Point?,Herbert Ross,Q711415,Anne Bancroft,Q183532,False,0.20830950140953064
-526,Selena Gomez held which position?,UNICEF Goodwill Ambassador,Q19969187,filmmaker,Q1414443,False,0.23777885735034943
-4959,Director of Hellbound tv series?,Yeon Sang-ho,Q19947205,Yeon Sang-ho,Q19947205,True,1.0
-4356,When was Pat Monahan born?,28 February 1969,1969-02-28T00:00:00Z,1969-02-28T00:00:00Z,dateTime,False,0.7298640012741089
-3445,Home team of Mercedes-Benz Stadium?,Atlanta United FC,Q16836317,Atlanta United FC,Q16836317,True,0.9999999403953552
-2670,Publication date of Homeland Elegies?,15 September 2020,2020-09-15T00:00:00Z,2020-09-15T00:00:00Z,dateTime,False,0.5735512971878052
-1277,When did the suburbs released?,2 August 2010,2010-08-02T00:00:00Z,2010-08-02T00:00:00Z,dateTime,False,0.5807284116744995
-2818,pele was which team player?,Pel\u00E9,Q1991022,Bauru Atlético Clube,Q2340403,False,0.33426612615585327
-1806,Who directed the movie Hamlet?,Kenneth Branagh,Q55294,Kenneth Branagh,Q55294,True,1.0
-659,which language of this story?,English,Q1860,English,Q1860,True,1.0
-2913,When did Anne Rice die?,11 December 2021,2021-12-11T00:00:00Z,2021-12-11T00:00:00Z,dateTime,False,0.6649701595306396
-4501,What is Beck's spouse's name?,Marissa Ribisi,Q299790,Marissa Ribisi,Q299790,True,1.0
-2331,which country does neymar belongs?,Neymar,Q142794,Brazil,Q155,False,0.4259951114654541
-514,Who Quotes Little Women's Work?,Love Between Brothers and Sisters,Q19102846,Lolita,Q127149,False,0.12761244177818298
-4589,Who formed the band Euphoria?,Palash Sen,Q3348185,Euphoria,Q105371716,False,0.16662466526031494
-6470,What was Johann Morgenstern's profession?,philology,Q40634,professor,Q121594,False,0.30715370178222656
-6262,Who directed the film Ant-Man?,Peyton Reed,Q944763,Peyton Reed,Q944763,True,1.0
-6218,What year did ER end?,2009,2009-01-01T00:00:00Z,2009-04-02T00:00:00Z,dateTime,False,0.5148582458496094
-6243,Nirvana was founded by who?,Kurt Cobain,Q8446,Dave Grohl,Q12006,False,0.47079896926879883
-5617,Where was Rob Brydon born?,Baglan,Q2477613,Baglan,Q2477613,True,1.0
-6229,What religion inspired the author?,Latter Day Saint movement,Q1097673,The Church of Jesus Christ of Latter-day Saints,Q42504,False,0.7014674544334412
-5080,Genre of the series ER?,medical drama,Q1786567,medical drama,Q1786567,True,0.9999999403953552
-6525,position played by Christian Pulisic?,midfielder,Q193592,midfielder,Q193592,True,1.0
-5801,When was Johan Cruyff born?,25 April 1947,1947-04-25T00:00:00Z,1947-04-25T00:00:00Z,dateTime,False,0.7175071835517883
-5391,When was George Orwell born?,21 January 1950,1950-01-21T00:00:00Z,1903-06-25T00:00:00Z,dateTime,False,0.3585795760154724
-5850,When was Britney Spears born?,2 December 1981,1981-12-02T00:00:00Z,1981-12-02T00:00:00Z,dateTime,False,0.6960245370864868
-5272,Publisher of the book Lolita?,Olympia Press,Q532567,Fawcett Publications,Q3067653,False,0.21634265780448914
-6522,Where did Christian Pulisic born?,Hershey,Q868666,Hershey,Q868666,True,1.0
-5727,director of the flim Minions?,Pierre Coffin,Q3384479,Kyle Balda,Q20666333,False,0.271415114402771
-6575,When was Ming-Na Wen born?,20 November 1963,1963-11-20T00:00:00Z,1963-11-20T00:00:00Z,dateTime,False,0.6436078548431396
-5573,Who directed The King's Speech?,Tom Hooper,Q295912,Tom Hooper,Q295912,True,1.0
-5126,What year was Rocky released?,1976,1976-01-01T00:00:00Z,1976-11-21T00:00:00Z,dateTime,False,0.6660820841789246
-5322,Where was Andrés Iniesta born?,Fuentealbilla,Q389171,Fuentealbilla,Q389171,True,1.0000001192092896
-5328,When did it come out?,7 March 1996,1996-03-07T00:00:00Z,1995-01-01T00:00:00Z,dateTime,False,0.4687885046005249
-6355,Who distributes the movie Eternals?,Walt Disney Studios Motion Pictures,Q1323594,Fórum Hungary,Q1005887,False,0.010371295735239983
-5332,Author of Sense and Sensibility?,Emma Thompson,Q168724,Jane Austen,Q36322,False,0.652782142162323
-5613,Where was Sharon Osbourne born?,Brixton,Q146690,Brixton,Q146690,True,1.0000001192092896
-5372,Is Heidi Klum a supermodel?,Yes,Yes,,,False,0.0
-6543,When did the Tapestry released?,10 February 1971,1971-02-10T00:00:00Z,,,False,0.0
-5733,Type of voice has Beyoncé?,Mezzo-soprano,Q186506,mezzo-soprano,Q186506,True,1.0000001192092896
-6000,What was America's first album?,America,Q126852,,,False,0.0
-5082,which handedness did pele have?,left-handedness,Q789447,right-handedness,Q3039938,False,0.9746957421302795
-5133,What was the Beatles' nickname?,The Beatles,Q1299,The Fab Four,en,False,0.33394119143486023
-6585,Which squad won Euro 2020?,Italy national association football team,Q676899,Italy men's national association football team,Q676899,True,0.8932095766067505
-5731,What is nominated for Beyoncé?,Artist of the Year,Q19858055,Academy Award for Best Original Song,Q112243,False,0.4467928111553192
-6421,When was Billboard magazine founded?,1 November 1894,1894-11-01T00:00:00Z,1894-01-01T00:00:00Z,dateTime,False,0.5513155460357666
-5685,Where did Luis Suárez born?,Salto,Q335506,Salto,Q335506,True,1.0000001192092896
-5829,Who developed the Deadly Class?,"Rick Remender, Miles Orion Feldsott","Rick Remender, Miles Orion Feldsott",,,False,0.0
-6134,Which is capital of Netherlands?,Amsterdam,Q727,Amsterdam,Q727,True,1.0000001192092896
-5442,What is Cafu's birth name?,Marcos Evangelista de Morais,Marcos Evangelista de Morais,Marcos Evangelista de Morais,pt-br,False,1.0
-5314,Location of the Bob Dylan?,Bob Dylan,Q392,Duluth,Q485708,False,0.23363563418388367
-6043,Where did Daniel Passarella born?,"Chacabuco, Buenos Aires",Q2755081,"Chacabuco, Buenos Aires",Q2755081,True,1.0000001192092896
-5624,Where was Philipp Lahm born?,Munich,Q1726,Munich,Q1726,True,1.0
-6238,Who founded the band Nirvana?,Kurt Cobain,Q8446,Dave Grohl,Q12006,False,0.47079896926879883
-6208,Who did the song Macarena?,Los del R\u00EDo,Q170252,Los del Río,Q170252,True,0.6521646976470947
-5839,Where was Herman Melville born?,Manhattan,Q11299,Manhattan,Q11299,True,1.0000001192092896
-6062,Where does Ali Hewson live?,Killiney,Q2435120,Killiney,Q2435120,True,1.0
-4989,TV series Lucifer developed by?,Tom Kapinos,Q541899,Tom Kapinos,Q541899,True,1.0
-5837,Who wrote the novel Moby-Dick?,Herman Melville,Q4985,Herman Melville,Q4985,True,1.0000001192092896
-6562,Who played Gilda in Gilda?,Rita Hayworth,Q42745,Don Douglas,Q1230751,False,0.3507983684539795
-5033,When was Robert Altman born?,20 February 1925,1925-02-20T00:00:00Z,1925-02-20T00:00:00Z,dateTime,False,0.6977896690368652
-5638,Who wrote the movie Togo?,Tom Flynn,Q7815818,,,False,0.0
-6603,Elton John plays what insturment?,piano,Q5994,voice,Q17172850,False,0.39961522817611694
-5797,Where was Seth McFarlane born?,Kent,Q1739029,Kent,Q1739029,True,1.0
-4977,Article 15 is directed by?,Anubhav Sinha,Q4777707,,,False,0.0
-6488,When is Ben Affleck's birthday?,15 August 1972,1972-08-15T00:00:00Z,1972-08-15T00:00:00Z,dateTime,False,0.5935335755348206
-5452,Who translated the book 2666?,Natasha Wimmer,Q6968513,Natasha Wimmer,Q6968513,True,1.0
-5857,When was John Cleese born?,27 October 1939,1939-10-27T00:00:00Z,1939-10-27T00:00:00Z,dateTime,False,0.6997342705726624
-5694,When did Paul walker die?,30 November 2013,2013-11-30T00:00:00Z,2013-11-30T00:00:00Z,dateTime,False,0.5367135405540466
-6376,who published To the Lighthouse?,Hogarth Press,Q1623362,,,False,0.0
-5722,Who directs the flim Minions?,Pierre Coffin,Q3384479,Kyle Balda,Q20666333,False,0.271415114402771
-5355,When was Sergio Busquets born?,Sabadell,Q12258,,,False,0.0
-6281,How tall is Ali Dia?,5 ft 10 in,5 ft 10 in,Ali Dia,Q742136,False,0.150083988904953
-5170,TV series Cursed created by?,Frank Miller,Q207676,Frank Miller,Q207676,True,1.0
-5197,Which place of Toby Stephens?,London,Q25201358,London,Q84,False,1.0
-5125,Where did Rocky take place?,Philadelphia,Q1345,Pennsylvania,Q1400,False,0.7147189378738403
-6563,When was Rita Hayworth born?,17 October 1918,1918-10-17T00:00:00Z,1918-10-17T00:00:00Z,dateTime,False,0.7136397361755371
-6387,screenwriter for movie American Gangster?,Steven Zaillian,Q291141,Steven Zaillian,Q291141,True,1.0
-6068,Where was Ed Westwick born?,27 June 1987,1987-06-27T00:00:00Z,Stevenage,Q19795,False,0.08812983334064484
-5438,Where was Jerry Seinfeld born?,Brooklyn,Q18419,Brooklyn,Q18419,True,1.0
-6353,Who directs the movie Eternals?,Eternals,Q23894629,Chloe Zhao,Q21078321,False,0.192060649394989
-6442,highest grossing film in 1994?,The Lion King,Q36479,Nicole Cattell,Q100793542,False,0.17604658007621765
-6031,Where did Mstislav Rostropovich born?,Baku,Q9248,Baku,Q9248,True,0.9999999403953552
-5055,When did the Bundesliga start?,24 August 1963,1963-08-24T00:00:00Z,1963-08-24T00:00:00Z,dateTime,False,0.7155401110649109
-5844,Where was Vivien Leigh born?,Darjeeling,Q169997,Darjeeling,Q169997,True,1.0
-6464,What is Helen Svedin's occupation?,model,Q4610556,model,Q4610556,True,1.0
-5208,Where did Fyodor Dostoyevsky die?,Saint Petersburg,Q656,Saint Petersburg,Q656,True,1.0
-6112,Who directed the movie Darling?,Sameer Asha Patil,Sameer Asha Patil,John Schlesinger,Q55303,False,0.05096793174743652
-5142,Where was Álvaro Morata born?,Madrid,Q2807,Madrid,Q2807,True,1.0
-5394,When did Danny Aiello die?,12 December 2019,2019-12-12T00:00:00Z,2019-12-12T00:00:00Z,dateTime,False,0.5477957725524902
-6047,When was the writer born?,27 February 1902,1902-02-27T00:00:00Z,1902-02-27T00:00:00Z,dateTime,False,0.7091039419174194
-5184,When did Vera Farmiga born?,6 August 1973,1973-08-06T00:00:00Z,1973-08-06T00:00:00Z,dateTime,False,0.6864421367645264
-5181,When was Diana Gabaldon born,11 January 1952,1952-01-11T00:00:00Z,1952-01-11T00:00:00Z,dateTime,False,0.7139773964881897
-6123,When did the wall released?,30 November 1979,1979-11-30T00:00:00Z,,,False,0.0
-5094,When did Judy Garland die?,22 June 1969,1969-06-22T00:00:00Z,1969-06-22T00:00:00Z,dateTime,False,0.7375739216804504
-6513,instrument played by Selena Gomez?,voice,Q17172850,drum,Q11404,False,0.3783532381057739
-5429,When was Elvis Presley born?,8 January 1935,1935-01-08T00:00:00Z,1935-01-08T00:00:00Z,dateTime,False,0.6974872350692749
-5732,Where did Beyoncé born on?,Houston,Q16555,Houston,Q16555,True,0.9999999403953552
-5087,Who wrote the novel Dune?,Frank Herbert,Q7934,Frank Herbert,Q7934,True,1.0
-6254,Who is David Beckham spouse?,Victoria Beckham,Q19810,Victoria Beckham,Q19810,True,1.0000001192092896
-5903,When did Cory Monteith die?,13 July 2013,2013-07-13T00:00:00Z,2013-07-13T00:00:00Z,dateTime,False,0.539865255355835
-5215,When was Sylvester Stallone born?,6 July 1946,1946-07-06T00:00:00Z,1946-07-06T00:00:00Z,dateTime,False,0.7079586982727051
-6512,Where did Selena Gomez born?,Grand Prairie,Q51694,Grand Prairie,Q51694,True,1.000000238418579
-6033,Genre played by Mstislav Rostropovich?,western classical music,Q9730,classical music,Q9730,True,0.839011549949646
-5769,what genre of dark series?,science fiction television series,Q336059,drama television series,Q1366112,False,0.7375496625900269
-5327,Who wrote Sense and Sensibility?,Emma Thompson,Q168724,,,False,0.0
-6055,When was Chloé Zhao born?,31 March 1982,1982-03-31T00:00:00Z,1982-03-31T00:00:00Z,dateTime,False,0.6235392689704895
-5050,When was the Bundesliga founded?,24 August 1963,1963-08-24T00:00:00Z,1963-08-24T00:00:00Z,dateTime,False,0.7155401110649109
-5214,Where was Sylvester Stallone born?,Hell's Kitchen,Q840133,Hell's Kitchen,Q840133,True,0.9999999403953552
-6056,where was Chloé Zhao born?,Beijing,Q956,Beijing,Q956,True,1.0
-8970,What is Paolo Maldini's birthplace?,Milan,Q490,Milan,Q490,True,1.0
-8895,Which field Taylor Swift worked?,singer,Q177220,philanthropist,Q12362622,False,0.36007848381996155
-9392,What was Homeland based on?,Prisoners of War,Q2085782,Prisoners of War,Q2085782,True,1.000000238418579
-7349,When was Michael Jackson born?,29 August 1958,1958-08-29T00:00:00Z,1958-08-29T00:00:00Z,dateTime,False,0.7301394939422607
-9318,Who is Shirley MacLaine's brother?,Warren Beatty,Q95030,Warren Beatty,Q95030,True,1.0
-8928,Screenwriter for a troy movie?,David Benioff,Q503997,David Benioff,Q503997,True,1.0000001192092896
-8640,When did Bruno Fernandes born?,8 September 1994,1994-09-08T00:00:00Z,1994-09-08T00:00:00Z,dateTime,False,0.62317955493927
-8893,Where did Taylor Swift born?,West Reading,Q528626,West Reading,Q528626,True,1.0000001192092896
-8458,when did Katee Sackhoff born?,8 April 1980,1980-04-08T00:00:00Z,1980-04-08T00:00:00Z,dateTime,False,0.62538743019104
-8912,Where did Diego Maradona death?,Q2463131,Q2463131,Dique Luján,Q2463131,True,0.23067420721054077
-8430,When did Stephen King born?,21 September 1947,1947-09-21T00:00:00Z,1947-09-21T00:00:00Z,dateTime,False,0.7458090782165527
-6804,Who directs the movie alive?,#Alive,Q85740993,,,False,0.0
-7660,Where was Diego Maradona born?,Diego Maradona,Q17515,Lanús,Q1622565,False,0.11737228184938431
-8604,How did Irrfan Khan died?,neuroendocrine tumor,Q1981276,neuroendocrine tumor,Q1981276,True,1.0
-6987,What year did Metallica form?,1981,1981-01-01T00:00:00Z,1981-10-28T00:00:00Z,dateTime,False,0.6591892242431641
-8519,Who was The WB's founder?,Jamie Kellner,Q6147052,Warner Bros.,Q126399,False,0.17807872593402863
-7676,Release year of movie Deadpool?,2016,2016-01-01T00:00:00Z,,,False,0.0
-8330,When was Patrick Stewart born?,13 July 1940,1940-07-13T00:00:00Z,1940-07-13T00:00:00Z,dateTime,False,0.682349443435669
-9175,What year did M*A*S*H end?,1983,1983-01-01T00:00:00Z,1983-02-28T00:00:00Z,dateTime,False,0.644142746925354
-8010,Where did Yoko Kanno born?,Sendai,Q46747,Sendai,Q46747,True,1.0
-8596,when was Cassandra Clare born?,27 July 1973,1973-07-27T00:00:00Z,1973-07-27T00:00:00Z,dateTime,False,0.6619731187820435
-8064,Who directed the film Commando?,Dilip Ghosh,Q55639584,Dilip Ghosh,Q55639584,True,1.0
-8328,When was Virginia Madsen born?,11 September 1961,1961-09-11T00:00:00Z,1961-09-11T00:00:00Z,dateTime,False,0.7405647039413452
-9199,What country is Forks in?,United States,Q30,United States,Q30,True,1.0
-9193,What actress portrayed Bella Swan?,Kristen Stewart,Q126599,Kristen Stewart,Q126599,True,1.0000001192092896
-8584,What is Brooklyn Beckham's occupation?,Model,Q27894565,photographer,Q33231,False,0.34317097067832947
-8114,inception year of Austin FC?,2018,2018-01-01T00:00:00Z,2018-01-01T00:00:00Z,dateTime,False,0.45966264605522156
-8534,Who wrote the Twilight series?,Stephenie Meyer,Q160219,,,False,0.0
-7197,Pink Floyd was formed where?,Edward Cullen,Q191527,London,Q84,False,0.23337821662425995
-8785,Who released the album Wishmaster?,Nightwish,Q43510,Nightwish,Q43510,True,1.0
-7762,When did Christopher Nolan born?,30 July 1970,1970-07-30T00:00:00Z,1970-07-30T00:00:00Z,dateTime,False,0.6634231805801392
-8969,What is Paolo Maldini's surname?,Q99981505,Q99981505,Paolo Maldini,ast,False,0.19642765820026398
-6992,What was Metallica's formation year?,1981,1981-01-01T00:00:00Z,1981-10-28T00:00:00Z,dateTime,False,0.6591892242431641
-7707,Where was Tony Bennett born?,New York City,Q60,Queens,Q18424,False,0.49148714542388916
-7374,Who distributed the avatar movie?,Disney+,Q54958752,Fórum Hungary,Q1005887,False,0.13747932016849518
-8436,When did Ellar Coltrane born?,27 August 1994,1994-08-27T00:00:00Z,1994-08-27T00:00:00Z,dateTime,False,0.601197361946106
-7577,When was John Grisham born?,8 February 1955,1955-02-08T00:00:00Z,,,False,0.0
-9038,What is James Cameron's birthdate?,"August 16, 1954",1954-08-16T00:00:00Z,1954-08-16T00:00:00Z,dateTime,False,0.7287900447845459
-7742,Significant event of ABBA Band?,ABBA,Q18233,ABBA reunion,Q108717288,False,0.7937263250350952
-8271,What band wrote Hotel California?,Eagles,Q189635,Don Felder,Q704399,False,0.21610569953918457
-9167,Was Rainbow formed in 1975?,Yes,Yes,1975-01-01T00:00:00Z,dateTime,False,0.16235217452049255
-8440,when did Boyhood movie released?,19 January 2014,2014-01-19T00:00:00Z,2014-01-19T00:00:00Z,dateTime,False,0.576318621635437
-7597,What is Matthew McConaughey's religion?,Christianity,Q5043,Christianity,Q5043,True,1.0000001192092896
-7766,Who directed the movie Inception?,Christopher Nolan,Q25191,Christopher Nolan,Q25191,True,1.0000001192092896
-6931,Where did Teodor Currentzis born?,Athens,Q1524,Athens,Q1524,True,1.0000001192092896
-8046,When was Newsday first founded?,3 September 1940,1940-09-03T00:00:00Z,1940-01-01T00:00:00Z,dateTime,False,0.5917226076126099
-9401,Home venue of Barnsley F.C.?,Oakwell,Q1138270,Oakwell,Q1138270,True,1.0000001192092896
-8319,When was Catching Fire published?,1 September 2009,2009-09-01T00:00:00Z,2009-01-01T00:00:00Z,dateTime,False,0.5848743319511414
-9361,What is Enid Blyton's pseudonym?,Mary Pollock,Q76079589,Enida Blaitona,lv,False,0.3166320025920868
-9057,What band sings Closing Time?,"March 10, 1998",1998-03-10T00:00:00Z,,,False,0.0
-7739,What nominated for  ABBA Band??,Brit Award for International Album,Q60774799,Brit Award for International Album,Q60774799,True,1.0
-8579,Who is David Beckham's wife?,Victoria Beckham,Q19810,Victoria Beckham,Q19810,True,1.0000001192092896
-7360,When was Lionel Messi born?,24 June 1987,1987-06-24T00:00:00Z,1987-06-24T00:00:00Z,dateTime,False,0.6404581069946289
-8149,Where did Gigliola Cinquetti born?,Verona,Q2028,Verona,Q2028,True,0.9999999403953552
-8667,"What label released ""Bryan Adams?""",A&M Records,Q277626,Verve Records,Q1124849,False,0.450678288936615
-8685,"Who created ""The Twilight Zone?""",Rod Serling,Q435920,Rod Serling,Q435920,True,1.0000001192092896
-7569,Which year Liverpool team founded?,1892,1892-01-01T00:00:00Z,1892-06-03T00:00:00Z,dateTime,False,0.7068637609481812
-8845,When was Peter Graves born?,18 March 1926,1926-03-18T00:00:00Z,1926-03-18T00:00:00Z,dateTime,False,0.6763553023338318
-7698,What company published Maisie Dobbs?,Soho Press,Q7554766,Soho Press,Q7554766,True,1.000000238418579
-8160,Where did  Nuno Gomes born?,Amarante,Q454875,Amarante,Q454875,True,1.0
-9033,Where did Anne Rice die?,Rancho Mirage,Q506446,Rancho Mirage,Q506446,True,1.000000238418579
-8578,When was David Beckham born?,2 May 1975,1975-05-02T00:00:00Z,1975-05-02T00:00:00Z,dateTime,False,0.6137309074401855
-8279,What year was Pelé born?,1940,1940-01-01T00:00:00Z,1940-10-23T00:00:00Z,dateTime,False,0.7046030163764954
-7210,Where was Zinedine Zidane born?,Marseille,Q23482,16th arrondissement of Marseille,Q194401,False,0.6520176529884338
-6943,Where did Andrey Arshavin born?,Saint Petersburg,Q656,Saint Petersburg,Q656,True,1.0
-9035,Author of the Vampire Chronicles,Anne Rice,Q184785,Anne Rice,Q184785,True,1.0000001192092896
-7865,When was Aaron Paul born?,1979,1979-01-01T00:00:00Z,,,False,0.0
-8529,Where was Luigi Ridolfi born?,Forl\u00EC,Q13367,Forlì,Q13367,True,0.3557658791542053
-7759,which city Enid Blyton born?,East Dulwich,Q3305828,East Dulwich,Q3305828,True,1.0
-8414,Where did Robert Lewandowski born?,Warsaw,Q270,Warsaw,Q270,True,1.0
-7146,When was Xenia Seeberg born?,4 April 1967,1967-04-04T00:00:00Z,1967-04-04T00:00:00Z,dateTime,False,0.6499757766723633
-7212,What is Zinedine Zidane's height?,185 centimetre,185 centimetre,185.0,decimal,False,0.7284877300262451
-7415,Who directed Mars Tv series?,Everardo Gout,Q27891742,,,False,0.0
-7652,Director name of The Beatles?,Brian Epstein,Q203690,Boston,Q100,False,0.14899681508541107
-7341,Who directed the movie Braveheart?,Mel Gibson,Q42229,Mel Gibson,Q42229,True,1.0000001192092896
-9025,Who wrote the Vampire Chronicles?,Anne Rice,Q184785,Anne Rice,Q184785,True,1.0000001192092896
-9174,Did M*A*S*H end in 1990?,No,No,1983-02-28T00:00:00Z,dateTime,False,0.12664906680583954
-7178,lead actor of Scam 1992?,Pratik Gandhi,Q20788175,Nikhil Dwivedi,Q16200324,False,0.35946863889694214
-8600,When did Suraj Sharma born?,21 March 1993,1993-03-21T00:00:00Z,1993-03-21T00:00:00Z,dateTime,False,0.6116064786911011
-8834,Where was Roland Orzabal born?,Portsmouth,Q72259,Portsmouth,Q72259,True,1.0
-6901,When was Axl Rose born?,6 February 1962,1962-02-06T00:00:00Z,Axl Rose,Q11885,False,0.09294924885034561
-7408,When was Eagles band formed?,1971,1971-01-01T00:00:00Z,1971-01-01T00:00:00Z,dateTime,False,0.6223244667053223
-7471,Is Nirvana a rock group?,Yes,Yes,musical group,Q215380,False,0.1065201610326767
-8186,Where does Elizabeth Meriwether reside?,Miami,Q8652,Miami,Q8652,True,1.0
-9042,What is Leonardo dicaprio's birthdate?,"November 11, 1974",1974-11-11T00:00:00Z,1974-11-11T00:00:00Z,dateTime,False,0.6081051826477051
-8544,Author of the Twilight series?,Stephenie Meyer,Q160219,Stephenie Meyer,Q160219,True,1.0
-9330,What year was Twoism released?,1995,1995-01-01T00:00:00Z,1995-08-01T00:00:00Z,dateTime,False,0.6045909523963928
-7972,When did Marilyn Monroe die?,4 August 1962,1962-08-04T00:00:00Z,1962-08-04T00:00:00Z,dateTime,False,0.6426357626914978
-9247,Who wrote the novel Middlesex?,Jeffrey Eugenides,Q357108,Jeffrey Eugenides,Q357108,True,1.0000001192092896
-8984,Who directed the movie Panga?,Ashwiny Iyer Tiwari,Q28012317,Ashwiny Iyer Tiwari,Q28012317,True,1.0
-7312,When did Matthew McConaughey born?,4 November 1969,1969-11-04T00:00:00Z,1969-11-04T00:00:00Z,dateTime,False,0.7019842863082886
-8766,What year was Youngblood released?,1986,1986-01-01T00:00:00Z,1986-01-01T00:00:00Z,dateTime,False,0.6493624448776245
-8566,Female lead in the Eurythmics?,Annie Lennox,Q151231,,,False,0.0
-6926,Who distributed the movie Leviathan?,Cirko Film,Q28871365,Cirko Film,Q28871365,True,1.0000001192092896
-8927,Emma was written by whom?,Jane Austen,Q36322,Jane Austen,Q36322,True,1.000000238418579
-8501,"Who performed the song ""Hook?""",Blues Traveler,Q886047,Blues Traveler,Q886047,True,1.0000001192092896
-9214,What was Inna's first album?,Hot,Q683783,Heartbreaker,Q102400333,False,0.260016530752182
-8975,When was Vladimir Nabokov died?,2 July 1977,1977-07-02T00:00:00Z,1977-07-02T00:00:00Z,dateTime,False,0.6815023422241211
-8471,When did Sergio Agüero born?,2 June 1988,1988-06-02T00:00:00Z,1988-06-02T00:00:00Z,dateTime,False,0.6385873556137085
-9386,When did Harry Warner die?,25 July 1958,1958-07-25T00:00:00Z,1958-07-25T00:00:00Z,dateTime,False,0.710877537727356
-7907,What book followed Little Women?,Little Men: Life at Plumfield with Jo\u2019s Boys,Q3902626,Jo's Boys,Q1436824,False,0.519488513469696
-6807,Genre of the movie Alive?,zombie film,Q3072049,zombie film,Q3072049,True,1.0
-6785,What year did Leverage end?,2012,2012-01-01T00:00:00Z,,,False,0.0
-9032,When did Anne Rice die?,12 November 2021,2021-11-12T00:00:00Z,2021-12-11T00:00:00Z,dateTime,False,0.6209108233451843
-6809,Where did Marc Shaiman born?,Newark,Q25395,Newark,Q25395,True,1.0
-7406,Cinematographer of the movie Avatar?,Mauro Fiore,Q926054,Mauro Fiore,Q926054,True,1.0
-7260,what country is Rihanna born?,Barbados,Q244,Barbados,Q244,True,1.0
-6822,where did Paolo Maldini born?,Milan,Q490,Milan,Q490,True,1.0
-7969,When was Toni Morrison born?,18 February 1931,1931-02-18T00:00:00Z,1931-02-18T00:00:00Z,dateTime,False,0.6892629861831665
-7555,director of The Shawshank Redemption?,Frank Darabont,Q295445,Frank Darabont,Q295445,True,1.0
-8856,What was Gérard Houllier's nationality?,France,Q142,France,Q142,True,1.000000238418579
-7211,What is Zinedine Zidane's religion?,Islam,Q432,Islam,Q432,True,1.0
-8432,Who is Stephen King's spouse?,Tabitha King,Q284287,Tabitha King,Q284287,True,1.0
-7612,Where was Keanu Reeves born?,Beirut,Q3820,Beirut,Q3820,True,1.0
-7993,what type of sport USMNT?,soccer,Q2736,association football,Q2736,True,0.7121603488922119
-7357,Where was Andrew Lincoln born?,London,Q84,London,Q84,True,1.0
-8278,What is Pelé birth name?,Edson,Q18697757,Edson,Q18697757,True,1.0
-9196,Where was Stephenie Meyer born?,Hartford,Q33486,Hartford,Q33486,True,1.0
-7776,Who produced Squid Game series?,Netflix,Q907311,,,False,0.0
-8533,Home stadium of Torino F.C.?,Stadio Olimpico di Torino,Q214629,Stadio Olimpico Grande Torino,Q214629,True,0.9252755045890808
-7261,does Rihanna have any awards?,Yes,Yes,Grammy Award for Best Rap Song,Q1123766,False,0.08263290673494339
-7409,In which location Eagles formed?,Los Angeles,Q65,Los Angeles,Q65,True,1.0
-8486,What companies own this railroad?,China Railway,Q1073489,China Railway Kunming Group,Q11087466,False,0.7404389381408691
-7262,Which artist sings Summertime Sadness?,Lana Del Rey,Q37150,Lana Del Rey,Q37150,True,1.0
-8066,Who wrote the Movie Commando?,Ritesh Shah,Q41586211,Ritesh Shah,Q41586211,True,1.0
-7468,Where was Kurt Cobain born?,Aberdeen,Q233808,Aberdeen,Q233808,True,0.9999998807907104
-8917,Emma was written by who?,Jane Austen,Q36322,Jane Austen,Q36322,True,1.000000238418579
-8349,Who first broadcast The Expanse?,Syfy,Q276542,Amazon Prime Video,Q4740856,False,0.10810256004333496
-7402,When did Mauro Fiore born?,15 November 1964,1964-11-15T00:00:00Z,1964-11-15T00:00:00Z,dateTime,False,0.6178731322288513
-6922,Who directs the movie Leviathan?,Andrey Zvyagintsev,Q122425,Andrey Zvyagintsev,Q122425,True,1.0
-7748,TV Series Titans director name?,Brad Anderson,Q598238,Brad Anderson,Q598238,True,1.0000001192092896
-8191,When was S.L. Benfica formed?,28 February 1904,1904-02-28T00:00:00Z,1904-02-28T00:00:00Z,dateTime,False,0.7335795164108276
-8450,When did Pete Wentz born?,5 June 1979,1979-06-05T00:00:00Z,1979-06-05T00:00:00Z,dateTime,False,0.6525247097015381
-7758,when was Enid Blyton died?,28 November 1968,1968-11-28T00:00:00Z,1968-11-28T00:00:00Z,dateTime,False,0.5979247689247131
-8180,When was Jack Daugherty born?,13 August 1930,1930-08-13T00:00:00Z,1930-08-13T00:00:00Z,dateTime,False,0.6525011658668518
-7397,Who wrote Millennium novel series?,Stieg Larsson,Q186317,Stieg Larsson,Q186317,True,0.9999998807907104
-7827,third album of Arcade Fire?,Neon Bible,Q1630983,,,False,0.0
-9213,What country is Inna from?,Romania,Q218,Romania,Q218,True,1.0
-9279,Who created TV series See?,Steven Knight,Q1337354,Steven Knight,Q1337354,True,1.0
-9030,Where was Anne Rice born?,New Orleans,Q34404,New Orleans,Q34404,True,1.0
-8770,Who directed St. Elmo's Fire?,Joel Schumacher,Q295207,Joel Schumacher,Q295207,True,1.0000001192092896
-7308,When was Carl Sagan born?,9 November 1934,1934-11-09T00:00:00Z,1934-11-09T00:00:00Z,dateTime,False,0.6930116415023804
-9212,What year was Inna born?,1986,1986-01-01T00:00:00Z,,,False,0.0
-7558,Number of worldwide records sold?,Over 150 million,Over 150 million,,,False,0.0
-8302,Who created Game of Thrones?,D. B. Weiss,Q1151388,D. B. Weiss,Q1151388,True,1.0000001192092896
-6885,Where Jan Oblak was born?,\u0160kofja Loka,Q15922,Kranj,Q1021,False,0.370574951171875
-7556,When did Justin Bieber born?,1 March 1994,1994-03-01T00:00:00Z,1994-03-01T00:00:00Z,dateTime,False,0.6005505323410034
-9085,When did Dr. Seuss die?,"September 24, 1991",1991-09-24T00:00:00Z,1991-09-24T00:00:00Z,dateTime,False,0.6379529237747192
-7251,Who directed the movie Titanic?,James Cameron,Q42574,James Cameron,Q42574,True,1.0
-7741,Who founded by ABBA Band?,ABBA,Q18233,Benny Andersson & Björn Ulvaeus,Q10430687,False,0.453728049993515
-7144,When was Eva Habermann born?,16 January 1976,1976-01-16T00:00:00Z,1976-01-16T00:00:00Z,dateTime,False,0.6386643648147583
-8974,Who wrote the novel Lolita?,Vladimir Nabokov,Q36591,Vladimir Nabokov,Q36591,True,1.000000238418579
-7129,When did Frank Herbert die?,11 February 1986,1986-02-11T00:00:00Z,1986-02-11T00:00:00Z,dateTime,False,0.690983235836029
-8911,Where did Diego Maradona born?,Lan\u00FAs,Q1622565,Lanús,Q1622565,True,0.44310635328292847
-9031,When was Anne Rice born?,10 April 1941,1941-04-10T00:00:00Z,1941-10-04T00:00:00Z,dateTime,False,0.7519029378890991
-8688,Who was Villa Park's architecht?,Archibald Leitch,Q344137,Archibald Leitch,Q344137,True,1.0
-7562,Who is Walter White in,Bryan Cranston,Q23547,,,False,0.0
-8023,Where did Kylian Mbappé born?,19th arrondissement of Paris,Q204622,Paris,Q90,False,0.5921856164932251
-7137,What was Jewel's first album?,Pieces of You,Q1814801,,,False,0.0
-6786,Did Leverage get a revival?,Yes,Yes,,,False,0.0
-8603,When did Irrfan Khan died?,29 April 2020,2020-04-29T00:00:00Z,2020-04-29T00:00:00Z,dateTime,False,0.6545370817184448
-7855,Who is Mark Wahlberg's wife?,Rhea Durham,Q435055,Rhea Durham,Q435055,True,1.0
-7256,Who was the director Titanic?,James Cameron,Q42574,James Cameron,Q42574,True,1.0
-8661,"Who directed ""The Princess Diaries?""",Garry Marshall,Q315087,Garry Marshall,Q315087,True,1.0
-9240,What country is Fulham in?,United Kingdom,Q145,United Kingdom,Q145,True,1.0000001192092896
-315,Britney Spears' eye colour?,brown,Q17122705,brown,Q17122705,True,1.000000238418579
-1294,Who published The Chosen?,Simon & Schuster,Q1756332,Simon & Schuster,Q1756332,True,1.0000001192092896
-2608,Argentina FIFA code name?,Argentina national football team,Q79800,,,False,0.0
-2849,Who Wrote Harry Potter?,J. K. Rowling,Q34660,,,False,0.0
-2170,David Lynch's first movie?,Eraserhead,Q11618,Six Men Getting Sick,Q3485595,False,0.02332635596394539
-875,Who directed The Mummy?,Stephen Sommers,Q363402,Stephen Sommers,Q363402,True,1.0
-2876,Highest league in Barcelona?,Yes,Yes,La Liga,Q324867,False,0.13846443593502045
-2461,"Author of ""It"" novel?",Stephen King,Q39829,,,False,0.0
-4430,"Who wrote ""Ulysses"" novel?",James Joyce,Q6882,,,False,0.0
-989,Who wrote Watership Down?,Richard Adams,Q313289,Richard Adams,Q313289,True,1.0000001192092896
-3016,Queen's earliest released single?,Keep Yourself Alive,Q597273,Keep Yourself Alive,Q597273,True,1.0000001192092896
-220,Spouse of J.k Simmons?,Michelle Schumacher,Q11989309,Michelle Schumacher,Q11989309,True,1.0
-4594,Band Euphoria formed by?,Palash Sen,Q3348185,Palash Sen,Q3348185,True,1.0
-3430,Who mixed this song?,Neal Pogue,Q16733227,Fred Durst,Q44707,False,0.30521130561828613
-3021,Where was he born?,Cokeburg,Q1131839,Washington County,Q497200,False,0.22542068362236023
-4765,Who directed The Wiz?,Sidney Lumet,Q51559,Sidney Lumet,Q51559,True,1.0
-995,When was Inception released?,8 July 2010,2010-07-08T00:00:00Z,2010-07-08T00:00:00Z,dateTime,False,0.6156169176101685
-2032,Who composed Teen Wolf?,Dino Meneghin,Q557954,Dino Meneghin,Q119085259,False,1.0
-2651,Budget of Titanic movie?,$200 million,$200 million,200000000.0,decimal,False,0.4126678705215454
-515,Author of Little Women?,Louisa May Alcott,Q185696,Louisa May Alcott,Q185696,True,1.0
-4228,Who wrote the screenplay?,Joseph Stefano,Q326681,,,False,0.0
-3007,Who directed the movie?,Guy Hamilton,Q363653,Dennis Edwards,Q1189111,False,0.3728955388069153
-2262,Who wrote the song?,Stewart Copeland,Q315711,Stewart Copeland,Q315711,True,1.0000001192092896
-511,When was Little Women?,1869,1869-01-01T00:00:00Z,1861-01-01T00:00:00Z,dateTime,False,0.3639538586139679
-1409,The Hunchback of Notre-Dame,Victor Hugo,Q535,The Hunchback of Notre Dame,Q191380,False,0.35942506790161133
-806,Who lost the Maracanazo?,Brazil national football team,Q83459,Uruguay men's national football team,Q134916,False,0.609521746635437
-2229,movie Roohi directed by?,Hardik Mehta,Q35488479,Hardik Mehta,Q35488479,True,1.0
-4265,Where did Eminem born?,St. Joseph,Q745120,St. Joseph,Q745120,True,1.0
-3829,Where did Ronaldinho born?,Porto Alegre,Q40269,Porto Alegre,Q40269,True,1.0
-2257,What architect designed it?,Emil Schacht,Q5371435,Emil Schacht,Q5371435,True,1.0
-3714,Who wrote Enola Holmes?,Jack Thorne,Q6115483,Jack Thorne,Q6115483,True,1.0
-510,Who wrote Little Women?,Louisa May Alcott,Q185696,Louisa May Alcott,Q185696,True,1.0
-4435,"Author of ""Ulysses"" novel?",James Joyce,Q6882,James Joyce,Q6882,True,1.0000001192092896
-3719,Author of Enola Holmes?,Jack Thorne,Q6115483,Nancy Springer,Q3335610,False,0.2246200442314148
-2655,who formed Metallica band?,James Hetfield,Q484302,Lars Ulrich,Q106193,False,0.2517549395561218
-360,Who wrote Good Omens?,Terry Pratchett,Q46248,Neil Gaiman,Q210059,False,0.37959909439086914
-2456,"Who wrote ""It"" novel?",Stephen King,Q39829,Jonathan Brandis,Q317539,False,0.3338129222393036
-2552,Who illustrated Oliver Twist?,George Cruikshank,Q360466,George Cruikshank,Q360466,True,1.0000001192092896
-2551,Who published Oliver Twist?,Richard Bentley,Q172299,,,False,0.0
-805,Who won the Maracanazo?,Uruguay national football team,Q134916,,,False,0.0
-399,Who was the cinematographer?,Vilmos Zsigmond,Q963628,Vilmos Zsigmond,Q963628,True,1.0
-4624,Jennifer Lopez's first album?,On the 6,Q526575,,,False,0.0
-1630,Who directed film Shiddat?,Kunal Deshmukh,Q6444153,Kunal Deshmukh,Q6444153,True,1.0
-1008,Who created Æon Flux?,Peter Chung,Q489286,Peter Chung,Q489286,True,1.0000001192092896
-2649,Who directed Titanic movie?,James Cameron,Q42574,James Cameron,Q42574,True,1.0
-4664,Lionel Messi born on?,24 June 1987,1987-06-24T00:00:00Z,1987-06-24T00:00:00Z,dateTime,False,0.6404581069946289
-4500,Where was Beck born?,Los Angeles,Q65,Los Angeles,Q65,True,1.0
-2269,Who named the city?,Lot Whitcomb,Q6684596,,,False,0.0
-3720,Who Story by Passengers?,Jon Spaihts,Q6271612,Robert Silverberg,Q314553,False,0.36127230525016785
-3715,When was Enola Holmes?,23 September 2020,2020-09-23T00:00:00Z,,,False,0.0
-2867,Who is country madonna?,French Canadian,Q857880,,,False,0.0
-2367,Who wrote Jurassic park?,Michael Crichton,Q172140,,,False,0.0
-2532,What is Eminem's height?,1.74 metre,1.74 metre,,,False,0.0
-2854,Author Of Harry Potter?,J. K. Rowling,Q34660,J. K. Rowling,Q34660,True,1.0
-4157,Where did Xavi born?,Terrassa,Q13939,Terrassa,Q13939,True,1.0
-3903,Spouse of Dennis Haysbert?,Lynn B. Griffith,Q17479151,,,False,0.0
-4675,Who owns Studio Ghibli?,Tokuma Shoten,Q1372258,Tokuma Shoten,Q1372258,True,1.0
-4333,Developer the series Dexter?,"James Manos, Jr.",Q1110157,James Manos Jr.,Q1110157,True,0.9877876043319702
-375,Who founded Arcade Fire?,Win Butler,Q1349573,Win Butler,Q1349573,True,1.0000001192092896
-1262,Who wrote the Moby-Dick?,Herman Melville,Q4985,Herman Melville,Q4985,True,1.0000001192092896
-4303,Who created the Ghoul?,Patrick Graham,Q7146590,,,False,0.0
-4945,Spouse of Matt Damon?,Luciana Boz\u00E1n Barroso,Q17118995,Luciana Bozán Barroso,Q17118995,True,0.849548876285553
-4267,Genre played by Eminem?,Eminem,Q5608,hip-hop,Q11401,False,0.5408812761306763
-2253,Ready Player One's protagonist?,Ready Player One,Q3906523,James Halliday,Q55808133,False,0.16694866120815277
-1096,Where did Ilaiyaraaja born?,Pannaipuram,Q2716759,Pannaipuram,Q2716759,True,1.0000001192092896
-2596,awarded to Elvis Presley?,Grammy Lifetime Achievement Award,Q935843,Presidential Medal of Freedom,Q17144,False,0.4106066823005676
-3095,Where was Juice filmed?,New York City,Q60,,,False,0.0
-4826,Direction of Captain Marvel?,Anna Boden and Ryan Fleck,Q33093747,Boston,Q100,False,0.2443387806415558
-3020,Who created the series?,Donald Bellisario,Q710739,,,False,0.0
-1199,Luka Modric's citizenship country?,Croatia,Q224,Croatia,Q224,True,0.9999999403953552
-3476,What is the genre?,science fiction,Q24925,dystopian fiction,Q15062348,False,0.667931854724884
-143,Who first created Jeopardy!?,Merv Griffin,Q598344,,,False,0.0
-4706,Screenwriter's of Parasite movie?,Bong Joon-ho,Q495980,Bong Joon-ho,Q495980,True,1.0
-3133,Where is Madonna from?,"Bay City, Michigan",Q746820,Bay City,Q746820,True,0.8892917037010193
-3190,Who plays John Wick?,John Wick,Q29554576,,,False,0.0
-2554,Who wrote Oliver Twist?,Charles Dickens,Q5686,Charles Dickens,Q5686,True,1.0
-2276,Yankee Stadium's home team?,New York City FC,Q13361030,New York City FC,Q13361030,True,1.0
-3433,Doja Cat's first album?,Amala,Q65090802,,,False,0.0
-2372,Author of Jurassic park?,Michael Crichton,Q172140,Michael Crichton,Q172140,True,1.0
-395,"Who wrote ""The Martian?""",Andy Weir,Q18590295,,,False,0.0
-5891,FC Cincinnati soccer club?,Football Club Cincinnati,Football Club Cincinnati,,,False,0.0
-6578,What company owns Lucasfilm?,The Walt Disney Company,Q7414,The Walt Disney Company,Q7414,True,1.0
-5343,What position held shakira?,UNICEF Goodwill Ambassador,Q19969187,philanthropist,Q12362622,False,0.5362389087677002
-5697,Spouse of Vin Diesel?,Paloma Jim\u00E9nez,Q2048362,,,False,0.0
-6132,Where Breda is located?,North Brabant,Q1101,,,False,0.0
-5333,Who Story by Seven?,Andrew Kevin Walker,Q505689,,,False,0.0
-5906,Spouse of Kevin Zegers?,Jaime,Q76435961,,,False,0.0
-6213,Who created the Macarena?,Los del R\u00EDo,Q170252,Antonio Romero,Q5699589,False,0.19298751652240753
-5225,Who created Black Mirror?,Charlie Brooker,Q2960837,Michael Schur,Q1929297,False,0.3787330985069275
-5294,CF Montréal soccer team?,Montreal,Q340,,,False,0.0
-6129,Who created the Decoupled?,Manu Joseph,Q6752277,,,False,0.0
-6577,When was Lucasfilm created?,1971,1971-01-01T00:00:00Z,1971-01-01T00:00:00Z,dateTime,False,0.6223244667053223
-6580,Who won Euro 2020?,Italy national association football team,Q676899,Italy men's national association football team,Q676899,True,0.8932095766067505
-5397,Spouse of Ossie Davis?,Ruby Dee,Q234360,Ruby Dee,Q234360,True,1.0000001192092896
-6565,When was Gilda released?,14 February 1946,1946-02-14T00:00:00Z,1946-02-14T00:00:00Z,dateTime,False,0.7014201879501343
-5032,Who directed Gosford Park?,Robert Altman,Q55163,Robert Altman,Q55163,True,1.0
-6199,Who wrote Blood Price?,Tanya Huff,Q447025,Blood Price,Q4927664,False,0.06023779511451721
-6622,year Dune movie out?,2021,2021-01-01T00:00:00Z,2021-09-03T00:00:00Z,dateTime,False,0.5736322402954102
-9047,Who sang closing time?,Semisonic,Q1572584,Semisonic,Q1572584,True,1.0
-8401,Marc Shaiman's native language?,English,Q1860,English,Q1860,True,1.0
-7904,division of Philadelphia Union?,Major League Soccer,Q18543,Major League Soccer,Q18543,True,1.0
-8522,Who is Reacher's actor?,Alan Ritchson,Q926963,Joseph Sikora,Q16216087,False,0.33600950241088867
-7376,Performer in Avatar movie?,James Horner,Q106221,Sigourney Weaver,Q102124,False,0.2965959906578064
-8675,"""Summer of '69"" performer?",Bryan Adams,Q482907,Bryan Adams,Q482907,True,1.0
-7149,Who owns Manchester United?,Manchester United Limited,Q99870964,Ineos,Q673231,False,0.18327465653419495
-7589,Who is Beyonce's spouse?,Jay-Z,Q62766,Jay-Z,Q62766,True,1.0000001192092896
-7315,Spouse of Matthew McConaughey?,Camila Alves,Q458809,Camila Alves,Q458809,True,1.0000001192092896
-7195,Hugh Jackman's birth year?,1970,1970-01-01T00:00:00Z,1968-10-12T00:00:00Z,dateTime,False,0.45540210604667664
-9125,When was FIFA founded?,21 May 1904,1904-05-21T00:00:00Z,1904-05-21T00:00:00Z,dateTime,False,0.6778925061225891
-8364,When was Shakira born?,2 February 1977,1977-02-02T00:00:00Z,1977-02-02T00:00:00Z,dateTime,False,0.691192090511322
-8555,Premiere date for Carrie?,"November 3, 1976",1976-11-03T00:00:00Z,1976-11-03T00:00:00Z,dateTime,False,0.6057122945785522
-9046,Year Titanic was released?,1997,1997-01-01T00:00:00Z,1997-11-01T00:00:00Z,dateTime,False,0.6524661779403687
-7975,Spouse of Jack Lemmon?,Cynthia Stone,Q3573759,Cynthia Stone,Q3573759,True,1.0
-6753,guitarist of Black Sabbath?,Tony Iommi,Q202733,Ozzy Osbourne,Q133151,False,0.30106160044670105
-8195,Which author wrote Cosmos?,Carl Sagan,Q410,Carl Sagan,Q410,True,1.0000001192092896
-7649,What wears The Beatles?,Beatle boot,Q2911851,Beatle boot,Q2911851,True,0.9999999403953552
-7856,Director of Licorice Pizza?,Paul Thomas Anderson,Q25132,Paul Thomas Anderson,Q25132,True,1.0
-7599,Where was Neymar born?,Mogi das Cruzes,Q194332,Mogi das Cruzes,Q194332,True,0.9999999403953552
-8672,"Who performed ""16 Candles?""",The Crests,Q465246,,,False,0.0
-9328,Where is Hexagon Sun?,Pentland Hills,Q7165251,,,False,0.0
-7430,Author of The Shining?,Stephen King,Q39829,Stephen King,Q39829,True,1.0
-7590,When was Jay-Z born?,4 December 1969,1969-12-04T00:00:00Z,1969-12-04T00:00:00Z,dateTime,False,0.7132561206817627
-7184,Louis Saha played for?,France national association football team,Q47774,France national under-21 association football team,Q1277549,False,0.8878459930419922
-7232,who produced Thriller album?,Michael Jackson,Q2831,Quincy Jones,Q193645,False,0.5102314352989197
-7694,Bhaichung Bhutia born on?,15 December 1976,1976-12-15T00:00:00Z,1976-06-15T00:00:00Z,dateTime,False,0.6209603548049927
-9036,When was Titanic released?,1997,1997-01-01T00:00:00Z,1997-11-01T00:00:00Z,dateTime,False,0.6524661779403687
-8485,What railroad serves Haiphong?,Kunming\u2013Haiphong railway,Q1741628,Hanoi–Haiphong Railway,Q10841014,False,0.577157735824585
-7113,Who created the X-Files?,Chris Carter,Q437267,Chris Carter,Q437267,True,1.0
-9136,Who wrote the Shining?,Stephen King,Q39829,,,False,0.0
-8709,Who directed The Godfather?,Francis Ford Coppola,Q56094,Francis Ford Coppola,Q56094,True,1.0
-7147,When did Lexx end?,26 April 2002,2002-04-26T00:00:00Z,,,False,0.0
-7226,producer of Jurassic Park?,Kathleen Kennedy,Q237207,Gerald R. Molen,Q1385337,False,0.3389126658439636
-7425,Who wrote The Shining?,Stephen King,Q39829,Stephen King,Q39829,True,1.0
-7670,Cairo Trilogy written by?,Naguib Mahfouz,Q7176,Naguib Mahfouz,Q7176,True,1.0
-8587,Birthday for David Beckham?,2 May 1975,1975-05-02T00:00:00Z,1975-05-02T00:00:00Z,dateTime,False,0.6137309074401855
-7427,Who published The Shining?,Doubleday,Q1251563,Doubleday,Q1251563,True,1.0
-8680,"What show succeed ""Roseanne?""",The Conners,Q56471830,,,False,0.0
-8321,When was Mockingjay published?,24 August 2010,2010-08-24T00:00:00Z,2010-08-24T00:00:00Z,dateTime,False,0.6378284692764282
-647,Who created Friends?,Marta Kauffman,Q237454,Marta Kauffman,Q237454,True,1.0
-120,Who wrote Slaughterhouse-Five?,Kurt Vonnegut,Q49074,Kurt Vonnegut,Q49074,True,1.0000001192092896
-998,Who composed Inception?,Hans Zimmer,Q76364,Hans Zimmer,Q76364,True,1.0
-4192,Who wrote Matilda?,Roald Dahl,Q25161,Roald Dahl,Q25161,True,1.0
-992,Where is Hampshire?,South East England,Q48015,United Kingdom,Q145,False,0.6416018605232239
-3034,Charlotte's Web genre?,children's novel,Q21615367,children's fiction,Q56451354,False,0.8578540086746216
-1639,Who composed Parampara?,Naresh Kumaran,Naresh Kumaran,Shiv-Hari,Q7499187,False,0.34881341457366943
-4520,Who published Emma?,John Murray,Q1232629,,,False,0.0
-3809,Who directed Jumanji?,Joe Johnston,Q352948,Joe Johnston,Q352948,True,0.9999999403953552
-401,"Director of ""Jaws?""",Steven Spielberg,Q8877,Steven Spielberg,Q8877,True,1.0
-2817,Neymar is from?,Neymar,Q61901279,Mogi das Cruzes,Q194332,False,0.21945445239543915
-125,Author of Slaughterhouse-Five?,Kurt Vonnegut,Q49074,Kurt Vonnegut,Q49074,True,1.0000001192092896
-2270,"Producer of ""Rugrats?""",Klasky Csupo,Q1744498,Klasky Csupo,Q1744498,True,1.0
-3004,"First ""Goosebumps"" book?",Welcome to Dead House,Q3210399,,,False,0.0
-3814,Who created Jumanji?,Joe Johnston,Q352948,Joe Johnston,Q352948,True,0.9999999403953552
-5543,Titanic costume designer?,Deborah Lynn Scott,Q176324,Deborah Lynn Scott,Q176324,True,1.000000238418579
-5124,Who wrote Rocky?,Sylvester Stallone,Q40026,,,False,0.0
-5092,author of Dune?,Frank Herbert,Q7934,Frank Herbert,Q7934,True,1.0
-8653,"""Frankenstein"" first author?",Mary Shelley,Q47152,Mary Shelley,Q47152,True,1.0
-9037,Who directed Titanic?,James Cameron,Q42574,James Cameron,Q42574,True,1.0
-8516,"Who created ""Lucifer?""",Tom Kapinos,Q541899,Tom Kapinos,Q541899,True,1.0
-8651,Who founded Philadelphia?,William Penn,Q209152,William Penn,Q209152,True,1.0000001192092896
-8645,"Who published ""Mathilda?""",University of North Carolina Press,Q7895937,,,False,0.0
-8500,"""Universal Soldier's"" director?",Roland Emmerich,Q60100,,,False,0.0
-8511,"Performer of ""Hook?""",Blues Traveler,Q886047,John Williams,Q131285,False,0.29386964440345764
-8921,Capital of England?,London,Q84,London,Q84,True,1.0
-4232,"""Psycho's"" director?",Alfred Hitchcock,Q7374,Alfred Hitchcock,Q7374,True,1.0000001192092896
-3544,"""Jurassic Park""?",Michael Crichton,Q172140,,,False,0.0
-3305,"""The Irishman""?",Randall Emmett,Q3418802,The Irishman,en,False,0.2707744240760803
-5888,"""Mad Man""?",Betty Draper,Q3639189,,,False,0.0
-7196,James Mangold,James Mangold,Q433893,film director,Q2526255,False,0.34207606315612793
+Question_id,Question,CompMix_answer_label,CompMix_answer_id,GRASP_SPARQL_answer,Consistency_score,Inconsistency_category
+6283,What is the elevation of Dakar?,22 m,22 m,10.0,0.1658406555652618,inconsistent
+5595,What country are the Varteks from?,Croatia,Q224,Croatia,0.9999999403953552,
+5138,Where does Family Guy take place?,Quahog,Q2254022,Quahog,1.0,
+5854,Who created the series Fawlty Towers?,John Cleese,Q25014,John Cleese,1.0,
+5671,Where did Johnny Cash born on?,Kingsland,Q79417,Kingsland,1.0,
+6267,Who is the director of Ant-Man?,Peyton Reed,Q944763,Peyton Reed,1.0,
+6492,Which city was Argentinos Juniors founded?,Buenos Aires,Q1486,Buenos Aires,1.0,
+6540,What is the rating on Pitchfork?,10/10,Q3596794,,,Incomplete schema
+5937,Who directed the movie section 375?,Ajay Bahl,Q88572808,,,Incomplete schema
+6044,Which languages spoken by Daniel Passarella?,Spanish,Q1321,espagnol,0.2194823324680328,inconsistent
+6469,Who coined the literary term bildungsroman?,Johann Karl Simon Morgenstern,Q67149,Johann Karl Simon Morgenstern,1.0,
+6567,Actress who was Gilda in Gilda?,Rita Hayworth,Q42745,,,Incomplete schema
+5898,Who wrote the Francisco de Robles?,Miguel de Cervantes,Q5682,,,Incomplete schema
+5584,What is Hans Zimmer's birth date?,12 September 1957,1957-09-12T00:00:00Z,1957-09-12T00:00:00Z,1.000000238418579,
+5279,"When was the song ""Shivers"" released?",10 September 2021,2021-09-10T00:00:00Z,2021-09-10T00:00:00Z,1.0000001192092896,
+6370,Which Postion played by Marcel Desailly?,Marcel Desailly,Q193625,,,Incomplete schema
+6248,Where was the pilot episode produced?,Toronto,Q172,Human Feelings,0.1368941366672516,inconsistent
+6298,Pearl Jam number of band members?,5,5,Stone Gossard,0.1839260458946228,inconsistent
+6338,Who was Emilio Estevez married to?,Paula Abdul,Q185465,Paula Abdul,1.0000001192092896,
+5360,Which place was Emma Orczy born?,Tarna\u00F6rs,Q1072281,Tarnaörs,0.6661214828491211,
+5123,Who starred in the movie Rocky?,Sylvester Stallone,Q40026,Sylvester Stallone,1.0000001192092896,
+5302,Author of the book  the holes?,Louis Sachar,Q553137,Louis Sachar,1.0,
+6232,What actor starred in Billy Madison?,Adam Sandler,Q132952,Adam Sandler,1.0000001192092896,
+6227,What was the second book released?,New Moon,Q191540,,,Incomplete schema
+6196,Who wrote the Dresden Files novels?,Jim Butcher,Q1367995,Jim Butcher,1.0000001192092896,
+6566,Who designed the costumes in Gilda?,Jean Louis,Q1685654,Jean-Louis Berthault,0.740924596786499,
+5790,Where was the singer Shakira born?,Barranquilla,Q62823,Barranquilla,1.0,
+5871,Writer of the book The Outsiders?,Susan Eloise Hinton,Q117425,S. E. Hinton,0.6026849150657654,
+5736,Who distributes the tv series Kakegurui?,Netflix,Q907311,Netflix,1.0,
+6292,creator of music in The Matrix?,Don Davis,Q207859,Don Davis,1.0,
+5120,Who published Catcher in the Rye?,"Little, Brown and Company",Q552959,"Little, Brown and Company",1.0,
+5908,Eagles had how many band members?,14,14,Bernie Leadon,0.2338566929101944,inconsistent
+6312,who owned the LA Galaxy team?,Philip Anschutz,Q1133456,Philip Anschutz,1.0,
+5949,Who created the TV series Loki?,Michael Waldron,Q104741807,Michael Waldron,1.0,
+5691,When was William Golding was born?,19 September 1911,1911-09-19T00:00:00Z,1911-09-19T00:00:00Z,1.0000001192092896,
+5913,how many members did Eagles have?,14,14,,,Incomplete schema
+6124,Who is the creator of Decoupled?,Manu Joseph,Q6752277,,,Incomplete schema
+5339,Shakira has how many band members?,90,90,,,Incomplete schema
+5646,Who composed the TV series Love?,Lyle Workman,Q1796374,,,Incomplete schema
+5476,João Félix born on which date?,10 November 1999,1999-11-10T00:00:00Z,1999-11-10T00:00:00Z,1.0,
+5500,Genre of the series True Detective?,drama film,Q130232,drama television series,0.7165178060531616,
+6261,Who authored the novel Little Women?,Louisa May Alcott,Q185696,Louisa May Alcott,1.0,
+6284,In which country Dakar is located?,Senegal,Q1041,Sénégal,1.0,
+5061,Genre of the book Treasure Island?,nautical fiction,Q7440128,fiction de pirates,0.6693995594978333,
+5469,How many children Manoj Bajpayee has?,1,1,,,Incomplete schema
+5436,Who created the TV series Seinfeld?,Larry David,Q23728,Larry David,0.9999999403953552,
+5206,Which year FC Barcelona club founded?,1899,1899-01-01T00:00:00Z,1899-11-29T00:00:00Z,0.9080504775047302,
+6374,Where did Marcel Desailly born ?,Accra,Q3761,Accra,1.0,
+5488,Director of the Blade Runner movie?,Ridley Scott,Q56005,,,Incomplete schema
+6381,Publisher of novel To the Lighthouse?,Hogarth Press,Q1623362,,,Incomplete schema
+5180,Who wrote the Outlander novel series?,Diana Gabaldon,Q272492,Diana Gabaldon,1.0000001192092896,
+5663,Who directs the movie Black Widow?,Cate Shortland,Q441510,Cate Shortland,1.0000001192092896,
+5848,What was Britney Spears' debut album?,\u2026Baby One More Time,Q190911,,,Incomplete schema
+5242,Author of book The Color Purple?,Alice Walker,Q215868,Alice Walker,1.0,
+6598,What instrument does Elton John play?,piano,Q5994,piano,1.0000001192092896,
+5571,Which country does Martinique belong to?,France,Q142,France,1.000000238418579,
+6479,Where did Yo-Yo Ma attend college?,Harvard College,Q49123,Harvard College,1.000000238418579,
+5561,From which country is Paris Saint-Germain?,France,Q142,France,1.000000238418579,
+5077,What is the award received by,Zilveren Televizier-Tulp,Q20890445,Zilveren Televizier-Tulp,1.000000238418579,
+5141,Who does Álvaro Morata play for?,Juventus F.C.,Q1422,Côme 1907,0.1716627925634384,inconsistent
+5003,What year was Peter Jackson born?,1961,1961-01-01T00:00:00Z,1961-10-31T00:00:00Z,0.9560089707374572,
+6125,Who directed the Tv series Decoupled?,Hardik Mehta,Q35488479,,,Incomplete schema
+5900,When was Miguel de Cervantes born?,29 September 1547,1547-09-29T00:00:00Z,1547-10-09T00:00:00Z,0.9834738969802856,
+5224,Which country did ABBA originate in?,Sweden,Q34,Suède,0.1961652338504791,inconsistent
+5911,who was the guitarist of Eagles?,Timothy B. Schmit,Q944128,Timothy B. Schmit,1.0000001192092896,
+6604,Who created the show The Simpsons?,Matt Groening,Q43994,Matt Groening,1.0,
+5931,Second novel of the Outlander series?,Dragonfly in Amber,Q2587072,Go Tell the Bees That I Am Gone,0.2445927262306213,inconsistent
+5668,Director of the flim Black Widow?,Cate Shortland,Q441510,Cate Shortland,1.0000001192092896,
+6113,Who acted as Tushar in Darling?,Prathamesh Parab,Q15637693,Zakes Mokae,0.2714569270610809,inconsistent
+5378,Which French Filmmaker influenced Rowan Atkinson?,Jacques Tati,Q51549,,,Incomplete schema
+5354,What is Sergio Busquets sport number?,5,5,5,1.0,
+6231,name of the first Twilight book?,Twilight,Q44523,,,Incomplete schema
+6144,Who directed the movie Batman Forever?,Joel Schumacher,Q295207,Joel Schumacher,1.0000001192092896,
+5765,how many seasons of dark series?,3,3,,,Incomplete schema
+5425,What is Dustin Hoffman's son's name?,Jake Hoffman,Q720777,Jake Hoffman,1.000000238418579,
+6291,Number of pages in book Emma?,1036,1036,,,Incomplete schema
+5221,In what year did ABBA form?,1972,1972-01-01T00:00:00Z,1970-01-01T00:00:00Z,0.8870176672935486,
+6140,What year was The Unconsoled published?,1995,1995-01-01T00:00:00Z,,,Incomplete schema
+5851,What is Britney Spears' father's name?,El hpt de James Parnell Spears,Q96816262,James Parnell Spears,0.747830867767334,
+5994,What year did Gene Wilder die?,2016,2016-01-01T00:00:00Z,2016-08-29T00:00:00Z,0.9559776782989502,
+5239,"When published the book""The Color Purple""?",1982,1982-01-01T00:00:00Z,1982-01-01T00:00:00Z,1.0,
+6336,What is Charlie Sheen's father's name?,Martin Sheen,Q184572,Martin Sheen,1.0,
+6558,What country is William Golding from?,United Kingdom,Q145,Royaume-Uni,0.1806174218654632,inconsistent
+5207,Who wrote the book The Idiot?,Fyodor Dostoyevsky,Q991,Fiodor Dostoïevski,0.4868597388267517,inconsistent
+6286,Page count of the book Emma?,1036,1036,,,Incomplete schema
+5776,Who wrote the series Jack Reacher?,Lee Child,Q333719,Lee Child,1.0,
+5122,Author of Catcher in the Rye?,J. D. Salinger,Q79904,J. D. Salinger,1.0,
+5610,What genre does Black Sabbath play?,Heavy metal music,Q38848,heavy metal,0.8421738147735596,
+6241,Who was the bassist for Nirvana?,Krist Novoselic,Q428798,,,Incomplete schema
+6361,Where did singer Laura Pausini born?,Faenza,Q52981,Faenza,1.0,
+5596,Who captains Croatia's national football team?,Luka Modri\u0107,Q483837,Luka Modrić,0.7002065777778625,
+5534,Where did Zinedine Zidane born on?,Marseille,Q23482,16e arrondissement de Marseille,0.6480677127838135,
+7674,The character Deadpool first appeared at?,New Mutants,Q1047918,,,Incomplete schema
+9138,What year did Carrie come out?,1974,1974-01-01T00:00:00Z,1974-04-05T00:00:00Z,0.9594454765319824,
+7422,Date of birth of Mathew Ryan?,8 April 1992,1992-04-08T00:00:00Z,1992-04-08T00:00:00Z,1.0,
+9378,In what year did Sepultura begin?,1984,1984-01-01T00:00:00Z,1984-01-01T00:00:00Z,1.0000001192092896,
+9177,What was Alan Alda TV debut?,The Phil Silvers Show,Q7756888,1958-01-01T00:00:00Z,0.1672519743442535,inconsistent
+8793,What was Cherami Leigh's debut role?,Shiki,Q1193200,,,Incomplete schema
+8884,Who directs the movie Pulp Fiction?,Quentin Tarantino,Q3772,Q3772,0.1948878765106201,inconsistent
+8934,how long is the movie troy?,Yes,Yes,163.0,0.1746094822883606,inconsistent
+7215,Who wrote The Chronicles of Narnia?,C. S. Lewis,Q9204,C. S. Lewis,1.0,
+7259,From who is the song Umbrella?,Rihanna,Q36844,Rihanna,1.0,
+7561,Date of birth of Justin Bieber?,1 March 1994,1994-03-01T00:00:00Z,1994-03-01T00:00:00Z,1.0,
+8014,Who directs the tv series Barbarians?,Barbara Eder,Q27690237,,,Incomplete schema
+7162,Who directed the movie Real Steel?,Shawn Levy,Q323076,Shawn Levy,1.0000001192092896,
+7479,Which country did Francesco Totti represent?,Italy,Q38,Italie,0.3595696091651916,inconsistent
+8408,Who distributed the tv series Sherlock?,Netflix,Q907311,Netflix,1.0,
+7189,What was Edward Cullen's birth year?,1901,1901-01-01T00:00:00Z,1901-01-01T00:00:00Z,1.0000001192092896,
+8074,Who wrote the TV series Decoupled?,Manu Joseph,Q6752277,,,Incomplete schema
+8649,What book did he regularly publish?,Poor Richard's Almanack,Q3142253,,,Incomplete schema
+8290,Who created the movie Spy Kids?,Robert Rodriguez,Q47284,,,Incomplete schema
+8077,Who is spouse of R. Madhavan?,Sarita Birje,Sarita Birje,,,Incomplete schema
+8433,How many children's for Stephen King?,Joe Hill,Q370377,36,0.2108770459890365,inconsistent
+9039,What actress played Rose in Titanic?,Kate Winslet,Q202765,,,Incomplete schema
+7241,When was Manchester United F.C. founded?,1878,1878-01-01T00:00:00Z,1878-01-01T00:00:00Z,1.0,
+7472,Name the lead singer of Nirvana.,Kurt Cobain,Q8446,Kurt Cobain,1.0,
+7868,"In Breaking Bad, who played Walter?",Bryan Cranston,Q23547,Bryan Cranston,1.0,
+6820,Which country played by Paolo Maldini?,Italy,Q38,Italie,0.3595696091651916,inconsistent
+9225,What year was Matt Groening born?,1954,1954-01-01T00:00:00Z,1954-02-15T00:00:00Z,0.974837064743042,
+8962,Is Paolo Maldini a professional athlete?,2002 FIFA World Cup,Q47735,footballeur ou footballeuse,0.1897325366735458,inconsistent
+7371,Who is the performer in Avatar?,James Horner,Q106221,Joel Moore,0.4737529754638672,inconsistent
+7072,Where did Shawn Levy was born?,Montreal,Q340,Montréal,0.9999999403953552,
+8413,Which country did Robert Lewandowski played?,Poland,Q36,Pologne,0.3635341823101043,inconsistent
+8920,"Emma, where is the storey set?",England,Q21,Sud de l'Angleterre,0.089702270925045,inconsistent
+7866,Who is actor Aaron Paul's wife?,Lauren Parsekian,Q40459846,,,Incomplete schema
+8784,What year was Angelica Rylin born?,1981,1981-01-01T00:00:00Z,1981-12-27T00:00:00Z,0.9449505805969238,
+7073,In which province Montreal is located?,Quebec,Q176,agglomération de Montréal,0.5661860704421997,inconsistent
+7370,Author of book The great gatsby?,F. Scott Fitzgerald,Q93354,F. Scott Fitzgerald,1.000000238418579,
+6650,When did John Updike pass away?,27 January 2009,2009-01-27T00:00:00Z,2009-01-27T00:00:00Z,1.0000001192092896,
+8577,Original air date for The X-Files?,"September 10, 1993",1993-09-10T00:00:00Z,1993-09-10T00:00:00Z,1.0000001192092896,
+8333,What type of location is Arrakis?,desert planet,Q1037127,planète désertique de fiction,0.5990362763404846,inconsistent
+8063,How Rites Shah started his career?,playwright,Q214917,1997-01-01T00:00:00Z,0.0734741017222404,inconsistent
+9274,Who was the spouse of Adele?,Simon Konecki,Q30348038,,,Incomplete schema
+8631,Original broadcaster of The 100 series?,The CW,Q212252,The CW,1.0000001192092896,
+8268,Where did the band Eagles form?,Los Angeles,Q65,Los Angeles,1.0,
+6933,Which genre did Teodor Currentzis played?,western classical music,Q9730,musique,0.4735914766788482,inconsistent
+7338,What was Leo Tolstoy's native language?,Russian,Q7737,russe,0.5598577260971069,inconsistent
+9357,Where is the Benenden School located?,Kent,Q21694674,,,Incomplete schema
+8629,Which place did Eliza Taylor born?,Melbourne,Q3141,Melbourne,1.0000001192092896,
+7228,When was the album Thriller released?,30 November 1982,1982-11-30T00:00:00Z,1982-11-30T00:00:00Z,1.0,
+7851,Who directed the movie Licorice Pizza?,Paul Thomas Anderson,Q25132,Paul Thomas Anderson,1.0,
+9145,What year was The Minpins published?,1991,1991-01-01T00:00:00Z,,,Incomplete schema
+8773,What year was Emmy Rossum born?,1986,1986-01-01T00:00:00Z,1986-09-12T00:00:00Z,0.9678970575332642,
+7188,What is Bella Swan's husband's name?,Edward Cullen,Q191527,Edward Cullen,1.0,
+7130,Author of first published Dune book?,Dune,Q190192,Frank Herbert,0.4684688448905945,inconsistent
+7217,when was The Last Battle released?,4 September 1956,1956-09-04T00:00:00Z,1956-09-04T00:00:00Z,1.0000001192092896,
+7373,Who is the Director of Avatar?,James Cameron,Q42574,James Cameron,1.0,
+6733,who is the owned by team,John R. Ingram,Q6253887,,,Incomplete schema
+8767,Who played the lead in Youngblood?,Rob Lowe,Q296505,Rob Lowe,1.0,
+7754,2018 winner of FIFA World Cup?,2018 FIFA World Cup,Q170645,équipe de France de football,0.3279007077217102,inconsistent
+7954,From which institution Bruno Heller graduated?,University of Sussex,Q1161297,Université du Sussex,0.9020546078681946,
+7132,When was Ana de Armas born?,30 April 1988,1988-04-30T00:00:00Z,1988-04-30T00:00:00Z,1.0000001192092896,
+7076,Who directed the movie Free Guy?,Shawn Levy,Q323076,Shawn Levy,1.0000001192092896,
+8648,Who was Franklin Street named after?,Benjamin Franklin,Q34969,,,Incomplete schema
+7604,In what place was Neymar born?,Mogi das Cruzes,Q194332,Mogi das Cruzes,0.9999999403953552,
+7802,Formation year of the band Aerosmith?,1970,1970-01-01T00:00:00Z,1969-01-01T00:00:00Z,0.8431252241134644,
+7544,Mohamed Salah born on which date?,15 June 1992,1992-06-15T00:00:00Z,1992-06-15T00:00:00Z,0.9999997615814208,
+7808,TV series Special OPS created by?,Neeraj Pandey,Q6986928,,,Incomplete schema
+8880,Who produces the movie Pulp Fiction?,Lawrence Bender,Q514913,Lawrence Bender,1.0000001192092896,
+7553,Which novel the story is based?,Rita Hayworth and Shawshank Redemption,Q968314,Rita Hayworth et la rédemption de Shawshank,0.913604736328125,
+8308,What is David Beckham birth name?,David Robert Joseph Beckham,David Robert Joseph Beckham,David Robert Joseph Beckham,1.0,
+7209,Which country does Zinedine Zidane represent?,France,Q142,France,1.000000238418579,
+8324,Release date of The Hunger Games?,14 September 2008,2008-09-14T00:00:00Z,2012-09-28T00:00:00Z,0.9328991770744324,
+7853,What year was Boogie Nights released?,1997,1997-01-01T00:00:00Z,1997,0.6290714740753174,
+8173,Who directed the movie The Notebook?,Nick Cassavetes,Q431191,Nick Cassavetes,1.0,
+6988,What city did Metallica form in?,Los Angeles,Q65,Los Angeles,1.0,
+9203,What year was Jim Carrey born?,1962,1962-01-01T00:00:00Z,1962-01-17T00:00:00Z,0.97984516620636,
+7191,"Who directed the film, The wolverine?",James Mangold,Q433893,James Mangold,1.0,
+8357,When did The Expanse first air?,14 December 2015,2015-12-14T00:00:00Z,2015-12-14T00:00:00Z,1.0000001192092896,
+8790,Was Khoi Dao in Kuroko's Basketball?,Yes,Yes,,,Incomplete schema
+8273,What university did Mike Judge attend?,"University of California, San Diego",Q622664,Université de Californie à San Diego,0.8343121409416199,
+7348,Who composed the song Billie Jean?,Michael Jackson,Q2831,,,Incomplete schema
+7538,TV series Permanent Roommates created by?,Arunabh Kumar,Q19666417,,,Incomplete schema
+6940,Which country did Andrey Arshavin played?,Russia,Q159,Russie,0.3806811273097992,inconsistent
+7160,author of The Hunger Games trilogy?,Suzanne Collins,Q228624,Suzanne Collins,1.0,
+8295,Creator of the movie Spy Kids?,Robert Rodriguez,Q47284,Robert Rodriguez,1.0,
+7460,Who wrote the book Black Beauty?,Anna Sewell,Q258741,Anna Sewell,1.0000001192092896,
+8488,Who was the founder of Hanoi?,An D\u01B0\u01A1ng V\u01B0\u01A1ng,Q1274690,Lý Thái Tổ,0.1114671379327774,inconsistent
+9209,How long is The Truman Show?,99 minute,99 minute,99.0,0.4942862391471863,inconsistent
+8496,Where does the river start from?,Wasserkuppe,Q247726,,,Incomplete schema
+7329,Which European team did Neymar represent?,FC Barcelona,Q7156,,,Incomplete schema
+7416,When did Mars tv series released?,14 November 2016,2016-11-14T00:00:00Z,,,Incomplete schema
+8103,creator of the TV series Threshold?,Bragi F. Schut,Q64029560,,,Incomplete schema
+7404,What is the budget of Avatar?,$237 million,$237 million,237000000.0,0.5765500068664551,inconsistent
+8313,What is David Beckham full name?,David Robert Joseph Beckham,David Robert Joseph Beckham,,,Incomplete schema
+9205,Where does Peter Weir hold citizenship?,Australia,Q408,Australie,0.6095273494720459,
+8049,"Who invented the term ""soccer-specific stadium""?",Lamar Hunt,Q187912,,,Incomplete schema
+9089,Who was Dr. Seuss's first spouse?,Helen Palmer Geisel,Q5702956,Helen Palmer Geisel,1.0,
+7605,"Who wrote the book, David Copperfield?",Charles Dickens,Q5686,Charles Dickens,1.0,
+8016,Who distributes the tv series Barbarians?,Netflix,Q907311,,,Incomplete schema
+7484,Francesco Totti played for which country?,Italy,Q38,,0.2272069156169891,Incomplete schema
+9155,Did Rodney Dangerfield die in 2004?,Yes,Yes,2004-10-05T00:00:00Z,0.169185608625412,inconsistent
+8108,who created the TV series Threshold?,Bragi F. Schut,Q64029560,,,Incomplete schema
+7958,Who developed the TV series Gotham?,Bruno Heller,Q965484,Bruno Heller,1.0000001192092896,
+8261,When did Iron Man come out?,2008,2008-01-01T00:00:00Z,,0.2014456689357757,Incomplete schema
+7566,production company of Breaking bad series?,Sony Pictures Television,Q652390,Sony Pictures Television,1.000000238418579,
+8389,Who distributed the movie The Ring?,UIP-Dunafilm,Q1329615,UIP-Dunafilm,1.0000001192092896,
+7936,Who is the publisher of Rangbhoomi?,Darul Ishat,Darul Ishat,,,Incomplete schema
+7313,Which place did Matthew McConaughey born?,Uvalde,Q868860,Uvalde,1.000000238418579,
+7042,Who directed the movie Lethal Weapon?,Richard Donner,Q262130,Richard Donner,1.0,
+7983,Number of episodes in The Sopranos?,86,86,86.0,0.7351495027542114,
+8335,Release date of original Dune film?,14 December 1984,1984-12-14T00:00:00Z,1984-12-14T00:00:00Z,1.0000001192092896,
+8590,When was City of Bones published?,27 March 2007,2007-03-27T00:00:00Z,,,Incomplete schema
+9067,What was Josh Radnor's acting debut?,Happythankyoumoreplease,Q1050720,2000-01-01T00:00:00Z,0.0922769755125045,inconsistent
+8390,Who directs the movie The Ring?,Gore Verbinski,Q295463,Gore Verbinski,1.0,
+8881,Who distributed the movie Pulp Fiction?,Mok\u00E9p,Q17126013,MOKÉP,0.5123515129089355,inconsistent
+7695,Who wrote the book Maisie Dobbs?,Jacqueline Winspear,Q3157819,Jacqueline Winspear,1.000000238418579,
+7030,Date of birth of Mohamed Salah?,15 June 1992,1992-06-15T00:00:00Z,1992-06-15T00:00:00Z,0.9999997615814208,
+7593,Who created the series True Detective?,Nic Pizzolatto,Q7024302,Nic Pizzolatto,1.0,
+8678,"Who created ""Buffy the Vampire Slayer?""",Joss Whedon,Q298025,Joss Whedon,1.0,
+6881,What is Elevation of Škofja Loka?,351.8 m,351.8 m,400.0,0.4700283408164978,inconsistent
+6742,Who plays Guy in Free Guy?,Ryan Reynolds,Q192682,Ryan Reynolds,1.000000238418579,
+8693,What soccer stadium is in Manchester?,City of Manchester Stadium,Q48159,,,Incomplete schema
+8979,Who founded the city Saint Petersburg?,Peter the Great,Q8479,Pierre Ier de Russie,0.3915421366691589,inconsistent
+8491,Where did Roland Emmerich attend college?,University of Television and Film Munich,Q569350,université de télévision et de cinéma de Munich,0.8670504689216614,
+9040,When was actress Kate Winslet born?,"October 5, 1975",1975-10-05T00:00:00Z,1975-10-05T00:00:00Z,1.0,
+8100,What was named after The Doors?,The Doors of Perception,Q1215450,OYO 79192 The Doors,0.4410040378570556,inconsistent
+8264,Who produced the movie Avengers: Endgame?,Kevin Feige,Q515161,Kevin Feige,1.0,
+9364,Who was Enid Blyton's second husband?,Kenneth Fraser Darrell Waters,Q59268638,Kenneth Fraser Darrell Waters,1.0,
+8692,What city is Umbro headquartered in?,Manchester,Q18125,Manchester,1.0000001192092896,
+6882,What is position of Jan Oblak?,goalkeeper,Q201330,gardien de but,0.3986298441886902,inconsistent
+9172,What was Chi McBride tv debut?,The Fresh Prince of Bel-Air,Q309063,http://www.wikidata.org/prop/direct/P5233,0.0775176882743835,inconsistent
+8283,What was Pelé name at birth?,Edson,Q18697757,Edson,1.0,
+7401,Who is the cinematographer of Avatar?,Mauro Fiore,Q926054,Mauro Fiore,1.0,
+8753,Who wrote the Left Behind series?,Tim LaHaye,Q558416,,,Incomplete schema
+7823,The publication date of Free guy?,13 August 2021,2021-08-13T00:00:00Z,"Персонаж (фільм, 2020)",0.3146848380565643,inconsistent
+7078,In which studio album Melodrama recorded?,Electric Lady Studios,Q1325913,,0.1576438248157501,Incomplete schema
+7548,In which city Carl Sagan born?,Brooklyn,Q18419,Brooklyn,1.0,
+6794,What position did Stefano Pioli play?,defender,Q336286,défenseur,0.6497518420219421,
+7738,Which award received by ABBA Band?,ABBA,Q18233,Musikexportpriset,0.1360856890678405,inconsistent
+7650,Where was The Beatles works archives?,University of Maryland Libraries,Q7895690,Bibliothèques de l'université du Maryland,0.8145711421966553,
+6867,Who directed the film 365 days?,Barbara Białowąs,Barbara Białowąs,Barbara Białowąs,1.0000001192092896,
+8260,What was the first MCU movie?,Iron Man,Q192724,,,Incomplete schema
+9305,Where was Mary Robinette Kowal born?,Raleigh,Q41087,Raleigh,1.0,
+7937,Who is the author of Rangbhoomi?,Premchand,Q174152,Munshi Premchand,0.6964606046676636,
+8354,Who wrote The Expanse book series?,James S. A. Corey,Q6142591,James S. A. Corey,1.0,
+7602,Who was Neymar's partner in 2017?,Bruna Marquezine,Q4281880,Santos FC,0.3515523076057434,inconsistent
+7244,Location of Manchester United football club?,Manchester United F.C.,Q18656,Manchester,0.6906272172927856,
+7877,who write the Great Expectations book?,Charles Dickens,Q75100717,Charles Dickens,1.0,
+7777,When was Squid Game released worldwide?,17 September 2021,2021-09-17T00:00:00Z,2021-09-17T00:00:00Z,1.0,
+9363,Who was Enid Blyton's first husband?,Hugh Alexander Pollock,Q16749773,,,Incomplete schema
+9154,What year did Carl Anderson die?,2004,2004-01-01T00:00:00Z,2004-02-23T00:00:00Z,0.9748016595840454,
+7359,What country does Lionel Messi represent?,Argentina,Q414,Argentine,0.8529068827629089,
+8309,Where is David Beckham is from?,London,Q84,Borough londonien de Waltham Forest,0.5923590660095215,inconsistent
+7377,A R Rahman from which country?,India,Q668,Inde,0.2706840634346008,inconsistent
+9066,When was actor Josh Radnor born?,"July 29, 1974",1974-07-29T00:00:00Z,1974-07-29T00:00:00Z,1.0000001192092896,
+8823,Who directed the film Midnight Express?,Alan Parker,Q271284,Alan Parker,1.0000001192092896,
+7271,in which country is the Fritz-Walter-Stadion?,Germany,Q183,Allemagne,0.2784357666969299,inconsistent
+8545,When was the movie Carrie released?,"November 3, 1976",1976-11-03T00:00:00Z,1976-11-03T00:00:00Z,1.0,
+8078,Who created the TV series Decoupled?,Manu Joseph,Q6752277,,,Incomplete schema
+7428,Where does The Shining take place?,Southern Rocky Mountains,Q7570444,Overlook Hotel,0.12557253241539,inconsistent
+9041,What actor played Jack in Titanic?,Leonardo DiCaprio,Q38111,Leonardo DiCaprio,1.0000001192092896,
+9198,What is the setting of Twilight?,Forks,Q226013,,,Incomplete schema
+7575,Who wrote the book The Firm?,John Grisham,Q106465,John Grisham,1.0000001192092896,
+8469,Which is Sergio Agüero national team?,Argentina national football team,Q79800,Argentine,0.702315092086792,
+9055,Where did the band Semisonic start?,Minneapolis,Q36091,Minneapolis,1.0000001192092896,
+9208,Where was The Truman Show filmed?,Los Angeles,Q65,Los Angeles,1.0,
+7206,Who was the founder of HBO?,Charles Dolan,Q11963448,Charles Dolan,1.0000001192092896,
+7908,Who wrote the book Little Men?,Louisa May Alcott,Q185696,Louisa May Alcott,1.0,
+6879,Who narrated TV series Young Sheldon?,Jim Parsons,Q30605776,Jim Parsons,1.0000001192092896,
+7990,which country of the team USMNT?,United States of America,Q19971019,États-Unis,0.4415988028049469,inconsistent
+8205,Who directed the post-apocalyptic movie Waterworld?,Kevin Reynolds,Q464903,Kevin Reynolds,1.0000001192092896,
+7074,In which year was Montreal founded?,17 May 1642,1642-05-17T00:00:00Z,1642-05-17T00:00:00Z,1.0000001192092896,
+7300,At which position did Xavi played?,midfielder,Q193592,milieu de terrain,0.2222350835800171,inconsistent
+8232,when did the venom movie released?,4 October 2018,2018-10-04T00:00:00Z,2018-10-04T00:00:00Z,1.000000238418579,
+7142,Jewel's first album was called what?,Pieces of You,Q1814801,,,Incomplete schema
+7964,On which day was Marta born?,19 February 1986,1986-02-19T00:00:00Z,1986-02-19T00:00:00Z,1.0,
+7601,What position does Neymar play in?,winger,Q8025128,,,Incomplete schema
+9140,What year was the Hobbit released?,1937,1937-01-01T00:00:00Z,,,Incomplete schema
+8199,What's the publication year of Cosmos?,1980,1980-01-01T00:00:00Z,1980-01-01T00:00:00Z,1.0,
+7134,Where was Ana de Armas born?,Santa Cruz del Norte,Q270302,La Havane,0.3413310647010803,inconsistent
+8643,"Who wrote the original ""Frankenstein"" book?",Mary Shelley,Q47152,Mary Shelley,1.0,
+7585,What is Tim Robbins' native language?,English,Q1860,,0.2849498391151428,Incomplete schema
+9384,Who founded the Warner Music Group?,Warner Bros.,Q126399,Warner Bros.,1.0,
+6776,What year was Michael Fassbender born?,1977,1977-01-01T00:00:00Z,1977-04-02T00:00:00Z,0.9733375310897828,
+9054,When was the band Semisonic established?,1995,1995-01-01T00:00:00Z,1995-01-01T00:00:00Z,1.0,
+8829,Who wrote the crime drama Scarface?,Oliver Stone,Q179497,Oliver Stone,1.0000001192092896,
+6819,Creator of the tv series medici?,Frank Spotnitz,Q2558191,,,Incomplete schema
+7609,"Who published the book, David Copperfield?",Bradbury and Evans,Q2923456,Bradbury and Evans,1.0,
+8873,Who writes the novel Jane Eyre?,Charlotte Bront\u00EB,Q127332,Charlotte Brontë,0.8134791851043701,
+8437,who played Olivia in Boyhood movie?,Patricia Arquette,Q215976,,,Incomplete schema
+6801,Who writes the book Nineteen Eighty-Four?,George Orwell,Q3335,George Orwell,1.0,
+9135,"When was the organization, FIFA founded?",21 May 1904,1904-05-21T00:00:00Z,1904-05-21T00:00:00Z,1.0,
+8404,Who broadcasts the tv series Sherlock?,BBC One,Q191472,BBC One,1.0,
+7615,"Who directed the movie, The Matrix?",The Wachowskis,Q195719,Lilly Wachowski,0.6781591176986694,
+9065,Where was actor Josh Radnor born?,Columbus,Q16567,Columbus,1.0,
+9195,What year was New Moon published?,2006,2006-01-01T00:00:00Z,2006-09-06T00:00:00Z,0.958109974861145,
+7912,Who directed the film Pulp Fiction?,Quentin Tarantino,Q3772,Q3772,0.1948878765106201,inconsistent
+8168,What is Virginia Woolf's spouse's name?,Leonard Woolf,Q703935,Leonard Woolf,1.0,
+7437,Where was Blue Oyster Cult formed?,Stony Brook,Q1376559,New York,0.3991677463054657,inconsistent
+7617,Where was the band Tool formed?,Los Angeles,Q65,Los Angeles,1.0,
+7483,What is Francesco Totti's native language?,Italian,Q652,italien,0.4564614295959472,inconsistent
+7220,author of The Chronicles of Narnia?,C. S. Lewis,Q9204,C. S. Lewis,1.0,
+8615,Where did Foo Fighters band formed?,Seattle,Q5083,Seattle,1.0,
+7596,What is Matthew McConaughey's spouse's name?,Camila Alves,Q458809,Camila Alves,1.0000001192092896,
+8215,Who was Great Performances' first host?,Walter Cronkite,Q31073,Dmitri Khvorostovski,0.3920530676841736,inconsistent
+8567,When did The X-Files first air?,"September 10, 1993",1993-09-10T00:00:00Z,1993-09-10T00:00:00Z,1.0000001192092896,
+6782,What year did After Forever disband?,2009,2009-01-01T00:00:00Z,2009-02-05T00:00:00Z,0.9773986339569092,
+7239,where was Manchester United F.C. located?,Manchester United F.C.,Q18656,,,Incomplete schema
+7783,What was Cristiano Ronaldo's last award?,UEFA Men's Player of the Year Award,Q260117,UEFA Club Footballer of the Year,0.7877638936042786,
+8697,Home field for Aston Villa F.C.?,Villa Park,Q175339,,,Incomplete schema
+7703,Who is Steven Spielberg's first wife?,Amy Irving,Q235020,,,Incomplete schema
+6979,What year was Roald Dahl born?,1916,1916-01-01T00:00:00Z,1916-09-13T00:00:00Z,0.9672488570213318,
+6985,What year did Awakenings come out?,1990,1990-01-01T00:00:00Z,1990-01-01T00:00:00Z,1.000000238418579,
+7229,How much songs in the album?,9 audio track,9 audio track,,,Incomplete schema
+8740,What is actor Hugh Bonneville's birthdate?,10 November 1963,1963-11-10T00:00:00Z,1963-11-10T00:00:00Z,1.0,
+8444,Who is the director of Boyhood?,Richard Linklater,Q40035,Richard Linklater,1.0,
+8887,Which genre did Taylor Swift played?,country music,Q83440,country pop,0.7814249396324158,
+7141,When was Spirit by Jewel released?,1998,1998-01-01T00:00:00Z,1998-01-01T00:00:00Z,1.0,
+8112,Who owned the Austin FC ?,Major League Soccer,Q18543,Precourt Sports Ventures,0.2787328362464905,inconsistent
+7454,Where is the Philadelphia Union based?,Philadelphia,Q1345,Chester,0.407194435596466,inconsistent
+6735,official name of Nashville SC ?,Nashville Soccer Club,Nashville Soccer Club,Nashville Soccer Club,1.000000238418579,
+6990,What year was Lars Ulrich born,1963,1963-01-01T00:00:00Z,1963-12-26T00:00:00Z,0.9440964460372924,
+9091,The first Dr Suess book publisher,Vanguard Press,Q7914837,,,Incomplete schema
+2335,Barcelona football team was from?,Barcelona,Q1492,Barcelone,0.4037062525749206,inconsistent
+525,Selena Gomez plays what instrument?,piano,Q5994,instrument de percussion,0.4537436366081238,inconsistent
+1780,Who wrote the movie Karwaan?,Hussain Dalal,Q16728338,,,Incomplete schema
+3014,Who performed as the drummer?,Norman Sheffield,Q7052784,,,Incomplete schema
+2313,who directed the Mank movie?,Mank,Q73093591,David Fincher,0.2111567556858062,inconsistent
+1268,Who wrote the film Yahaan?,Piyush Mishra,Q3534654,Piyush Mishra,1.0,
+851,Where did Pink Floyd form?,London,Q84,Londres,0.2469197958707809,inconsistent
+3237,Deportivo Alavés team belongs to?,Spain,Q29,Vitoria-Gasteiz,0.4081422090530395,inconsistent
+4272,Who distributes the series Hanna?,Amazon Studios,Q4740868,Amazon MGM Studios,0.8226878643035889,
+2447,"Who directed Caretaker, Part I?",Winrich Kolbe,Q178387,Winrich Kolbe,1.0000001192092896,
+3238,Atlético Madrid team was from?,Spain,Q29,Madrid,0.7406048774719238,
+772,Which channel airs Aerial America?,Smithsonian Channel,Q7545619,Smithsonian Channel,0.9999998807907104,
+2559,Who wrote The Turning Point?,Arthur Laurents,Q710334,,,Incomplete schema
+3815,Where is Louis Armstrong from?,New Orleans,Q34404,La Nouvelle-Orléans,0.7510402202606201,
+4940,When was Terry Pratchett died?,12 March 2015,2015-03-12T00:00:00Z,2015-03-12T00:00:00Z,1.0,
+895,When was Cristiano Ronaldo born?,5 February 1985,1985-02-05T00:00:00Z,1985-02-05T00:00:00Z,1.000000238418579,
+2326,Stranger Things was released in?,"Stranger Things, season 1",Q28678769,2010-01-01T00:00:00Z,0.164242684841156,inconsistent
+2190,Where was Dante Alighieri born?,Florence,Q2044,Florence,1.0,
+4281,Who wrote the book Untouchable?,Mulk Raj Anand,Q732434,Mulk Raj Anand,1.0,
+2426,Who published The Bluest Eye?,"Holt, Rinehart, and Winston",Q21809817,,,Incomplete schema
+2951,Who wrote the movie Shershaah?,Sandeep Shrivastava,Sandeep Shrivastava,Vishnuvardhan,0.4543523788452148,inconsistent
+303,Who director of Shawshank Redemption?,Frank Darabont,Q295445,Frank Darabont,1.0,
+3744,"Who wrote ""Jane Eyre"" novel?",Charlotte Bront\u00EB,Q127332,Charlotte Brontë,0.8134791851043701,
+4755,Who wrote the novel Exodus?,Leon Uris,Q269129,Leon Uris,1.0,
+1469,Who wrote The Hunger Games?,Suzanne Collins,Q228624,Suzanne Collins,1.0,
+4530,Where was Michael Jackson born?,Gary,Q184116,Gary,1.0000001192092896,
+328,What is Neymar's sport number?,10,10,10,1.0000001192092896,
+1481,Where is Gordon Lightfoot from?,Ontario,Q1904,Orillia,0.2769606113433838,inconsistent
+407,"Performer of ""Best Song Ever?""",One Direction,Q146027,,,Incomplete schema
+3897,When was Joseph Heller born?,1 May 1923,1923-05-01T00:00:00Z,1923-05-01T00:00:00Z,1.0,
+1107,What is N'Golo Kanté's religion?,Islam,Q432,islam,1.0,
+3525,Which tv network aired Friends?,NBC,Q13974,NBC,1.0000001192092896,
+2741,Who directed the movie Chehre?,Rumy Jafry,Rumy Jafry,Rumi Jaffery,0.815044641494751,
+2861,Madonna has how many children?,6,6,6.0,0.5323809385299683,inconsistent
+2384,Creator of the dark series?,Jantje Friese,Q47021487,Bête noire,0.4525370597839355,inconsistent
+4506,When did Howard Leeds die?,11 February 2017,2017-02-11T00:00:00Z,2017-02-11T00:00:00Z,1.0000001192092896,
+627,where is Harry Kane ​born?,Walthamstow,Q2321784,Walthamstow,1.0,
+2443,Who recorded the album Graduation?,Kanye West,Q15935,Kanye West,1.0000001192092896,
+4944,Where is Matt Damon's residence?,Los Angeles,Q65,Los Angeles,1.0,
+2197,Where was Hans Zimmer born?,Frankfurt,Q1794,Francfort-sur-le-Main,0.3996366262435913,inconsistent
+3900,When did Whitney Houston die?,11 February 2012,2012-02-11T00:00:00Z,2012-02-11T00:00:00Z,1.0,
+396,"Who directed the movie ""Jaws?""",Steven Spielberg,Q8877,Steven Spielberg,1.0,
+325,What is Neymar's National Team?,Brazil national under-20 football team,Q2308235,Brésil,0.2256540060043335,inconsistent
+1974,Where is Neymar originally from?,Brazil,Q155,Mogi das Cruzes,0.1953857541084289,inconsistent
+3119,Who wrote The Thorn Birds?,Colleen McCullough,Q228801,Colleen McCullough,1.0,
+4956,When was Yoo Ah-in born?,6 October 1986,1986-10-06T00:00:00Z,1986-10-06T00:00:00Z,1.0000001192092896,
+4396,What is Lionel Messi's ethnicity?,Italian Argentines,Q1056744,Italo-argentins,0.5853593349456787,inconsistent
+2452,Where was Eden Hazard born?,Belgium,Q31,La Louvière,0.4451733529567718,inconsistent
+4043,"Who wrote ""Wuthering Heights"" novel?",Emily Bront\u00EB,Q80137,Emily Brontë,0.8411823511123657,
+4300,Who is Radhika Apte's spouse?,Benedict Taylor,Q4887320,Benedict Taylor,1.0,
+624,which citizenship Harry Kane have?,United Kingdom,Q145,Royaume-Uni,0.1806174218654632,inconsistent
+4404,Where was Mark Greaney born?,Memphis,Q16563,Memphis,0.9999999403953552,
+3468,When was Matt Dillon born?,18 February 1964,1964-02-18T00:00:00Z,1964-02-18T00:00:00Z,1.0000001192092896,
+217,when did Chadwick Boseman die?,28 August 2020,2020-08-28T00:00:00Z,2020-08-28T00:00:00Z,1.000000238418579,
+3772,What is Mohamed Salahs height?,176 centimetre,176 centimetre,175.0,0.5399221181869507,inconsistent
+3546,Jurassic Park movie release date?,9 June 1993,1993-06-09T00:00:00Z,1993-06-09T00:00:00Z,1.0,
+4861,When did Hans Zimmer born?,12 September 1957,1957-09-12T00:00:00Z,1957-09-12T00:00:00Z,1.000000238418579,
+3716,Who director of Enola Holmes?,Harry Bradbeer,Q97455101,,,Incomplete schema
+3001,What company published the book?,Scholastic Corporation,Q1155729,Scholastic,0.7050529718399048,
+527,What voice type Selena Gomez?,Mezzo-soprano,Q186506,,,Incomplete schema
+1148,Who wrote the movie Hackers?,Rafael Moreu,Q7282227,Rafael Moreu,1.0,
+1186,The Aerosmith music influenced by?,Led Zeppelin,Q2331,Led Zeppelin,1.0000001192092896,
+3066,When did Michael Fassbender born?,2 April 1977,1977-04-02T00:00:00Z,1977-04-02T00:00:00Z,1.0,
+3132,Who was Madonna's first husband?,Sean Penn,Q44221,Sean Penn,1.0,
+3698,Where was Aretha Franklin born?,Memphis,Q16563,Memphis,0.9999999403953552,
+999,Where is Hans Zimmer from?,Germany,Q183,Francfort-sur-le-Main,0.2638095319271087,inconsistent
+4554,When did Keanu Reeves born?,2 September 1964,1964-09-02T00:00:00Z,1964-09-02T00:00:00Z,1.0,
+4158,Which position played by Xavi?,midfielder,Q193592,milieu de terrain,0.2222350835800171,inconsistent
+2879,Country Of Sport Lionel Messi?,Argentina,Q414,Argentine,0.8529068827629089,
+2360,TV series Breathe directed by?,Mayank Sharma,Q89273107,Breathe,0.1879847049713134,inconsistent
+4521,Where does Emma take place?,England,Q21,Sud de l'Angleterre,0.089702270925045,inconsistent
+4703,When did Bong Joon-ho born?,14 September 1969,1969-09-14T00:00:00Z,1969-09-14T00:00:00Z,1.0,
+3474,When was Liverpool F.C. formed?,3 June 1892,1892-06-03T00:00:00Z,1892-06-03T00:00:00Z,1.0,
+3629,Who writes the book Maus?,Art Spiegelman,Q325945,Art Spiegelman,1.0000001192092896,
+4079,When did Anamaria Marinca born?,1 April 1978,1978-04-01T00:00:00Z,,,Incomplete schema
+4234,Who was the album's producer?,Tom Wilson,Q2007168,Tom Wilson,1.0,
+4957,Birth place of Yoo Ah-in?,Daegu,Q20927,Daegu,1.0000001192092896,
+2377,Name the avatar movie screenwritter?,James Cameron,Q42574,James Cameron,1.0,
+988,What is Antoine Griezmann's age?,30,30,,0.3046242296695709,Incomplete schema
+4225,Who illustrated the book's cover?,Tim O'Brien,Q7804054,Tim O'Brien,1.0000001192092896,
+3162,What was Eric Clapton's pseudonym?,Slowhand,Q17592351,Slowhand,1.0,
+3075,Who is John Williams spouse?,Barbara Ruick,Q527841,,,Incomplete schema
+890,When was The Mentalist telecasted?,23 September 2008,2008-09-23T00:00:00Z,2008-09-23T00:00:00Z,1.0000001192092896,
+2584,Author of the book Dune?,Frank Herbert,Q7934,Frank Herbert,1.0,
+4188,What was Franz Beckenbauer's pseudonym?,Der Kaiser,Q18414067,/m/013xhr,0.2119785547256469,inconsistent
+3000,Who originally illustrated the cover?,Tim Jacobus,Q3991361,,,Incomplete schema
+1467,When was Alex Curran born?,23 September 1982,1982-09-23T00:00:00Z,1982-09-23T00:00:00Z,1.0,
+3934,Who produces the flim Ratatouille?,Walt Disney Pictures,Q191224,Brad Lewis,0.0857601165771484,inconsistent
+3152,When was Marcel Proust born?,10 July 1871,1871-07-10T00:00:00Z,1871-07-10T00:00:00Z,0.9999998807907104,
+657,Where is Lionel Messi from?,Argentina,Q414,Rosario,0.4982006549835205,inconsistent
+2106,When did Tom Hanks born?,9 July 1956,1956-07-09T00:00:00Z,1956-07-09T00:00:00Z,1.0000001192092896,
+2499,What disease killed John Prine?,COVID-19,Q84263196,Covid-19,1.0000001192092896,
+932,Where was Margaret Mitchell born?,Atlanta,Q23556,Atlanta,0.9999999403953552,
+2875,Against whom did club match,Paris,Q90,Olympique de Marseille,0.5424765348434448,inconsistent
+67,When did Jesse Eisenberg born?,5 October 1983,1983-10-05T00:00:00Z,1983-10-05T00:00:00Z,1.0,
+2705,Author of the book Moby-Dick?,Herman Melville,Q4985,Herman Melville,1.0000001192092896,
+3626,Who published the book Maus?,Pantheon Books,Q520387,,,Incomplete schema
+881,Full name of Michael Jackson?,Michael Jackson,Q2831,Michael Jackson,1.0000001192092896,
+3388,Who wrote the novel Gaban?,Premchand,Q174152,Munshi Premchand,0.6964606046676636,
+1455,What album followed Red Medicine?,End Hits,Q2278289,End Hits,1.0000001192092896,
+4667,Who was Harper  Lee's influence?,William Faulkner,Q38392,William Faulkner,1.0,
+4091,when did Lorenzo Richelmy born?,25 March 1990,1990-03-25T00:00:00Z,1990-03-25T00:00:00Z,1.0,
+651,Where was the Friends plotted?,Central Perk,Q2944467,http://www.w3.org/2004/02/skos/core#altLabel,0.1788253784179687,inconsistent
+3729,What is Beyoncé's vocal type?,Mezzo-soprano,Q186506,mezzo-soprano,1.0000001192092896,
+4428,What year was Adidas founded?,1924,1924-01-01T00:00:00Z,1924-07-01T00:00:00Z,0.9938573837280272,
+3326,"Who wrote ""Don Quixote"" novel?",Miguel de Cervantes,Q5682,Miguel de Cervantes,1.0,
+2626,What year was Slipknot formed?,1995,1995-01-01T00:00:00Z,1994-01-01T00:00:00Z,0.917699098587036,
+423,When was Ernest Hemingway born?,21 July 1899,1899-07-21T00:00:00Z,1899-07-21T00:00:00Z,1.000000238418579,
+48,How many seasons in Mindhunter?,2,2,2.0,0.4531084597110748,inconsistent
+4527,Who distributed The Goodbye Girl?,Warner Bros. Television Studios,Q1156642,Warner Bros.,0.8783575296401978,
+3514,When did Harold Ramis die?,24 February 2014,2014-02-24T00:00:00Z,2014-02-24T00:00:00Z,1.0,
+3582,"Riverdale series, what is genre?",teen drama,Q775344,série télévisée dramatique,0.4579461216926574,inconsistent
+984,which citizenship Antoine Griezmann have?,France,Q142,France,1.000000238418579,
+3008,Who did he first marry?,Naomi Chance,Q6964624,Naomi Chance,1.0,
+1904,Where did André Previn born?,Berlin,Q64,Berlin,1.0000001192092896,
+3614,What genre is Boston Legal?,comedy-drama,Q859369,humour noir,0.5637868046760559,inconsistent
+4287,Who directed the film Dil?,Indra Kumar,Q3150542,Indra Kumar,1.0000001192092896,
+79,What is Kelly Overton occupation?,Kelly Overton,Q461131,scénariste,0.1827467083930969,inconsistent
+916,Ennio Morricone plays which instrument?,trumpet,Q8338,piano,0.5071130394935608,inconsistent
+2026,When did the Promises released?,26 March 2021,2021-03-26T00:00:00Z,2021-03-26T00:00:00Z,0.9999999403953552,
+441,Who is Cillian Murphy's spouse?,Yvonne McGuinness,Q521990,Yvonne McGuinness,1.0000001192092896,
+3420,What company published this book?,Reilly & Britton,Q7310162,Reilly & Britton,1.0,
+894,Where was Cristiano Ronaldo born?,Portugal,Q45,Funchal,0.2093383073806762,inconsistent
+4124,When did Leonard Nimoy die?,27 February 2015,2015-02-27T00:00:00Z,2015-02-27T00:00:00Z,1.0000001192092896,
+2103,When was Rick Riordan born?,5 June 1964,1964-06-05T00:00:00Z,1964-06-05T00:00:00Z,1.0,
+976,What is Justin Bieber's birthday?,1 March 1994,1994-03-01T00:00:00Z,1994-03-01T00:00:00Z,1.0,
+2529,What is Eminem's birth name?,Marshall Mathers,Q19927199,,,Incomplete schema
+413,Lark Voorhies' first television appearance?,"Good Morning, Miss Bliss",Q639023,mannequin,0.1947047412395477,inconsistent
+4626,"What company distributed ""Full House?""",Warner Bros. Television Studios,Q1156642,Warner Bros. Television Studios,0.9999998807907104,
+2102,What is Rick Riordan's nationality?,United States of America,Q30,États-Unis,0.4415988028049469,inconsistent
+1514,Who owns the RCA records?,Sony Music,Q56760250,Sony Music,1.0,
+4509,Where was Tiffany Brissette born?,Paradise,Q387183,Paradise,1.0,
+2020,Who edited the film Shazam!?,Michel Aller,Q62015683,Michel Aller,1.0,
+2413,Instrument played by Olivier Messiaen?,organ,Q1444,orgue,0.3474783301353454,inconsistent
+2401,Genre of the book Hamlet?,tragedy,Q80930,tragédie,0.6837807893753052,
+1316,Who owns Paris Saint-Germain F.C.?,Qatar Investment Authority,Q1571175,Qatar Sports Investment,0.7273395657539368,
+4726,Who influenced Arthur Conan Doyle?,Robert Louis Stevenson,Q1512,Robert Louis Stevenson,1.0000001192092896,
+3931,Who directs the flim Ratatouille?,Brad Bird,Q310960,Brad Bird,1.0,
+2481,which citizenship Cristiano Ronaldo have?,Portugal,Q45,Portugal,1.0,
+3523,What year did Coldplay formed?,1996,1996-01-01T00:00:00Z,1999-01-01T00:00:00Z,0.8743973970413208,
+1593,Who is George Orwell's influence?,Charles Dickens,Q5686,Charles Dickens,1.0,
+3749,"Author of ""Jane Eyre"" novel?",Charlotte Bront\u00EB,Q127332,,,Incomplete schema
+3135,What is Madonna's middle name?,Louise,Q3215140,Louise,1.0,
+3250,Who directed the movie Sherni?,Amit Masurkar,Q28914756,,,Incomplete schema
+246,Who directed the movie Panga?,Ashwiny Iyer Tiwari,Q28012317,Ashwiny Iyer Tiwari,1.0,
+787,When was Virginia Madsen born?,11 September 1961,1961-09-11T00:00:00Z,1961-09-11T00:00:00Z,1.0000001192092896,
+3295,Position played by Robert Lewandowski?,Robert Lewandowski,Q151269,attaquant,0.1802547425031662,inconsistent
+3073,When was John Williams born?,8 February 1932,1932-02-08T00:00:00Z,1932-02-08T00:00:00Z,1.0,
+4570,No. of episodes in Mindhunter?,19,19,,0.3570607304573059,Incomplete schema
+4148,Where did Britney Spears born?,McComb,Q846178,McComb,1.0,
+4492,Which university employs Robert Langdon?,Harvard University,Q13371,Université Harvard,0.91415673494339,
+2174,Who played drums in Metallica?,Lars Ulrich,Q106193,,,Incomplete schema
+3436,What network broadcast this show?,Nickelodeon,Q154958,,,Incomplete schema
+4618,Director of Above the Law?,Andrew Davis,Q504461,,,Incomplete schema
+3575,what genre of Dolittle movie?,adventure film,Q319221,film et téléfilm de fantasy,0.3886055946350097,inconsistent
+4756,What year was Exodus published?,1958,1958-01-01T00:00:00Z,,,Incomplete schema
+3158,When did Robin Williams die?,11 August 2014,2014-08-11T00:00:00Z,2014-08-11T00:00:00Z,1.0000001192092896,
+4291,Who produced the film Dil?,Indra Kumar,Q3150542,,,Incomplete schema
+3011,What was Queen's first single?,Keep Yourself Alive,Q597273,,,Incomplete schema
+4149,What instrument Britney Spears played?,piano,Q5994,piano,1.0000001192092896,
+512,Who director of Little Women?,Greta Gerwig,Q271967,Greta Gerwig,1.0,
+1917,Where did Aleksandr Kerzhakov born?,Kingisepp,Q15270,Kingissepp,0.7705239057540894,
+2803,who performed without me song?,Without Me,Q57393247,,,Incomplete schema
+3684,Who wrote Romeo and Juliet?,William Shakespeare,Q692,William Shakespeare,1.0000001192092896,
+2918,When was Clint Eastwood born?,31 May 1930,1930-05-31T00:00:00Z,1930-05-31T00:00:00Z,1.0,
+2869,Who Played of Royal Mint?,Spain,Q29,Espagne,0.2989844679832458,inconsistent
+3375,Who is Kiefer Sutherland's father?,Donald Sutherland,Q103784,,,Incomplete schema
+3177,What is Christine Bleakley's occupation?,television presenter,Q947873,animateur ou animatrice de télévision,0.3133959472179413,inconsistent
+4838,"Seasons of ""The Walking Dead""?",11,11,11.0,0.6053987741470337,
+416,What team won that game?,New York Cosmos,Q646135,,,Incomplete schema
+4071,What is Bruno Fernandes height?,185 centimetre,185 centimetre,183.0,0.491205096244812,inconsistent
+784,Year of Mirrorshades first publication?,1986,1986-01-01T00:00:00Z,1986-01-01T00:00:00Z,1.0000001192092896,
+1897,Who distributes the film Smallfoot?,Warner Bros.,Q126399,,,Incomplete schema
+4709,Drummer of Fleetwood Mac band?,Mick Fleetwood,Q508439,,,Incomplete schema
+3352,which citizenship Bruno Fernandes have?,Portugal,Q45,Portugal,1.0,
+3090,Where is James Baldwin from?,If Beale Street Could Talk,Q60388749,Harlem,0.2781091332435608,inconsistent
+2865,Names of married partner madonna?,Guy Ritchie,Q192990,Guy Ritchie,1.0000001192092896,
+4573,What is Kylian Mbappé position?,forward,Q280658,attaquant,0.2232365608215332,inconsistent
+17,Location of the Queen Band?,London,Q84,,0.2500669956207275,Incomplete schema
+3291,Which position did Robert Lewandowski?,Robert Lewandowski,Q151269,attaquant,0.1802547425031662,inconsistent
+3054,Where did Harry Kane born?,Walthamstow,Q2321784,Walthamstow,1.0,
+4674,Where was Studio Ghibli formed?,Tokyo,Q1490,Point(139.529389 35.703103),0.1800939589738845,inconsistent
+1009,When was Peter Chung born?,19 April 1961,1961-04-19T00:00:00Z,1961-04-19T00:00:00Z,1.0,
+4746,Where was Alexander Skarsgård born?,V\u00E4llingby,Q2559389,,0.2177385836839676,Incomplete schema
+2186,How tall is Cristiano Ronaldo?,6 ft 2 in,6 ft 2 in,185.0,0.2447343319654464,inconsistent
+3232,which platform released Mindhunter web-series?,Netflix,Q907311,Netflix,1.0,
+2336,Neymar belongs to which country?,Neymar,Q142794,Brésil,0.276675283908844,inconsistent
+4137,genre of the book Thumbelina?,Thumbelina,Q11870,conte merveilleux,0.2692408859729767,inconsistent
+4943,When did Matt Damon born?,8 October 1970,1970-10-08T00:00:00Z,1970-10-08T00:00:00Z,1.000000238418579,
+3638,Where did Zhou Long born?,Beijing,Q956,Pékin,0.244689792394638,inconsistent
+3331,"Author of ""Don Quixote"" novel?",Miguel de Cervantes,Q5682,Miguel de Cervantes,1.0,
+2632,What year did Seinfeld debut?,1989,1989-01-01T00:00:00Z,1989-07-05T00:00:00Z,0.9768811464309692,
+3393,Who directed the movie Lagaan?,Ashutosh Gowariker,Q281249,Ashutosh Gowariker,0.9999998807907104,
+2113,What influenced Joe Hisaishi's career?,watched 300 movies a year with his father at age of four,watched 300 movies a year with his father at age of four,Quincy Jones,0.1321371793746948,inconsistent
+2520,What is Mark Twain's religion?,atheism,Q7066,scepticisme,0.5001484155654907,inconsistent
+4243,What actor portrayed Sam Malone?,Ted Danson,Q381203,Ted Danson,1.0000001192092896,
+327,Who is Neymar's official sponsor?,Red Bull,Q51482,Red Bull,1.0,
+1496,Who founded Chelsea Football Club?,Gus Mears,Q955255,Gus Mears,0.9999999403953552,
+3319,"Director of ""Mare of Easttown""",Craig Zobel,Q5181627,Craig Zobel,1.0000001192092896,
+3930,Who distributes the flim Ratatouille?,Ratatouille,Q170035,Disney+,0.2189730554819107,inconsistent
+3827,What is Ronaldinho full name?,Ronaldo,Q19819804,Ronaldinyo,0.935426950454712,
+4852,Where did Ellar Coltrane born?,Austin,Q16559,Austin,1.000000238418579,
+1327,When did James Franco born?,19 April 1978,1978-04-19T00:00:00Z,1978-04-19T00:00:00Z,1.0,
+2969,Author of The Scarlet Letter?,Nathaniel Hawthorne,Q69339,Nathaniel Hawthorne,1.0000001192092896,
+803,When was the Maracanazo played?,16 July 1950,1950-07-16T00:00:00Z,,0.1330108344554901,Incomplete schema
+3086,Where did Robert Lewandowski born?,Warsaw,Q270,Varsovie,0.3210697174072265,inconsistent
+597,Where did Thomas Müller born?,Weilheim in Oberbayern,Q535674,,,Incomplete schema
+2548,which citizenship  Cristiano Ronaldo have?,Portugal,Q45,Portugal,1.0,
+4524,Who wrote The Goodbye Girl?,Neil Simon,Q315808,,,Incomplete schema
+4902,Which award nominated for Neymer?,Laureus World Sports Award for Breakthrough of the Year,Q680221,Laureus World Sports Award for Breakthrough of the Year,0.9999999403953552,
+25,Where was Paul Pogba born?,Lagny-sur-Marne,Q9155,Lagny-sur-Marne,1.0,
+206,Where was Kylian Mbappé born?,19th arrondissement of Paris,Q204622,Paris,0.5921856164932251,inconsistent
+3442,What college did he attend?,Babson College,Q650167,Babson College,1.0,
+3355,What is Bruno Fernandes' height?,179 centimetre,179 centimetre,183.0,0.4991034567356109,inconsistent
+419,Home field of Portland Timbers?,Providence Park,Q262291,Providence Park,1.0000001192092896,
+4526,Who directed The Goodbye Girl?,Richard Benjamin,Q495813,Richard Dreyfuss,0.4995079040527344,inconsistent
+2205,How tall is Harry Styles?,1.83 metre,1.83 metre,1.83,0.4885651469230652,inconsistent
+1973,What is Neymar full name?,Neymar,Q142794,Neymar,1.0,
+1604,Where is Warner Records headquartered?,Los Angeles,Q65,Burbank,0.4155890345573425,inconsistent
+3768,which citizenship Mohamed Salah have?,Egypt,Q79,Égypte,0.8071724772453308,
+2561,Where was Carly Simon born?,The Bronx,Q18426,Bronx,0.956491231918335,
+3437,What company owns the network?,ViacomCBS,Q76846862,Paramount Media Networks,0.2603310942649841,inconsistent
+927,Where did Josep Guardiola born?,Santpedor,Q16736,Santpedor,0.9999998807907104,
+1162,When did Grange Hill end?,2008,2008-01-01T00:00:00Z,2008-09-15T00:00:00Z,0.9549846649169922,
+4278,Where did Luka Modrić born?,Zadar,Q3370,Zadar,1.0000001192092896,
+2769,When was Macaulay Culkin born?,26 August 1980,1980-08-26T00:00:00Z,1980-08-26T00:00:00Z,1.0000001192092896,
+4082,Notable work of Sebastián Cordero?,"Ratas, Ratones, Rateros",Q3420034,Université de Californie du Sud,0.1356386244297027,inconsistent
+11,director of the film Encanto?,Jared Bush,Q20995253,Jared Bush,1.0,
+4457,What is Antoine Griezmann height?,176 centimetre,176 centimetre,176.0,0.7525151968002319,
+615,which award received queen band?,Rock and Roll Hall of Fame,Q179191,Rock and Roll Hall of Fame,1.0000001192092896,
+1666,Where was Vanessa Paradis born?,Saint-Maur-des-Foss\u00E9s,Q193313,Saint-Maur-des-Fossés,0.8596678972244263,
+2374,when did avatar movie released?,18 December 2009,2009-12-18T00:00:00Z,2009-12-18T00:00:00Z,1.0000001192092896,
+990,When was Watership Down published?,November 1972,Q7064669,1972-11-01T00:00:00Z,0.5884347558021545,inconsistent
+3816,When was Louis Armstrong born?,4 August 1901,1901-08-04T00:00:00Z,1901-08-04T00:00:00Z,1.0,
+4759,Where did Exodus take place?,Cyprus internment camps,Q5200532,États-Unis,0.1894820779561996,inconsistent
+697,Who directed the movie Oblivion?,Joseph Kosinski,Q2444076,Joseph Kosinski,1.0000001192092896,
+358,Where did Landon Donovan born?,Ontario,Q488134,Ontario,1.0,
+4048,"Author of ""Wuthering Heights"" novel?",Emily Bront\u00EB,Q80137,Emily Brontë,0.8411823511123657,
+3227,what Network released Mindhunter TV-Series?,Netflix,Q907311,,,Incomplete schema
+2164,Creator of Millennium crime novels?,Stieg Larsson,Q186317,Stieg Larsson,0.9999998807907104,
+3652,Where did Franz Beckenbauer born?,Munich,Q1726,Richard-Wagner-Straße 19 (München),0.6280931234359741,
+2375,who directed the avatar movie?,James Cameron,Q42574,James Cameron,1.0,
+2498,Where was John Prine born?,Maywood,Q165247,Maywood,1.0,
+2555,Who directed The Turning Point?,Herbert Ross,Q711415,Marshall Thompson,0.4099723696708679,inconsistent
+526,Selena Gomez held which position?,UNICEF Goodwill Ambassador,Q19969187,mannequin,0.2301386296749115,inconsistent
+4959,Director of Hellbound tv series?,Yeon Sang-ho,Q19947205,Yeon Sang-ho,1.0,
+4356,When was Pat Monahan born?,28 February 1969,1969-02-28T00:00:00Z,1969-02-28T00:00:00Z,1.0,
+3445,Home team of Mercedes-Benz Stadium?,Atlanta United FC,Q16836317,Atlanta United FC,0.9999999403953552,
+2670,Publication date of Homeland Elegies?,15 September 2020,2020-09-15T00:00:00Z,2020-09-15T00:00:00Z,1.0,
+1277,When did the suburbs released?,2 August 2010,2010-08-02T00:00:00Z,2010-08-02T00:00:00Z,0.9999998807907104,
+2818,pele was which team player?,Pel\u00E9,Q1991022,Bauru Atlético Clube,0.3342661261558532,inconsistent
+1806,Who directed the movie Hamlet?,Kenneth Branagh,Q55294,Kenneth Branagh,1.0,
+659,which language of this story?,English,Q1860,anglais,0.5010755658149719,inconsistent
+2913,When did Anne Rice die?,11 December 2021,2021-12-11T00:00:00Z,2021-12-11T00:00:00Z,1.0000001192092896,
+4501,What is Beck's spouse's name?,Marissa Ribisi,Q299790,Marissa Ribisi,1.0,
+2331,which country does neymar belongs?,Neymar,Q142794,Brésil,0.276675283908844,inconsistent
+514,Who Quotes Little Women's Work?,Love Between Brothers and Sisters,Q19102846,Lolita,0.1276124417781829,inconsistent
+4589,Who formed the band Euphoria?,Palash Sen,Q3348185,Euphorie,0.3076260089874267,inconsistent
+6470,What was Johann Morgenstern's profession?,philology,Q40634,linguiste,0.4820561408996582,inconsistent
+6262,Who directed the film Ant-Man?,Peyton Reed,Q944763,Peyton Reed,1.0,
+6218,What year did ER end?,2009,2009-01-01T00:00:00Z,2009-04-02T00:00:00Z,0.9519513845443726,
+6243,Nirvana was founded by who?,Kurt Cobain,Q8446,Kurt Cobain,1.0,
+5617,Where was Rob Brydon born?,Baglan,Q2477613,Baglan,1.0,
+6229,What religion inspired the author?,Latter Day Saint movement,Q1097673,Église de Jésus-Christ des saints des derniers jours,0.4087545275688171,inconsistent
+5080,Genre of the series ER?,medical drama,Q1786567,série médicale,0.5325733423233032,inconsistent
+6525,position played by Christian Pulisic?,midfielder,Q193592,milieu de terrain,0.2222350835800171,inconsistent
+5801,When was Johan Cruyff born?,25 April 1947,1947-04-25T00:00:00Z,1947-04-25T00:00:00Z,1.0000001192092896,
+5391,When was George Orwell born?,21 January 1950,1950-01-21T00:00:00Z,1903-06-25T00:00:00Z,0.7130124568939209,
+5850,When was Britney Spears born?,2 December 1981,1981-12-02T00:00:00Z,1981-12-02T00:00:00Z,1.0,
+5272,Publisher of the book Lolita?,Olympia Press,Q532567,Olympia Press,1.0000001192092896,
+6522,Where did Christian Pulisic born?,Hershey,Q868666,Hershey,1.0,
+5727,director of the flim Minions?,Pierre Coffin,Q3384479,Pierre Coffin,1.0000001192092896,
+6575,When was Ming-Na Wen born?,20 November 1963,1963-11-20T00:00:00Z,1963-11-20T00:00:00Z,1.0,
+5573,Who directed The King's Speech?,Tom Hooper,Q295912,Tom Hooper,1.0,
+5126,What year was Rocky released?,1976,1976-01-01T00:00:00Z,1976-11-21T00:00:00Z,0.944347620010376,
+5322,Where was Andrés Iniesta born?,Fuentealbilla,Q389171,Fuentealbilla,1.0000001192092896,
+5328,When did it come out?,7 March 1996,1996-03-07T00:00:00Z,1996-03-07T00:00:00Z,1.0000001192092896,
+6355,Who distributes the movie Eternals?,Walt Disney Studios Motion Pictures,Q1323594,Walt Disney Studios Motion Pictures,1.0,
+5332,Author of Sense and Sensibility?,Emma Thompson,Q168724,Jane Austen,0.652782142162323,
+5613,Where was Sharon Osbourne born?,Brixton,Q146690,Brixton,1.0000001192092896,
+5372,Is Heidi Klum a supermodel?,Yes,Yes,,,Incomplete schema
+6543,When did the Tapestry released?,10 February 1971,1971-02-10T00:00:00Z,,,Incomplete schema
+5733,Type of voice has Beyoncé?,Mezzo-soprano,Q186506,mezzo-soprano,1.0000001192092896,
+6000,What was America's first album?,America,Q126852,,,Incomplete schema
+5082,which handedness did pele have?,left-handedness,Q789447,droitier,0.1920724064111709,inconsistent
+5133,What was the Beatles' nickname?,The Beatles,Q1299,The Lads from Liverpool,0.4758784472942352,inconsistent
+6585,Which squad won Euro 2020?,Italy national association football team,Q676899,équipe d'Italie de football,0.3518667817115783,inconsistent
+5731,What is nominated for Beyoncé?,Artist of the Year,Q19858055,American Music Award for Artist of the Year,0.6564750671386719,
+6421,When was Billboard magazine founded?,1 November 1894,1894-11-01T00:00:00Z,1894-01-01T00:00:00Z,0.9687008857727052,
+5685,Where did Luis Suárez born?,Salto,Q335506,Salto,1.0000001192092896,
+5829,Who developed the Deadly Class?,"Rick Remender, Miles Orion Feldsott","Rick Remender, Miles Orion Feldsott",statement/Q52096005-4C9897B1-B639-4155-B8C7-6C12BD9C4997,0.0961989313364029,inconsistent
+6134,Which is capital of Netherlands?,Amsterdam,Q727,Amsterdam,1.0000001192092896,
+5442,What is Cafu's birth name?,Marcos Evangelista de Morais,Marcos Evangelista de Morais,Marcos Evangelista de Morais,1.0,
+5314,Location of the Bob Dylan?,Bob Dylan,Q392,Duluth,0.2336356341838836,inconsistent
+6043,Where did Daniel Passarella born?,"Chacabuco, Buenos Aires",Q2755081,Chacabuco,0.752916693687439,
+5624,Where was Philipp Lahm born?,Munich,Q1726,Munich,1.0,
+6238,Who founded the band Nirvana?,Kurt Cobain,Q8446,Kurt Cobain,1.0,
+6208,Who did the song Macarena?,Los del R\u00EDo,Q170252,Los del Río,0.6521646976470947,
+5839,Where was Herman Melville born?,Manhattan,Q11299,Manhattan,1.0000001192092896,
+6062,Where does Ali Hewson live?,Killiney,Q2435120,Killiney,1.0,
+4989,TV series Lucifer developed by?,Tom Kapinos,Q541899,Tom Kapinos,1.0,
+5837,Who wrote the novel Moby-Dick?,Herman Melville,Q4985,Herman Melville,1.0000001192092896,
+6562,Who played Gilda in Gilda?,Rita Hayworth,Q42745,Rita Hayworth,1.0000001192092896,
+5033,When was Robert Altman born?,20 February 1925,1925-02-20T00:00:00Z,1925-02-20T00:00:00Z,1.000000238418579,
+5638,Who wrote the movie Togo?,Tom Flynn,Q7815818,,,Incomplete schema
+6603,Elton John plays what insturment?,piano,Q5994,piano,1.0000001192092896,
+5797,Where was Seth McFarlane born?,Kent,Q1739029,Kent,1.0,
+4977,Article 15 is directed by?,Anubhav Sinha,Q4777707,,,Incomplete schema
+6488,When is Ben Affleck's birthday?,15 August 1972,1972-08-15T00:00:00Z,1972-08-15T00:00:00Z,1.0,
+5452,Who translated the book 2666?,Natasha Wimmer,Q6968513,Q6968513,0.0862067192792892,inconsistent
+5857,When was John Cleese born?,27 October 1939,1939-10-27T00:00:00Z,1939-10-27T00:00:00Z,1.0000001192092896,
+5694,When did Paul walker die?,30 November 2013,2013-11-30T00:00:00Z,2013-11-30T00:00:00Z,1.0,
+6376,who published To the Lighthouse?,Hogarth Press,Q1623362,,,Incomplete schema
+5722,Who directs the flim Minions?,Pierre Coffin,Q3384479,Pierre Coffin,1.0000001192092896,
+5355,When was Sergio Busquets born?,Sabadell,Q12258,,0.2440265864133834,Incomplete schema
+6281,How tall is Ali Dia?,5 ft 10 in,5 ft 10 in,Ali Dia,0.150083988904953,inconsistent
+5170,TV series Cursed created by?,Frank Miller,Q207676,Frank Miller,1.0,
+5197,Which place of Toby Stephens?,London,Q25201358,Londres,0.2469197958707809,inconsistent
+5125,Where did Rocky take place?,Philadelphia,Q1345,Pennsylvanie,0.3239037692546844,inconsistent
+6563,When was Rita Hayworth born?,17 October 1918,1918-10-17T00:00:00Z,1918-10-17T00:00:00Z,1.0000001192092896,
+6387,screenwriter for movie American Gangster?,Steven Zaillian,Q291141,Steven Zaillian,1.0,
+6068,Where was Ed Westwick born?,27 June 1987,1987-06-27T00:00:00Z,Stevenage,0.1378728747367859,inconsistent
+5438,Where was Jerry Seinfeld born?,Brooklyn,Q18419,Brooklyn,1.0,
+6353,Who directs the movie Eternals?,Eternals,Q23894629,Chloé Zhao,0.192060649394989,inconsistent
+6442,highest grossing film in 1994?,The Lion King,Q36479,Maddali Krishnamurthy,0.2802075743675232,inconsistent
+6031,Where did Mstislav Rostropovich born?,Baku,Q9248,Bakou,0.3263478875160217,inconsistent
+5055,When did the Bundesliga start?,24 August 1963,1963-08-24T00:00:00Z,1963-08-24T00:00:00Z,1.000000238418579,
+5844,Where was Vivien Leigh born?,Darjeeling,Q169997,Darjeeling,1.0,
+6464,What is Helen Svedin's occupation?,model,Q4610556,mannequin,0.3522108793258667,inconsistent
+5208,Where did Fyodor Dostoyevsky die?,Saint Petersburg,Q656,Saint-Pétersbourg,0.6193190813064575,
+6112,Who directed the movie Darling?,Sameer Asha Patil,Sameer Asha Patil,John Schlesinger,0.0509679317474365,inconsistent
+5142,Where was Álvaro Morata born?,Madrid,Q2807,Madrid,1.0,
+5394,When did Danny Aiello die?,12 December 2019,2019-12-12T00:00:00Z,2019-12-12T00:00:00Z,1.0,
+6047,When was the writer born?,27 February 1902,1902-02-27T00:00:00Z,1902-02-27T00:00:00Z,1.0,
+5184,When did Vera Farmiga born?,6 August 1973,1973-08-06T00:00:00Z,1973-08-06T00:00:00Z,1.0000001192092896,
+5181,When was Diana Gabaldon born,11 January 1952,1952-01-11T00:00:00Z,1952-01-11T00:00:00Z,1.0,
+6123,When did the wall released?,30 November 1979,1979-11-30T00:00:00Z,,,Incomplete schema
+5094,When did Judy Garland die?,22 June 1969,1969-06-22T00:00:00Z,1969-06-22T00:00:00Z,1.0,
+6513,instrument played by Selena Gomez?,voice,Q17172850,voix,0.3751082420349121,inconsistent
+5429,When was Elvis Presley born?,8 January 1935,1935-01-08T00:00:00Z,1935-01-08T00:00:00Z,1.0,
+5732,Where did Beyoncé born on?,Houston,Q16555,Houston,0.9999999403953552,
+5087,Who wrote the novel Dune?,Frank Herbert,Q7934,Frank Herbert,1.0,
+6254,Who is David Beckham spouse?,Victoria Beckham,Q19810,Victoria Beckham,1.0000001192092896,
+5903,When did Cory Monteith die?,13 July 2013,2013-07-13T00:00:00Z,2013-07-13T00:00:00Z,1.0,
+5215,When was Sylvester Stallone born?,6 July 1946,1946-07-06T00:00:00Z,1946-07-06T00:00:00Z,1.0,
+6512,Where did Selena Gomez born?,Grand Prairie,Q51694,Grand Prairie,1.000000238418579,
+6033,Genre played by Mstislav Rostropovich?,western classical music,Q9730,musique classique,0.411109983921051,inconsistent
+5769,what genre of dark series?,science fiction television series,Q336059,série télévisée de science-fiction,0.5979738831520081,inconsistent
+5327,Who wrote Sense and Sensibility?,Emma Thompson,Q168724,,,Incomplete schema
+6055,When was Chloé Zhao born?,31 March 1982,1982-03-31T00:00:00Z,1982-03-31T00:00:00Z,1.0,
+5050,When was the Bundesliga founded?,24 August 1963,1963-08-24T00:00:00Z,1963-08-24T00:00:00Z,1.000000238418579,
+5214,Where was Sylvester Stallone born?,Hell's Kitchen,Q840133,Hell's Kitchen,0.9999999403953552,
+6056,where was Chloé Zhao born?,Beijing,Q956,Pékin,0.244689792394638,inconsistent
+8970,What is Paolo Maldini's birthplace?,Milan,Q490,Milan,1.0,
+8895,Which field Taylor Swift worked?,singer,Q177220,philanthrope,0.2208271324634552,inconsistent
+9392,What was Homeland based on?,Prisoners of War,Q2085782,Hatufim,0.1756459772586822,inconsistent
+7349,When was Michael Jackson born?,29 August 1958,1958-08-29T00:00:00Z,1958-08-29T00:00:00Z,1.0,
+9318,Who is Shirley MacLaine's brother?,Warren Beatty,Q95030,Warren Beatty,1.0,
+8928,Screenwriter for a troy movie?,David Benioff,Q503997,David Benioff,1.0000001192092896,
+8640,When did Bruno Fernandes born?,8 September 1994,1994-09-08T00:00:00Z,1994-09-08T00:00:00Z,1.0,
+8893,Where did Taylor Swift born?,West Reading,Q528626,West Reading,1.0000001192092896,
+8458,when did Katee Sackhoff born?,8 April 1980,1980-04-08T00:00:00Z,1980-04-08T00:00:00Z,1.0000001192092896,
+8912,Where did Diego Maradona death?,Q2463131,Q2463131,Dique Luján,0.2306742072105407,inconsistent
+8430,When did Stephen King born?,21 September 1947,1947-09-21T00:00:00Z,1947-09-21T00:00:00Z,1.0,
+6804,Who directs the movie alive?,#Alive,Q85740993,,,Incomplete schema
+7660,Where was Diego Maradona born?,Diego Maradona,Q17515,Lanús,0.1173722818493843,inconsistent
+8604,How did Irrfan Khan died?,neuroendocrine tumor,Q1981276,tumeur neuroendocrinienne,0.3776044845581054,inconsistent
+6987,What year did Metallica form?,1981,1981-01-01T00:00:00Z,1981-10-28T00:00:00Z,0.9577109813690186,
+8519,Who was The WB's founder?,Jamie Kellner,Q6147052,Jamie Kellner,1.000000238418579,
+7676,Release year of movie Deadpool?,2016,2016-01-01T00:00:00Z,,,Incomplete schema
+8330,When was Patrick Stewart born?,13 July 1940,1940-07-13T00:00:00Z,1940-07-13T00:00:00Z,1.0,
+9175,What year did M*A*S*H end?,1983,1983-01-01T00:00:00Z,1983-02-28T00:00:00Z,0.9696696996688844,
+8010,Where did Yoko Kanno born?,Sendai,Q46747,Sendai,1.0,
+8596,when was Cassandra Clare born?,27 July 1973,1973-07-27T00:00:00Z,1973-07-27T00:00:00Z,0.9999998807907104,
+8064,Who directed the film Commando?,Dilip Ghosh,Q55639584,Dilip Ghosh,1.0,
+8328,When was Virginia Madsen born?,11 September 1961,1961-09-11T00:00:00Z,1961-09-11T00:00:00Z,1.0000001192092896,
+9199,What country is Forks in?,United States,Q30,États-Unis,0.4339989423751831,inconsistent
+9193,What actress portrayed Bella Swan?,Kristen Stewart,Q126599,Kristen Stewart,1.0000001192092896,
+8584,What is Brooklyn Beckham's occupation?,Model,Q27894565,photographe,0.3524283468723297,inconsistent
+8114,inception year of Austin FC?,2018,2018-01-01T00:00:00Z,2018-01-01T00:00:00Z,1.0,
+8534,Who wrote the Twilight series?,Stephenie Meyer,Q160219,,,Incomplete schema
+7197,Pink Floyd was formed where?,Edward Cullen,Q191527,Londres,0.2006296217441558,inconsistent
+8785,Who released the album Wishmaster?,Nightwish,Q43510,Nightwish,1.0,
+7762,When did Christopher Nolan born?,30 July 1970,1970-07-30T00:00:00Z,1970-07-30T00:00:00Z,1.0,
+8969,What is Paolo Maldini's surname?,Q99981505,Q99981505,باولو مالديني,0.2498191595077514,inconsistent
+6992,What was Metallica's formation year?,1981,1981-01-01T00:00:00Z,1981-10-28T00:00:00Z,0.9577109813690186,
+7707,Where was Tony Bennett born?,New York City,Q60,Queens,0.4914871454238891,inconsistent
+7374,Who distributed the avatar movie?,Disney+,Q54958752,Disney+,1.0000001192092896,
+8436,When did Ellar Coltrane born?,27 August 1994,1994-08-27T00:00:00Z,1994-08-27T00:00:00Z,0.9999998807907104,
+7577,When was John Grisham born?,8 February 1955,1955-02-08T00:00:00Z,,0.0781946927309036,Incomplete schema
+9038,What is James Cameron's birthdate?,"August 16, 1954",1954-08-16T00:00:00Z,1954-08-16T00:00:00Z,1.0000001192092896,
+7742,Significant event of ABBA Band?,ABBA,Q18233,ABBA reunion,0.7937263250350952,
+8271,What band wrote Hotel California?,Eagles,Q189635,Don Felder,0.2161056995391845,inconsistent
+9167,Was Rainbow formed in 1975?,Yes,Yes,1975-01-01T00:00:00Z,0.1623521745204925,inconsistent
+8440,when did Boyhood movie released?,19 January 2014,2014-01-19T00:00:00Z,2014-01-19T00:00:00Z,1.0,
+7597,What is Matthew McConaughey's religion?,Christianity,Q5043,christianisme,0.7104466557502747,
+7766,Who directed the movie Inception?,Christopher Nolan,Q25191,Christopher Nolan,1.0000001192092896,
+6931,Where did Teodor Currentzis born?,Athens,Q1524,Athènes,0.596010684967041,inconsistent
+8046,When was Newsday first founded?,3 September 1940,1940-09-03T00:00:00Z,1940-01-01T00:00:00Z,0.9790223836898804,
+9401,Home venue of Barnsley F.C.?,Oakwell,Q1138270,Oakwell Stadium,0.7642158269882202,
+8319,When was Catching Fire published?,1 September 2009,2009-09-01T00:00:00Z,2009-01-01T00:00:00Z,0.9891627430915833,
+9361,What is Enid Blyton's pseudonym?,Mary Pollock,Q76079589,Īnida Blaitone,0.3588694632053375,inconsistent
+9057,What band sings Closing Time?,"March 10, 1998",1998-03-10T00:00:00Z,,,Incomplete schema
+7739,What nominated for  ABBA Band??,Brit Award for International Album,Q60774799,Brit Award for International Album,1.0,
+8579,Who is David Beckham's wife?,Victoria Beckham,Q19810,Victoria Beckham,1.0000001192092896,
+7360,When was Lionel Messi born?,24 June 1987,1987-06-24T00:00:00Z,1987-06-24T00:00:00Z,1.000000238418579,
+8149,Where did Gigliola Cinquetti born?,Verona,Q2028,Vérone,0.3170929551124573,inconsistent
+8667,"What label released ""Bryan Adams?""",A&M Records,Q277626,A&M Records,1.0,
+8685,"Who created ""The Twilight Zone?""",Rod Serling,Q435920,Rod Serling,1.0000001192092896,
+7569,Which year Liverpool team founded?,1892,1892-01-01T00:00:00Z,1892-06-03T00:00:00Z,0.9693346619606018,
+8845,When was Peter Graves born?,18 March 1926,1926-03-18T00:00:00Z,1926-03-18T00:00:00Z,1.0,
+7698,What company published Maisie Dobbs?,Soho Press,Q7554766,Soho Press,1.000000238418579,
+8160,Where did  Nuno Gomes born?,Amarante,Q454875,Amarante,1.0,
+9033,Where did Anne Rice die?,Rancho Mirage,Q506446,Rancho Mirage,1.000000238418579,
+8578,When was David Beckham born?,2 May 1975,1975-05-02T00:00:00Z,1975-05-02T00:00:00Z,1.0,
+8279,What year was Pelé born?,1940,1940-01-01T00:00:00Z,1940-10-23T00:00:00Z,0.9597402811050416,
+7210,Where was Zinedine Zidane born?,Marseille,Q23482,16e arrondissement de Marseille,0.6480677127838135,
+6943,Where did Andrey Arshavin born?,Saint Petersburg,Q656,Saint-Pétersbourg,0.6193190813064575,
+9035,Author of the Vampire Chronicles,Anne Rice,Q184785,Anne Rice,1.0000001192092896,
+7865,When was Aaron Paul born?,1979,1979-01-01T00:00:00Z,,0.1450311243534088,Incomplete schema
+8529,Where was Luigi Ridolfi born?,Forl\u00EC,Q13367,Forlì,0.3557658791542053,inconsistent
+7759,which city Enid Blyton born?,East Dulwich,Q3305828,East Dulwich,1.0,
+8414,Where did Robert Lewandowski born?,Warsaw,Q270,Varsovie,0.3210697174072265,inconsistent
+7146,When was Xenia Seeberg born?,4 April 1967,1967-04-04T00:00:00Z,1967-04-04T00:00:00Z,1.0000001192092896,
+7212,What is Zinedine Zidane's height?,185 centimetre,185 centimetre,185.0,0.7284877300262451,
+7415,Who directed Mars Tv series?,Everardo Gout,Q27891742,,,Incomplete schema
+7652,Director name of The Beatles?,Brian Epstein,Q203690,,,Incomplete schema
+7341,Who directed the movie Braveheart?,Mel Gibson,Q42229,Mel Gibson,1.0000001192092896,
+9025,Who wrote the Vampire Chronicles?,Anne Rice,Q184785,Anne Rice,1.0000001192092896,
+9174,Did M*A*S*H end in 1990?,No,No,1983-02-28T00:00:00Z,0.1266490668058395,inconsistent
+7178,lead actor of Scam 1992?,Pratik Gandhi,Q20788175,Pratik Gandhi,0.9999999403953552,
+8600,When did Suraj Sharma born?,21 March 1993,1993-03-21T00:00:00Z,1993-03-21T00:00:00Z,1.0000001192092896,
+8834,Where was Roland Orzabal born?,Portsmouth,Q72259,Portsmouth,1.0,
+6901,When was Axl Rose born?,6 February 1962,1962-02-06T00:00:00Z,Axl Rose,0.1364639401435852,inconsistent
+7408,When was Eagles band formed?,1971,1971-01-01T00:00:00Z,1971-01-01T00:00:00Z,1.0000001192092896,
+7471,Is Nirvana a rock group?,Yes,Yes,groupe de rock,0.110416829586029,inconsistent
+8186,Where does Elizabeth Meriwether reside?,Miami,Q8652,Miami,1.0,
+9042,What is Leonardo dicaprio's birthdate?,"November 11, 1974",1974-11-11T00:00:00Z,1974-11-11T00:00:00Z,1.0000001192092896,
+8544,Author of the Twilight series?,Stephenie Meyer,Q160219,Stephenie Meyer,1.0,
+9330,What year was Twoism released?,1995,1995-01-01T00:00:00Z,1995-08-01T00:00:00Z,0.9894563555717468,
+7972,When did Marilyn Monroe die?,4 August 1962,1962-08-04T00:00:00Z,1962-08-04T00:00:00Z,1.0,
+9247,Who wrote the novel Middlesex?,Jeffrey Eugenides,Q357108,Jeffrey Eugenides,1.0000001192092896,
+8984,Who directed the movie Panga?,Ashwiny Iyer Tiwari,Q28012317,Ashwiny Iyer Tiwari,1.0,
+7312,When did Matthew McConaughey born?,4 November 1969,1969-11-04T00:00:00Z,1969-11-04T00:00:00Z,1.000000238418579,
+8766,What year was Youngblood released?,1986,1986-01-01T00:00:00Z,1986-01-01T00:00:00Z,1.0000001192092896,
+8566,Female lead in the Eurythmics?,Annie Lennox,Q151231,,,Incomplete schema
+6926,Who distributed the movie Leviathan?,Cirko Film,Q28871365,Cirko Film,1.0000001192092896,
+8927,Emma was written by whom?,Jane Austen,Q36322,Jane Austen,1.000000238418579,
+8501,"Who performed the song ""Hook?""",Blues Traveler,Q886047,Blues Traveler,1.0000001192092896,
+9214,What was Inna's first album?,Hot,Q683783,Hot,1.0,
+8975,When was Vladimir Nabokov died?,2 July 1977,1977-07-02T00:00:00Z,1977-07-02T00:00:00Z,1.0,
+8471,When did Sergio Agüero born?,2 June 1988,1988-06-02T00:00:00Z,1988-06-02T00:00:00Z,1.0,
+9386,When did Harry Warner die?,25 July 1958,1958-07-25T00:00:00Z,1958-07-25T00:00:00Z,1.0,
+7907,What book followed Little Women?,Little Men: Life at Plumfield with Jo\u2019s Boys,Q3902626,The Brownie and the Princess,0.2855680286884308,inconsistent
+6807,Genre of the movie Alive?,zombie film,Q3072049,film de zombies,0.8794325590133667,
+6785,What year did Leverage end?,2012,2012-01-01T00:00:00Z,,,Incomplete schema
+9032,When did Anne Rice die?,12 November 2021,2021-11-12T00:00:00Z,2021-12-11T00:00:00Z,0.9966225624084472,
+6809,Where did Marc Shaiman born?,Newark,Q25395,Newark,1.0,
+7406,Cinematographer of the movie Avatar?,Mauro Fiore,Q926054,Mauro Fiore,1.0,
+7260,what country is Rihanna born?,Barbados,Q244,Barbade,0.3828290700912475,inconsistent
+6822,where did Paolo Maldini born?,Milan,Q490,Milan,1.0,
+7969,When was Toni Morrison born?,18 February 1931,1931-02-18T00:00:00Z,1931-02-18T00:00:00Z,1.0000001192092896,
+7555,director of The Shawshank Redemption?,Frank Darabont,Q295445,Frank Darabont,1.0,
+8856,What was Gérard Houllier's nationality?,France,Q142,France,1.000000238418579,
+7211,What is Zinedine Zidane's religion?,Islam,Q432,islam,1.0,
+8432,Who is Stephen King's spouse?,Tabitha King,Q284287,Tabitha King,1.0,
+7612,Where was Keanu Reeves born?,Beirut,Q3820,Beyrouth,0.1922029554843902,inconsistent
+7993,what type of sport USMNT?,soccer,Q2736,football,0.8449409008026123,
+7357,Where was Andrew Lincoln born?,London,Q84,Londres,0.2469197958707809,inconsistent
+8278,What is Pelé birth name?,Edson,Q18697757,Edson,1.0,
+9196,Where was Stephenie Meyer born?,Hartford,Q33486,Hartford,1.0,
+7776,Who produced Squid Game series?,Netflix,Q907311,,,Incomplete schema
+8533,Home stadium of Torino F.C.?,Stadio Olimpico di Torino,Q214629,stade olympique de Turin,0.62461918592453,
+7261,does Rihanna have any awards?,Yes,Yes,Icon Award,0.2294371873140335,inconsistent
+7409,In which location Eagles formed?,Los Angeles,Q65,Los Angeles,1.0,
+8486,What companies own this railroad?,China Railway,Q1073489,China Railway Kunming Group,0.7404389381408691,
+7262,Which artist sings Summertime Sadness?,Lana Del Rey,Q37150,Lana Del Rey,1.0,
+8066,Who wrote the Movie Commando?,Ritesh Shah,Q41586211,Ritesh Shah,1.0,
+7468,Where was Kurt Cobain born?,Aberdeen,Q233808,Aberdeen,0.9999998807907104,
+8917,Emma was written by who?,Jane Austen,Q36322,Jane Austen,1.000000238418579,
+8349,Who first broadcast The Expanse?,Syfy,Q276542,Amazon Prime Video,0.1081025600433349,inconsistent
+7402,When did Mauro Fiore born?,15 November 1964,1964-11-15T00:00:00Z,1964-11-15T00:00:00Z,1.0,
+6922,Who directs the movie Leviathan?,Andrey Zvyagintsev,Q122425,Andreï Zviaguintsev,0.7933768033981323,
+7748,TV Series Titans director name?,Brad Anderson,Q598238,Brad Anderson,1.0000001192092896,
+8191,When was S.L. Benfica formed?,28 February 1904,1904-02-28T00:00:00Z,1904-02-28T00:00:00Z,1.0000001192092896,
+8450,When did Pete Wentz born?,5 June 1979,1979-06-05T00:00:00Z,1979-06-05T00:00:00Z,1.0,
+7758,when was Enid Blyton died?,28 November 1968,1968-11-28T00:00:00Z,1968-11-28T00:00:00Z,1.0000001192092896,
+8180,When was Jack Daugherty born?,13 August 1930,1930-08-13T00:00:00Z,1930-08-13T00:00:00Z,1.0,
+7397,Who wrote Millennium novel series?,Stieg Larsson,Q186317,Stieg Larsson,0.9999998807907104,
+7827,third album of Arcade Fire?,Neon Bible,Q1630983,,,Incomplete schema
+9213,What country is Inna from?,Romania,Q218,Roumanie,0.4097685217857361,inconsistent
+9279,Who created TV series See?,Steven Knight,Q1337354,Steven Knight,1.0,
+9030,Where was Anne Rice born?,New Orleans,Q34404,La Nouvelle-Orléans,0.7510402202606201,
+8770,Who directed St. Elmo's Fire?,Joel Schumacher,Q295207,Joel Schumacher,1.0000001192092896,
+7308,When was Carl Sagan born?,9 November 1934,1934-11-09T00:00:00Z,1934-11-09T00:00:00Z,1.0,
+9212,What year was Inna born?,1986,1986-01-01T00:00:00Z,,0.1648826003074646,Incomplete schema
+7558,Number of worldwide records sold?,Over 150 million,Over 150 million,,,Incomplete schema
+8302,Who created Game of Thrones?,D. B. Weiss,Q1151388,D. B. Weiss,1.0000001192092896,
+6885,Where Jan Oblak was born?,\u0160kofja Loka,Q15922,Kranj,0.370574951171875,inconsistent
+7556,When did Justin Bieber born?,1 March 1994,1994-03-01T00:00:00Z,1994-03-01T00:00:00Z,1.0,
+9085,When did Dr. Seuss die?,"September 24, 1991",1991-09-24T00:00:00Z,1991-09-24T00:00:00Z,1.0000001192092896,
+7251,Who directed the movie Titanic?,James Cameron,Q42574,James Cameron,1.0,
+7741,Who founded by ABBA Band?,ABBA,Q18233,Benny Andersson,0.5166777968406677,inconsistent
+7144,When was Eva Habermann born?,16 January 1976,1976-01-16T00:00:00Z,1976-01-16T00:00:00Z,1.0,
+8974,Who wrote the novel Lolita?,Vladimir Nabokov,Q36591,Vladimir Nabokov,1.000000238418579,
+7129,When did Frank Herbert die?,11 February 1986,1986-02-11T00:00:00Z,1986-02-11T00:00:00Z,1.0,
+8911,Where did Diego Maradona born?,Lan\u00FAs,Q1622565,Lanús,0.4431063532829284,inconsistent
+9031,When was Anne Rice born?,10 April 1941,1941-04-10T00:00:00Z,1941-10-04T00:00:00Z,0.9844388961791992,
+8688,Who was Villa Park's architecht?,Archibald Leitch,Q344137,Archibald Leitch,1.0,
+7562,Who is Walter White in,Bryan Cranston,Q23547,,,Incomplete schema
+8023,Where did Kylian Mbappé born?,19th arrondissement of Paris,Q204622,Paris,0.5921856164932251,inconsistent
+7137,What was Jewel's first album?,Pieces of You,Q1814801,,,Incomplete schema
+6786,Did Leverage get a revival?,Yes,Yes,,,Incomplete schema
+8603,When did Irrfan Khan died?,29 April 2020,2020-04-29T00:00:00Z,2020-04-29T00:00:00Z,1.000000238418579,
+7855,Who is Mark Wahlberg's wife?,Rhea Durham,Q435055,Rhea Durham,1.0,
+7256,Who was the director Titanic?,James Cameron,Q42574,James Cameron,1.0,
+8661,"Who directed ""The Princess Diaries?""",Garry Marshall,Q315087,Garry Marshall,1.0,
+9240,What country is Fulham in?,United Kingdom,Q145,Royaume-Uni,0.1806174218654632,inconsistent
+315,Britney Spears' eye colour?,brown,Q17122705,brun,0.4344820976257324,inconsistent
+1294,Who published The Chosen?,Simon & Schuster,Q1756332,Simon & Schuster,1.0000001192092896,
+2608,Argentina FIFA code name?,Argentina national football team,Q79800,,,Incomplete schema
+2849,Who Wrote Harry Potter?,J. K. Rowling,Q34660,,,Incomplete schema
+2170,David Lynch's first movie?,Eraserhead,Q11618,Eraserhead,1.0,
+875,Who directed The Mummy?,Stephen Sommers,Q363402,Stephen Sommers,1.0,
+2876,Highest league in Barcelona?,Yes,Yes,championnat d'Espagne de football,0.055039182305336,inconsistent
+2461,"Author of ""It"" novel?",Stephen King,Q39829,,,Incomplete schema
+4430,"Who wrote ""Ulysses"" novel?",James Joyce,Q6882,,,Incomplete schema
+989,Who wrote Watership Down?,Richard Adams,Q313289,Richard George Adams,0.9365053176879884,
+3016,Queen's earliest released single?,Keep Yourself Alive,Q597273,Keep Yourself Alive,1.0000001192092896,
+220,Spouse of J.k Simmons?,Michelle Schumacher,Q11989309,Michelle Schumacher,1.0,
+4594,Band Euphoria formed by?,Palash Sen,Q3348185,Palash Sen,1.0,
+3430,Who mixed this song?,Neal Pogue,Q16733227,,,Incomplete schema
+3021,Where was he born?,Cokeburg,Q1131839,comté de Washington,0.2946334779262543,inconsistent
+4765,Who directed The Wiz?,Sidney Lumet,Q51559,Sidney Lumet,1.0,
+995,When was Inception released?,8 July 2010,2010-07-08T00:00:00Z,2010-07-08T00:00:00Z,1.0,
+2032,Who composed Teen Wolf?,Dino Meneghin,Q557954,Dino Meneghin,1.0,
+2651,Budget of Titanic movie?,$200 million,$200 million,200000000.0,0.4126678705215454,inconsistent
+515,Author of Little Women?,Louisa May Alcott,Q185696,Louisa May Alcott,1.0,
+4228,Who wrote the screenplay?,Joseph Stefano,Q326681,,,Incomplete schema
+3007,Who directed the movie?,Guy Hamilton,Q363653,Marc Smith,0.518701434135437,inconsistent
+2262,Who wrote the song?,Stewart Copeland,Q315711,Stewart Copeland,1.0000001192092896,
+511,When was Little Women?,1869,1869-01-01T00:00:00Z,1861-01-01T00:00:00Z,0.8574803471565247,
+1409,The Hunchback of Notre-Dame,Victor Hugo,Q535,Notre-Dame de Paris,0.3801116943359375,inconsistent
+806,Who lost the Maracanazo?,Brazil national football team,Q83459,équipe d'Uruguay de football,0.436871588230133,inconsistent
+2229,movie Roohi directed by?,Hardik Mehta,Q35488479,Hardik Mehta,1.0,
+4265,Where did Eminem born?,St. Joseph,Q745120,St Joseph,0.982819437980652,
+3829,Where did Ronaldinho born?,Porto Alegre,Q40269,Porto Alegre,1.0,
+2257,What architect designed it?,Emil Schacht,Q5371435,Emil Schacht,1.0,
+3714,Who wrote Enola Holmes?,Jack Thorne,Q6115483,Jack Thorne,1.0,
+510,Who wrote Little Women?,Louisa May Alcott,Q185696,Louisa May Alcott,1.0,
+4435,"Author of ""Ulysses"" novel?",James Joyce,Q6882,James Joyce,1.0000001192092896,
+3719,Author of Enola Holmes?,Jack Thorne,Q6115483,Nancy Springer,0.2246200442314148,inconsistent
+2655,who formed Metallica band?,James Hetfield,Q484302,James Hetfield,1.0,
+360,Who wrote Good Omens?,Terry Pratchett,Q46248,Terry Pratchett,1.0,
+2456,"Who wrote ""It"" novel?",Stephen King,Q39829,Stephen King,1.0,
+2552,Who illustrated Oliver Twist?,George Cruikshank,Q360466,George Cruikshank,1.0000001192092896,
+2551,Who published Oliver Twist?,Richard Bentley,Q172299,,,Incomplete schema
+805,Who won the Maracanazo?,Uruguay national football team,Q134916,,,Incomplete schema
+399,Who was the cinematographer?,Vilmos Zsigmond,Q963628,Vilmos Zsigmond,1.0,
+4624,Jennifer Lopez's first album?,On the 6,Q526575,discographie de Jennifer Lopez,0.0974438413977623,inconsistent
+1630,Who directed film Shiddat?,Kunal Deshmukh,Q6444153,Kunal Deshmukh,1.0,
+1008,Who created Æon Flux?,Peter Chung,Q489286,Peter Chung,1.0000001192092896,
+2649,Who directed Titanic movie?,James Cameron,Q42574,James Cameron,1.0,
+4664,Lionel Messi born on?,24 June 1987,1987-06-24T00:00:00Z,1987-06-24T00:00:00Z,1.000000238418579,
+4500,Where was Beck born?,Los Angeles,Q65,Los Angeles,1.0,
+2269,Who named the city?,Lot Whitcomb,Q6684596,,,Incomplete schema
+3720,Who Story by Passengers?,Jon Spaihts,Q6271612,Robert Silverberg,0.3612723052501678,inconsistent
+3715,When was Enola Holmes?,23 September 2020,2020-09-23T00:00:00Z,,,Incomplete schema
+2867,Who is country madonna?,French Canadian,Q857880,,,Incomplete schema
+2367,Who wrote Jurassic park?,Michael Crichton,Q172140,,,Incomplete schema
+2532,What is Eminem's height?,1.74 metre,1.74 metre,173.0,0.4150626957416534,inconsistent
+2854,Author Of Harry Potter?,J. K. Rowling,Q34660,Q34660,0.1098265796899795,inconsistent
+4157,Where did Xavi born?,Terrassa,Q13939,Terrassa,1.0,
+3903,Spouse of Dennis Haysbert?,Lynn B. Griffith,Q17479151,,,Incomplete schema
+4675,Who owns Studio Ghibli?,Tokuma Shoten,Q1372258,Tokuma Shoten,1.0,
+4333,Developer the series Dexter?,"James Manos, Jr.",Q1110157,James Manos Jr.,0.9877876043319702,
+375,Who founded Arcade Fire?,Win Butler,Q1349573,Win Butler,1.0000001192092896,
+1262,Who wrote the Moby-Dick?,Herman Melville,Q4985,Herman Melville,1.0000001192092896,
+4303,Who created the Ghoul?,Patrick Graham,Q7146590,,,Incomplete schema
+4945,Spouse of Matt Damon?,Luciana Boz\u00E1n Barroso,Q17118995,Luciana Bozán Barroso,0.849548876285553,
+4267,Genre played by Eminem?,Eminem,Q5608,rap rock,0.5944343209266663,inconsistent
+2253,Ready Player One's protagonist?,Ready Player One,Q3906523,Art3mis,0.2690086364746094,inconsistent
+1096,Where did Ilaiyaraaja born?,Pannaipuram,Q2716759,Pannaipuram,1.0000001192092896,
+2596,awarded to Elvis Presley?,Grammy Lifetime Achievement Award,Q935843,Grammy Awards,0.8576189279556274,
+3095,Where was Juice filmed?,New York City,Q60,,,Incomplete schema
+4826,Direction of Captain Marvel?,Anna Boden and Ryan Fleck,Q33093747,Boston,0.2443387806415558,inconsistent
+3020,Who created the series?,Donald Bellisario,Q710739,,,Incomplete schema
+1199,Luka Modric's citizenship country?,Croatia,Q224,Croatie,0.3163745999336242,inconsistent
+3476,What is the genre?,science fiction,Q24925,science-fiction,0.9513356685638428,
+143,Who first created Jeopardy!?,Merv Griffin,Q598344,Merv Griffin,1.0,
+4706,Screenwriter's of Parasite movie?,Bong Joon-ho,Q495980,Bong Joon-ho,1.0,
+3133,Where is Madonna from?,"Bay City, Michigan",Q746820,Bay City,0.8892917037010193,
+3190,Who plays John Wick?,John Wick,Q29554576,,,Incomplete schema
+2554,Who wrote Oliver Twist?,Charles Dickens,Q5686,Charles Dickens,1.0,
+2276,Yankee Stadium's home team?,New York City FC,Q13361030,New York City FC,1.0,
+3433,Doja Cat's first album?,Amala,Q65090802,,,Incomplete schema
+2372,Author of Jurassic park?,Michael Crichton,Q172140,Michael Crichton,1.0,
+395,"Who wrote ""The Martian?""",Andy Weir,Q18590295,,,Incomplete schema
+5891,FC Cincinnati soccer club?,Football Club Cincinnati,Football Club Cincinnati,,,Incomplete schema
+6578,What company owns Lucasfilm?,The Walt Disney Company,Q7414,The Walt Disney Company,1.0,
+5343,What position held shakira?,UNICEF Goodwill Ambassador,Q19969187,philanthrope,0.116913616657257,inconsistent
+5697,Spouse of Vin Diesel?,Paloma Jim\u00E9nez,Q2048362,,,Incomplete schema
+6132,Where Breda is located?,North Brabant,Q1101,,0.1496505886316299,Incomplete schema
+5333,Who Story by Seven?,Andrew Kevin Walker,Q505689,Seven,0.1712653934955597,inconsistent
+5906,Spouse of Kevin Zegers?,Jaime,Q76435961,,,Incomplete schema
+6213,Who created the Macarena?,Los del R\u00EDo,Q170252,Antonio Márquez,0.2922959625720978,inconsistent
+5225,Who created Black Mirror?,Charlie Brooker,Q2960837,Charlie Brooker,1.0000001192092896,
+5294,CF Montréal soccer team?,Montreal,Q340,,,Incomplete schema
+6129,Who created the Decoupled?,Manu Joseph,Q6752277,,,Incomplete schema
+6577,When was Lucasfilm created?,1971,1971-01-01T00:00:00Z,1971-01-01T00:00:00Z,1.0000001192092896,
+6580,Who won Euro 2020?,Italy national association football team,Q676899,équipe d'Italie de football,0.3518667817115783,inconsistent
+5397,Spouse of Ossie Davis?,Ruby Dee,Q234360,Ruby Dee,1.0000001192092896,
+6565,When was Gilda released?,14 February 1946,1946-02-14T00:00:00Z,1946-02-14T00:00:00Z,1.0,
+5032,Who directed Gosford Park?,Robert Altman,Q55163,Robert Altman,1.0,
+6199,Who wrote Blood Price?,Tanya Huff,Q447025,Le Prix du sang,-0.0223161969333887,inconsistent
+6622,year Dune movie out?,2021,2021-01-01T00:00:00Z,2021-09-03T00:00:00Z,0.9749724864959716,
+9047,Who sang closing time?,Semisonic,Q1572584,Semisonic,1.0,
+8401,Marc Shaiman's native language?,English,Q1860,anglais,0.5010755658149719,inconsistent
+7904,division of Philadelphia Union?,Major League Soccer,Q18543,Major League Soccer,1.0,
+8522,Who is Reacher's actor?,Alan Ritchson,Q926963,Michael Raymond-James,0.4583010673522949,inconsistent
+7376,Performer in Avatar movie?,James Horner,Q106221,Joel Moore,0.4737529754638672,inconsistent
+8675,"""Summer of '69"" performer?",Bryan Adams,Q482907,Bryan Adams,1.0,
+7149,Who owns Manchester United?,Manchester United Limited,Q99870964,Manchester United Limited,1.0,
+7589,Who is Beyonce's spouse?,Jay-Z,Q62766,Jay-Z,1.0000001192092896,
+7315,Spouse of Matthew McConaughey?,Camila Alves,Q458809,Camila Alves,1.0000001192092896,
+7195,Hugh Jackman's birth year?,1970,1970-01-01T00:00:00Z,1968-10-12T00:00:00Z,0.8040013313293457,
+9125,When was FIFA founded?,21 May 1904,1904-05-21T00:00:00Z,1904-05-21T00:00:00Z,1.0,
+8364,When was Shakira born?,2 February 1977,1977-02-02T00:00:00Z,1977-02-02T00:00:00Z,1.0000001192092896,
+8555,Premiere date for Carrie?,"November 3, 1976",1976-11-03T00:00:00Z,1976-11-03T00:00:00Z,1.0,
+9046,Year Titanic was released?,1997,1997-01-01T00:00:00Z,1997-11-01T00:00:00Z,0.9772394895553588,
+7975,Spouse of Jack Lemmon?,Cynthia Stone,Q3573759,Cynthia Stone,1.0,
+6753,guitarist of Black Sabbath?,Tony Iommi,Q202733,Tony Iommi,1.0000001192092896,
+8195,Which author wrote Cosmos?,Carl Sagan,Q410,Carl Sagan,1.0000001192092896,
+7649,What wears The Beatles?,Beatle boot,Q2911851,bottine Beatles,0.4421298205852508,inconsistent
+7856,Director of Licorice Pizza?,Paul Thomas Anderson,Q25132,Paul Thomas Anderson,1.0,
+7599,Where was Neymar born?,Mogi das Cruzes,Q194332,Mogi das Cruzes,0.9999999403953552,
+8672,"Who performed ""16 Candles?""",The Crests,Q465246,,,Incomplete schema
+9328,Where is Hexagon Sun?,Pentland Hills,Q7165251,,,Incomplete schema
+7430,Author of The Shining?,Stephen King,Q39829,Stephen King,1.0,
+7590,When was Jay-Z born?,4 December 1969,1969-12-04T00:00:00Z,1969-12-04T00:00:00Z,0.9999998807907104,
+7184,Louis Saha played for?,France national association football team,Q47774,équipe de France de football,0.6546986699104309,
+7232,who produced Thriller album?,Michael Jackson,Q2831,Quincy Jones,0.5102314352989197,inconsistent
+7694,Bhaichung Bhutia born on?,15 December 1976,1976-12-15T00:00:00Z,1976-06-15T00:00:00Z,0.9702179431915284,
+9036,When was Titanic released?,1997,1997-01-01T00:00:00Z,1997-11-01T00:00:00Z,0.9772394895553588,
+8485,What railroad serves Haiphong?,Kunming\u2013Haiphong railway,Q1741628,chemin de fer Hanoï-Haïphong,0.2831041514873504,inconsistent
+7113,Who created the X-Files?,Chris Carter,Q437267,Chris Carter,1.0,
+9136,Who wrote the Shining?,Stephen King,Q39829,,,Incomplete schema
+8709,Who directed The Godfather?,Francis Ford Coppola,Q56094,Francis Ford Coppola,1.0,
+7147,When did Lexx end?,26 April 2002,2002-04-26T00:00:00Z,,,Incomplete schema
+7226,producer of Jurassic Park?,Kathleen Kennedy,Q237207,Kathleen Kennedy,1.0,
+7425,Who wrote The Shining?,Stephen King,Q39829,Stephen King,1.0,
+7670,Cairo Trilogy written by?,Naguib Mahfouz,Q7176,Naguib Mahfoud,0.9198175072669984,
+8587,Birthday for David Beckham?,2 May 1975,1975-05-02T00:00:00Z,1975-05-02T00:00:00Z,1.0,
+7427,Who published The Shining?,Doubleday,Q1251563,Doubleday,1.0,
+8680,"What show succeed ""Roseanne?""",The Conners,Q56471830,,,Incomplete schema
+8321,When was Mockingjay published?,24 August 2010,2010-08-24T00:00:00Z,2010-08-24T00:00:00Z,1.0,
+647,Who created Friends?,Marta Kauffman,Q237454,Marta Kauffman,1.0,
+120,Who wrote Slaughterhouse-Five?,Kurt Vonnegut,Q49074,Kurt Vonnegut,1.0000001192092896,
+998,Who composed Inception?,Hans Zimmer,Q76364,Hans Zimmer,1.0,
+4192,Who wrote Matilda?,Roald Dahl,Q25161,Roald Dahl,1.0,
+992,Where is Hampshire?,South East England,Q48015,Royaume-Uni,0.1771861612796783,inconsistent
+3034,Charlotte's Web genre?,children's novel,Q21615367,fiction pour enfants,0.4208215177059173,inconsistent
+1639,Who composed Parampara?,Naresh Kumaran,Naresh Kumaran,Shiv-Hari,0.3488134145736694,inconsistent
+4520,Who published Emma?,John Murray,Q1232629,,,Incomplete schema
+3809,Who directed Jumanji?,Joe Johnston,Q352948,Joe Johnston,0.9999999403953552,
+401,"Director of ""Jaws?""",Steven Spielberg,Q8877,Steven Spielberg,1.0,
+2817,Neymar is from?,Neymar,Q61901279,Mogi das Cruzes,0.2194544523954391,inconsistent
+125,Author of Slaughterhouse-Five?,Kurt Vonnegut,Q49074,Kurt Vonnegut,1.0000001192092896,
+2270,"Producer of ""Rugrats?""",Klasky Csupo,Q1744498,Klasky Csupo,1.0,
+3004,"First ""Goosebumps"" book?",Welcome to Dead House,Q3210399,,,Incomplete schema
+3814,Who created Jumanji?,Joe Johnston,Q352948,Joe Johnston,0.9999999403953552,
+5543,Titanic costume designer?,Deborah Lynn Scott,Q176324,Deborah Lynn Scott,1.000000238418579,
+5124,Who wrote Rocky?,Sylvester Stallone,Q40026,,,Incomplete schema
+5092,author of Dune?,Frank Herbert,Q7934,Frank Herbert,1.0,
+8653,"""Frankenstein"" first author?",Mary Shelley,Q47152,Mary Shelley,1.0,
+9037,Who directed Titanic?,James Cameron,Q42574,James Cameron,1.0,
+8516,"Who created ""Lucifer?""",Tom Kapinos,Q541899,Tom Kapinos,1.0,
+8651,Who founded Philadelphia?,William Penn,Q209152,William Penn,1.0000001192092896,
+8645,"Who published ""Mathilda?""",University of North Carolina Press,Q7895937,,,Incomplete schema
+8500,"""Universal Soldier's"" director?",Roland Emmerich,Q60100,,,Incomplete schema
+8511,"Performer of ""Hook?""",Blues Traveler,Q886047,John Williams,0.2938696444034576,inconsistent
+8921,Capital of England?,London,Q84,Londres,0.2469197958707809,inconsistent
+4232,"""Psycho's"" director?",Alfred Hitchcock,Q7374,Alfred Hitchcock,1.0000001192092896,
+3544,"""Jurassic Park""?",Michael Crichton,Q172140,,,Incomplete schema
+3305,"""The Irishman""?",Randall Emmett,Q3418802,The Irishman,0.2707744240760803,inconsistent
+5888,"""Mad Man""?",Betty Draper,Q3639189,mafia serbe,0.2549443244934082,inconsistent
+7196,James Mangold,James Mangold,Q433893,scénariste,0.1660237908363342,inconsistent

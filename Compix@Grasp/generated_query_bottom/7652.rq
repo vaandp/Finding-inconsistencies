@@ -1,0 +1,4 @@
+SELECT ?director WHERE {
+  ?entity wdt:P108 ?director .
+  ?entity wdt:P108 ?director .
+}

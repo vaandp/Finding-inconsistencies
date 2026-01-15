@@ -1,0 +1,3 @@
+SELECT ?author WHERE {
+  wd:Q183883 wdt:P50 ?author
+}

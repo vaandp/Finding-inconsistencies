@@ -1,0 +1,3 @@
+SELECT ?work WHERE {
+  wd:Q34969 wdt:P50 ?work
+}

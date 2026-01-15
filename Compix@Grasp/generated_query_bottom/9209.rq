@@ -1,0 +1,3 @@
+SELECT ?duration WHERE {
+  wd:Q214801 wdt:P2047 ?duration
+}

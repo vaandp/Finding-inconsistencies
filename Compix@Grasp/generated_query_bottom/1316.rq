@@ -1,0 +1,3 @@
+SELECT ?owner WHERE {
+  wd:Q483020 wdt:P127 ?owner
+}

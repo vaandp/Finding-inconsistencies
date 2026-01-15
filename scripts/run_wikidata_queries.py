@@ -10,8 +10,8 @@ import requests
 
 
 BASE = Path(__file__).resolve().parent.parent
-RQ_DIR = BASE / "Compix@Grasp/generated_query"
-OUT_DIR = BASE / "Compix@Grasp/wikidata_query_result"
+RQ_DIR = BASE / "Compix@Grasp/generated_query_bottom"
+OUT_DIR = BASE / "Compix@Grasp/wikidata_query_result_bottom"
 
 ENDPOINT_URL = "https://query.wikidata.org/sparql"
 HEADERS = {
@@ -24,7 +24,7 @@ retrive_id = re.compile(r"https?://www\.wikidata\.org/entity/([A-Za-z0-9]+)")
 qid = re.compile(r"^Q[0-9]+$")
 
 
-def _strip_entity_uris(csv_text: str) -> str:
+def _strip_entity_uris(csv_text):
     #replace the entity uri with the id
     return retrive_id.sub(r"\1", csv_text)
 
@@ -155,6 +155,30 @@ def main() -> None:
             print(f"[{i}/{total}] {qid}: explicitly skipped.")
             continue
 
+        if qid == "3430":
+            print(f"[{i}/{total}] {qid}: explicitly skipped.")
+            continue
+
+        if qid == "4079":
+            print(f"[{i}/{total}] {qid}: explicitly skipped.")
+            continue
+
+        if qid == "6227":
+            print(f"[{i}/{total}] {qid}: explicitly skipped.")
+            continue
+
+        if qid == "7652":
+            print(f"[{i}/{total}] {qid}: explicitly skipped.")
+            continue
+
+        if qid == "8648":
+            print(f"[{i}/{total}] {qid}: explicitly skipped.")
+            continue
+        
+        if qid == "8753":
+            print(f"[{i}/{total}] {qid}: explicitly skipped.")
+            continue
+        
         #do not execute again if the file already exists (easier to restart partially)
         if out_path.exists():
             print(f"[{i}/{total}] {qid}: already exists, skipping.")

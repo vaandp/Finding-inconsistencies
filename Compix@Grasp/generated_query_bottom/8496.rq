@@ -1,0 +1,3 @@
+SELECT ?source WHERE {
+  wd:Q6434 wdt:P885 ?source
+}

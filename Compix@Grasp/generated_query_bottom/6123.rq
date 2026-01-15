@@ -1,0 +1,3 @@
+SELECT ?event WHERE {
+  ?event wdt:P31 wd:Q69163529
+}

@@ -1,0 +1,4 @@
+SELECT ?album ?albumLabel WHERE {
+  wd:Q28864303 wdt:P31 wd:Q482994 .
+  wd:Q28864303 rdfs:label ?albumLabel .
+}

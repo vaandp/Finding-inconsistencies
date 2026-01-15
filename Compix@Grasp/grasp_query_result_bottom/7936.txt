@@ -1,3 +1,0 @@
-Got 1 row and 1 column:
-| publisher |
-| --------- |

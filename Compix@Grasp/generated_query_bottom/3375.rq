@@ -1,0 +1,3 @@
+SELECT ?father WHERE {
+  wd:Q103946 wdt:P20 ?father
+}

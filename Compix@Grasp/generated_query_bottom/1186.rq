@@ -1,0 +1,3 @@
+SELECT ?influencer WHERE {
+  wd:Q126826 wdt:P737 ?influencer
+}

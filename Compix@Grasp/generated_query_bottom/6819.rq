@@ -1,0 +1,3 @@
+SELECT ?entity WHERE {
+  wd:Q21079531 wdt:P1082 ?entity
+}

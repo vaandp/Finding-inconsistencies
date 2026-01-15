@@ -1,0 +1,4 @@
+SELECT DISTINCT SUBSTR(STR(?date), 1, 4) AS ?releaseYear
+WHERE {
+  wd:Q19347291 wdt:P577 ?date .
+}

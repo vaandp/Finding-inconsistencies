@@ -1,0 +1,4 @@
+SELECT ?causeOfDeath ?mannerOfDeath WHERE {
+  wd:Q360927 wdt:P509 ?causeOfDeath .
+  wd:Q360927 wdt:P1196 ?mannerOfDeath .
+}

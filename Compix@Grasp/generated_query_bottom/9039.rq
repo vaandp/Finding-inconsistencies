@@ -1,0 +1,4 @@
+SELECT ?actress WHERE {
+  ?actress wdt:P1082 "Rose" .
+  ?actress wdt:P161 wd:Q44578 .
+}

@@ -1,4 +1,0 @@
-Got 1 row and 2 columns:
-| person | languageLabel     |
-| ------ | ----------------- |
-|        | English (lang:en) |

@@ -1,0 +1,3 @@
+SELECT ?screenwriter WHERE {
+  wd:Q186587 wdt:P58 ?screenwriter
+}

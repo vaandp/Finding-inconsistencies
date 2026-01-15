@@ -1,0 +1,3 @@
+SELECT ?band ?location WHERE {
+  wd:Q112135852 wdt:P495 ?location
+}

@@ -1,0 +1,4 @@
+SELECT ?countryLabel WHERE {
+  wd:Q130673 wdt:P17 ?country .
+  ?country rdfs:label ?countryLabel .
+}

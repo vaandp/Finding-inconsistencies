@@ -1,0 +1,5 @@
+SELECT ?opponent WHERE {
+  wd:Q483020 wdt:P1344 ?match .
+  ?match wdt:P1923 ?opponent .
+  FILTER ( ?opponent != wd:Q483020 )
+}

@@ -1,0 +1,1 @@
+SELECT ?publicationYear WHERE { wd:Q1384109 wdt:P577 ?publicationDate . BIND(XSD:YEAR(?publicationDate) AS ?publicationYear) }

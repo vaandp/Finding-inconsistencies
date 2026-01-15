@@ -1,0 +1,5 @@
+SELECT ?person ?languageLabel WHERE {
+  wd:Q95048 wdt:P103 ?language .
+  ?language rdfs:label ?languageLabel .
+  FILTER ( LANG( ?languageLabel ) = 'en' )
+}

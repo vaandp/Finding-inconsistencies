@@ -1,0 +1,1 @@
+SELECT ?spouse (rdfs:label AS ?label) (wdt:P569 ?birthDate) WHERE { wd:Q192069 wdt:P26 ?spouse . ?spouse wdt:P569 ?birthDate . }

@@ -1,0 +1,1 @@
+SELECT ?city ?name ?namesake WHERE { ?city wdt:P138 ?namesake . ?city wd:Q968392 . ?namesake rdfs:label ?name . }

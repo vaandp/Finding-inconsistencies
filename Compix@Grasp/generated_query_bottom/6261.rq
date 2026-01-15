@@ -1,0 +1,5 @@
+SELECT ?author ?label WHERE {
+  wd:Q523076 wdt:P50 ?author .
+  ?author rdfs:label ?label .
+  FILTER ( LANG( ?label ) = 'en' )
+}

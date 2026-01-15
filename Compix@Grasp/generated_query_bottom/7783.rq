@@ -1,0 +1,4 @@
+SELECT ?award ?awardDate WHERE {
+  wd:Q11571 wdt:P166 ?award .
+  ?award wdt:P571 ?awardDate .
+}

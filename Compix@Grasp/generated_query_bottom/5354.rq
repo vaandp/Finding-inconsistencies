@@ -1,0 +1,3 @@
+SELECT ?sportNumber WHERE {
+  wd:Q49704 wdt:P1618 ?sportNumber
+}

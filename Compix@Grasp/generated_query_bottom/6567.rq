@@ -1,0 +1,5 @@
+SELECT ?actress WHERE {
+  wd:Q382307 wdt:P161 ?actress .
+  ?actress rdfs:label ?label .
+  FILTER ( CONTAINS( STR( ?label ) , "Gloria Swanson" ) )
+}

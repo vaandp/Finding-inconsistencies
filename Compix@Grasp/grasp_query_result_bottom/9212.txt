@@ -1,4 +1,0 @@
-Got 1 row and 2 columns:
-| person | birthDate                           |
-| ------ | ----------------------------------- |
-|        | 1986-10-16T00:00:00Z (xsd:dateTime) |

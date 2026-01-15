@@ -1,0 +1,4 @@
+SELECT ?person WHERE {
+  wd:Q733486 wdt:P131 ?country .
+  ?country wdt:P17 ?person
+}

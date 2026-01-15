@@ -1,0 +1,3 @@
+SELECT ?subject ( str( ?date ) as ?birthDate ) WHERE {
+  ?subject wdt:P569 ?date .
+}

@@ -1,0 +1,3 @@
+SELECT ?year WHERE {
+  wd:Q340 wdt:P571 ?year
+}

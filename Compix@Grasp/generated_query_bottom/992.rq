@@ -1,0 +1,5 @@
+SELECT ?country ?region ?coordinates WHERE {
+  wd:Q23204 wdt:P17 ?country .
+  wd:Q23204 wdt:P131 ?region .
+  wd:Q23204 wdt:P625 ?coordinates .
+}

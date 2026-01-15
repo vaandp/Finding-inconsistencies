@@ -1,0 +1,3 @@
+SELECT ?ethnicGroup WHERE {
+  wd:Q615 wdt:P172 ?ethnicGroup
+}

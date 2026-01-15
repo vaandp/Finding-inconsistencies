@@ -1,0 +1,3 @@
+SELECT ?producer WHERE {
+  wd:Q304290 wdt:P272 ?producer
+}

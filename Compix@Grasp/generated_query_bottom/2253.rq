@@ -1,0 +1,3 @@
+SELECT ?character WHERE {
+  wd:Q3906523 wdt:P674 ?character
+}

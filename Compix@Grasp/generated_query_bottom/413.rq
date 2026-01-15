@@ -1,0 +1,3 @@
+SELECT ?tvShow WHERE {
+  wd:Q440070 wdt:P106 ?tvShow
+}

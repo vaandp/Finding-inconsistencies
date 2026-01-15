@@ -1,0 +1,3 @@
+SELECT ?event ?date WHERE {
+  wd:Q754483 wdt:P585 ?date .
+}

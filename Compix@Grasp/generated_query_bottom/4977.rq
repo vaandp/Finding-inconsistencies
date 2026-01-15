@@ -1,0 +1,6 @@
+SELECT ?film ?directorLabel WHERE {
+  ?film rdfs:label "Article 15" @en .
+  ?film wdt:P106 wd:Q9356 .
+  ?film wdt:P6126 ?director .
+  ?director rdfs:label ?directorLabel .
+}

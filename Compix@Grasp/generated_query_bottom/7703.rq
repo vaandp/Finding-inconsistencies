@@ -1,0 +1,4 @@
+SELECT ?marriageDate WHERE {
+  wd:Q40162 wdt:P570 ?marriageDate .
+  wd:Q40162 wdt:P26 wd:Q8877
+}

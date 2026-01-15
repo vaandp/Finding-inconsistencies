@@ -1,0 +1,3 @@
+SELECT ?episodeCount WHERE {
+  wd:Q23628 wdt:P1113 ?episodeCount
+}

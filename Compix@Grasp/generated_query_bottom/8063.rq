@@ -1,0 +1,3 @@
+SELECT ?careerStart WHERE {
+  wd:Q41586211 wdt:P2031 ?careerStart
+}

@@ -1,0 +1,5 @@
+SELECT ?actor ?actorLabel WHERE {
+  wd:Q24871 wdt:P161 ?actor .
+  ?actor rdfs:label ?actorLabel .
+  FILTER ( lang( ?actorLabel ) = "en" )
+}

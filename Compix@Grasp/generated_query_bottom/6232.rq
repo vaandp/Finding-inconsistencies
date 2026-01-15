@@ -1,0 +1,4 @@
+SELECT ?actor ?actorLabel WHERE {
+  wd:Q372299 wdt:P161 ?actor .
+  ?actor rdfs:label ?actorLabel .
+}

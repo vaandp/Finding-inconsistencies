@@ -1,0 +1,3 @@
+SELECT ?handedness WHERE {
+  wd:Q12897 wdt:P552 ?handedness
+}

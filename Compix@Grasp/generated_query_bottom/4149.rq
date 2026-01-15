@@ -1,0 +1,3 @@
+SELECT ?instrument WHERE {
+  wd:Q11975 wdt:P1303 ?instrument
+}

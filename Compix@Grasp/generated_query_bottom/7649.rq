@@ -1,0 +1,3 @@
+SELECT ?clothing WHERE {
+  wd:Q1299 wdt:P3828 ?clothing
+}

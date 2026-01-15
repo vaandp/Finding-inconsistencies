@@ -1,0 +1,3 @@
+SELECT ?formationLocation WHERE {
+  wd:Q184827 wdt:P740 ?formationLocation
+}

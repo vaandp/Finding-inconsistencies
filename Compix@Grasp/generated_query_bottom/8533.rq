@@ -1,0 +1,3 @@
+SELECT ?stadium WHERE {
+  wd:Q2768 wdt:P115 ?stadium
+}

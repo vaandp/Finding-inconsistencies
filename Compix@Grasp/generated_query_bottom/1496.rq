@@ -1,0 +1,3 @@
+SELECT ?founder WHERE {
+  wd:Q9616 wdt:P112 ?founder
+}

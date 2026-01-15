@@ -1,0 +1,3 @@
+SELECT ?editor WHERE {
+  wd:Q23685878 wdt:P1040 ?editor
+}

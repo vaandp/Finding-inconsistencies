@@ -1,0 +1,4 @@
+SELECT ?single ?publicationDate WHERE {
+  ?single wdt:P175 wd:Q15862 .
+  ?single wdt:P577 ?publicationDate
+}

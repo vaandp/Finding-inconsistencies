@@ -1,0 +1,3 @@
+SELECT ?venue WHERE {
+  wd:Q19442 wdt:P115 ?venue
+}

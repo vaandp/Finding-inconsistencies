@@ -1,0 +1,3 @@
+SELECT ?label WHERE {
+  wd:Q482907 wdt:P264 ?label
+}

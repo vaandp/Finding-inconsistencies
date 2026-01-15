@@ -1,0 +1,3 @@
+SELECT ?winner WHERE {
+  wd:Q373501 wdt:P1346 ?winner
+}

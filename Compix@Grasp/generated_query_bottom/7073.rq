@@ -1,0 +1,3 @@
+SELECT ?province WHERE {
+  wd:Q340 wdt:P131 ?province
+}

@@ -1,0 +1,4 @@
+SELECT ?actor WHERE {
+  wd:Q44578 wdt:P161 ?actor .
+  ?actor rdfs:label "Leonardo DiCaprio" @en
+}

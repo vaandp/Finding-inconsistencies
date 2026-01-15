@@ -1,0 +1,3 @@
+SELECT ?cinematographer WHERE {
+  wd:Q24871 wdt:P344 ?cinematographer
+}

@@ -1,2 +1,0 @@
-SPARQL execution failed:
-Invalid SPARQL query: The target ?spouseLabel of an AS clause was already used in the query body.

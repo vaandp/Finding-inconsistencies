@@ -1,0 +1,3 @@
+SELECT ?school ( STR( ?location ) AS ?location ) WHERE {
+  wd:Q4887508 wdt:P131 ?location
+}

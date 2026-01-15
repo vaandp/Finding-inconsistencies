@@ -1,0 +1,1 @@
+SELECT ?title WHERE { wd:Q189378 rdfs:label ?title . FILTER LANG(?title) = 'en' }

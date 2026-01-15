@@ -1,0 +1,3 @@
+SELECT ?player ?country WHERE {
+  wd:Q20110 wdt:P1532 ?country
+}

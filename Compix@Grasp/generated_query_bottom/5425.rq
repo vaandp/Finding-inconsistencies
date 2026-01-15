@@ -1,0 +1,3 @@
+SELECT ?child WHERE {
+  wd:Q42930 wdt:P40 ?child
+}

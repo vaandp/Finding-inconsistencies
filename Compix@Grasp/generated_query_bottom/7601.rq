@@ -1,0 +1,4 @@
+SELECT ?position WHERE {
+  wd:Q142794 wdt:P413 ?position .
+  FILTER ( lang( ?position ) = 'en' || lang( ?position ) = 'pt' )
+}

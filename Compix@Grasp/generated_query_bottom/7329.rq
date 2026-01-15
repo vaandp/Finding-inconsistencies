@@ -1,0 +1,5 @@
+SELECT ?team ( STR( ?teamLabel ) AS ?teamLabel ) WHERE {
+  wd:Q142794 wdt:P54 ?team .
+  ?team wdt:P17 ?country .
+  ?country wdt:P30 wd:Q46 .
+}

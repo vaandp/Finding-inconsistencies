@@ -1,0 +1,4 @@
+SELECT ?person ?label WHERE {
+  wd:Q223945 wdt:P170 ?person .
+  ?person rdfs:label ?label .
+}

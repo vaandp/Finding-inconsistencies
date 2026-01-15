@@ -1,0 +1,4 @@
+SELECT ?publisher ?label WHERE {
+  wd:Q164974 wdt:P1433 ?publication .
+  ?publication wdt:P1412 ?publisher .
+}

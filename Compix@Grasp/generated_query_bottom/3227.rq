@@ -1,0 +1,3 @@
+SELECT ?network WHERE {
+  wd:Q25340152 wdt:P3301 ?network
+}

@@ -1,0 +1,3 @@
+SELECT ?series ?author WHERE {
+  ?series wdt:P108 ?author .
+}

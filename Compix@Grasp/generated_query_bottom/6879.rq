@@ -1,0 +1,3 @@
+SELECT ?narrator WHERE {
+  wd:Q30014613 wdt:P2438 ?narrator
+}

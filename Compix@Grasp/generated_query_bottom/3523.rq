@@ -1,0 +1,3 @@
+SELECT ?formationYear WHERE {
+  wd:Q45188 wdt:P571 ?formationYear
+}

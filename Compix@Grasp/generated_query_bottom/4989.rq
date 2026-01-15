@@ -1,0 +1,3 @@
+SELECT ?creator WHERE {
+  wd:Q19520525 wdt:P170 ?creator
+}

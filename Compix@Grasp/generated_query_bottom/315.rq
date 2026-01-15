@@ -1,0 +1,3 @@
+SELECT ?eyeColor WHERE {
+  wd:Q11975 wdt:P1340 ?eyeColor
+}

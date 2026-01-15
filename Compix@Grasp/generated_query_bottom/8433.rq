@@ -1,0 +1,3 @@
+SELECT ( COUNT( ?work ) AS ?count ) WHERE {
+  wd:Q39829 wdt:P800 ?work .
+}

@@ -1,0 +1,3 @@
+SELECT ?place WHERE {
+  wd:Q201866 wdt:P19 ?place
+}

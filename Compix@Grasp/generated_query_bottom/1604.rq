@@ -1,0 +1,3 @@
+SELECT ?headquarters WHERE {
+  wd:Q67030918 wdt:P159 ?headquarters
+}

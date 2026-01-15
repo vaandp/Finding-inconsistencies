@@ -1,0 +1,3 @@
+SELECT ?name WHERE {
+  wd:Q47518754 rdfs:label ?name
+}

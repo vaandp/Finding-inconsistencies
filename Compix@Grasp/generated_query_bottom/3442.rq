@@ -1,0 +1,3 @@
+SELECT ?college WHERE {
+  wd:Q2865008 wdt:P69 ?college
+}

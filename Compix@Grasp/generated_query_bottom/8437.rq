@@ -1,0 +1,5 @@
+SELECT ?actor ?character WHERE {
+  wd:Q4103201 wdt:P161 ?actor .
+  ?actor wdt:P453 ?character .
+  ?character rdfs:label "Olivia" @en
+}

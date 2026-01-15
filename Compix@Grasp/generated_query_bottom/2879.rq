@@ -1,0 +1,4 @@
+SELECT ?sportCountry ?citizenship WHERE {
+  wd:Q615 wdt:P1532 ?sportCountry .
+  wd:Q615 wdt:P27 ?citizenship .
+}

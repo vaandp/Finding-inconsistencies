@@ -1,0 +1,3 @@
+SELECT ?performer WHERE {
+  wd:Q1472791 wdt:P175 ?performer
+}

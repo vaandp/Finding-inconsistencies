@@ -1,0 +1,6 @@
+SELECT ?name ?sport ?league ?location WHERE {
+  wd:Q20855983 wdt:P1448 ?name .
+  wd:Q20855983 wdt:P641 ?sport .
+  wd:Q20855983 wdt:P118 ?league .
+  wd:Q20855983 wdt:P131 ?location .
+}

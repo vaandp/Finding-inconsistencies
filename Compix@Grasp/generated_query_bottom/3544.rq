@@ -1,0 +1,5 @@
+SELECT ?film ?director ?releaseDate WHERE {
+  ?film wdt:P57 ?director .
+  ?film wdt:P571 ?releaseDate .
+  FILTER ( ?film = wd:Q167726 )
+}

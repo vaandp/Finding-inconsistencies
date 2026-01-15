@@ -1,0 +1,3 @@
+SELECT ?debut WHERE {
+  wd:Q310394 wdt:P2031 ?debut
+}

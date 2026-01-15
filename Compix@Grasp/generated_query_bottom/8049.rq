@@ -1,0 +1,3 @@
+SELECT ?entity WHERE {
+  ?entity rdfs:label "soccer-specific stadium" @en .
+}

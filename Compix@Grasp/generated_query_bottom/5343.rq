@@ -1,0 +1,3 @@
+SELECT ?position WHERE {
+  wd:Q34424 wdt:P106 ?position
+}

@@ -1,0 +1,3 @@
+SELECT ?voiceType WHERE {
+  wd:Q83287 wdt:P412 ?voiceType
+}

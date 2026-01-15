@@ -1,0 +1,3 @@
+SELECT ?productionCompany WHERE {
+  wd:Q1079 wdt:P272 ?productionCompany
+}

@@ -1,0 +1,3 @@
+SELECT ?album ?numberOfSongs WHERE {
+  ?album wdt:P2635 ?numberOfSongs
+}

@@ -1,0 +1,3 @@
+SELECT ?band WHERE {
+  ?band rdfs:label "Euphoria" @en
+}

@@ -1,0 +1,3 @@
+SELECT ?broadcaster WHERE {
+  wd:Q192837 wdt:P449 ?broadcaster
+}
