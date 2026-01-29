@@ -1,0 +1,200 @@
+import pandas as pd
+import numpy as np
+from pathlib import Path
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+def analyze_csv(filepath):
+    """
+    Analyze a CSV file with columns Inconsistency_category and LLM_result
+    Classification rules:
+    - CORRECT: Empty Inconsistency_category (regardless of LLM_result)
+    - CORRECT: Non-empty Inconsistency_category (Incomplete schema / inconsistent) AND LLM_result = True
+    - INCORRECT: Non-empty Inconsistency_category AND LLM_result = False (missed inconsistency)
+    """
+    # Load CSV
+    df = pd.read_csv(filepath)
+    # Clean data
+    # Replace empty / NaN values with an empty string
+    df['Inconsistency_category'] = df['Inconsistency_category'].fillna('').str.strip()
+    # Convert LLM_result to boolean
+    df['LLM_result'] = df['LLM_result'].astype(str).str.strip().str.lower() == 'true'
+    # Compute statistics
+    total = len(df)
+    # CORRECT CASES:
+    # 1. Empty category (regardless of LLM_result)
+    correct_empty = df[df['Inconsistency_category'] == '']
+    nb_correct_empty = len(correct_empty)
+    # Among empty cases
+    correct_empty_true = len(correct_empty[correct_empty['LLM_result'] == True])
+    correct_empty_false = len(correct_empty[correct_empty['LLM_result'] == False])
+    # 2. Non-empty category AND LLM_result = True (detected inconsistency = CORRECT)
+    with_inconsistency = df[df['Inconsistency_category'] != '']
+    nb_with_inconsistency = len(with_inconsistency)
+    detected_correctly = len(with_inconsistency[with_inconsistency['LLM_result'] == True])
+    # INCORRECT CASES:
+    # Non-empty category AND LLM_result = False (missed inconsistency)
+    not_detected = len(with_inconsistency[with_inconsistency['LLM_result'] == False])
+    # Total correct cases
+    total_correct = nb_correct_empty + detected_correctly
+    # Breakdown by inconsistency type
+    inconsistency_types = with_inconsistency['Inconsistency_category'].value_counts()
+    # Detections by type
+    incomplete_schema = with_inconsistency[with_inconsistency['Inconsistency_category'] == 'Incomplete schema']
+    inconsistent = with_inconsistency[with_inconsistency['Inconsistency_category'] == 'inconsistent']
+    # Display results
+    print("=" * 70)
+    print("CSV ANALYSIS STATISTICS")
+    print("=" * 70)
+    print("\n" + "-" * 70)
+    print("CASES WITHOUT INCONSISTENCY")
+    print("-" * 70)
+    print(f"   Total: {total_correct} ({total_correct / total * 100:.1f}%)")
+    print(f"   - LLM_result = True:  {correct_empty_true}")
+    print(f"   - LLM_result = False: {correct_empty_false}")
+    print("\n" + "-" * 70)
+    print("CASES WITH INCONSISTENCY (non-empty Inconsistency_category)")
+    print("-" * 70)
+    print(f"   Total: {not_detected} ({not_detected / total * 100:.1f}%)")
+    print("\n   Breakdown by inconsistency type:")
+    print(f"   • Incomplete schema : {len(incomplete_schema)}")
+    print(f"   • Inconsistent : {len(inconsistent)}")
+    print("\n" + "=" * 70)
+    
+    # Create plots
+    create_plots(df, total, nb_correct_empty, nb_with_inconsistency, 
+                 detected_correctly, not_detected, total_correct,
+                 incomplete_schema, inconsistent, correct_empty_true, 
+                 correct_empty_false)
+    
+    return {
+        'total': total,
+        'without_inconsistency': nb_correct_empty,
+        'with_inconsistency': nb_with_inconsistency,
+        'detected_correctly': detected_correctly,
+        'not_detected': not_detected,
+        'total_correct': total_correct,
+        'success_rate': total_correct / total * 100 if total > 0 else 0
+    }
+
+
+def create_plots(df, total, nb_correct_empty, nb_with_inconsistency,
+                 detected_correctly, not_detected, total_correct,
+                 incomplete_schema, inconsistent, correct_empty_true,
+                 correct_empty_false):
+
+    sns.set_style("whitegrid")
+    fig, axes = plt.subplots(1, 4, figsize=(24, 6))
+    ax1, ax2, ax3, ax4 = axes
+
+    # ==================================================
+    # PLOT 1 — Overall Performance
+    # ==================================================
+    sizes = [total_correct, not_detected]
+    labels = [f'Correct\n({total_correct})', f'Incorrect\n({not_detected})']
+    colors = ['#2ecc71', '#e74c3c']
+
+    ax1.pie(
+        sizes,
+        labels=labels,
+        colors=colors,
+        autopct='%1.1f%%',
+        startangle=90,
+        explode=(0.05, 0.05),
+        textprops={'fontsize': 11, 'weight': 'bold'}
+    )
+    ax1.set_title('Overall Performance', fontsize=14, weight='bold')
+
+    # ==================================================
+    # PLOT 2 — With Inconsistencies
+    # ==================================================
+    categories = ['With\nInconsistencies']
+    correct_vals = [detected_correctly]
+    incorrect_vals = [not_detected]
+
+    x = np.arange(len(categories))
+
+    ax2.bar(x, correct_vals, label='Detected', color='#2ecc71')
+    ax2.bar(x, incorrect_vals, bottom=correct_vals, label='Missed', color='#e74c3c')
+
+    ax2.set_ylabel('Number of Cases', fontsize=11)
+    ax2.set_xticks(x)
+    ax2.set_xticklabels(categories, fontsize=11, weight='bold')
+    ax2.set_title('Cases with Inconsistencies', fontsize=14, weight='bold')
+    ax2.legend()
+    ax2.spines['top'].set_visible(False)
+    ax2.spines['right'].set_visible(False)
+
+    # ==================================================
+    # PLOT 3 — Empty Category Distribution
+    # ==================================================
+    empty_labels = ['LLM True', 'LLM False']
+    empty_values = [correct_empty_true, correct_empty_false]
+
+    if sum(empty_values) > 0:
+        ax3.pie(
+            empty_values,
+            labels=empty_labels,
+            autopct='%1.1f%%',
+            startangle=90,
+            textprops={'fontsize': 11}
+        )
+
+    ax3.set_title('Empty Category\nLLM Results', fontsize=14, weight='bold')
+
+    # ==================================================
+    # PLOT 4 — Detection by Inconsistency Type
+    # ==================================================
+    incomplete_detected = len(incomplete_schema[incomplete_schema['LLM_result']])
+    incomplete_missed = len(incomplete_schema[~incomplete_schema['LLM_result']])
+    inconsistent_detected = len(inconsistent[inconsistent['LLM_result']])
+    inconsistent_missed = len(inconsistent[~inconsistent['LLM_result']])
+
+    types = ['Incomplete\nSchema', 'Inconsistent']
+    detected = [incomplete_detected, inconsistent_detected]
+    missed = [incomplete_missed, inconsistent_missed]
+
+    x = np.arange(len(types))
+    width = 0.35
+
+    ax4.bar(x - width/2, detected, width, label='Detected', color='#2ecc71')
+    ax4.bar(x + width/2, missed, width, label='Missed', color='#e74c3c')
+
+    ax4.set_xticks(x)
+    ax4.set_xticklabels(types, fontsize=11)
+    ax4.set_ylabel('Count', fontsize=11)
+    ax4.set_title('Detection by Type', fontsize=14, weight='bold')
+    ax4.legend()
+    ax4.spines['top'].set_visible(False)
+    ax4.spines['right'].set_visible(False)
+
+    # ==================================================
+    # FINAL
+    # ==================================================
+    fig.suptitle('LLM Inconsistency Detection Analysis', fontsize=18, weight='bold')
+    plt.tight_layout(rect=[0, 0, 1, 0.92])
+
+    output_path = Path(__file__).parent / 'analysis_plots.png'
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    print(f"\nPlots saved to: {output_path}")
+
+    plt.show()
+
+
+
+
+
+if __name__ == "__main__":
+    # Replace with the path to your CSV file
+    base = Path(__file__).resolve().parent.parent
+    filepath = base / "Compix@Grasp/Finding_Inconsistency/sample_contrast.csv"
+    try:
+        stats = analyze_csv(filepath)
+    except FileNotFoundError:
+        print(f"Error: The file '{filepath}' was not found.")
+        print("\nTo use this script:")
+        print("1. Save your CSV file")
+        print("2. Update the 'filepath' variable with the correct path")
+        print("3. Run: python analyze_csv.py")
+    except Exception as e:
+        print(f"Error during analysis: {e}")

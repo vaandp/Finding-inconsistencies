@@ -10,8 +10,8 @@ import requests
 
 
 BASE = Path(__file__).resolve().parent.parent
-RQ_DIR = BASE / "Compix@Grasp/generated_query_bottom"
-OUT_DIR = BASE / "Compix@Grasp/wikidata_query_result_bottom"
+RQ_DIR = BASE / "Compix@Grasp/generated_query"
+OUT_DIR = BASE / "Compix@Grasp/wikidata_query_result"
 
 ENDPOINT_URL = "https://query.wikidata.org/sparql"
 HEADERS = {
@@ -49,7 +49,7 @@ def _fetch_labels(qids: list[str]) -> dict[str, str]:
                     "format": "json",
                     "ids": ids_param,
                     "props": "labels",
-                    "languages": "fr|en",
+                    "languages": "en",
                 },
                 headers=HEADERS,
                 timeout=30,
@@ -65,12 +65,13 @@ def _fetch_labels(qids: list[str]) -> dict[str, str]:
 
         entities = data.get("entities", {})
         for qid, entity in entities.items():
-            label_fr = entity.get("labels", {}).get("fr", {}).get("value")
+            #label_fr = entity.get("labels", {}).get("fr", {}).get("value")
             label_en = entity.get("labels", {}).get("en", {}).get("value")
-            if label_fr:
-                labels[qid] = label_fr
-            elif label_en:
-                labels[qid] = label_en
+            #if label_fr:
+             #   labels[qid] = label_fr
+            #elif label_en:
+            #    labels[qid] = label_en
+            labels[qid] = label_en
 
     return labels
 
@@ -180,9 +181,9 @@ def main() -> None:
             continue
         
         #do not execute again if the file already exists (easier to restart partially)
-        if out_path.exists():
+        '''if out_path.exists():
             print(f"[{i}/{total}] {qid}: already exists, skipping.")
-            continue
+            continue'''
 
         print(f"[{i}/{total}] {qid}: execution in progress...")
         try:

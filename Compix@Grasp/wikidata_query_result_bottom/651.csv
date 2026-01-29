@@ -1,4 +1,5 @@
 property,value
+http://www.wikidata.org/prop/P161,statement/Q79784-8cff7d4f-4bc2-2906-937d-46d708b0ecda
 http://www.wikidata.org/prop/P161,statement/Q79784-8F85A8B7-2F7C-4A8A-BFA9-4F6B0E8F913D
 http://www.wikidata.org/prop/P161,statement/Q79784-9c1965c1-45d2-7d4e-73a8-c1022bb67965
 http://www.wikidata.org/prop/P161,statement/q79784-A34247D3-B7B6-4471-B8FD-121EE480EED0
@@ -29,26 +30,26 @@ http://www.wikidata.org/prop/direct/P268,131904957
 http://www.wikidata.org/prop/direct/P272,Warner Bros. Television Studios
 http://www.wikidata.org/prop/direct/P272,Bright/Kauffman/Crane Productions
 http://www.wikidata.org/prop/direct/P345,tt0108778
-http://www.wikidata.org/prop/direct/P358,discographie de Friends
-http://www.wikidata.org/prop/direct/P364,anglais
+http://www.wikidata.org/prop/direct/P358,Friends discography
+http://www.wikidata.org/prop/direct/P364,English
 http://www.wikidata.org/prop/direct/P373,Friends (1994 TV series)
 http://www.wikidata.org/prop/direct/P406,Friends
-http://www.wikidata.org/prop/direct/P437,télévision hertzienne
-http://www.wikidata.org/prop/direct/P437,vidéo à la demande
-http://www.wikidata.org/prop/direct/P437,téléchargement numérique
+http://www.wikidata.org/prop/direct/P437,terrestrial television
+http://www.wikidata.org/prop/direct/P437,video on demand
+http://www.wikidata.org/prop/direct/P437,digital download
 http://www.wikidata.org/prop/direct/P449,NBC
 http://www.wikidata.org/prop/direct/P480,745443
-http://www.wikidata.org/prop/direct/P495,États-Unis
-http://www.wikidata.org/prop/direct/P527,saison 7 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 6 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 1 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 9 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 8 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 10 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 5 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 4 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 2 de Friends
-http://www.wikidata.org/prop/direct/P527,saison 3 de Friends
+http://www.wikidata.org/prop/direct/P495,United States
+http://www.wikidata.org/prop/direct/P527,"Friends, season 7"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 6"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 1"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 9"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 8"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 10"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 5"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 4"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 2"
+http://www.wikidata.org/prop/direct/P527,"Friends, season 3"
 http://www.wikidata.org/prop/direct/P580,1994-09-22T00:00:00Z
 http://www.wikidata.org/prop/direct/P582,2004-05-06T00:00:00Z
 http://www.wikidata.org/prop/direct/P646,/m/030cx
@@ -61,8 +62,8 @@ http://www.wikidata.org/prop/direct/P674,Ross Geller
 http://www.wikidata.org/prop/direct/P674,Gunther
 http://www.wikidata.org/prop/direct/P674,Mike Hannigan
 http://www.wikidata.org/prop/direct/P674,Emily Waltham
-http://www.wikidata.org/prop/direct/P674,Janice
-http://www.wikidata.org/prop/direct/P674,Frank Buffay Junior
+http://www.wikidata.org/prop/direct/P674,Janice Litman Goralnik
+http://www.wikidata.org/prop/direct/P674,"Frank Buffay, Jr."
 http://www.wikidata.org/prop/direct/P674,Richard Burke
 http://www.wikidata.org/prop/direct/P674,Ursula Buffay
 http://www.wikidata.org/prop/direct/P674,Ben Geller
@@ -81,13 +82,13 @@ http://www.wikidata.org/prop/direct/P674,Amy Green
 http://www.wikidata.org/prop/direct/P674,Eddie Manoick
 http://www.wikidata.org/prop/direct/P674,Charles Bing
 http://www.wikidata.org/prop/direct/P750,Netflix
-http://www.wikidata.org/prop/direct/P750,Warner Bros. Television Distribution
+http://www.wikidata.org/prop/direct/P750,Warner Bros. Domestic Television Distribution
 http://www.wikidata.org/prop/direct/P840,Manhattan
 http://www.wikidata.org/prop/direct/P840,Central Perk
 http://www.wikidata.org/prop/direct/P856,https://www.warnerbros.com/tv/friends
 http://www.wikidata.org/prop/direct/P905,4097
-http://www.wikidata.org/prop/direct/P910,Catégorie:Friends
-http://www.wikidata.org/prop/direct/P921,amitié
+http://www.wikidata.org/prop/direct/P910,Category:Friends (1994 TV series)
+http://www.wikidata.org/prop/direct/P921,friendship
 http://www.wikidata.org/prop/direct/P935,Friends
 http://www.wikidata.org/prop/direct/P942,I'll Be There for You
 http://www.wikidata.org/prop/direct/P948,http://commons.wikimedia.org/wiki/Special:FilePath/Friends%20banner.jpg
@@ -95,110 +96,10 @@ http://www.wikidata.org/prop/direct/P998,Arts/Television/Programs/Comedy/Sitcoms
 http://www.wikidata.org/prop/direct/P1113,236.0
 http://www.wikidata.org/prop/direct/P1258,tv/friends
 http://www.wikidata.org/prop/direct/P1267,49
-http://www.wikidata.org/prop/direct/P1411,Screen Actors Guild Award de la meilleure actrice dans une série télévisée comique
+http://www.wikidata.org/prop/direct/P1411,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Comedy Series
 http://www.wikidata.org/prop/direct/P1411,Golden Raspberry Award for Worst New Star
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award du meilleur acteur invité dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Golden Globe de la meilleure série télévisée musicale ou comique
-http://www.w3.org/2000/01/rdf-schema#label,ហ្វ្រេនស៍
-http://www.w3.org/2000/01/rdf-schema#label,Достор
-http://www.w3.org/2000/01/rdf-schema#label,Найзууд (олон ангит кино)
-http://www.w3.org/2000/01/rdf-schema#label,फ्रेंड्स
-http://www.w3.org/2000/01/rdf-schema#label,فرندز
-http://www.w3.org/2000/01/rdf-schema#label,ਫਰੈਂਡਜ਼
-http://www.w3.org/2000/01/rdf-schema#label,Prietenii tăi
-http://www.w3.org/2000/01/rdf-schema#label,Доҕордуулар
-http://www.w3.org/2000/01/rdf-schema#label,ෆ්රෙන්ඩ්ස්
-http://www.w3.org/2000/01/rdf-schema#label,Prijatelji
-http://www.w3.org/2000/01/rdf-schema#label,பிரண்ட்ஸ்
-http://www.w3.org/2000/01/rdf-schema#label,Дӯстон
-http://www.w3.org/2000/01/rdf-schema#label,เฟรนด์ส
-http://www.w3.org/2000/01/rdf-schema#label,Những người bạn
-http://www.w3.org/2000/01/rdf-schema#label,老友记
-http://www.w3.org/2000/01/rdf-schema#label,פריינט
-http://www.w3.org/2000/01/rdf-schema#label,老友记
-http://www.w3.org/2000/01/rdf-schema#label,六人行
-http://www.w3.org/2000/01/rdf-schema#label,老友記
-http://www.w3.org/2000/01/rdf-schema#label,六人行
-http://www.w3.org/2004/02/skos/core#altLabel,Amigos
-http://www.w3.org/2004/02/skos/core#altLabel,دوستان
-http://www.w3.org/2004/02/skos/core#altLabel,أصدقاء
-http://www.w3.org/2004/02/skos/core#altLabel,Amikoj
-http://www.w3.org/2004/02/skos/core#altLabel,프렌드
-http://www.w3.org/2004/02/skos/core#altLabel,Prijatelji
-http://www.w3.org/2004/02/skos/core#altLabel,مسلسل الاصدقاء
-http://www.w3.org/2004/02/skos/core#altLabel,"""Amichi"" o ""Amici"""
-http://www.w3.org/2004/02/skos/core#altLabel,سریال دوستان
-http://www.w3.org/2004/02/skos/core#altLabel,مجموعه تلویزیونی دوستان
-http://www.w3.org/2004/02/skos/core#altLabel,פרנדס
-http://www.w3.org/2004/02/skos/core#altLabel,F•R•I•E•N•D•S
-http://www.w3.org/2004/02/skos/core#altLabel,ഫ്രെണ്ട്സ്
-http://www.w3.org/2004/02/skos/core#altLabel,फ्रेण्ड्स
-http://www.w3.org/2004/02/skos/core#altLabel,ਫ਼੍ਰੈਂਡਜ਼
-http://www.w3.org/2004/02/skos/core#altLabel,Друзья сериал
-http://www.w3.org/2004/02/skos/core#altLabel,сериал Друзья
-http://www.w3.org/2004/02/skos/core#altLabel,Друзья
-http://www.w3.org/2004/02/skos/core#altLabel,V.ä.n.n.e.r
-http://www.w3.org/2004/02/skos/core#altLabel,"""Дуслар"" сериалы"
-http://www.w3.org/2004/02/skos/core#altLabel,«Дуслар сериалы»
-http://www.w3.org/2004/02/skos/core#altLabel,Дуслар сериалы
-http://www.w3.org/2004/02/skos/core#altLabel,六人行
-http://wikiba.se/ontology#statements,319
-http://wikiba.se/ontology#sitelinks,109
-http://wikiba.se/ontology#identifiers,98
-http://www.wikidata.org/prop/direct/P31,série télévisée
-http://www.wikidata.org/prop/direct/P58,David Crane
-http://www.wikidata.org/prop/direct/P136,série télévisée comique
-http://www.wikidata.org/prop/direct/P136,sitcom des États-Unis
-http://www.wikidata.org/prop/direct/P136,série télévisée de romance
-http://www.wikidata.org/prop/direct/P138,ami ou amie
-http://www.wikidata.org/prop/direct/P154,http://commons.wikimedia.org/wiki/Special:FilePath/Friends%20logo.svg
-http://www.wikidata.org/prop/direct/P156,Joey
-http://www.wikidata.org/prop/direct/P161,Jennifer Aniston
-http://www.wikidata.org/prop/direct/P161,Brad Pitt
-http://www.wikidata.org/prop/direct/P161,Courteney Cox
-http://www.wikidata.org/prop/direct/P161,Matthew Perry
-http://www.wikidata.org/prop/direct/P161,Lisa Kudrow
-http://www.wikidata.org/prop/direct/P161,Matt LeBlanc
-http://www.wikidata.org/prop/direct/P161,David Schwimmer
-http://www.wikidata.org/prop/direct/P161,Maggie Wheeler
-http://www.wikidata.org/prop/direct/P161,Christina Pickles
-http://www.wikidata.org/prop/direct/P161,Paul Rudd
-http://www.wikidata.org/prop/direct/P161,Elliott Gould
-http://www.wikidata.org/prop/direct/P161,James Michael Tyler
-http://www.wikidata.org/prop/direct/P161,Cole Sprouse
-http://www.wikidata.org/prop/direct/P162,Marta Kauffman
-http://www.wikidata.org/prop/direct/P162,David Crane
-http://www.wikidata.org/prop/direct/P166,Screen Actors Guild Award de la meilleure actrice dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award du meilleur acteur invité dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award de la meilleure actrice dans un second rôle dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award de la meilleure réalisation pour une série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award de la meilleure actrice dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award de la meilleure série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Screen Actors Guild Award de la meilleure distribution pour une série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award de la meilleure actrice invitée dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P166,Satellite Award du meilleur acteur dans une série télévisée musicale ou comique
-http://www.wikidata.org/prop/direct/P166,Zilveren Televizier-Tulp
-http://www.wikidata.org/prop/direct/P170,Marta Kauffman
-http://www.wikidata.org/prop/direct/P170,David Crane
-http://www.wikidata.org/prop/direct/P214,205795873
-http://www.wikidata.org/prop/direct/P227,4719613-0
-http://www.wikidata.org/prop/direct-normalized/P214,http://viaf.org/viaf/205795873
-http://www.wikidata.org/prop/direct-normalized/P227,https://d-nb.info/gnd/4719613-0
-http://www.wikidata.org/prop/P31,statement/Q79784-B81AEAEB-63A2-444F-A89A-E82E5DC6C3AE
-http://www.wikidata.org/prop/P58,statement/Q79784-DA12827D-5EEB-40E5-AAC9-A6FD15CA679F
-http://www.wikidata.org/prop/P136,statement/Q79784-00093D6B-8CA8-4E16-B65F-4C0771B4CB30
-http://www.wikidata.org/prop/P136,statement/Q79784-75617a07-4cbc-57d2-4ddf-f84a75b623eb
-http://www.wikidata.org/prop/P136,statement/Q79784-E24EA160-AB85-4ECE-BB9D-708C0AA7B92D
-http://www.wikidata.org/prop/P138,statement/Q79784-d28b8167-4d2b-0555-de4c-ed5fa085ec61
-http://www.wikidata.org/prop/P154,statement/Q79784-8d91f8a7-4afb-d5b3-ced3-1e888333e3d6
-http://www.wikidata.org/prop/P156,statement/Q79784-1c8435c3-4439-8a8e-8d74-04a19474dd68
-http://www.wikidata.org/prop/P161,statement/Q79784-02494296-8B1F-4932-B9FD-571D7FE56493
-http://www.wikidata.org/prop/P161,statement/Q79784-04CC83C8-FE11-43D8-B23C-53A5DDE60421
-http://www.wikidata.org/prop/P161,statement/Q79784-10d250ba-4e29-ee03-9f3c-5c683c7051b3
-http://www.wikidata.org/prop/P161,statement/q79784-1A2EB323-D833-429E-B61F-E6FCDFA5A79E
-http://www.wikidata.org/prop/P161,statement/q79784-42CF0975-914A-48DB-9E44-68B1FDD267E9
-http://www.wikidata.org/prop/P161,statement/q79784-603601FE-6437-4262-A0DE-E1DB140E8CB6
-http://www.wikidata.org/prop/P161,statement/Q79784-8cff7d4f-4bc2-2906-937d-46d708b0ecda
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series
+http://www.wikidata.org/prop/P942,statement/Q79784-c3655049-4418-7861-0450-e83d1295357a
 http://www.wikidata.org/prop/P948,statement/Q79784-2d75434f-4632-d16d-9c58-1287367ecf6b
 http://www.wikidata.org/prop/P998,statement/Q79784-000E26D9-22E3-43BF-873C-2BF95E77189C
 http://www.wikidata.org/prop/P1113,statement/Q79784-b1f42c87-481c-db0f-4ddd-08d163e7edfc
@@ -298,7 +199,121 @@ http://www.wikidata.org/prop/P1431,statement/Q79784-e331cd38-44fc-ff9b-810d-85f1
 http://www.wikidata.org/prop/P1434,statement/Q79784-cf053190-4236-7e06-e54a-f775b09519fe
 http://www.wikidata.org/prop/P1476,statement/Q79784-B882C82D-05D9-456B-BF09-7C2B31DF3CF5
 http://www.wikidata.org/prop/P1552,statement/Q79784-9505780e-4a52-b58c-bad2-e9b79be60fbc
-http://www.wikidata.org/prop/P1552,statement/Q79784-e3bb70d9-48f0-b711-6b4e-10f399693022
+http://www.wikidata.org/prop/P11460,statement/Q79784-45DBAD3C-9CC1-461C-8A86-AB95367604E7
+http://www.wikidata.org/prop/P11682,statement/Q79784-8e6ade4f-4dc6-a6f9-e535-fb12802f9596
+http://www.wikidata.org/prop/P11892,statement/Q79784-3c1341a6-44f5-e27a-57d3-1caf424709d9
+http://www.wikidata.org/prop/P12096,statement/Q79784-A6AA483F-7104-4A84-8204-B50CE5DAA8A0
+http://www.wikidata.org/prop/P12159,statement/Q79784-F89FE48C-F8FA-48BF-8AF9-3B37DEF2BC21
+http://www.wikidata.org/prop/P12222,statement/Q79784-c09f3f73-4c26-23a2-32d5-14ba99ce6bb5
+http://www.wikidata.org/prop/P12241,statement/Q79784-e0414e3d-f4a0-4479-8045-3afae751586d
+http://www.wikidata.org/prop/P12306,statement/Q79784-AF3566B5-0680-4EE4-AE05-2A389B5E2522
+http://www.wikidata.org/prop/P12329,statement/Q79784-87b2ce70-48cc-5422-6a34-71340f76133f
+http://www.wikidata.org/prop/P12348,statement/Q79784-f7fd9acc-4e21-ac88-3135-0be97fd2d19b
+http://www.wikidata.org/prop/P12544,statement/Q79784-356CC61B-9B44-446C-9B82-A9F65561A02A
+http://www.wikidata.org/prop/P12683,statement/Q79784-73985588-32F2-4C42-AB47-4E4AEFB9C12B
+http://www.wikidata.org/prop/P12800,statement/Q79784-62228B91-93AA-4314-B40A-F5FB254FC75C
+http://www.wikidata.org/prop/P13707,statement/Q79784-179E8894-D216-496D-9EF0-E8051CD091EA
+http://www.w3.org/2000/01/rdf-schema#label,ហ្វ្រេនស៍
+http://www.w3.org/2000/01/rdf-schema#label,Достор
+http://www.w3.org/2000/01/rdf-schema#label,Найзууд (олон ангит кино)
+http://www.w3.org/2000/01/rdf-schema#label,फ्रेंड्स
+http://www.w3.org/2000/01/rdf-schema#label,فرندز
+http://www.w3.org/2000/01/rdf-schema#label,ਫਰੈਂਡਜ਼
+http://www.w3.org/2000/01/rdf-schema#label,Prietenii tăi
+http://www.w3.org/2000/01/rdf-schema#label,Доҕордуулар
+http://www.w3.org/2000/01/rdf-schema#label,ෆ්රෙන්ඩ්ස්
+http://www.w3.org/2000/01/rdf-schema#label,Prijatelji
+http://www.w3.org/2000/01/rdf-schema#label,பிரண்ட்ஸ்
+http://www.w3.org/2000/01/rdf-schema#label,Дӯстон
+http://www.w3.org/2000/01/rdf-schema#label,เฟรนด์ส
+http://www.w3.org/2000/01/rdf-schema#label,Những người bạn
+http://www.w3.org/2000/01/rdf-schema#label,老友记
+http://www.w3.org/2000/01/rdf-schema#label,פריינט
+http://www.w3.org/2000/01/rdf-schema#label,老友记
+http://www.w3.org/2000/01/rdf-schema#label,六人行
+http://www.w3.org/2000/01/rdf-schema#label,老友記
+http://www.w3.org/2000/01/rdf-schema#label,六人行
+http://www.w3.org/2000/01/rdf-schema#label,فريندز
+http://www.w3.org/2004/02/skos/core#altLabel,Amigos
+http://www.w3.org/2004/02/skos/core#altLabel,دوستان
+http://www.w3.org/2004/02/skos/core#altLabel,أصدقاء
+http://www.w3.org/2004/02/skos/core#altLabel,Amikoj
+http://www.w3.org/2004/02/skos/core#altLabel,프렌드
+http://www.w3.org/2004/02/skos/core#altLabel,Prijatelji
+http://www.w3.org/2004/02/skos/core#altLabel,مسلسل الاصدقاء
+http://www.w3.org/2004/02/skos/core#altLabel,"""Amichi"" o ""Amici"""
+http://www.w3.org/2004/02/skos/core#altLabel,سریال دوستان
+http://www.w3.org/2004/02/skos/core#altLabel,مجموعه تلویزیونی دوستان
+http://www.w3.org/2004/02/skos/core#altLabel,פרנדס
+http://www.w3.org/2004/02/skos/core#altLabel,F•R•I•E•N•D•S
+http://www.w3.org/2004/02/skos/core#altLabel,ഫ്രെണ്ട്സ്
+http://www.w3.org/2004/02/skos/core#altLabel,फ्रेण्ड्स
+http://www.w3.org/2004/02/skos/core#altLabel,ਫ਼੍ਰੈਂਡਜ਼
+http://www.w3.org/2004/02/skos/core#altLabel,Друзья сериал
+http://www.w3.org/2004/02/skos/core#altLabel,сериал Друзья
+http://www.w3.org/2004/02/skos/core#altLabel,Друзья
+http://www.w3.org/2004/02/skos/core#altLabel,V.ä.n.n.e.r
+http://www.w3.org/2004/02/skos/core#altLabel,"""Дуслар"" сериалы"
+http://www.w3.org/2004/02/skos/core#altLabel,«Дуслар сериалы»
+http://www.w3.org/2004/02/skos/core#altLabel,Дуслар сериалы
+http://www.w3.org/2004/02/skos/core#altLabel,六人行
+http://wikiba.se/ontology#statements,319
+http://wikiba.se/ontology#sitelinks,109
+http://wikiba.se/ontology#identifiers,98
+http://www.wikidata.org/prop/direct/P31,television series
+http://www.wikidata.org/prop/direct/P58,David Crane
+http://www.wikidata.org/prop/direct/P136,comedy television series
+http://www.wikidata.org/prop/direct/P136,American television sitcom
+http://www.wikidata.org/prop/direct/P136,romance television series
+http://www.wikidata.org/prop/direct/P138,friend
+http://www.wikidata.org/prop/direct/P154,http://commons.wikimedia.org/wiki/Special:FilePath/Friends%20logo.svg
+http://www.wikidata.org/prop/direct/P156,Joey
+http://www.wikidata.org/prop/direct/P161,Jennifer Aniston
+http://www.wikidata.org/prop/direct/P161,Brad Pitt
+http://www.wikidata.org/prop/direct/P161,Courteney Cox
+http://www.wikidata.org/prop/direct/P161,Matthew Perry
+http://www.wikidata.org/prop/direct/P161,Lisa Kudrow
+http://www.wikidata.org/prop/direct/P161,Matt LeBlanc
+http://www.wikidata.org/prop/direct/P161,David Schwimmer
+http://www.wikidata.org/prop/direct/P161,Maggie Wheeler
+http://www.wikidata.org/prop/direct/P161,Christina Pickles
+http://www.wikidata.org/prop/direct/P161,Paul Rudd
+http://www.wikidata.org/prop/direct/P161,Elliott Gould
+http://www.wikidata.org/prop/direct/P161,James Michael Tyler
+http://www.wikidata.org/prop/direct/P161,Cole Sprouse
+http://www.wikidata.org/prop/direct/P162,Marta Kauffman
+http://www.wikidata.org/prop/direct/P162,David Crane
+http://www.wikidata.org/prop/direct/P166,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Comedy Series
+http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series
+http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series
+http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award for Outstanding Directing for a Comedy Series
+http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series
+http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award for Outstanding Comedy Series
+http://www.wikidata.org/prop/direct/P166,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series
+http://www.wikidata.org/prop/direct/P166,Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series
+http://www.wikidata.org/prop/direct/P166,Satellite Award for Best Actor – Television Series Musical or Comedy
+http://www.wikidata.org/prop/direct/P166,Zilveren Televizier-Tulp
+http://www.wikidata.org/prop/direct/P170,Marta Kauffman
+http://www.wikidata.org/prop/direct/P170,David Crane
+http://www.wikidata.org/prop/direct/P214,205795873
+http://www.wikidata.org/prop/direct/P227,4719613-0
+http://www.wikidata.org/prop/direct-normalized/P214,http://viaf.org/viaf/205795873
+http://www.wikidata.org/prop/direct-normalized/P227,https://d-nb.info/gnd/4719613-0
+http://www.wikidata.org/prop/P31,statement/Q79784-B81AEAEB-63A2-444F-A89A-E82E5DC6C3AE
+http://www.wikidata.org/prop/P58,statement/Q79784-DA12827D-5EEB-40E5-AAC9-A6FD15CA679F
+http://www.wikidata.org/prop/P136,statement/Q79784-00093D6B-8CA8-4E16-B65F-4C0771B4CB30
+http://www.wikidata.org/prop/P136,statement/Q79784-75617a07-4cbc-57d2-4ddf-f84a75b623eb
+http://www.wikidata.org/prop/P136,statement/Q79784-E24EA160-AB85-4ECE-BB9D-708C0AA7B92D
+http://www.wikidata.org/prop/P138,statement/Q79784-d28b8167-4d2b-0555-de4c-ed5fa085ec61
+http://www.wikidata.org/prop/P154,statement/Q79784-8d91f8a7-4afb-d5b3-ced3-1e888333e3d6
+http://www.wikidata.org/prop/P156,statement/Q79784-1c8435c3-4439-8a8e-8d74-04a19474dd68
+http://www.wikidata.org/prop/P161,statement/Q79784-02494296-8B1F-4932-B9FD-571D7FE56493
+http://www.wikidata.org/prop/P161,statement/Q79784-04CC83C8-FE11-43D8-B23C-53A5DDE60421
+http://www.wikidata.org/prop/P161,statement/Q79784-10d250ba-4e29-ee03-9f3c-5c683c7051b3
+http://www.wikidata.org/prop/P161,statement/q79784-1A2EB323-D833-429E-B61F-E6FCDFA5A79E
+http://www.wikidata.org/prop/P161,statement/q79784-42CF0975-914A-48DB-9E44-68B1FDD267E9
+http://www.wikidata.org/prop/P161,statement/q79784-603601FE-6437-4262-A0DE-E1DB140E8CB6
+http://www.wikidata.org/prop/direct/P8298,show/52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9
 http://www.wikidata.org/prop/direct/P8313,Venner
 http://www.wikidata.org/prop/direct/P8419,Friends (TV)
 http://www.wikidata.org/prop/direct/P8600,431
@@ -398,33 +413,20 @@ http://www.wikidata.org/prop/P905,statement/Q79784-152F12F0-476A-4989-AF07-F10A7
 http://www.wikidata.org/prop/P910,statement/Q79784-EA874ABF-7F7D-4377-AFA8-F1D13302B395
 http://www.wikidata.org/prop/P921,statement/Q79784-7855c497-45a5-793c-0f7e-b46fa1f86f70
 http://www.wikidata.org/prop/P935,statement/Q79784-E2CB8C3F-0C90-4804-92CB-341EF1E617CF
-http://www.wikidata.org/prop/P942,statement/Q79784-c3655049-4418-7861-0450-e83d1295357a
-http://www.wikidata.org/prop/P11682,statement/Q79784-8e6ade4f-4dc6-a6f9-e535-fb12802f9596
-http://www.wikidata.org/prop/P11892,statement/Q79784-3c1341a6-44f5-e27a-57d3-1caf424709d9
-http://www.wikidata.org/prop/P12096,statement/Q79784-A6AA483F-7104-4A84-8204-B50CE5DAA8A0
-http://www.wikidata.org/prop/P12159,statement/Q79784-F89FE48C-F8FA-48BF-8AF9-3B37DEF2BC21
-http://www.wikidata.org/prop/P12222,statement/Q79784-c09f3f73-4c26-23a2-32d5-14ba99ce6bb5
-http://www.wikidata.org/prop/P12241,statement/Q79784-e0414e3d-f4a0-4479-8045-3afae751586d
-http://www.wikidata.org/prop/P12306,statement/Q79784-AF3566B5-0680-4EE4-AE05-2A389B5E2522
-http://www.wikidata.org/prop/P12329,statement/Q79784-87b2ce70-48cc-5422-6a34-71340f76133f
-http://www.wikidata.org/prop/P12348,statement/Q79784-f7fd9acc-4e21-ac88-3135-0be97fd2d19b
-http://www.wikidata.org/prop/P12544,statement/Q79784-356CC61B-9B44-446C-9B82-A9F65561A02A
-http://www.wikidata.org/prop/P12683,statement/Q79784-73985588-32F2-4C42-AB47-4E4AEFB9C12B
-http://www.wikidata.org/prop/P12800,statement/Q79784-62228B91-93AA-4314-B40A-F5FB254FC75C
-http://www.wikidata.org/prop/P13707,statement/Q79784-179E8894-D216-496D-9EF0-E8051CD091EA
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award du meilleur acteur dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award de la meilleure actrice dans un second rôle dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award de la meilleure réalisation pour une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award du meilleur acteur dans un second rôle dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award de la meilleure actrice dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award de la meilleure série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Screen Actors Guild Award du meilleur acteur dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Screen Actors Guild Award de la meilleure distribution pour une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award de la meilleure actrice invitée dans une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award du meilleur scénario pour une série télévisée comique
-http://www.wikidata.org/prop/direct/P1411,Satellite Award de la meilleure série télévisée musicale ou comique
-http://www.wikidata.org/prop/direct/P1411,Satellite Award du meilleur acteur dans une série télévisée musicale ou comique
-http://www.wikidata.org/prop/direct/P1411,Directors Guild of America Award pour une direction remarquable – Série Comique
+http://www.wikidata.org/prop/direct/P1411,Golden Globe Award for Best Television Series – Musical or Comedy
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Directing for a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Writing for a Comedy Series
+http://www.wikidata.org/prop/direct/P1411,Satellite Award for Best Television Series – Musical or Comedy
+http://www.wikidata.org/prop/direct/P1411,Satellite Award for Best Actor – Television Series Musical or Comedy
+http://www.wikidata.org/prop/direct/P1411,Directors Guild of America Award for Outstanding Directing – Comedy Series
 http://www.wikidata.org/prop/direct/P1411,Kids' Choice Award for Favorite TV Show
 http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Casting for a Comedy Series
 http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding Cinematography for a Multi-Camera Series
@@ -436,33 +438,33 @@ http://www.wikidata.org/prop/direct/P1411,Primetime Emmy Award for Outstanding A
 http://www.wikidata.org/prop/direct/P1411,Kids' Choice Award for Favorite TV Actress
 http://www.wikidata.org/prop/direct/P1411,TCA Award for Outstanding Achievement in Comedy
 http://www.wikidata.org/prop/direct/P1417,topic/Friends
-http://www.wikidata.org/prop/direct/P1424,Modèle:Palette Friends
-http://www.wikidata.org/prop/direct/P1431,Kevin Bright
+http://www.wikidata.org/prop/direct/P1424,Template:Friends
+http://www.wikidata.org/prop/direct/P1431,Kevin S. Bright
 http://www.wikidata.org/prop/direct/P1431,David Crane
 http://www.wikidata.org/prop/direct/P1434,Friends universe
 http://www.wikidata.org/prop/direct/P1476,Friends
-http://www.wikidata.org/prop/direct/P1552,format des titres d'épisode
+http://www.wikidata.org/prop/direct/P1552,episode title format
 http://www.wikidata.org/prop/direct/P1562,v258653
 http://www.wikidata.org/prop/direct/P1617,979e2a9a-ddf0-45f8-a1fe-57bfa2c5218b
 http://www.wikidata.org/prop/direct/P1712,tv/friends
-http://www.wikidata.org/prop/direct/P1811,liste des épisodes de Friends
+http://www.wikidata.org/prop/direct/P1811,list of Friends episodes
 http://www.wikidata.org/prop/direct/P1874,70153404
-http://www.wikidata.org/prop/direct/P1881,Personnages de Friends
+http://www.wikidata.org/prop/direct/P1881,list of Friends characters
 http://www.wikidata.org/prop/direct/P1889,Friends
 http://www.wikidata.org/prop/direct/P2002,FriendsTV
 http://www.wikidata.org/prop/direct/P2003,friends
 http://www.wikidata.org/prop/direct/P2013,friends.tv
 http://www.wikidata.org/prop/direct/P2047,30.0
-http://www.wikidata.org/prop/direct/P2061,format 16/9
+http://www.wikidata.org/prop/direct/P2061,
 http://www.wikidata.org/prop/direct/P2397,UCijVIIfFzspulKc7yWA2Qhg
 http://www.wikidata.org/prop/direct/P2437,10.0
 http://www.wikidata.org/prop/direct/P2512,Joey
-http://www.wikidata.org/prop/direct/P2515,Q134396203
+http://www.wikidata.org/prop/direct/P2515,
 http://www.wikidata.org/prop/direct/P2529,68928
 http://www.wikidata.org/prop/direct/P2581,00257421n
 http://www.wikidata.org/prop/direct/P2603,77044
 http://www.wikidata.org/prop/direct/P2638,shows/friends
-http://www.wikidata.org/prop/direct/P2670,épisode en deux parties
+http://www.wikidata.org/prop/direct/P2670,two-part episode
 http://www.wikidata.org/prop/direct/P2703,150794362
 http://www.wikidata.org/prop/direct/P2704,10.5240/F92B-49B9-9242-1B52-611B-X
 http://www.wikidata.org/prop/direct/P3106,tv-and-radio/friends
@@ -479,7 +481,7 @@ http://www.wikidata.org/prop/direct/P4073,it.friends
 http://www.wikidata.org/prop/direct/P4073,ru.friends
 http://www.wikidata.org/prop/direct/P4282,116378
 http://www.wikidata.org/prop/direct/P4300,GhwaGgoYVUM5eWw4YUlSRFVCNXNBZlpTclNPLVV3
-http://www.wikidata.org/prop/direct/P4312,dispositif multicaméras
+http://www.wikidata.org/prop/direct/P4312,multiple-camera setup
 http://www.wikidata.org/prop/direct/P4342,Friends
 http://www.wikidata.org/prop/direct/P4529,1393859
 http://www.wikidata.org/prop/direct/P4665,4839
@@ -487,9 +489,9 @@ http://www.wikidata.org/prop/direct/P4780,53835
 http://www.wikidata.org/prop/direct/P4784,1
 http://www.wikidata.org/prop/direct/P4834,1164
 http://www.wikidata.org/prop/direct/P4835,79168
-http://www.wikidata.org/prop/direct/P4969,Friends : Les Retrouvailles
+http://www.wikidata.org/prop/direct/P4969,Friends: The Reunion
 http://www.wikidata.org/prop/direct/P4983,1668
-http://www.wikidata.org/prop/direct/P5008,Wikipédia:Articles vitaux/Niveau 4
+http://www.wikidata.org/prop/direct/P5008,Wikipedia:Vital articles/Level/4
 http://www.wikidata.org/prop/direct/P5099,telefilm/friends
 http://www.wikidata.org/prop/direct/P5255,230336
 http://www.wikidata.org/prop/direct/P5327,friends-1994
@@ -511,7 +513,7 @@ http://www.wikidata.org/prop/direct/P7975,15564
 http://www.wikidata.org/prop/direct/P8013,shows/friends
 http://www.wikidata.org/prop/direct/P8189,987007289816105171
 http://www.wikidata.org/prop/direct/P8278,pratele
-http://www.wikidata.org/prop/direct/P8298,show/52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9
+http://www.wikidata.org/prop/P1552,statement/Q79784-e3bb70d9-48f0-b711-6b4e-10f399693022
 http://www.wikidata.org/prop/P1552,statement/Q79784-e6b9f073-4b4f-761e-3c8a-273ca144a3d0
 http://www.wikidata.org/prop/P1552,statement/Q79784-f3211943-4879-fae8-cccd-6472dacedeac
 http://www.wikidata.org/prop/P1562,statement/Q79784-C54D3DC6-97EA-4DBE-AFC5-902484DE9C18
@@ -611,9 +613,8 @@ http://www.wikidata.org/prop/P10688,statement/Q79784-16b6edf9-484d-4184-360b-eb2
 http://www.wikidata.org/prop/P10821,statement/Q79784-3005cf0d-4555-fe2f-d4a1-95ed101b1851
 http://www.wikidata.org/prop/P10845,statement/Q79784-eb8528d4-4f92-299c-a9ad-74ffcad968e1
 http://www.wikidata.org/prop/P11196,statement/Q79784-E74A4203-C4E4-4739-B39C-27B21DD0EC43
-http://www.wikidata.org/prop/P11460,statement/Q79784-45DBAD3C-9CC1-461C-8A86-AB95367604E7
-http://schema.org/version,2452161987
-http://schema.org/dateModified,2026-01-06T19:58:22Z
+http://schema.org/version,2456018573
+http://schema.org/dateModified,2026-01-19T04:40:51Z
 http://schema.org/description,serie de televisión estadounidense
 http://schema.org/description,série de televisão norte-americana
 http://schema.org/description,americký televizní seriál

@@ -11,9 +11,9 @@ from datetime import datetime
 
 
 BASE = Path(__file__).resolve().parent.parent
-SOURCE_CSV = BASE / "Compix@Grasp/bottom1000.csv"
-GRASP_DIR = BASE / "Compix@Grasp/wikidata_query_result_bottom"
-OUT_CSV = BASE / "Compix@Grasp/Finding_Inconsistency/sample_contrast_bottom.csv"
+SOURCE_CSV = BASE / "Compix@Grasp/top1000.csv"
+GRASP_DIR = BASE / "Compix@Grasp/wikidata_query_result"
+OUT_CSV = BASE / "Compix@Grasp/Finding_Inconsistency/sample_contrast.csv"
 
 # 1. Load a pretrained Sentence Transformer model
 model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -26,6 +26,53 @@ def is_valid_iso_date(date_str: str) -> bool:
     except ValueError:
         return False
 
+def compare_date(qid, real_answer):
+    txt_path = GRASP_DIR / f"{qid}.csv"
+    if not txt_path.exists():
+        return (None,None)
+    items = []
+    with txt_path.open(encoding="utf-8") as f:
+        reader = csv.reader(f)
+        items = [row[0] for row in reader if row]
+    if not items:
+        return (None,None)
+
+    items=items[1:]
+    if not items:
+        return (None, None)
+
+    similarity_score=[]
+
+    for i in range (len(items)):
+        # Calculate embeddings for both answers 
+        try:
+            date=datetime.strptime(items[i], "%Y-%m-%dT%H:%M:%SZ")
+        except ValueError:
+            if type(real_answer) != datetime:
+                real_answer=datetime.strptime(real_answer, "%Y-%m-%dT%H:%M:%SZ")
+            if items[i] == str(real_answer.year):
+                similarity_score.append(1)
+            else:
+                similarity_score.append(0)
+            continue
+        if type(real_answer) != datetime:
+            real_answer=datetime.strptime(real_answer, "%Y-%m-%dT%H:%M:%SZ")
+        if date.year == real_answer.year and date.month == real_answer.month and date.day == real_answer.day:
+            if date.hour == real_answer.hour and date.minute == real_answer.minute and date.second == real_answer.second:
+                similarity_score.append(1)
+            else:
+                similarity_score.append( 0.8)
+        elif date.year == real_answer.year and date.month == real_answer.month:
+            similarity_score.append(  0.6)
+        elif date.year == real_answer.year:
+            similarity_score.append(  0.5)
+        else:
+            similarity_score.append(  0)
+
+    max_value = max(similarity_score)
+    index_max = similarity_score.index(max_value)
+    
+    return (items[index_max], max_value)
 
 def extract_grasp_answer(qid, real_answer):
     txt_path = GRASP_DIR / f"{qid}.csv"
@@ -81,6 +128,7 @@ def main() -> None:
         fieldnames = [
             "Question_id",
             "Question",
+            "Question_entity",
             "CompMix_answer_label",
             "CompMix_answer_id",
             "GRASP_SPARQL_answer",
@@ -99,15 +147,19 @@ def main() -> None:
         for row in reader:
             qid = (row.get("question_id") or "").strip()
             question = (row.get("question") or "").strip()
+            question_entity=(row.get("entity_id1") or "").strip()
             answer_label = (row.get("answer_label") or "").strip()
             answer_id = (row.get("answer_id") or "").strip()
-
+            print(qid, answer_id)
             if not (qid and question and answer_label):
+                missing += 1
+                continue
+            if qid == "7229" or qid == "416" or qid=="6191":
                 missing += 1
                 continue
 
             if is_valid_iso_date(answer_id):
-                grasp_answer, consistency_score = extract_grasp_answer(qid, answer_id)
+                grasp_answer, consistency_score = compare_date(qid, answer_id)
             else:
                 grasp_answer, consistency_score = extract_grasp_answer(qid, answer_label)
 
@@ -115,6 +167,7 @@ def main() -> None:
                 {
                     "Question_id": qid,
                     "Question": question,
+                    "Question_entity":question_entity,
                     "CompMix_answer_label": answer_label,
                     "CompMix_answer_id": answer_id,
                     "GRASP_SPARQL_answer": grasp_answer or "",
