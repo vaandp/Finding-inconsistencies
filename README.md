@@ -1,90 +1,54 @@
-# Finding-inconsistencies
+## Project structure
 
+```text
+Finding-inconsistencies/
+│
 ├── data/
-
-│ ├── raw/
-
-│ │ ├── compmix_train.json
-
-│ │ ├── compmix_dev.json
-
-│ │ └── compmix_test.json
-
-│ └── selected/
-
-│ ├── 400_questions.json
-
-│ └── 400_questions.csv
-
+│   ├── raw/
+│   │   ├── compmix_train.json
+│   │   ├── compmix_dev.json
+│   │   └── compmix_test.json
+│   │
+│   └── selected/
+│       ├── 400_questions.json
+│       └── 400_questions.csv
 │
-
 ├── scripts/
-
-│ ├── categorize_inconsistencies.py      #categorize inconsistencies based on the result
-
-│ ├── compute_basic_stats.py          #statistics of CompMix
-
-│ ├── export_sample_contrast.py        #retrieve the question, golden answer, answer by SPARQL in a csv file
-
-│ ├── extract_questions_csv.py          #extract question with highest context score (400) in a csv file
-
-│ ├── llm_result_stat.py              #statistics from computing the llm retrieving property
-
-│ ├── plot_domain_distribution.py            #plot the domain distribution of CompMix
-
-│ ├── run_wikidata_queries.py                  #re-run the SPARQL query of GRASP
-
-│ ├── select_top_context_questions.py            #compute context score and plot some statistics
-
-│ ├── sparql_results_from_grasp.py            #extract answer from json file of GRASP
-
-│ ├── sparql_to_rq.py                        #extract SPARQL query from json file of GRASP
-
-│ ├── stats_grasp_result.py                #statistics of re-executed query of GRASP
-
-│ ├── transformer_sample_contrast.py          #sentence transformer on the golden answer and answer given by SPARQL
-
-│ └── wikidata_llm_inconsistencies.py          #retrieve all property and compare with ollama
-
+│   ├── categorize_inconsistencies.py        # Categorize inconsistencies based on results
+│   ├── compute_basic_stats.py               # Basic statistics on CompMix
+│   ├── export_sample_contrast.py            # Export question, golden answer and SPARQL answer to CSV
+│   ├── extract_questions_csv.py             # Extract top 400 questions (highest context score) to CSV
+│   ├── llm_result_stat.py                   # Statistics on LLM retrieval results
+│   ├── plot_domain_distribution.py          # Plot domain distribution of CompMix
+│   ├── run_wikidata_queries.py               # Re-run GRASP SPARQL queries on Wikidata
+│   ├── select_top_context_questions.py      # Compute context score and plot statistics
+│   ├── sparql_results_from_grasp.py         # Extract answers from GRASP JSON files
+│   ├── sparql_to_rq.py                      # Extract SPARQL queries from GRASP JSON files
+│   ├── stats_grasp_result.py                # Statistics on re-executed GRASP queries
+│   ├── transformer_sample_contrast.py       # SentenceTransformer comparison (gold vs SPARQL answer)
+│   └── wikidata_llm_inconsistencies.py      # Compare Wikidata properties with LLM (Ollama)
 │
-
-├── Compix@Grasp/
-
-│ ├── bottom1000/           #json file from graps of the lowest context score question
-
-│ ├── Finding_Inconsistency/          #main csv file containing the inconsistencies
-
-│ │ ├── sample_contrast_bottom.csv
-
-│ │ └── sample_contrast.csv
-
-│ ├── generated_query/        #query taken from grasp with top1000 dataset
-
-│ ├── generated_query_bottom/      #query taken from grasp with bottom1000 dataset
-
-│ ├── grasp_query_result/          #result from graps json
-
-│ │ ├── compmix_train.json
-
-│ │ ├── compmix_dev.json
-
-│ │ └── compmix_test.json
-
-│ ├── grasp_query_result_bottom/     #same but bottom1000 instead of top1000 dataset
-
-│ ├── top1000/             #json file from graps of the highest context score question
-
-│ ├── wikidata_query_result/      #result from re-run query from graps
-
-│ ├── wikidata_query_result_bottom/    #same but bottom1000 instead of top1000 dataset
-
-│ ├── bottom1000.csv              #questions and answers from bottom1000 
-
-│ └── top1000.csv              #same for top1000 dataset
-
+├── CompMix@Grasp/
+│   ├── top1000/                             # GRASP outputs for highest context-score questions
+│   ├── bottom1000/                          # GRASP outputs for lowest context-score questions
+│   │
+│   ├── Finding_Inconsistency/               # Main inconsistency CSV files
+│   │   ├── sample_contrast.csv
+│   │   └── sample_contrast_bottom.csv
+│   │
+│   ├── generated_query/                     # GRASP-generated queries (top1000)
+│   ├── generated_query_bottom/              # GRASP-generated queries (bottom1000)
+│   │
+│   ├── grasp_query_result/
+│   │   ├── compmix_train.json
+│   │   ├── compmix_dev.json
+│   │   └── compmix_test.json
+│   │
+│   ├── grasp_query_result_bottom/            # Same as above for bottom1000
+│   ├── wikidata_query_result/                # Results from re-run Wikidata queries
+│   ├── wikidata_query_result_bottom/         # Same for bottom1000
+│   │
+│   ├── top1000.csv                           # Questions and answers (top1000)
+│   └── bottom1000.csv                        # Questions and answers (bottom1000)
 │
-
-│
-
-└── readme.md
-
+└── README.md
